@@ -1,0 +1,1 @@
+It looks like there's no content available in the file `statement-ro.md` for Problem ID 1002. It appears the statement does not exist or the file is empty. Please provide the text or content you want me to translate, and I'll be happy to help!

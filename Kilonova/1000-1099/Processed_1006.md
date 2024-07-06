@@ -1,0 +1,1 @@
+It appears that the file "statement-ro.md" does not currently exist for Problem ID 1006. This implies that no Romanian problem statement is accessible for translation. If you have any other documents, text, or information that needs to be processed or translated, feel free to share, and I will be glad to assist.

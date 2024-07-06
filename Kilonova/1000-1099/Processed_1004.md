@@ -1,0 +1,3 @@
+It seems that there was an attempt to provide a problem statement from a file named 'statement-ro.md' associated with Problem ID 1004, but the file does not exist. Therefore, it is impossible for me to translate the problem statement into English.
+
+If you can provide the actual text of the problem statement in Romanian, I will be happy to translate it for you while preserving the specified formatting and syntax conventions.

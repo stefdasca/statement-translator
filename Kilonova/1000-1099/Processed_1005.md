@@ -1,0 +1,1 @@
+The file contents indicate that there is an issue with the existence of 'statement-ro.md' for Problem ID 1005. It seems the text content you intended to process is missing or cannot be retrieved. If you could provide the Romanian text content directly, I can help translate it to English as per the given instructions.
