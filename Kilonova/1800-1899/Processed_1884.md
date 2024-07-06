@@ -1,0 +1,3 @@
+It appears that the provided content does not contain the actual problem statement in Romanian. Instead, it contains a message indicating that an attachment `'statement-ro.md'` does not exist for Problem ID 1884. For translation purposes, I need you to provide the actual text content of the problem statement in Romanian.
+
+If you have the problem statement text, please paste it here, and I will be able to help you with the translation while preserving the requested format and conventions.

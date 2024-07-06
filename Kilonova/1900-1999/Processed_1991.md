@@ -1,0 +1,3 @@
+It seems that there is an issue with the file content provided: the file `'statement-ro.md'` does not exist for Problem ID 1991. Without access to the specific problem statement, I am unable to perform the requested translation accurately.
+
+However, if you provide the actual text of the problem statement in Romanian, I can assist you in translating it into English while preserving the required format and details. Please provide the content of the problem statement, and I will handle the translation accordingly.

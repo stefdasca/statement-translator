@@ -1,0 +1,1 @@
+It seems that the file `statement-ro.md` does not exist for Problem ID 1889, and I can't proceed with translation without access to the original text. However, if you have any further instructions or if you can provide the problem statement text directly, I would be happy to assist you with the translation and formatting as per your specifications.

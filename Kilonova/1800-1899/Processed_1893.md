@@ -1,0 +1,1 @@
+It appears that there's no content to translate since the attached 'statement-ro.md' file for Problem ID 1893 does not exist. If you have any other text or require assistance with something else, please provide the content or details.

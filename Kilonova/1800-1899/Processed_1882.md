@@ -1,0 +1,1 @@
+It seems like there is an issue with locating the specified file `statement-ro.md`. However, if you provide the actual content of the problem statement in Romanian, I can help translate it into English according to the specified instructions. Please paste the text here so I can assist you further.

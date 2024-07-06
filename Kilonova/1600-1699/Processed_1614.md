@@ -1,0 +1,1 @@
+The file you mentioned does not exist for Problem ID 1614, so I am unable to process any content from it directly. However, if you provide the Romanian text from the competitive programming problem statement, I can help translate it according to your instructions. Please paste the text here and I'll handle the rest.

@@ -1,0 +1,3 @@
+It seems that the text provided refers to a missing file named 'statement-ro.md' for a certain problem ID and contains no further content to translate. Unfortunately, without the actual content of the problem statement, I cannot perform a translation.
+
+However, if you provide the content of the problem statement in Romanian, I would be more than happy to translate it into English following the specified instructions.
