@@ -1,0 +1,1 @@
+It appears that the file 'statement-ro.md' does not exist. Therefore, I am unable to access the specific competitive programming problem statement mentioned. If you provide me with the text of the problem statement, I can help translate it according to the specified instructions. Please copy and paste the problem statement here for me to proceed.

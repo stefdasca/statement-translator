@@ -1,0 +1,3 @@
+It seems there was an error when trying to access the file contents. The text indicates that the attachment 'statement-ro.md' does not exist for Problem ID 380. Without the actual content of the markdown document, it's not possible to proceed with the translation task you've requested.
+
+If you can provide the text of the competitive programming problem statement in Romanian directly, I'd be happy to help you with the translation and formatting according to the specified instructions. Please paste the text here so we can proceed.

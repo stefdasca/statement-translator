@@ -1,0 +1,1 @@
+It appears that the file `statement-ro.md` does not exist for Problem ID 998. Therefore, there is no competitive programming problem statement provided in Romanian for translation. Please provide the text or ensure the file exists to proceed with the translation.

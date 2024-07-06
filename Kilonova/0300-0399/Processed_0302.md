@@ -1,0 +1,3 @@
+It seems like there's an error message indicating that the attachment 'statement-ro.md' does not exist for Problem ID 302. This suggests that the file containing the Romanian problem statement is missing or incorrectly referenced.
+
+Please provide the actual content of the competitive programming problem statement in Romanian, so I can proceed with the translation according to your specifications. Alternatively, if there is a corrected path or a text snippet, include that as well.

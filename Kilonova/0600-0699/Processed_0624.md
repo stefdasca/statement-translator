@@ -1,0 +1,1 @@
+It appears the statement might not be available due to the mentioned attachment not existing. If you provide the actual text of the problem statement in Romanian or any other relevant details, I can proceed with the translation accordingly.

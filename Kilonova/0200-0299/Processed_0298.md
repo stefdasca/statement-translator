@@ -1,0 +1,3 @@
+It appears that the file specified, `'statement-ro.md'`, does not exist for the provided Problem ID 298. Without access to the actual text of the competitive programming problem, I am unable to perform the translation and formatting tasks you requested. 
+
+If you can provide the text of the problem statement here, I would be happy to help you with translating and formatting it according to your specified instructions. Please copy and paste the text of the problem statement into this chat.

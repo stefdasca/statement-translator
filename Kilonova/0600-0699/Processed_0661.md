@@ -1,0 +1,3 @@
+It appears that there is an attempt to access a file named 'statement-ro.md' for Problem ID 661, but the file does not exist. Therefore, it's not possible to process or translate the content. 
+
+If you provide me with the Romanian text of the problem statement, I can proceed to translate it according to your instructions. Please paste the text of the problem statement here so I can assist you further.

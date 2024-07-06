@@ -1,0 +1,1 @@
+It appears that the provided text is indicating a missing file. If you can provide the actual Romanian text of the competitive programming problem statement, I'd be more than happy to translate it for you while adhering to the specified instructions. Please paste the content of the problem statement here, and I will proceed with the translation.

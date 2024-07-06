@@ -1,0 +1,3 @@
+It appears that the text you provided is notifying that the file containing the Romanian problem statement does not exist for a specific Problem ID. Therefore, I'm unable to translate an actual problem statement.
+
+If you have a specific problem statement written in Romanian that you would like me to translate following the provided instructions, please provide that text directly, and I'll be happy to assist you!

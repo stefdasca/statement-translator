@@ -1,0 +1,1 @@
+It seems that the file `statement-ro.md` does not exist or there might have been an issue accessing it. Could you please provide the text of the competitive programming problem statement in Romanian language? Once I have the text, I can help you with the translation and the required formatting.

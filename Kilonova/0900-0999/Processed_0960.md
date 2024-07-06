@@ -1,0 +1,1 @@
+It appears that the file statement-ro.md, which contains the Romanian competitive programming problem, does not exist for Problem ID 960 based on the provided information. Therefore, no content is available for translation. If you could provide the text you need translated directly, I would be happy to assist with that.

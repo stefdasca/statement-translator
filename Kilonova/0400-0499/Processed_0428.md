@@ -1,0 +1,3 @@
+Unfortunately, I wasn't provided with the specific Romanian competitive programming problem statement in markdown format to translate as you requested. The file containing the problems statement 'statement-ro.md' appears to be missing or not included for Problem ID 428.
+
+However, if you provide the text of the problem statement, I would be more than happy to translate it for you according to your instructions. Please paste the problem statement text or provide further details.

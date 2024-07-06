@@ -1,0 +1,1 @@
+Unfortunately, I am unable to process the file as it appears to be unavailable or does not exist. The message indicates that the attachment 'statement-ro.md' does not exist for Problem ID 237. If you can provide the text of the problem statement in another way, I'd be happy to help you with the translation according to the specified guidelines.

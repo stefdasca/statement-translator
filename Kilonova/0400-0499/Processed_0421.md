@@ -1,0 +1,1 @@
+It appears that the specified file `statement-ro.md` does not exist for Problem ID 421. Therefore, I'm unable to directly process the problem statement as requested. If you can provide the text of the problem statement in Romanian, I can help you translate and format it accordingly. Please paste the content here, and I will proceed with the translation and formatting.

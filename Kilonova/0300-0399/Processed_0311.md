@@ -1,0 +1,1 @@
+It looks like the file `statement-ro.md` does not exist for Problem ID 311. I can't proceed with the translation as there is no content provided in the text. If you can provide the complete Romanian text that needs to be translated, I can help you with the translation process as per your instructions.

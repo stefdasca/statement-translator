@@ -1,0 +1,3 @@
+It appears that the content you provided is a note indicating that an attachment named 'statement-ro.md' is missing for a specific problem ID. Without the actual content of the problem statement, I am unable to proceed with the requested translation.
+
+Please provide the competitive programming problem statement in Romanian so that I can assist you with translating it to English. Alternatively, if the issue is with the attachment, please try resolving the file access issue and provide the content again.

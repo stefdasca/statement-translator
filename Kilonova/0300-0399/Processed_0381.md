@@ -1,0 +1,3 @@
+It appears that the content you're referring to is not present or accessible based on the error message you provided ("Attachment 'statement-ro.md' does not exist for Problem ID 381"). To translate a specific Romanian markdown problem statement with detailed instructions, I would need the actual text content.
+
+Please provide the problem statement in Romanian so that I can proceed with the translation according to the specified instructions.

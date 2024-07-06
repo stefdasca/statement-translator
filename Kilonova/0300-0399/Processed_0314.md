@@ -1,0 +1,1 @@
+It appears that the file `statement-ro.md` does not exist for Problem ID 314, so I am unable to access the Romanian competitive programming problem statement to translate it. If you can provide the text content of the problem statement directly, I can help with the translation as per the specified instructions.

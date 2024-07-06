@@ -1,0 +1,3 @@
+It seems that the file content contains a message indicating that the attachment statement-ro.md does not exist for Problem ID 335. Therefore, it appears I do not have access to the text content you mentioned for translation. 
+
+If you can provide the specific text or another file, I can certainly proceed with the translation instructions you described. Please provide the needed content for translation.

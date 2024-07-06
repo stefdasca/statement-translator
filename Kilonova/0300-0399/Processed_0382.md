@@ -1,0 +1,3 @@
+It appears that the file `'statement-ro.md'` does not exist for Problem ID 382. This makes it impossible to process and translate the Romanian programming problem statement as you requested. 
+
+Please ensure that the correct file is provided or check the Problem ID for accuracy. If you have the text content of the problem statement, please provide it, and I will help you with the translation and format preservation as specified.

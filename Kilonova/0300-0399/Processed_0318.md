@@ -1,0 +1,1 @@
+It seems that the statement file `'statement-ro.md'` is missing or inaccessible. Without the content of the file, it is impossible to proceed with the translation. Please provide the text of the competitive programming problem statement in Romanian so that I can translate it for you.

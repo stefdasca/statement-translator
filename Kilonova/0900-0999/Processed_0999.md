@@ -1,0 +1,3 @@
+It looks like the file "statement-ro.md" containing the Romanian problem statement for Problem ID 999 does not exist or cannot be found. Therefore, I'm unable to process and translate a text that isn't available.
+
+Please check the file path or name and ensure the file exists. If you can provide the content of the problem statement directly, I will be happy to assist with the translation and formatting based on the specified instructions.

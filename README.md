@@ -6,6 +6,6 @@ The purpose of the project was to translate various Romanian problems without fa
 
 This script, together with the GPT Prompt, can be used to read the Romanian statements. 
 
-For [kilonova](https://kilonova.ro), if you are solving the problem numbered $x$, you can check in the corresponding folder the statement named Processed_x.md
+For [kilonova](https://kilonova.ro), if you are solving the problem numbered $x$, you can check in the corresponding folder (each group of $100$ tasks is separated for simplicity) the statement named Processed_x.md 
 
-Other online judges will soon come too.
+Other Romanian online judges will soon come too.

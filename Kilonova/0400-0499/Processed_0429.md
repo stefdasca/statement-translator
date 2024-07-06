@@ -1,0 +1,3 @@
+It looks like the provided file contents indicate that the attachment 'statement-ro.md' does not exist for Problem ID 429. Therefore, I am unable to translate a problem statement because the content of the statement is not available.
+
+If you have the competitive programming problem statement in Romanian, you can provide the text, and I can assist you with the translation according to the specified instructions. Please provide the text of the problem statement so I can help you further.

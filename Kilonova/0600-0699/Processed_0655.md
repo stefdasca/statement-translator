@@ -1,0 +1,1 @@
+The file "statement-ro.md" does not exist for Problem ID 655, so there is no Romanian language text for me to translate to English. If you provide the text content, I will be able to translate it for you while adhering to all specified instructions.

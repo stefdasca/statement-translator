@@ -1,0 +1,3 @@
+It seems like the file contents you provided only indicate that an attachment is missing and does not include the competitive programming problem statement itself. Unfortunately, I cannot proceed with the translation task without the actual content of the problem statement.
+
+Please provide the Romanian text of the problem statement in markdown format as described. Once you provide the statement, I'll be able to translate it for you according to the specified instructions.

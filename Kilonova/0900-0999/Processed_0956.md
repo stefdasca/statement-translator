@@ -1,0 +1,1 @@
+It seems you intended to provide a competitive programming problem statement for translation, but only a reference to a non-existent attachment is included. Please provide the text of the problem statement so that I can proceed with the translation as per your instructions.

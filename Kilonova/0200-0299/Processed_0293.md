@@ -1,0 +1,1 @@
+It looks like you provided some initial details about a problem statement document in Romanian, but I don't have the text of the statement to translate. Please provide the text you'd like translated, and I'll be happy to assist you!

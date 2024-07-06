@@ -1,0 +1,3 @@
+It appears that the file 'statement-ro.md' containing the problem statement is missing or does not exist for Problem ID 241. As a result, I'm unable to process the text and provide a translation.
+
+If you could provide the actual text for the problem statement, I'd be happy to help with the translation and necessary formatting. Please copy and paste the problem statement here, and I'll get started right away!

@@ -1,0 +1,1 @@
+It seems the file `statement-ro.md` could not be found or accessed, so I can't directly translate its content for you. However, I'm still here to help! If you can provide the content of the problem statement, I would be able to translate it according to your instructions. Please copy and paste the text of the problem statement here.

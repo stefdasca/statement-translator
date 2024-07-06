@@ -1,0 +1,3 @@
+It appears that the content you provided includes a note stating that an attachment "statement-ro.md" does not exist for Problem ID 427, and no other text or problem statement was included. Because of this, there is no specific problem statement provided that I can translate or process according to your instructions.
+
+If you provide the Romanian problem statement directly or if you can correct the file attachment issue, I'd be happy to help translate and format it as specified. Please paste the text or re-upload the file, and I'll assist you accordingly.

@@ -1,0 +1,1 @@
+I am unable to translate and process the text due to the file contents indicating that the specified attachment, `statement-ro.md`, does not exist for the Problem ID 384. If you can provide the Romanian text directly or ensure the attachment is available, I'll be able to assist you further.

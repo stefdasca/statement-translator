@@ -1,0 +1,1 @@
+It appears there was an error mentioning that the file `statement-ro.md` does not exist for Problem ID 300. Could you please provide the competitive programming problem statement in Romanian directly in your message? This way, I'll be able to translate it according to the specified instructions.

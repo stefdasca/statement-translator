@@ -1,0 +1,1 @@
+It appears that the file 'statement-ro.md' is missing for Problem ID 976. Therefore, I cannot proceed with translating the content from Romanian to English as requested. If you have the text content of the problem statement, please provide it here so that I can assist you with the translation.

@@ -1,0 +1,1 @@
+It seems that the file `statement-ro.md` is missing for Problem ID 994, so I cannot directly process the missing content. However, if you provide me with the content of the markdown file, I will be able to translate it according to your specifications. Please copy and paste the problem statement here so I can assist you further.

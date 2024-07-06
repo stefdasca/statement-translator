@@ -1,0 +1,3 @@
+It seems like there was an issue in loading the file 'statement-ro.md' for the Problem ID 630. The error indicates that the file does not exist. Therefore, I am unable to process and translate the competitive programming problem statement as requested.
+
+If you have the text of the statement available in another format, please provide that text, and I will be happy to assist with the translation according to the specified instructions.

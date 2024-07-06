@@ -1,0 +1,1 @@
+It seems there is no provided text from the file 'statement-ro.md'. Therefore, I cannot proceed with the translation task. Please provide the text content of the Romanian competitive programming problem statement, and I will be happy to assist you in translating it and preserving the required format.

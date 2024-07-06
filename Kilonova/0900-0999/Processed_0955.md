@@ -1,0 +1,1 @@
+It seems like the content does not contain the actual problem statement but rather a message about a missing attachment. To proceed accurately, I need the actual problem statement in Romanian. If you can provide the problem statement, I will be able to translate it as requested.

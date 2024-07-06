@@ -1,0 +1,3 @@
+It appears there was an issue referencing the problem statement, possibly due to a missing or inaccessible file named `statement-ro.md`. This file may contain the Romanian text that needs to be processed.
+
+Without access to that file, I'm unable to directly translate the problem statement as requested. If you can provide the text from the problem statement, I can proceed with the translation and formatting instructions. Please paste the text here, and I'll take care of the translation for you.

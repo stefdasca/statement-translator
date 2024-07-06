@@ -1,0 +1,3 @@
+It seems there was an issue with the provided text as it indicates that the attachment 'statement-ro.md' does not exist for Problem ID 334. Since I do not have the actual content of the markdown file, I cannot provide a translation at this moment.
+
+If you can provide the content of the problem statement directly here or attempt re-attaching the file, I'd be able to help with the translation accordingly.

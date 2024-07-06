@@ -1,0 +1,3 @@
+It looks like the file `statement-ro.md` you referred to does not exist for Problem ID 667. As such, I'm unable to access specific content to perform the translation and formatting tasks you've outlined.
+
+However, if you provide the text that you would like to have processed, I can certainly help you translate and format it according to your instructions. Please copy and paste the competitive programming problem statement here, and I will proceed with the task.

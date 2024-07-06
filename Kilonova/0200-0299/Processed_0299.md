@@ -1,0 +1,1 @@
+It seems that there is an issue with the provided file content. The message indicates that the file 'statement-ro.md' does not exist for Problem ID 299. Please ensure that you have the correct file and try uploading it again. If you have the text content of the problem statement, you can also paste it here directly, and I would be glad to help with the translation.

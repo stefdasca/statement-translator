@@ -1,0 +1,3 @@
+It appears that the content you provided indicates that an attachment, specifically 'statement-ro.md', does not exist for a given Problem ID 969. This means there is no competitive programming problem statement available to translate.
+
+If you have the specific text of the problem statement in Romanian that you need translated, please provide it directly. This will allow me to help you accurately translate it into English while preserving the necessary formatting and instructions.

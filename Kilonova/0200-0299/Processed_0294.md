@@ -1,0 +1,1 @@
+It appears that the file 'statement-ro.md' for Problem ID 294 does not exist. Without the specific problem statement content, I'm unable to provide a translation. Please provide the problem statement text directly, and I'll be more than happy to assist with the translation according to your requirements.

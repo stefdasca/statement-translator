@@ -1,0 +1,3 @@
+It appears that the file contents contain a message indicating that the attachment 'statement-ro.md' does not exist for Problem ID 432. Therefore, it is not possible to translate the statement without access to the actual content of the markdown file.
+
+If you can provide the problem statement in Romanian, I would be happy to translate it for you according to the specified instructions. Please upload the problem statement text or provide it directly here.

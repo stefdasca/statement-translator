@@ -1,0 +1,1 @@
+It appears that the file "statement-ro.md" does not exist for Problem ID 656, as indicated by the content provided. Therefore, there is no competitive programming problem statement in Romanian to translate into English. If you have the text of the problem statement available elsewhere, please provide it so that I can assist you with the translation.

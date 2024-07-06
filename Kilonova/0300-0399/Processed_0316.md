@@ -1,0 +1,3 @@
+It appears that the text provided is indicating that an attachment named 'statement-ro.md' does not exist for the given Problem ID. Thus, I'm unable to view or process the content of the competitive programming problem statement written in Romanian.
+
+However, if you provide the actual text from the competitive programming problem statement in Romanian here directly, I would be happy to translate it as per your instructions.

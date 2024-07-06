@@ -1,0 +1,1 @@
+It seems the file contents you provided indicate that the attachment 'statement-ro.md' does not exist for Problem ID 968. Because there's no actual Romanian text for a competitive programming problem statement to translate, I can't perform the task as specified. If you provide the text directly, I'll be happy to help translate it according to the given instructions.

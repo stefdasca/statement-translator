@@ -1,0 +1,3 @@
+It appears that there's no competitive programming problem statement text provided for translation. The content mentions that the file "statement-ro.md" does not exist for Problem ID 301. Therefore, I'm unable to perform the translation task as specified because there is no actual problem statement to translate.
+
+If you could provide the Romanian problem statement text directly, I would be happy to help with the translation. Please paste the text of the problem statement here, and I'll proceed with translating it according to the instructions you've given.

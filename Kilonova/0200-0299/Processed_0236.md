@@ -1,0 +1,3 @@
+It seems like the content you provided is indicating that an attachment named 'statement-ro.md' does not exist for Problem ID 236. Without the specific Romanian programming problem statement, I cannot directly perform the translation.
+
+However, I can certainly guide you on how to translate a competitive programming problem statement if you provide the text. If you get access to the specified markdown file, just paste its contents here, and I will translate it according to your requirements.

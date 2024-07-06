@@ -1,0 +1,1 @@
+It seems like there was an issue attempting to provide the Romanian text from the specified file `statement-ro.md` for Problem ID 654. If you could provide the text of the problem statement here, I would be happy to translate it for you according to the given instructions.

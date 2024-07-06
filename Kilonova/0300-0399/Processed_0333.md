@@ -1,0 +1,3 @@
+It appears that the file content you've provided does not contain any markdown text suitable for translation. Instead, it only includes a message stating that the attachment 'statement-ro.md' does not exist for Problem ID 333.
+
+If you have a specific problem statement in Romanian that you would like to be translated into English, please provide the text, and I will be glad to help with the translation according to the specified instructions.
