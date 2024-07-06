@@ -1,0 +1,3 @@
+It appears that the file `statement-ro.md` containing the problem statement in Romanian for Problem ID 2885 is not available. As such, I am unable to retrieve and translate the specific content as requested.
+
+If you provide the Romanian text directly in this conversation or give me access to a similar document, I will be able to translate the content according to the instructions you provided. Please share the text and I'll help you with the translation.

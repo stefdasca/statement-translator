@@ -1,0 +1,1 @@
+It seems that the file `statement-ro.md` is not available. Without the content of the problem statement, I am unable to proceed with a translation. If you can provide the text of the problem statement directly or ensure that the file is accessible, I will be able to assist you with the translation accordingly.

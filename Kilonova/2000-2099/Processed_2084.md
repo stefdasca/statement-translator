@@ -1,0 +1,3 @@
+It appears that there was an attempt to read an attachment named 'statement-ro.md' for Problem ID 2084, but it does not exist or could not be found. Consequently, I do not have a Romanian problem statement to translate for you.
+
+If you provide the text of the competitive programming problem in Romanian, I'll be able to translate it for you as per your instructions. Please share the problem statement text, and I'll proceed with the translation.

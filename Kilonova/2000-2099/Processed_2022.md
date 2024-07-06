@@ -1,0 +1,3 @@
+It seems like the file "statement-ro.md" does not exist, or there was an error in finding it. Without access to the actual content of the Markdown file containing the Romanian problem statement, I am unable to perform the specific translation task you've requested.
+
+If you could provide the text contained within the problem statement directly in your message, I would be happy to assist you with the translation according to the specified instructions.

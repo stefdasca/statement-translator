@@ -1,0 +1,3 @@
+It seems that the file 'statement-ro.md' does not exist for Problem ID 2631, so I am unable to access and translate the specific document you're referring to. 
+
+However, if you provide the Romanian text of the competitive programming problem statement, I can help translate it into English according to the specifications you mentioned. Please paste the Romanian text here so I can assist you further.

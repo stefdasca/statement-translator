@@ -1,0 +1,3 @@
+It seems the file content you provided indicates that the original problem statement in Romanian doesn't exist or isn't provided for Problem ID 2488. Therefore, I'm unable to perform the translation or processing steps.
+
+If you have the competitive programming problem statement in Romanian, please provide it and I will be happy to assist with the translation according to the specified instructions.

@@ -1,0 +1,3 @@
+It seems like the content you're looking to translate is not included in the provided file content. The given text indicates that the attachment 'statement-ro.md' does not exist for Problem ID 2087. This means I don't have any actual problem statement content to translate for you.
+
+If you have the problem statement in Romanian, you can paste it here, and I will proceed with the translation as per your instructions. Just provide the appropriate text, and I'll ensure it is translated accurately maintaining the specified formatting.

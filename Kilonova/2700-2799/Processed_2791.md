@@ -1,0 +1,3 @@
+It seems that the content of the file `statement-ro.md` is not provided for Problem ID 2791. Without the actual content of the document, I'm unable to proceed with the translation task you requested. 
+
+If you can provide the text of the problem statement in Romanian, I can help translate it into English as per your instructions. Please copy and paste the text here, and I will assist you with the translation.

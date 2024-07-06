@@ -1,0 +1,1 @@
+It appears that the file `statement-ro.md` you're referring to does not exist for Problem ID 2532. Therefore, I do not have any content to translate. Please provide the problem statement text or ensure the file is correctly referenced so I can assist you further.

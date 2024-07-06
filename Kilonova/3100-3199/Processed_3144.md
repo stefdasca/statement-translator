@@ -1,0 +1,1 @@
+It seems the file you referenced does not exist or cannot be found. However, I can help you with an example following the instructions you described. Please provide me with a sample competitive programming problem statement in Romanian, and I will translate it for you.

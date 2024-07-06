@@ -1,0 +1,1 @@
+It appears that the attachment 'statement-ro.md' containing the problem statement in Romanian does not exist for the given Problem ID 2887. Therefore, there is no text to translate at this moment. If you can provide the actual text of the problem statement in Romanian, I would be happy to assist you with the translation.

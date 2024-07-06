@@ -1,0 +1,3 @@
+It appears that the text content for the competitive programming problem statement in Romanian (referenced as 'statement-ro.md') does not exist or was not found. Therefore, I am unable to perform the translation as requested.
+
+If you have the actual text content or another document, please provide it, and I will be happy to assist you with the translation while following the specific instructions you have provided.

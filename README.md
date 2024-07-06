@@ -8,6 +8,9 @@ This script, together with the GPT Prompt, can be used to read the Romanian stat
 
 For [kilonova](https://kilonova.ro), if you are solving the problem numbered $x$, you can check in the corresponding folder (each group of $100$ tasks is separated for simplicity) the statement named Processed_x.md 
 
-Disclaimer: Some of the statements might contain inconsistencies and/or small errors, they will be solved as I will find them.
+## Disclaimers
 
-Other Romanian online judges will soon come too.
+* Some of the statements might contain inconsistencies and/or small errors, they will be solved as I will find them. 
+* The statements already in English language don't have their markdown here.
+* Some rendering is still poorly done
+* Other Romanian online judges will soon come too as I figure out a way to process their statements

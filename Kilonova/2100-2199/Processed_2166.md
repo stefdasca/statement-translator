@@ -1,0 +1,1 @@
+It looks like there is an issue with the file "statement-ro.md" which does not exist for Problem ID 2166. Therefore, I'm unable to access the Romanian problem statement that you want to translate into English. Please provide the text of the Romanian problem statement so that I can assist you with the translation.

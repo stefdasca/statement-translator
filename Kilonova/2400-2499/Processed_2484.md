@@ -1,0 +1,3 @@
+It appears that the provided content does not contain the actual competitive programming problem statement but rather an error message indicating that the file `statement-ro.md` does not exist for Problem ID 2484. Since there is no problem statement text to translate, I am unable to perform the requested translation. 
+
+If you could provide the actual problem statement in Romanian, I would be happy to translate it to English following the specified instructions.

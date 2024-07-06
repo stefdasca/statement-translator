@@ -1,0 +1,1 @@
+It seems like the file 'statement-ro.md' for Problem ID 2286 doesn't exist or there was an error in fetching it. Therefore, I don't have the content to translate for you. Please provide the competitive programming problem statement in Romanian directly here, and I'll be happy to translate it according to your specified instructions.

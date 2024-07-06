@@ -1,0 +1,1 @@
+I'm sorry, but it appears there is no content provided to process. The message indicates that the file 'statement-ro.md' does not exist for Problem ID 2086. If you have a different text or can provide the actual content of the programming problem statement, I'd be happy to help you with the translation.

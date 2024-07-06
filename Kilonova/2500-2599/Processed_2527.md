@@ -1,0 +1,1 @@
+It seems like the file for problem statement 'statement-ro.md' does not actually exist for Problem ID 2527. Can you provide the text of the problem statement directly, or check if there's another file or source where the problem statement can be found? That way, I can proceed with the translation as per your instructions.

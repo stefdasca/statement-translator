@@ -1,0 +1,1 @@
+It seems the provided data indicates that the file `statement-ro.md` does not exist for Problem ID 2586, and thus there is no competitive programming problem statement for translation. Without the actual content, I'm unable to perform the translation task as requested. If you can provide the text from the problem statement, I'd be happy to help.

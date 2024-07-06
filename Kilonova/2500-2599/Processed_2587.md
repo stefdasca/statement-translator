@@ -1,0 +1,1 @@
+It appears that you provided information about a file that doesn't exist or isn't accessible at the moment. However, I can provide guidance or assist with translating competitive programming problem statements if you provide the text of the statement directly here. Please paste the content of the problem statement, and I will help you translate it according to your instructions.

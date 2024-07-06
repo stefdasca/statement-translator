@@ -1,0 +1,2 @@
+It appears that the content of the competitive programming problem statement you intended to provide is missing. The file or the text content is not available in the given message. 
+To proceed with the translation of the document as per your instructions, please provide the complete text of the problem statement in Romanian. Once provided, I will translate the statement into English while maintaining the specified formatting, values, and syntax accurately.

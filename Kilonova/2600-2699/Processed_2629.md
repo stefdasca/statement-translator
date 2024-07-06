@@ -1,0 +1,1 @@
+It seems like there was an attempt to reference a file named `statement-ro.md` for a problem statement, but the file does not exist. Thus, no content is available to translate. If you can provide the text of the problem statement directly, I'd be happy to translate it for you following the rules and instructions you specified.

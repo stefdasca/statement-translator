@@ -1,0 +1,1 @@
+It appears that there is no provided content for "statement-ro.md" associated with Problem ID 2630. Please provide the competitive programming problem statement in Romanian, so I can translate it per your instructions.

@@ -1,0 +1,3 @@
+It seems like you intended to provide a text document but instead provided metadata indicating that the Romanian problem statement markdown file "statement-ro.md" does not exist for Problem ID 2530.
+
+For me to assist in translating the text, could you please provide the text of the competitive programming problem statement? Once you provide the statement, I will follow your specified instructions to translate and format it accordingly.

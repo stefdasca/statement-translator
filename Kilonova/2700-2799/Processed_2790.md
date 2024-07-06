@@ -1,0 +1,3 @@
+It seems like the provided input isn't a competitive programming problem statement in Romanian, but rather a message about an attachment issue. Since I don't have the problem statement to translate, I can't process it accordingly.
+
+However, if you provide the Romanian competitive programming problem statement text here, I'll be able to help by translating it and preserving the specified details as per your instructions. Please copy and paste the text of the problem statement, and I'll get right to it.

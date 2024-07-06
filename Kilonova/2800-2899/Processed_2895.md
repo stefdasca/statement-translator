@@ -1,0 +1,1 @@
+It seems that the content you provided indicates that the file 'statement-ro.md' does not exist for Problem ID 2895. To proceed with your request, I need the actual content of the markdown file you mentioned. Please provide the text (in Romanian) that you want me to translate according to the specified instructions.

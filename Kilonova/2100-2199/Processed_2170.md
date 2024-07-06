@@ -1,0 +1,3 @@
+It appears that the file contents provided are not sufficient to process a competitive programming problem statement. The content contains a message indicating that the attachment 'statement-ro.md' does not exist for Problem ID 2170. 
+
+To proceed with translating and processing the problem statement, I would need the actual text of the problem statement. Please provide the full content of the markdown problem statement for Problem ID 2170, and I will assist you with the translation and formatting according to your instructions.

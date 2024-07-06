@@ -1,0 +1,1 @@
+It seems there was an issue accessing the content of the file 'statement-ro.md' for Problem ID 2483. Please provide the text of the competitive programming problem statement directly, and I will translate it according to the specified instructions.

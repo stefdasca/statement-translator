@@ -1,0 +1,3 @@
+It appears that the content provided is an error message indicating that the attachment 'statement-ro.md' does not exist for Problem ID 2600. Because the problem statement in Romanian is missing, I'm unable to process and translate it as requested. 
+
+However, if you can provide the actual content of the problem statement in Romanian, I would be happy to help translate it into English, maintaining the specified formatting and naming conventions. Please provide the text of the problem statement, and I will proceed with the translation.

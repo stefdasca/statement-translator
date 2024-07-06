@@ -1,0 +1,1 @@
+It looks like there was supposed to be an attachment containing the text to translate, but it seems it wasn't provided or is missing. Kindly provide me with the competitive programming problem statement text, and I'll be more than happy to assist with the translation according to the specified instructions.

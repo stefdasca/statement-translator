@@ -1,0 +1,3 @@
+It seems like there was an issue with fetching the content of the file 'statement-ro.md' for Problem ID 2111. The provided text indicates that the attachment does not exist. Unfortunately, without the actual content, I can't proceed with the translation as detailed in your request.
+
+If you could provide the text of the problem statement directly, I'd be happy to assist you with the translation. Alternatively, if there is another way to access the file, please let me know how I can help further.

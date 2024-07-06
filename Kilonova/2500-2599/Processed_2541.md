@@ -1,0 +1,1 @@
+It looks like there was an issue with retrieving the file `statement-ro.md` for Problem ID 2541. The file appears to be missing or inaccessible. Could you please provide the text of the problem statement directly, or ensure that the file is available and retry? This way, I can proceed with the translation and formatting as per your instructions.

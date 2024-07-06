@@ -1,0 +1,1 @@
+It appears that the file containing the original Romanian problem statement (`statement-ro.md`) is not present in the provided content. Therefore, I'm unable to proceed with the translation task as no specific text or problem statement has been provided. If you can supply the actual content of the problem statement, I'd be happy to help you with the translation.

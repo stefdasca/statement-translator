@@ -1,0 +1,1 @@
+It appears that the file `statement-ro.md` does not exist for Problem ID 2679 based on the content provided. Consequently, I am unable to process the non-existent file. However, if you provide the Romanian text of the competitive programming problem statement, I can translate it for you following the specified instructions. Please paste the text here to proceed.

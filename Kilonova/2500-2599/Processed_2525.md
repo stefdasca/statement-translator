@@ -1,0 +1,3 @@
+It appears that the file 'statement-ro.md' containing the problem statement is not included or cannot be found. Therefore, I am unable to perform the translation task as requested.
+
+To proceed with your request, please provide the content of the problem statement in Romanian. Once you provide the text, I will translate the problem statement into English while preserving the specified details and formatting.
