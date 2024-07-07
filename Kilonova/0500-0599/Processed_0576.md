@@ -1,4 +1,4 @@
-```markdown
+
 # Problem statement
 
 You have a keyboard with $27$ keys, specifically: all the lowercase letters from the English alphabet and the `Backspace` key.
@@ -41,4 +41,3 @@ If we denote `B` as a backspace, the ways to reach the string `a` are:
 `aaB`, `abB`, ..., `azB` - $26$ ways
 
 In total, there are $53$ ways.
-```

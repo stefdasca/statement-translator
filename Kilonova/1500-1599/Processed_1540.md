@@ -1,4 +1,4 @@
-```markdown
+
 Let $M$ be a two-dimensional array (matrix) of size $N$ by $N$, with elements from the set $\{0, 1\}$. The rows and columns of this array are numbered from $1$ to $N$. A path of length $K$ in this array is a sequence of pairs $(x_i, y_i)$, for $i$ from $1$ to $K$, with the following properties:
 
 * $x_i$ and $y_i$ are natural numbers in the interval $[1, N]$, for $i$ from $1$ to $K$;
@@ -105,4 +105,3 @@ The sequence $S$ is found on column $1$ of the matrix.
 ## Explanation
 
 In the array, there is no value $1$, so it is not possible to obtain a path whose value contains $1$.
-```

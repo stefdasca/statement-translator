@@ -15,7 +15,7 @@ To get some clues about the illegal activities of the Chert And corporation, you
 
 # Output only
 
-This problem is an output-only type. Participants will need to run $Q$ tests locally (which can be downloaded [here](algo1task1.zip) or on the right side of the page under *“Attachments”*), then submit the answers to the committee via the platform.
+This problem is an output-only type. Participants will need to run $Q$ tests locally (which can be downloaded [here](algo1task1.zip) or on the right side of the page under *“Attachments�*), then submit the answers to the committee via the platform.
 
 ## Input data
 

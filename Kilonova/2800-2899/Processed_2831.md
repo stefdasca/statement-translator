@@ -67,4 +67,4 @@ Contestant: `query({3, 2, 6, 1, 5, 7, 4})`
 Grader: `{2, 3, 2}`
 Contestant: `query({2, 6, 1, 5, 7, 4, 3})`
 Grader: `{3, 2, 6, 5}`
-`find_places` returns `{1, 6, 3, 5, 7, 2, 4}`
+`find_places` returns `{1, 6, 3, 5, 7, 2, 4}

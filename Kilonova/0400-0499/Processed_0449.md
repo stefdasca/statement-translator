@@ -1,4 +1,4 @@
-```
+
 In Cosmin's garden, there is an apple tree with an unlimited number of apples. His $N$ friends, numbered from $1$ to $N$, will pick apples for $T$ days, according to the following rule:
 In the morning of day $T_i$, Cosmin's friends will form a queue at the entrance of the garden, starting with friend $X_i$. Thus, the queue will look like $X_i$, $X_{i+1}$, ..., $X_n$, $X_1$, ..., $X_{i-1}$. On that day, they will pick $Y_i$ apples. Each friend $X_i$ will enter the garden, pick an apple, and return to the queue.
 On day $T + 1$, Cosmin randomly selects $K$ friends ($Q_1..Q_k$) and wants to find out how many apples each has collected.
@@ -48,4 +48,3 @@ $5$ people will pick apples for $3$ days, as follows:
 - On the third day, they will pick $7$ apples, people with indices $2, 3, 4, 5, 1, 2, 3$.
 
 Thus, the number of apples collected by each person from $1$ to $N$ is: $1 \\rightarrow 3, 2 \\rightarrow 4, 3 \\rightarrow 3, 4 \\rightarrow 2, 5 \\rightarrow 2$.
-```

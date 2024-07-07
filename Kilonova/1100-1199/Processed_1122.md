@@ -41,4 +41,3 @@ The first line of the output file `kommando.out` will contain YES or NO, and the
 ```
 YES
 2
-```

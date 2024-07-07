@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a tree with $N$ nodes. Each edge has a weight $w_i$. The difference of two nodes $u$ and $v$ is the binary XOR of the weights on the simple path that connects them. More formally, if the simple path between $u$ and $v$ consists of the edges $e_1, e_2, \dots, e_l$, then their difference is defined as $w_{e_1} \oplus w_{e_2} \oplus \dots \oplus w_{e_l}$.
@@ -89,4 +89,3 @@ In the **second sample case**, the set of interesting nodes and the interesting 
 |5 | $\{1, 2, 4\}$ | $(2, 4)$ |
 
 ~[sample2.png]
-```

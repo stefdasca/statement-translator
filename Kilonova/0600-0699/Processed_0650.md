@@ -1,4 +1,4 @@
-```markdown
+
 A matrix $A$ with $N$ rows and $M$ columns is given, with values ranging between $1$ and $N \cdot M$ inclusive, not necessarily distinct. An **operation** consists of selecting two consecutive rows or two consecutive columns and swapping them. A **yin-yang** matrix is a matrix where $A[i][j] \geq A[i][j – 1]$ for any pair $(i, j)$ with $1 \leq i \leq N$ and $2 \leq j \leq M$ and $A[i][j] \geq A[i – 1][j]$ for any pair $(i, j)$ with $2 \leq i \leq N$ and $1 \leq j \leq M$.
 
 # Task
@@ -63,4 +63,3 @@ The given matrix will finally be in the yin-yang form:
 
 ~[yinyang.png]
 
-```

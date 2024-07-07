@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a graph with $N + 1$ nodes numbered from $0$ to $N$. There are edges from node $N$ to all the other $N$ nodes and between any two nodes $A$ and $B$ with the property that $A, B < N$ and $(A + 1) = B \mod N$. It can be observed that the total number of edges is $2 \cdot N$.
@@ -40,4 +40,3 @@ The file `color.out` will contain on the first line a single natural number $M$ 
 ## Explanation
 
 We have edges between any two nodes, so we can use a single color to color the graph.
-```

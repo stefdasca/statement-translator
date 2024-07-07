@@ -1,4 +1,4 @@
-```markdown
+
 The force of a non-zero natural number $X$ is equal to the number of positive divisors of $X$. For example, the number $X = 10$ has a force of $4$, because $10$ has $4$ divisors, the set of divisors being $D_{10} = \{1,2,5,10\}$.
 
 Write a program that, given a sequence of $n$ non-zero natural numbers, solves the following tasks:
@@ -61,4 +61,3 @@ The task is $1$. $D_{17}=\{1,17\}, D_{243}=\{1,3,9,27,81,243\}, D_{10}=\{1,2,5,1
 ## Explanation
 
 The task is $2$. A possible rearrangement of the array could be $(10\ 14\ 15)(121\ 25\ 49\ 9\ 25)$ so that we can obtain a subarray of length $3$ of numbers with force $4$ and a subarray of length $5$ of numbers with force $3$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 We are given `N` words composed only of the first `K` lowercase letters of the English alphabet and a sequence $x_i$ of `M` natural numbers. We need to form `M` words such that any word `i` `(1 \\leq i \\leq M)` satisfies the following properties:
 * It has a length of $x_i$
 * It is composed only of the first `K` lowercase letters of the English alphabet

@@ -1,4 +1,4 @@
-```markdown
+
 Great Mistrust between Ionel and Marioara, two students attending a camp at Galațiuc...! To avoid the curiosity of their colleagues, the two decided to send messages to each other using a simple encryption method: the text to be encrypted is written on a sheet, arranging the letters of the words in a table having $5$ characters on each line. The space between words is also a character. The text thus arranged on a sufficient number of lines to fit is read by columns, top down and left to right. Instead of spaces between words, dots are placed. Dots are also placed at the end of the text, as many free spaces are left at the end of the text placed in the table.
 
 For example, the text: `Te astept dupa cina la ora 8`, will be arranged in a table as follows:
@@ -52,5 +52,4 @@ dTaGia.aubllcaaa.r.c.
 `cod-secret.out`
 ```
 Tabara la Galaciuc
-```
 ```

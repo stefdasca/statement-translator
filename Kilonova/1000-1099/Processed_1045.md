@@ -3,7 +3,7 @@ Given a sequence $V$ with $N$ non-zero natural values, stored at consecutive pos
 ```cpp
 maxim = 0;
 rep = 0;
-for (i = 1; i <= N; i++)
+for (i = 1; i \leq N; i++)
     if (V[i] > maxim)
         maxim = V[i];
     else

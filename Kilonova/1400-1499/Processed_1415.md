@@ -1,4 +1,4 @@
-```markdown
+
 A mixture of two substances, whose molecules are noted as $0$ and $1$, respectively, is considered. This mixture is represented as a square matrix with $N$ rows and $N$ columns.
 
 To separate the two substances, a series of $K$ magnetic forces are successively applied to the mixture, characterized by the following three quantities:
@@ -59,4 +59,3 @@ The output file `amestec.out` will contain the final mixture matrix. Each of the
 
 The molecule matrix has $3$ rows and $3$ columns.
 A number of $K=2$ forces are applied, the first with a duration of $1$ second, towards the north, which attracts molecules of type $1$, and the second with a duration of $2$ seconds, towards the east, which attracts molecules of type $0$. After applying the $2$ forces, the molecules rearrange according to the adjacent matrix.
-```

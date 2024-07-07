@@ -52,4 +52,3 @@ $N = 2$. There are $3$ triangles having one vertex at the origin and the other t
 ## Explanation
 
 $N = 3$. There are $7$ triangles having one vertex at the origin and the other two in ordered lattice points with coordinates $\\leq 3$, that do not contain any other ordered lattice points inside or on the edge.
-```

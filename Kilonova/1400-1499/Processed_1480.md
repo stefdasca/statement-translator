@@ -1,4 +1,4 @@
-```markdown
+
 Given a sequence $a_1$, $a_2$, $...$, $a_n$ of natural numbers, where $n$ is odd. We have a single allowed operation: we can add the same non-zero natural value to two different positions in the sequence.
 
 # Task
@@ -107,4 +107,3 @@ $C = 1$, so only the first task will be solved! It is not possible to perform a 
 $C = 2$, so only the second task will be solved! The maximum value in the sequence is $3$, so the final value must be at most $6$. A maximum of $3$ operations must be carried out for $100$ points.
 Performing the operation $1$, $3$, $1$, we obtain the sequence $2$, $2$, $4$
 Performing the operation $1$, $2$, $2$, we obtain the sequence $4$, $4$, $4$
-```

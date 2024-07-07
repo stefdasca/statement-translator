@@ -45,4 +45,3 @@ The first line of the output file `promo.out` should contain the integer $N$, re
 13 14
 15 16
 15 17
-```

@@ -43,10 +43,10 @@ CACAACAACACCAACP
 
 ## Explanation
 
-1. $lmax(\text{“aCCACCACaBa”})=6$
-2. $lmax(\text{“AAPAPAACCAA”})=7$
-3. $lmax(\text{“acaacc”})=4$
-4. $lmax(\text{“capac”})=5$
-5. $lmax(\text{“CACAACAACACCAACP”})=11$
+1. $lmax(\text{“aCCACCACaBa�})=6$
+2. $lmax(\text{“AAPAPAACCAA�})=7$
+3. $lmax(\text{“acaacc�})=4$
+4. $lmax(\text{“capac�})=5$
+5. $lmax(\text{“CACAACAACACCAACP�})=11$
 
 The two subsequences with length $11$ are: $2,3$ and $5$

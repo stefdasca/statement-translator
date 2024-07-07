@@ -1,4 +1,4 @@
-```markdown
+
 Tudor is a boy passionate about the forest, so every weekend he goes for a walk on Pietricica. This forest can be represented as a matrix of $N$ rows and $M$ columns where a space with a tree is marked with $1$. The position of Tudor in the matrix is known, which is $(X, Y)$. He asks himself the following question: "How many trees are within a radius of $R$ from the position I am in?". The distance from Tudor to a tree is calculated using the Manhattan distance (the distance from $(x_1, y_1)$ to $(x_2, y_2)$ is $|x_1 - x_2| + |y_1 - y_2|$).
 
 # Task
@@ -34,4 +34,3 @@ Print a single number that represents the answer to the question.
 ## Explanation
 
 The distance from Tudor to a tree is calculated using the Manhattan distance (the distance from $(x_1, y_1)$ to $(x_2, y_2)$ is $|x_1 - x_2| + |y_1 - y_2|$).
-```

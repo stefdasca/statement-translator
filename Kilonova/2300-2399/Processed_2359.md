@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Consider the "odious" sequence $o$:
@@ -76,5 +76,4 @@ The first line will contain a single natural number $x$.
 `stdout`
 ```
 131078
-```
 ```

@@ -6,7 +6,7 @@ Write a program that provides the access code to the safe.
 
 # Input data
 
-The input file `cod.in` contains on the first line the natural number \( n \), representing the number of balls in the box. On the next line of the file are the \( n \) numbers written on the balls, separated by a space.
+The input file `cod.in` contains on the first line the natural number $ n $, representing the number of balls in the box. On the next line of the file are the $ n $ numbers written on the balls, separated by a space.
 
 # Output data
 
@@ -14,7 +14,7 @@ The output file `cod.out` will contain on the first line the numbers that make u
 
 # Constraints and clarifications
 
-* \( 1 \leq n \leq 90\ 000 \);
+* $ 1 \leq n \leq 90\ 000 $;
 
 # Example
 

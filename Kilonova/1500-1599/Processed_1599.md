@@ -1,4 +1,4 @@
-```markdown
+
 Ionuț, a young programmer, is entering the computer game developers' market. The game he designed is called RGB. In the game, there are $N$ alien characters. Since Ionuț does not agree with the theory of green little men, his characters come in three colors:
 
 * $R$ red aliens;
@@ -95,4 +95,3 @@ $C = 2$, therefore the second task will be solved.
 * The alien with power $7$ can win all the fights (see the explanation in the previous example).
 * The alien with power $5$ can win two fights (against the aliens with powers $1$ and $3$).
 * The alien with power $9$ can win $3$ fights (against the aliens with powers $1, 3$ and $5$).
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Two sequences, $A$ and $B$, are given with values from the set $\{0, 1\}$.
 
 # Task
@@ -99,4 +99,3 @@ We need to solve task $2$. The subsequences in $A$ equal to the subarray $(1, 1)
 ## Explanation
 
 We need to solve task $3$. Only subsequences of length $1$, $2$, or $3$ will be analyzed. We do not have any subsequences of length $3$ in $A$ equal to subarrays in $B$, and from the lengths of $1$ or $2$ we count those equal to $(0)$, $(1)$, $(0, 1)$, and $(1, 1)$.
-```

@@ -16,7 +16,7 @@ If the value of $p$ is $1$, then only point 1 of the task will be solved. In thi
 
 # Constraints and clarifications
 
-* $2 \leq$ the length of the step string $<=> 100\ 000$;
+* $2 \leq$ the length of the step string $\leq> 100\ 000$;
 * for $20\%$ of the tests, $p=1$;
 * for another $10\%$ of the tests, $p=2$ and the length of the character sequence $\leq 255$;
 * for another $10\%$ of the tests, $p=2$ and $300 \leq$ the length of the character sequence $\leq 1\ 900$;
@@ -67,4 +67,3 @@ EVEVVEVEEE
 `spion.out`
 ```
 210
-```

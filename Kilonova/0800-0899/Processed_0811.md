@@ -1,4 +1,4 @@
-```markdown
+
 It is considered a two-dimensional array with $m$ rows, $n$ columns, and elements as natural numbers. For each element, the number of positive divisors is determined. Groups are then formed with the elements of the array that have the same number of divisors, groups noted as $G_1, G_2, \dots, G_k$. The groups are sorted in descending order based on the number of elements they contain. It is known that a group $G_1$ is in front of another group $G_2$ if $G_1$ has more elements than $G_2$ or, in the case where the two groups contain the same number of elements, the number of divisors of the elements of group $G_1$ is greater than the number of divisors of the elements of group $G_2$. After sorting the groups in descending order, we denote the first group as $A$ and the second group as $B$. In the case where all elements will have the same number of divisors, there will be only one group, the group $A$.
 
 # Task
@@ -67,4 +67,3 @@ So group $A$ has $4$ divisors, $2$ elements and the largest element in the group
 The number of divisors for each element of the array: $2$ divisors (for value $2$), $4$ divisors (for value $15$), $3$ divisors (for value $4$), $4$ divisors (for value $10$), $4$ divisors (for value $6$) and $2$ divisors (for value $5$). After sorting the groups in descending order, the group with the most elements is the one formed by the elements $10, 6, 15$, each element having exactly $4$ divisors.
 
 This will be group $A$. Group $B$ will be the one formed by two elements, the other group having only one element. So group $A$ has $4$ divisors, $3$ elements and the largest element in the group is $15$, while group $B$ has $2$ divisors, $2$ elements and the largest element in the group is $5$.
-```

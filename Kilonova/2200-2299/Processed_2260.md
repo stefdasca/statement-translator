@@ -1,4 +1,4 @@
-```markdown
+
 The territory of Metalopolis can be seen as a Cartesian plane. In this territory, Zeratul has managed to infiltrate $N$ invisible soldiers with the mission of defeating his enemy forces, Jim Raynor. The soldiers can be considered points with integer coordinates $(X_S, Y_S)$. To defend himself, Jim Raynor launches $M$ nuclear bombs. Bomb $i$ eliminates all soldiers located at a distance less than or equal to $R_i$ from the point $(XB_i, YB_i)$ where it exploded. To maximize the efficiency of the attack, Raynor ensures that no area of Metalopolis is affected by more than one nuclear bomb. For each bomb $i$, Zeratul wants to know how many soldiers he lost.
 
 # Task

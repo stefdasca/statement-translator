@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 There are $N$ cities and $M$ bidirectional railways connecting cities $a_i$ and $b_i$ with a travel time of $c_i$ minutes. There is also a train that connects city $0$ with city $N-1$, this train will always take the **only** shortest path between the two cities.
@@ -70,4 +70,3 @@ In the **first sample case**, it is possible to upgrade the railway between citi
 In the **second sample case**, it is not possible to upgrade a railway so that the new shortest path passes through a new city.
 \\
 ~[fig2.png]
-```

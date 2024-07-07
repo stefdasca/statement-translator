@@ -71,4 +71,3 @@ A maximum of 4 segments can be aligned, namely:
 4 5 8 6
 9 2 8 6
 5 2 4 6
-```

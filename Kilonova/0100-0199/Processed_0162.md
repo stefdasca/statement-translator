@@ -1,4 +1,4 @@
-```markdown
+
 Albinuța `D` has `N` favorite flowers and a unique way of collecting their pollen. She has crafted a map of the flowers in the form of a directed graph with `N` nodes and `M` edges, where the flowers are the graph's nodes and are numbered `1,2,...,N`. For each node, the adjacency list sorted based on the bee's preferences is known.
 
 The path followed by the bee to collect pollen starts at node `1` at time `T=1`. At every moment of time `T`, the bee opts for the `T`-th node in the adjacency list, counting `T` positions circularly starting with the first node in the list. She will arrive at node `T+1` at the chosen node. For example, if at time `T=12`, the current node's adjacency list, sorted according to the bee's preferences, is: `1 6 2 9 5`, then at time `T=13` the bee will arrive at node `6`.
@@ -54,4 +54,3 @@ Explanation
 ---
 
 The bee will follow the path: `1 2 3 6 1` at the moments of time `1,2,3,4,5`.
-```

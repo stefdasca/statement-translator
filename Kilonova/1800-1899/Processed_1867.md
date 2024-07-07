@@ -1,4 +1,4 @@
-```markdown
+
 A Texan has a pasture with the boundary in the form of a convex polygon. Since he has reached an age where he can no longer take the cattle to graze on his pasture, he decides to donate part of the pasture to the worthiest of his grandchildren. Thus, he provides them with the Cartesian coordinates of the pasture corners and asks them to find 3 positions on the pasture boundary where three poles can be placed, so that by connecting the 3 poles with barbed wire, an equilateral triangle is formed.
 
 # Task
@@ -42,5 +42,4 @@ The output file `texan.out` will contain three lines. Each line contains the coo
 12.500000 7.500000
 -3.150637 4.725956
 2.272289 19.666827
-```
 ```

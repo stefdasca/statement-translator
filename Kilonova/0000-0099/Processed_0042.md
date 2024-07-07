@@ -1,4 +1,4 @@
-```markdown
+
 Our game involves traversing a two-dimensional board with two rows and $n$ columns, consisting of $2 \times n$ square cells. Each cell has an associated integer value $v$ that does not change during the game. Players must find a path from the starting cell to the destination cell that meets the following conditions:
 - The starting cell is the one in row $1$ and column $1$, and the destination cell is the one in row $2$ and column $n$.
 - Passes through any cell at most once.
@@ -74,4 +74,3 @@ The player will traverse the cells with values in order:
 For the last test:
 The player will traverse the cells with values in order:
 `-3, -2, 3, 0, 5, -2, 7, 4, 10, 0`
-```

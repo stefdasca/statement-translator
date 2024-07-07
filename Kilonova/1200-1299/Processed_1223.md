@@ -1,4 +1,4 @@
-```markdown
+
 Consider a lidorian matrix with $x$ rows and $y$ columns. The rows of the matrix are numbered from bottom to top, with numbers from $0$ to $x-1$. The columns of the matrix are numbered from right to left, with numbers from $0$ to $y-1$. The lidorian matrix is composed only of $1$s and $0$s. 
 
 ~[joc.png]
@@ -52,4 +52,3 @@ The file `joc.out` contains, in order, the first line containing the value of $t
 ## Explanation
 
 ~[joc3.png]
-```

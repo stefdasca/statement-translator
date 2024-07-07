@@ -1,4 +1,4 @@
-```markdown
+
 A rectangular matrix with $m$ rows and $n$ columns, containing natural values, is considered. We traverse the matrix starting from the top-left corner to the bottom-right corner. A traversal consists of several moves. With each move, a jump is executed horizontally and a step vertically. A jump means that we can move from one cell to any other cell on the same row, while a step means that we can move from one cell to the cell immediately below it. The exception is the last move (when we are on the last row), where we will only make a jump to reach the bottom-right corner, but we will not make the corresponding step. Thus, the traversal will consist of visiting $2 \cdot m$ cells.
 
 # Task
@@ -41,4 +41,3 @@ $(1,1)\rightarrow(1,3)\rightarrow$
 $(2,3)\rightarrow(2,2)\rightarrow$
 $(3,2)\rightarrow(3,3)\rightarrow$
 $(4,3)\rightarrow(4,5)$
-```

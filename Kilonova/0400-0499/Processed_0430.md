@@ -1,4 +1,4 @@
-```markdown
+
 A labyrinth is given in the form of a square array with `n \times n` elements `0` and `1`, with the following meaning: `0` represents a free position, and `1` represents an occupied position. A robot located in the labyrinth, on row `L1` and column `C1`, needs to reach a final position on row `L2` and column `C2`. The robot can move horizontally and vertically only.
 
 # Task
@@ -41,4 +41,3 @@ The first line of the file `robot.out` contains three natural numbers, separated
 Explanation
 ---
 The obstacles that can be eliminated are those from `2, 4` and `3, 1`.
-```

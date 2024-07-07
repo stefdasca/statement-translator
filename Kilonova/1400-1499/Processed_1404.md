@@ -1,4 +1,4 @@
-```markdown
+
 Consider the sequence of distinct positive integers $a_1, a_2, \dots, a_N$. We denote by $L_i$ the maximum length of a subsequence of consecutive values that can be obtained by sorting in ascending order the first $i$ elements of the given sequence. For example, for the sequence $7, 2, 3, 8, 20, 4, 10, 9$, we have:
 $L_1 = 1$, $L_2 = 1$, $L_3 = 2$, $L_4 = 2$, $L_5 = 2$, $L_6 = 3$, $L_7 = 3$, $L_8 = 4$.
 
@@ -57,4 +57,3 @@ The file `secvente.out` contains exactly $N$ lines. On line $i = 1,2, \dots, N$,
 - $L_6$: The sequence is $7, 3, 2, 8, 20, 4$. The sorted sequence is $\textcolor{red}{2, 3, 4}, 7, 8, 20$. The maximum length is $3$ (given by the subsequence $2, 3, 4$).
 - $L_7$: The sequence is $7, 3, 2, 8, 20, 4, 10$. The maximum length is $3$ (given by the subsequence $2, 3, 4$).
 - $L_8$: The sequence is $7, 3, 2, 8, 20, 4, 10, 9$. The sorted sequence is $2, 3, 4, \textcolor{red}{7, 8, 9, 10}, 20$. The maximum length is $4$ (given by the subsequence $7, 8, 9, 10$).
-```

@@ -4,7 +4,7 @@ Given $a$ and $b$, Ionut wants to calculate $gcd(a,b)$. For this, he will use th
 
 ```
 While a and b are both not 0:
-    if a >= b:
+    if a \geq b:
         a-=b // perform one operation
     else:
         b-=a // perform one operation
@@ -52,4 +52,3 @@ A total of 4 operations.
 `stdout`
 ```
 523464
-```

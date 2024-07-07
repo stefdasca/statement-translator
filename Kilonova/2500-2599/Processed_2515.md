@@ -1,4 +1,4 @@
-```markdown
+
 *The Mirror* of a natural number $x$ is the number obtained by reading the digits of $x$ from right to left, ignoring the trailing zeros of $x$. For example, the mirror of $103$ is $301$, while the mirror of $2500$ is $52$. A pair of distinct natural numbers $x$ and $y$ is called a *mirror pair* if both $x$ is the mirror of $y$, and $y$ is the mirror of $x$. For example, the numbers $x = 42$ and $y = 24$ form a mirror pair; however, the numbers $x = 1$ and $y = 100$ do not form a mirror pair.
 
 A natural number $x$ is considered a *palindrome* if $x$ is equal to its mirror. For example, the number $42124$ is a palindrome. From two distinct numbers, a new number can be formed by appending one to the right of the other. For example, from the numbers $124$ and $42$, the numbers $12442$ (from appending $42$ to the right of $124$) and $42124$ (from appending $124$ to the right of $42$) can be obtained.
@@ -88,4 +88,3 @@ There are $3$ index pairs with the property that their corresponding values form
 ## Explanation
 
 The following palindromes can be formed: $2442, 4224, 7997, 9779$ and $42124$. The largest among these is $42124$.
-```

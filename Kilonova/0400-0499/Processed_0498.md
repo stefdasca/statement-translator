@@ -50,4 +50,4 @@ Print on the first line a single number, with the meaning from the task.
   `stdout`
   ```
 36
-  ```
+  

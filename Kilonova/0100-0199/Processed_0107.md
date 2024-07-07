@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with $N$ rows and $2$ columns of integers is given. The rows are numbered from $1$ to $N$, and the columns from $1$ and $2$.
 
 There are $4$ operations that can be performed on the matrix: $S_3, J_3, S_4, J_4$.
@@ -108,4 +108,3 @@ After performing the operations, the matrix will be
 1 2
 ```
 The length of the longest strictly increasing subsequence on the first column is $2$, and on the second it is $3$ ($2$ and $3$ are less than or equal to $\\lceil \\sqrt{N} \\rceil = \\lceil \\sqrt{6} \\rceil = 3$).
-```

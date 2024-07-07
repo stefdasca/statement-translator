@@ -1,4 +1,4 @@
-```markdown
+
 With the Easter holiday, Alex decided to go to the sea by car. The map of Romania is modeled as a tree (a connected acyclic undirected graph) that has `N` nodes representing the cities of the country. It is well-known that Alex is a speedster, so he wants to avoid any potential speed radars, which are placed on the edges of the tree (each edge can have at most one radar). If there is a radar on an edge, Alex will not risk and **will not** travel on that edge.
 
 Each city has a given visit time, and we all know that Alex is very busy, so he doesn't want to waste too much time visiting. Alex starts from Gheorgheni (node `1`, considered the root) and wants to know in how many ways the radars can be placed on the map so that the total visit time of the cities accessible from node `1` equals `P`, knowing that Alex will not travel on any edge containing a radar.
@@ -55,4 +55,3 @@ The `5` possible ways are:
 5. there are radars on the edges `(1,3), (4,5), (4,6)`
 
 ~[radare.png]
-```

@@ -90,4 +90,3 @@ The file `ausoara.out` will contain on the first line `T`, the number of element
 
 ```
 1 1
-```

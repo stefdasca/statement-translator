@@ -1,4 +1,4 @@
-```markdown
+
 A farmer has a rectangular plot of land that is $M$ units long and $N$ units wide. Trees are planted sporadically on the land, and the farmer does not want to cut them down.
 
 Desiring to oversee his crops, the farmer builds a small square-shaped robot with a side length of $3$ units that he can guide through the farm unit by unit over a specific area.
@@ -65,5 +65,4 @@ The next $N$ lines contain $M$ characters, not separated by spaces. These charac
 ******+....
 ******.....
 ******+....
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 Tsubasa-chan loves sweets! Recently, a new type of dessert has appeared. Thus, she decided to establish a new factory to produce this delicious product.
 
 The factory contains a huge square container, full of dough, of $10^6 \times 10^6$ units. Each point in the container has coordinates as a pair of real numbers `(x, y)`, where $0 \leq x, y \leq 10^6$, and each point has a sweetness level. The sweetness of a point is initially `0`. For the production of the dessert, `Q` operations are required, which can be of the following types:
@@ -99,4 +99,3 @@ The situation for the tastings in the second example is explained in the diagram
 ~[dulceata2.png]
 
 In the first trajectory (the one on the left), we always pass through a zone with a sweetness of `10`, so the tasting result is `10`. In the second trajectory (the one on the right), we always pass through a zone with a sweetness of `0`, so the tasting result is `0`. In the third trajectory, we stay put for one second in a sweetness zone of `10`, so the answer is `10`.
-```

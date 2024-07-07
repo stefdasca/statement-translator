@@ -1,4 +1,4 @@
-```markdown
+
 The game that Robo plays when he gets bored is a smart game for little robots. On the screen of his little robot's tablet, there are $N$ square-shaped boxes, each with a side length of $1$. The boxes are arranged in a row, one next to the other, being labeled, in this order, with numbers from $1$ to $N$. Each box contains a natural number, the identifier of one of his friends, little robots like him. The identifiers can repeat.
 ~[sort2dist.png|align=right]
 
@@ -45,4 +45,3 @@ The file `sort2dist.out` contains:
 The tablet has $4$ boxes, containing, in this order, the identifiers $(5, 7, 6, 2)$. To arrange in increasing order, $2$ swaps were performed:
 - the contents of boxes $2$ and $4$ were swapped (the distance between their centers being $2$), the identifiers in the boxes now being $(5, \underline{2}, 6, \underline{7})$;
 - the contents of boxes $1$ and $2$ were swapped (the distance between their centers being $1$), the identifiers in the boxes now being $(\underline{2}, \underline{5}, 6, 7)$, ordered increasingly.
-```

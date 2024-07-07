@@ -1,4 +1,4 @@
-```markdown
+
 An airline company has planned $N$ flights. Each flight is associated with six natural numbers with the following meanings: the first number, $A_1$, identifies the departure airport; the second number, $A_2$, identifies the arrival airport; the next four natural numbers, $H_1$, $M_1$, $H_2$, and $M_2$, represent in order the hour and minute of departure, respectively the hour and minute of arrival. The arrival can be on the same day or the next day. A flight can last a maximum of $23$ hours and $59$ minutes. For example, for $H_1 = 10$, $M_1 = 5$, $H_2 = 15$, $M_2 = 20$, the arrival takes place on the same day as the departure (the flight lasts $5$ hours and $15$ minutes), whereas for $H_1 = 23$, $M_1 = 5$, $H_2 = 1$, $M_2 = 15$, the arrival takes place the next day (the flight lasts $2$ hours and $10$ minutes).
 
 A computer virus has infiltrated the company's computing systems and reversed the departure and arrival times of flights it considers special. A flight is considered special by this virus if the departure airport code, $A_1$, is a prime number, and the arrival airport code, $A_2$, is divisible by the sum of the digits of $A_1$.
@@ -67,4 +67,3 @@ $C = 1$, $N = 3$. The durations of these flights are, in order, $23$ hours and $
 ## Explanation
 
 $C = 2$, $N = 3$. For the first flight, $A_1 = 47$ is a prime number, the sum of its digits is equal to $11$, and $A_2 = 55$ is divisible by $11$, so the first flight becomes `23 : 59 - 00 : 00` and has a duration of $0$ hours and $1$ minute. The second flight remains unchanged because $1$ is not prime. The third flight remains unchanged. Even though $11$ is prime, $457$ is not divisible by $2$ (the sum of the digits of $11$). The flight with the maximum duration, after the intervention of the virus, is the third one.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Let $a$ and $b$ be two natural numbers $0 < a \leq b$.
 
 # Task
@@ -48,4 +48,3 @@ There are $24768$ fractions with the properties:
 There are $1536317971$ fractions with the properties:
 - $\\frac{12345}{56789} \leq \\frac{x}{y} \leq \\frac{56789}{12345}$
 - $2 \leq x + y \leq 69134$
-```

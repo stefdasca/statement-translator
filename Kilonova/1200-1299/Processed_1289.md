@@ -1,4 +1,4 @@
-```markdown
+
 The central market square of Bacau city is circular in shape. All around the market, $n$ lanterns are mounted, numbered from $0$ to $n - 1$. Each lantern can have two states: on or off. At night, all lanterns are turned on simultaneously. Tourist Vasile T. Popescu starts walking around the market, starting from lantern $0$ to lantern $1$, then from $1$ to $2$, $\dots$, from $n - 2$ to $n - 1$, from $n - 1$ to $0$, etc., and whenever he passes by a lantern, he performs exactly one of the following operations:
 
 - if the previous lantern ($i - 1$ if $i > 0$ or $n - 1$ if $i = 0$) is on, then he toggles the state of the current lantern (if it was on, he turns it off; if it was off, he turns it on);

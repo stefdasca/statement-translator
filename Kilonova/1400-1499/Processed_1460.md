@@ -71,4 +71,4 @@ VI
 ## Explanation
 
 $101110001 = \text{crypt of the character}$ `V`  
-$111000002 = \text{crypt of the character}$ `I`
+$111000002 = \text{crypt of the character}$ `I

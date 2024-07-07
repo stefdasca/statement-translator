@@ -1,4 +1,4 @@
-```markdown
+
 # Problem Statement
 
 We consider a sequence of $n$ natural numbers $a_1, a_2, ..., a_n$. This sequence is used for encoding messages consisting of $n$ bits. Specifically, if the message is $t_1t_2...t_n$ (where $t_i$ can be $0$ or $1$, for any $1 \leq i \leq n$) then the encoded message is: $S = t_1a_1 + t_2a_2 + ... + t_na_n$
@@ -53,6 +53,5 @@ Each output file will contain a single line that will print a sequence of $n$ bi
 `cifru.out`
 ```
 110001000101101100010101
-```
 ```
 ```

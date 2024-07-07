@@ -1,4 +1,4 @@
-```markdown
+
 This year, XB decided to become a football fan and finally started watching Liga 1 (they call it SuperLiga, but we all know just how super it actually is). Thus, in order to enjoy as many victories as possible, XB decided to familiarize himself with how the form of teams works and created his own league with $n$ teams and $m$ stages, knowing for each team $i$ how many points they obtain in each stage $j$, specifically $scor_{ij}$.
 
 However, our man is a results fan, and although loyalty should mean more in football, he cannot conceive of staying with the same team even in difficult times, so he can change his favorite team at most $k$ times in a season (he understands loyalty somewhat, just not entirely).
@@ -49,4 +49,3 @@ The first line will contain a single number, the maximum score that XB can obtai
 ## Explanation
 
 XB can support team $4$ for the first two stages, then switch to team $2$, thus obtaining $4 + 5 + 5 + 5 + 5 = 24$ points.
-```

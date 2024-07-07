@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Aquilla's beetle helps us solve the following problem:
@@ -66,4 +66,3 @@ DA
 
 The board is a cube of $3 \times 3 \times 3$, it can be shown that there is no solution.
 The board is a cube of $16 \times 16 \times 16 \times 16 \times 16$..., there is a solution.
-```

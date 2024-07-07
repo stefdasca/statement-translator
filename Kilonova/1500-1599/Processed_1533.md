@@ -1,4 +1,4 @@
-```markdown
+
 Consider $N$, a non-zero natural number. We want to write $N$ as the sum of two non-zero natural numbers $x$ and $y$, such that the sum of the digits of the numbers $x$ and $y$ is maximized.
 
 # Task
@@ -72,4 +72,3 @@ The maximum sum that can be obtained by adding the digits of two numbers $x$ and
 ## Explanation
 
 The maximum sum that can be obtained by adding the digits of two numbers $x$ and $y$ for which $x + y = 25$ is $16$. The pair of numbers $xmin \geq ymin$ for which $xmin - ymin$ is minimal ($7$) and for which the sum of the digits is maximal is $xmin=16$ and $ymin=9$.
-```

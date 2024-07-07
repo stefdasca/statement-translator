@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We are in an $N$-dimensional universe. What is the maximum number of points such that the distances between any 2 points are the same?
@@ -30,4 +30,3 @@ A single number, the maximum number of points.
 ## Explanation
 
 We are in a 2-dimensional plane, and we can choose a maximum of 3 points. If we place them in the form of an equilateral triangle, the condition is satisfied. We cannot choose more than 3 points such that there is a placement that respects the task.
-```

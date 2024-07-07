@@ -70,4 +70,3 @@ On row $2$ the optimal placement is in column $3$, thereby protecting $8$ trees.
 ## Explanation
 
 The tree located at positions $(3,2)$, i.e., on row $3$ and column $2$, is surveilled by eight systems. These are located at positions $(1,2)$, $(2,2)$, $(3,2)$, $(4,2)$, $(5,2)$, $(3,1)$, $(3,3)$, and $(3,5)$. The tree located at positions $(3,4)$ is also protected by eight surveillance systems, but according to the rules in the statement, the one on the smaller row, respectively $3\ 2$, will be displayed.
-```

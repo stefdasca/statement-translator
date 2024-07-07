@@ -1,4 +1,4 @@
-```markdown
+
 In the Triangle commune of Romania, there are $n$ peasants identified by the numbers $1, 2, \ldots , n$. After the year $1990$, the restitution of land areas owned before collectivization began. Each peasant has a document proving they own a single triangular plot of land. Unfortunately, these documents have become troublesome for the mayor (who is in charge of the land restitution), because some portions of the land appear on multiple documents.
 
 In this commune, there is a water well, and it is possible that several peasants claim it. A land area is defined by the coordinates of its three corners, while the well is considered a point, given by its coordinates and surrounded by land only within the plot, not outside.
@@ -54,4 +54,3 @@ On the second line will be the answer to point $2$, that is: the code of the pea
 In point $1$, there are two peasants who own land areas that have the well either inside or on the boundary, with codes $1$ and $2$.
 
 In point $2$, the peasant with code $2$ owns a land area that includes the land areas owned by the other peasants (with codes $1$ and $3$).
-```

@@ -1,4 +1,4 @@
-```markdown
+
 The heights of $N$ peaks, arranged from left to right, are known in a mountain range. If a sentinel is placed on a peak of a certain height, it watches over that peak and up to $K$ peaks to the left and up to $K$ peaks to the right of it, but only if the heights of these watched peaks are less than or equal to the height of the peak on which the sentinel is located. If there is a peak with a strictly greater height at a distance less than or equal to $K$, then the sentinel watches only up to that peak (excluding that peak).
 
 # Task
@@ -106,4 +106,3 @@ The task is $2$ and $K = 3$. A minimum of $3$ sentinels is needed. They can be p
 ## Explanation
 
 The task is $2$ and $K = 5$. A minimum of $3$ sentinels is needed. They can be placed on the following peaks: the $3$-rd, the $7$-th, and the $15$-th.
-```

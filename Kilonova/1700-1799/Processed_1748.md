@@ -1,4 +1,4 @@
-```markdown
+
 Domino is a game that uses $N$ special, rectangular pieces. Each piece has a digit from $1$ to $9$ inscribed on the first and second half.
 
 During the game, the $N$ pieces are placed on the game board such that all digits are aligned horizontally, and the player can act upon a piece in two ways:
@@ -58,4 +58,3 @@ To obtain the largest possible number, proceed as follows:
 ~[domino3.png|width=40em]
 
 Thus, we get the largest possible number: $878\ 174$.
-```

@@ -1,5 +1,5 @@
 > “When it feels like living's harder than dying  
-For me giving up's way harder than trying”
+For me giving up's way harder than trying�
 
 Stifon owns $N$ plots of land cultivated with corn, connected by $N-1$ bidirectional roads, ensuring that it is possible to travel from one plot to another via exactly one road. Stifon can position himself on a plot numbered $D$ and select another plot $W$, $W < D$ with $dist(D, W) \leq P$, and collect corn from the plots on the path from $D$ to $W$. We observe that for a plot $D$ there are several plots $W$ that meet the imposed criteria. Therefore, Stifon notes $Fss(D)$ as the total sum of the corn on each path $(D, W)$ with $W < D$ and $dist(D, W) \leq P$.
 

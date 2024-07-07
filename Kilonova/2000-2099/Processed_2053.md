@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Andrei has an army of $x$ soldiers. It is known that this army will have to survive $n$ events.

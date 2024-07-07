@@ -1,4 +1,4 @@
-```
+
 A tree is given with $n$ nodes numbered from $1$ to $n$ and the root is node $1$, in which each node has a distinct value associated with it. An infinite number of paths are taken on this tree: starting from the root node and at each step, for the current node, the child with the greatest value is chosen until a leaf is reached. Once a node is traversed, its value decreases by one unit. If at some point there are two children with the same value, the one that initially had the greater value is chosen. Moreover, it is guaranteed that the height of the tree is less than or equal to $20$.
 
 # Task
@@ -36,5 +36,4 @@ The output file `arb.out` will contain $q$ lines representing the answer to each
 12
 10
 4
-```
 ```

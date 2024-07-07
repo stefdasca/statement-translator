@@ -1,4 +1,4 @@
-```markdown
+
 A natural number $N$ is considered. A **good partition** of $N$ is called a sequence of non-zero natural numbers $x_1, x_2, ..., x_k$ with the following properties:
 * $N = x_1 + x_2 + ... + x_k$
 * $\frac{1}{x_1} + \frac{1}{x_2} + ... + \frac{1}{x_k} = 1$
@@ -38,4 +38,3 @@ In the output file `partitionare.out`, print on the first line the *good partiti
 The sequence of numbers $3 \ 9 \ 3 \ 9 \ 9$ forms a good partition because:
 $3 + 9 + 3 + 9 + 9 = 33$
 $\frac{1}{3} + \frac{1}{9} + \frac{1}{3} + \frac{1}{9} + \frac{1}{9} = 1$
-```

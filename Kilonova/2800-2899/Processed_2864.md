@@ -1,4 +1,4 @@
-```markdown
+
 Ali-Baba and his $N$ thieves discovered a treasure map on an isolated island. The map can be thought of as a grid of $L \times C$ regions ($L$ rows and $C$ columns). In each region, there is a magical chest that contains rubies ($0$ or more), and the number of rubies in each chest is kept in the corresponding element of the grid.
 
 The following action plan is established:
@@ -67,5 +67,4 @@ The output will be in the file `rubine.out` in the following format:
 3 10 1 12
 3
 10
-```
 ```

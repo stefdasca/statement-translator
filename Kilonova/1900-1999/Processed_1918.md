@@ -59,4 +59,3 @@ The output file `maxdist.out` will contain $Q$ lines. On the $i$th line, two nat
 4 4
 4 4
 4 5
-```

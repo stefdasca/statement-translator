@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Three strings of length $L$ are given. The task is to find another string of length $L$, such that the maximum Hamming distance from it to the three strings is minimized.
@@ -30,5 +30,4 @@ zaaab
 `cstring.out`
 ```
 xaaab
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Consider a function $F$, which takes in a string and outputs a string, having the following properties:
@@ -60,4 +60,3 @@ Let's consider $B = ab$ and $F(B) = abba$. Then:
 * $abb$ is not in $L$.
 * $cd$ is not in $L$.
 * ...
-```

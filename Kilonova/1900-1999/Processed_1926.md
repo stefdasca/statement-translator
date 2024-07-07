@@ -48,4 +48,3 @@ The output file `parb.out` will contain $Q$ lines. Each line $i$ will contain a 
 1
 5
 2
-```

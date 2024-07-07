@@ -1,4 +1,4 @@
-```markdown
+
 # Input data
 
 The first line in `stdin` contains a natural number $n$.
@@ -99,5 +99,4 @@ The first line in `stdout` contains a natural number $d$.
 `stdout`
 ```
 31
-```
 ```

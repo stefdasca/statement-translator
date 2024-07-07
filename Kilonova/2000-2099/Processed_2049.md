@@ -42,4 +42,3 @@ NO
 YES
 NO
 YES
-```

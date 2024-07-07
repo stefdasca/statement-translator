@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Laura has recently developed a passion for **randomly** generated character strings. To help her get through the session more easily, her friends decided to cheer her up and bought her such a string of length $N$, containing only lowercase letters of the English alphabet.
@@ -50,4 +50,3 @@ renere
 ## Explanation
 
 For the word `roaane`, there is no subarray in `anaaremere` such that the word and the subarray differ in no more than $2$ positions. The word `aareme` appears exactly in the given string, and for `renere`, there is the subarray `remere`, which differs by just one position.
-```

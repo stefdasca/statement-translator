@@ -1,6 +1,6 @@
 # Task
 
-Mark has built a rectangular parking lot, divided into square parking spots using markings, organized into $n$ rows (numbered from $1$ to $n$) and ğ‘š columns (numbered from $1$ to $m$). Thus, a parking spot can be identified by its row number and column number. Any car can be parked within a parking space, parallel to the horizontal lines of the marking or parallel to the vertical lines, without exceeding the contour of the corresponding square. Mark has built a surrounding wall for the parking lot, interrupted at certain parking spots, to allow cars to exit the parking lot. We consider that the wall is placed on line $0$ (north), column $0$ (west), line $n + 1$ (south), and column $m + 1$ (east).
+Mark has built a rectangular parking lot, divided into square parking spots using markings, organized into $n$ rows (numbered from $1$ to $n$) and ğ‘š columns (numbered from $1$ to $m$). Thus, a parking spot can be identified by its row number and column number. Any car can be parked within a parking space, parallel to the horizontal lines of the marking or parallel to the vertical lines, without exceeding the contour of the corresponding square. Mark has built a surrounding wall for the parking lot, interrupted at certain parking spots, to allow cars to exit the parking lot. We consider that the wall is placed on line $0$ (north), column $0$ (west), line $n + 1$ (south), and column $m + 1$ (east).
 
 ~[img0.png|align=right|width=50%]
 

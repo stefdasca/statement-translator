@@ -52,4 +52,3 @@ So at the end of the 3rd day, the height of the plant will be $12$ cm.
 `planta.out`
 ```
 57
-```

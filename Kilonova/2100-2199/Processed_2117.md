@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Mișu received from Moș Nicolae a set of $N \cdot M$ glasses, which he arranged in the form of a matrix$^1$ with $N$ rows and $M$ columns. He also has two types of milk in unlimited quantities, creatively named _milk A_ and _milk B_, with which he can fill the glasses. Any glass can be filled either with milk of type $A$ or type $B$. Mișu denotes with $L[i][j]$ the type of milk with which the glass at row $i$, column $j$ is filled.
@@ -71,5 +71,4 @@ Print a single number representing the number of different ways Mișu can fill t
 `stdout`
 ```
 229805564
-```
 ```

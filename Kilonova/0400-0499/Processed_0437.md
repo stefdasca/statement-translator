@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 To celebrate the achievements of those who qualified for the county stages of this year's Olympiads, the students of a class decided to order cakes during the homeroom period. A class consists of $N$ students, and each will express their opinion on exactly two cakes out of the $M$ available at the pastry shop near the school. Each student expresses their opinion on the cakes as follows: "+ x" if they like cake $x$, or "- x" if they do not like cake $x$ (where $x$ is a number from $1$ to $M$).
 
@@ -34,5 +34,4 @@ The first line contains $M$ answers. Each cake will correspond to `YES` (if the 
 `stdout`
 ```
 YES YES YES YES YES NO
-```
 ```

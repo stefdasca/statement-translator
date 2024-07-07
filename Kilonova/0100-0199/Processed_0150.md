@@ -113,4 +113,3 @@ The vertices of the second polygon are `(0, 0), (8, 0), (8, 10), (4, 20), (0, 10
 5 3
 3 2
 2 1
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Given a language consisting of $N$ words and an encrypted text consisting of $M$ words. We say that a word is permuted after a sequence $x_1, x_2, ..., x_k$ if the first letter is permuted with $x_1$, the second with $x_2$, ..., and the last with $x_k$.
 For example, after the sequence $1 \\ 5 \\ 6$, `"abc"` becomes `"bgi"`. The permutation is done in the order of lowercase letters in the English alphabet. If a letter exceeds the end of the alphabet, it wraps around and then the next letter is permuted with $1$. 
 In the case where the last letter exceeds the end of the alphabet, then the word becomes invalid. For example, `"zza"` permuted after the sequence $1 \\ 2 \\ 3$, becomes `"ace"`. (addition is done with carry starting from the left). If `"zzz"` were permuted after the sequence $1 \\ 2 \\ 3$, it would become invalid. The most "significant" letters are from right to left.
@@ -44,4 +44,3 @@ The answer is the second sequence, $1 \\ 2 \\ 3 \\ 4$, because the input becomes
 Thus, $2$ of the words are found in the first language.
 
 If we used the first sequence, the result would be $1$: `infp oltf info`.
-```

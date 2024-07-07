@@ -1,4 +1,4 @@
-```markdown
+
 An amateur cryptologist proposes to build an encryption machine that encrypts a text composed of exactly $N$ distinct symbols. The encryption is done by permuting the symbols that form the text.
 
 Our cryptologist wants the reconstruction of the initial text to be possible by passing the encrypted text through the encryption procedure $K - 1$ more times. In other words, if the text resulting from the first encryption is encrypted again, the result is encrypted again and so on, starting from the initial text and applying a total of $K$ successive encryption operations, the initial text should be obtained.
@@ -54,4 +54,3 @@ The file `cifru.out` will contain on the first line, the number of distinct ways
 ```
 
 Please double-check the statement and correct potential grammar or syntax errors according to the rules of the English language.
-```

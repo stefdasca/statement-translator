@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 Chertes has an array $v$ with $n$ natural numbers. This array is very valuable to our character, so he wants to save information about the array in such a way that he can reconstruct it in case he loses it. An information represents a pair of natural numbers $(x,y) (1 \leq x \leq y \leq n)$, which has the following meaning: save the sum of the elements in the subarray $v[x..y]$. Formally, save the sum of the elements $v_x, v_{x+1}, ... v_{y}$.
 For example, if we have the array $v=[1,2,7,3,8]$, a valid information could be $(1,3)$ (the sum of the elements $1$, $2$ and $7$ is saved, which is $10$). However, the information $(2,1)$ is not valid because $2=x>y=1$.

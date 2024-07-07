@@ -40,4 +40,3 @@ The output will contain a line for each operation given in the input.
 7
 5
 7
-```

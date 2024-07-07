@@ -44,4 +44,4 @@ Explanation
 
 For the node with index `3`, the solutions are: `({2}, {1,4,5,6})` and `({1,4,5,6}, {2})`
 
-For the node with index `5`, the solutions are: `({6}, {1,2,3,4})` and `({1,2,3,4},{6})`
+For the node with index `5`, the solutions are: `({6}, {1,2,3,4})` and `({1,2,3,4},{6})

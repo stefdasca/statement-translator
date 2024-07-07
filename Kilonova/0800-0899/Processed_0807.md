@@ -1,7 +1,7 @@
 Hansel and Grettel, lost in the forest, know that their only chance of survival is to find and enter the Gingerbread Castle. The castle gate is closed, and to enter it they need a magic word and an enchanted number.
 
 The Good Fairy sees the children and, wanting to help them, says:  
-“Keep walking forward, and along your path you'll encounter trees with characters representing letters or digits written on their trunks. The magic word is formed from all the letter characters in the order they appear, but all written in uppercase. The enchanted number is the smallest number with distinct digits that can be formed from the digit characters.”
+“Keep walking forward, and along your path you'll encounter trees with characters representing letters or digits written on their trunks. The magic word is formed from all the letter characters in the order they appear, but all written in uppercase. The enchanted number is the smallest number with distinct digits that can be formed from the digit characters.�
 
 # Task
 

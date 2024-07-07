@@ -1,4 +1,4 @@
-```markdown
+
 A showroom in Strasbourg sells a very large range of car models, arranged on $n$ lines. On each line, there are only car models sold by the same dealer. A dealer can have models on multiple lines. The European Parliament wants to renew its car fleet and sends the transport activity manager to the showroom to gather information about the options available for this purchase issue. The manager needs to choose $f_1$ models from the first dealer, $f_2$ models from the second dealer, etc.
 
 The sequence of numbers $f_1, f_2, f_3, \ldots$ represents the terms $mod \\ k$ of an arithmetic progression with the first term $a$ and the common difference $r$. If the value in the sequence of numbers is greater than the number of models of the corresponding dealer, then the manager does not choose any model from that dealer. The first dealer is the one with models on the first line and, potentially, on other lines following the first line (but not necessarily consecutive!), the second dealer is the one with models on the first line containing models different from those of the first dealer, etc.
@@ -70,4 +70,3 @@ The possible ways to purchase models from dealer $1$, no models from dealer $2$,
 ```
 
 I have translated and formatted the problem statement accurately while making sure to preserve the structure and mathematical values. Please review and let me know if there are any further adjustments needed.
-```

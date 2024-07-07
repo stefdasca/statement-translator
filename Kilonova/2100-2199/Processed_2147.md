@@ -1,4 +1,4 @@
-```markdown
+
 We consider an array $A$ with $N$ natural numbers and the position $pos$ as the first position in the array $A$. Upon this array, $M$ operations will be performed in order, of the form:
 * ``1``: $pos$ becomes $pos - 1$. If $pos = 1$ before the operation, then the operation is ignored.
 * ``2``: $pos$ becomes $pos + 1$. If $pos = N$ before the operation, then the operation is ignored.
@@ -64,4 +64,3 @@ In this example, $N = 3$, $M = 8$, $A = [2, 4, 3]$ and $pos = 1$.
 * After the sixth operation, $pos = 2$.
 * After the seventh operation, $pos = 3$
 * After the eighth operation, $3$ will be displayed.
-```

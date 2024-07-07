@@ -1,4 +1,4 @@
-```markdown
+
 ~[Tarzan.jpg|align=right|width=15%]
 
 Tarzan, our favorite hero from the African jungle, felt the need for a new challenge: Australia. Arriving on the continent of kangaroos, he was filled with anxiety at the sight of the natural disaster caused by fires. The jungle no longer has vines! Desperate, he was put in contact, through Jane, with the *Association of Mystic Trees of Wise Australia*, which offers him the possibility to rebuild his precious jungle, but obviously, in exchange for a price.

@@ -56,4 +56,3 @@ Speciala!
 `stdout`
 ```
 270
-```

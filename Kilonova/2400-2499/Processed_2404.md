@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A sequence $s_1, s_2, \ldots, s_k$ of natural numbers is called $xy$*-dominant* for given values $x$ and $y$ if:
@@ -88,4 +88,3 @@ In total, there are $28$ $xy$*-dominant* subarrays, among which are $[1,1,1,2]$,
 ## Explanation
 
 In total, there are $15$ $xy$*-dominant* subarrays, such as $[5,3,5,1,4,5,1,4,2,2,4]$.
-```

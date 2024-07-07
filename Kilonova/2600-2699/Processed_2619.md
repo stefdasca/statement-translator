@@ -111,4 +111,3 @@ The archipelago on the 4th day:
 ..###LLLC.
 .#####..C.
 #######.C.
-```

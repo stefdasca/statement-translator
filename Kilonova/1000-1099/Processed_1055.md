@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given two natural numbers $n$ and $k$. Determine the largest value that can be obtained by removing exactly $k$ digits from the number $n$, with all removed digits being in consecutive positions (one after another).
@@ -41,5 +41,4 @@ The output file `cifrevecine.out` will contain the required value on the first l
 `cifrevecine.out`
 ```
 38
-```
 ```

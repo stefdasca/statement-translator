@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given the set $M= \{1, 2, 3, \dots , n \}$. We define a *bipermutation of order $n$* as a matrix $a$ with two rows and $n$ columns, in which each number $k$ of the set $M$ appears in the matrix **in two distinct columns** (figures $1$, $2$, $3$, and $4$ each contain a bipermutation, while the matrix in figure $0$ is not a bipermutation).

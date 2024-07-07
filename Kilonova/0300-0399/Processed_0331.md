@@ -46,4 +46,3 @@ cout.tie(nullptr);
 `stdout`
 ```
 3
-```

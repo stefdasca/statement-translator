@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 An array is a sequence of natural numbers. Initially, there are $N$ arrays, numbered from $1$ to $N$, each containing a single natural number. Then, other $M$ arrays are defined (numbered from $N+1$ to $N+M$). The array $i$ ($N+1 \leq i \leq N+M$) is obtained by concatenating the arrays with numbers $a(i)$ and $b(i)$. By concatenation we mean adding the elements of $b(i)$, in order, after the last element of $a(i)$. After concatenation, the arrays $a(i)$ and $b(i)$ are not modified (practically, only a new array is created without modifying the existing arrays).

@@ -1,4 +1,4 @@
-```markdown
+
 `<Link />` wants to get his hands on a new `C chart`, which can only be found on `The Isle of <meta>`, inside `The Temple of <element>`. To enter the Temple, he must first solve a puzzle.
 
 `<Link />` must first enter a $T$-dimensional plane, so each point in space is described by a vector of length $T: [x_1, x_2, x_3, \dots, x_T]$. In this plane, there are $N$ stationary statues numbered from $1$ to $N$ and $Q$ movable statues numbered from $1$ to $Q$. `<Link />` can make the following move **up to $K$** times: he can choose any **movable** statue and an axis and move that statue exactly one unit in any direction. That is, the coordinates of such a statue will become either $[x_1, x_2, \dots, x_i−1, \dots, x_T]$ or $[x_1, x_2, \dots, x_i+1, \dots, x_T]$.
@@ -86,5 +86,4 @@ Print a single integer representing the minimum sum of Manhattan distances from 
 `stdout`
 ```
 708
-```
 ```

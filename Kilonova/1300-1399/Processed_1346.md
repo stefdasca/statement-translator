@@ -1,4 +1,4 @@
-```markdown
+
 Neurological researchers have identified in the human retina an area of bipolar neurons, which have exactly two branches, arranged in a pyramidal structure. The neuron structure is arranged on $n$ levels such that on a level $k$ there exist $k$ neurons $(k = 1, 2, \dots, n)$. It was found that a neuron in this structure can transmit nerve impulses only to the two neurons, corresponding to the two branches, located on the next level.
 
 Upon receiving the first impulse by a neuron in the network, it forwards the impulse as follows: if it is on an even level, it sends it to the left neuron, and if it is on an odd level, it sends it to the right neuron on the next level.

@@ -1,4 +1,4 @@
-```markdown
+
 Given $N$ triplets of natural numbers ($a_i$, $b_i$, $c_i$), where $c_i \neq 0$ and $1 \leq i \leq N$, each representing a rational number $q_i$ equal to $\\frac{(-1)^{a_i} \cdot b_i}{c_i}$.
 
 # Task

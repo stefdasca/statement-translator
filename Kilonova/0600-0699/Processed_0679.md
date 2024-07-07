@@ -1,4 +1,4 @@
-```markdown
+
 Two integers $N, M$ are given along with two sequences of non-negative integers $P$, of $N$ elements, and $Q$, of $M$ elements. Then, the matrix $A$ with $N$ rows and $M$ columns is defined, where the element $A_{i,j}$ at row $i$ and column $j$ is defined by the relation
 
 $$ A_{i,j} = (P_i \cdot Q_j) \text{ xor } P_i \text{ xor } Q_j $$

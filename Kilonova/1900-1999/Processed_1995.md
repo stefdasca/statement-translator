@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Geo has learned a method to fix $n$ points on a circle of radius $r$, such that they divide the circle into $n$ equal-length chords. Then he chose a number $k$ and started connecting the points successively, from $k$ to $k$, keeping the same direction, until he returned to the starting point. Thus, if he fixed $n=10$ points on the circle which he numbered $1, 2, \dots, 10$ (see the figure) and chose $k=6$, then he connects point $1$ to $7$, then $7$ to $3$, then $3$ to $9$, then $9$ to $5$, and finally $5$ to $1$.
@@ -50,5 +50,4 @@ In the file `poligon.out`, write on different lines two values: the first line w
 ```
 30
 5452.0431
-```
 ```

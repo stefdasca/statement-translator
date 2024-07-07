@@ -1,4 +1,4 @@
-```markdown
+
 At the ski jumping competition within the Winter Olympic Games, $N$ competitors are participating, numbered from 1 to N.
 
 The rules for conducting the competition are as follows:
@@ -51,4 +51,3 @@ In the file `schi.out` $K$ numbers will be written, separated by a space, repres
 ## Explanation
 
 With the score $5$, the first place was never occupied, with the score $1$ the first place was occupied for one minute, with the scores $6$ and $8$ the first place was occupied for 4 minutes. With the score $2$ the first place was not occupied at all. It wasn't even scored by any competitor. With the score $9$, the first place was occupied for one minute.
-```

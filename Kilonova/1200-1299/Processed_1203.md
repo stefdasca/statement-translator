@@ -1,4 +1,4 @@
-```
+
 On a chessboard of size $N \\cdot N$, there is a dice (with edge length equal to the edge length of the square defining a square of the chessboard). This dice can roll according to a sequence of commands read from a file, each read character having the following meanings:
 
 * $u$ roll in the square above (up);
@@ -66,5 +66,4 @@ uuuuuuuuu
 ```
 25 24 35 14 27 22
 1 4 6 3 1 4 6
-```
 ```

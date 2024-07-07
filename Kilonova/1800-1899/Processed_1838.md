@@ -1,4 +1,4 @@
-```markdown
+
 Two of the most mischievous Dacians in all of history, Danillo and Stegano, thought it would be amusing to dig some tunnels that lead nowhere. They knew that future historians would be very confused about the existence of senseless tunnels and would try to find the reason for their construction, when in fact these tunnels have no purpose.
 
 They found an immense wall where they could start digging, but unfortunately, some parts of the wall are indestructible, so they will have to go around them. For aesthetic reasons, the entrance to the tunnel must be circular.
@@ -69,5 +69,4 @@ Print on a single line three integers separated by spaces $x$, $y$ and $R$. $(x,
 `stdout`
 ```
 0 0 0
-```
 ```

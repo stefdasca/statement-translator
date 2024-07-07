@@ -4,7 +4,7 @@ Certainly! Here is the translated document:
 
 In a distant land, the economy is in crisis. The biggest problem is the lack of capital which creates financial blockages. For example, a company $X$ may owe debts to a company $Y$ which it cannot pay because another company $Z$ owes debts to company $X$ which remain unpaid, and so on.
 
-There is a list of all company debts in the following form: $X > Y \\ S$, meaning “company $X$ owes company $Y$ an amount $S$”. It is possible that $X$ has multiple debts to company $Y$ (depending on the contracts concluded together) or even that $X$ owes debts to $Y$ and $Y$ has debts to $X$.
+There is a list of all company debts in the following form: $X > Y \\ S$, meaning “company $X$ owes company $Y$ an amount $S$�. It is possible that $X$ has multiple debts to company $Y$ (depending on the contracts concluded together) or even that $X$ owes debts to $Y$ and $Y$ has debts to $X$.
 
 # Task
 

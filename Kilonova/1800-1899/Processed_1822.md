@@ -1,4 +1,4 @@
-```markdown
+
 We have a chessboard of size $N \times N$ and a knight piece, but more special than the one known in the popular thinking sport. The knight in our problem also makes L-shaped moves without leaving the chessboard. One of the sides of the L has the length of two squares, and the other side can have any length $x \\ (1 \\leq x \\leq N)$. We call a move of type $x$ a move where one side has a length of $2$ and the other has a length of $x$. 
 
 A sequence of moves will be encoded as a **decreasing** sequence of natural numbers representing the move types it consists of, regardless of the order in which they were performed. For example, the sequence $4\\ 4\\ 4\\ 2$ encodes three moves of type 4 and one of type 2. We say that the sequence of moves $a_1, a_2, \ldots, a_k$ is lexicographically greater than $b_1, b_2, \ldots, b_k$ if there exists an $i$ where $1 \\leq i \\leq k$, such that: $a_i > b_i$ and $a_j = b_j$, for every $j < i$.

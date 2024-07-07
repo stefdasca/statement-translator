@@ -15,7 +15,7 @@ The arrays $X$ with $L_X$ natural elements and $Y$ with $L_Y$ natural elements a
 The pseudocode describing the generation of _Update_/_Query_ operations:
 
 ```cpp
-for (i = 1; i <= M; i++)
+for (i = 1; i \leq M; i++)
     {if (i % Q == 0) // generate an Update operation
          {poz=A1%N; c='a' + A2 % 26;    
           S[poz] = c; }

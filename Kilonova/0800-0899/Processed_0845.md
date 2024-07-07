@@ -1,4 +1,4 @@
-```markdown
+
 A sequence $x_1, x_2, \dots, x_n$ consisting of $n$ distinct natural numbers is considered. A maximum number of contiguous neighboring elements in the sequence of the form $x_i, x_{i+1}, \dots, x_{k-1}, x_k, x_{k+1}, \dots, x_j$ ($1 \leq i < k < j \leq n$) with the property that $x_i < x_{i+1} < \dots < x_{k-1} < x_k > x_{k+1} > \dots > x_j$, is called a *mountain* with the peak $x_k$. Two mountain sequences have at most one common element in the sequence. A mountain sequence has at least $3$ elements. An example of a sequence formed with the values $3 \\ 4 \\ 6 \\ 8$ contains no mountain sequence, while one formed with the values $3 \\ 4 \\ 8 \\ 1 \\ 2 \\ 5 \\ 0$ contains $2$ mountain sequences: $3 \\ 4 \\ 8 \\ 1$ and $1 \\ 2 \\ 5 \\ 0$. 
 
 After determining all the mountain sequences and their peaks, the peaks of the mountain sequences are removed from the sequence, and the procedure continues repeatedly with determining the new mountain sequences and their peaks from the newly obtained sequence. The procedure stops when the sequence no longer contains any mountain sequence. 
@@ -50,4 +50,3 @@ The output file `munte.out` will contain on the first line a natural number acco
 1. There are two mountain sequences: $1 \\ 2 \\ 5 \\ 0$ and $0 \\ 6 \\ 9 \\ 3$
 2. After removing the peaks of the mountain sequences, the new sequence is $1 \\ 2 \\ 0 \\ 6 \\ 3 \\ 4$. This sequence contains $2$ mountain sequences: $1 \\ 2 \\ 0$ and $0 \\ 6 \\ 3$. After removing the peaks of the mountain sequences, the new sequence is $1 \\ 0 \\ 3 \\ 4$. The new sequence no longer contains any mountain sequence. In total, there are $4$ sequences.
 3. The final sequence that no longer contains mountain sequences $1 \\ 0 \\ 3 \\ 4$ has $4$ elements.
-```

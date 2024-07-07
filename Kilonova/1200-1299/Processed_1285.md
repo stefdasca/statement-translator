@@ -1,4 +1,4 @@
-```markdown
+
 An expressway is considered laid out in a straight line with $N$ access points (entrance and exit).
 
 At each access point, there are waste collection containers, all containers have the same capacity and at each access point, there can be multiple such containers. The company responsible for cleaning has only one means of transporting the containers. This means of transport can load exactly $K$ containers.
@@ -45,5 +45,4 @@ The output file `auto.out` will contain $T$ lines, on line $i$ there will be the
 ```
 1 2
 1 3
-```
 ```

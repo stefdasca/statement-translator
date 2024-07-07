@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Alessandro is a famous juggler and everyone loves him. He was asked to organize multiple shows, and he needs some help scheduling them.

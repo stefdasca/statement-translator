@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A Monopoly board of side length $n$ is made up of the squares along the edge of a square with side length $n$:
@@ -179,5 +179,4 @@ In the third second, the robot will move forward with $2$ squares, and its batte
 `monopol.out`
 ```
 4898979
-```
 ```

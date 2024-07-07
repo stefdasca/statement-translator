@@ -1,4 +1,4 @@
-```markdown
+
 King George VI of the United Kingdom faced an unusual problem for a person who had to give speeches: he stuttered. He stuttered even when he said numbers. Interestingly, when he said a number, he repeated only one of the digits of that number, immediately after pronouncing the respective digit.
 
 For example, the number $70243$ could be pronounced when he stuttered as $770243$ or as $700243$ or as $702243$ or as $702443$ or as $702433$.
@@ -102,4 +102,3 @@ $87442112478$ is the largest among them. The number $87442112478$ is a *palilind
 ## Explanation
 
 It is not possible to form a *palilindrome* that includes all the digits of $X$. Thus, the largest *palilindrome* that can be created using the digits of $X$ is $4$. The number $4$ is a *palilindrome* because it can transform after a stutter into a palindrome, namely $44$.
-```

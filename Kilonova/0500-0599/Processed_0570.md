@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an array of numbers $A$ of length $N$, with $A_1 = 1$ and each $A_i$ being a multiple of $A_{i-1}$, and a number $K$. In one operation, we choose a term from $A$ and subtract its value from $K$, the array $A$ remains unchanged.
@@ -33,4 +33,3 @@ Print the minimum number of operations.
 ## Explanation
 
 $14 - 3 - 1 - 9 - 1 = 0$
-```

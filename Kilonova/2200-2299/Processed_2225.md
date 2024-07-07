@@ -1,4 +1,4 @@
-```
+
 The natives from the island BuruBuru have just discovered asphalt, so they have connected their $N$ villages (numbered from $1$ to $N$) through $M$ bidirectional roads, each with a given length.
 
 Seeing these technological advances, some colonists decided they want to take control of the island. They start from the village with index $S$ (the place where they landed) and head towards the capital city of the natives, the city $D$, traveling the route of minimal length (the sum of the lengths of the roads forming the route should be minimal).
@@ -40,5 +40,4 @@ The file `asfalt.out` will contain on the first line the minimum number of roads
 2
 1 2
 1 3
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 You have just downloaded the latest version of the well-known game Plants vs. Zombies. The game is played on an infinite 2D field where multiple zombies will appear. Each zombie has a starting position $(s_x, s_y)$ where it appears, a speed of `v` units/second, and a string of exactly `15` moves that it will make. A move is encoded by a character from the set `{U, R, D, L}` ("up", "right", "down", "left").
 
 Zombies will perform the moves sequentially, starting from the first move. Each zombie will move in the direction indicated by the current move for exactly one second, after which it will proceed to the next move. For instance, if a zombie has a speed of `3`, starts at the position `(2, 4)`, and the first move is `U`, it will make the moves `(2, 4) → (2, 5) → (2, 6) → (2, 7)` in one second, after which it will proceed to the next move. For more information, see the explanations.
@@ -82,4 +82,3 @@ Explanation
 ---
 This is the figure for the first example:
 ~[Enunt_Zombies.jpg]
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A **directed** graph with $n$ nodes and $m$ edges is given. Each edge has a cost of $1$ (it can be traversed in one minute). Two "friends" (cousins) start from node $S$. One of them wants to reach node $A$, and the other one wants to reach node $B$.
 
 The two friends will walk together until they cycle, meaning until they reach the same node a second time, denoted by $Z$. After cycling, they can continue their paths separately. However, if they want, they can continue together on the same path: only the obligation to walk together disappears.
@@ -140,4 +140,3 @@ The correct answer for $c = 1$ is $5$. A cycle ending in $A = 3$ is used.
 For $c = 2$, the only correct triplet of paths is $(1 \rightarrow 3 \rightarrow 2 \rightarrow 3,\\ 3 \rightarrow 2,\\ 3 \rightarrow 2 \rightarrow 4)$.
 
 **Attention!** The triplet $(1 \rightarrow 3 \rightarrow 2 \rightarrow 3 \rightarrow 2,\\ 2,\\ 2 \rightarrow 4)$ is incorrect, as the first visited node for the second time is not $2$.
-```

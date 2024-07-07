@@ -1,4 +1,4 @@
-```
+
 To keep better track, the manager of a store creates a list of the products available in the store at the beginning of the day. He writes the names of the products, using words of the same length, composed only of lowercase letters of the English alphabet. As soon as the list is completed, he associates it with a code representing the smallest word in lexicographic order, obtained by taking one letter from each product name, in the order they are written on the list.
 
 He observes that this code can be obtained in several ways. However, he wants to identify the variant where the chosen letters are as close as possible, in other words, the distance, representing the number of positions, between the smallest and largest positions where the chosen characters are placed, is minimal. For example:
@@ -54,4 +54,3 @@ c**a**cao
 **a**rdei
 l**a**pte
 p**e**ste
-```

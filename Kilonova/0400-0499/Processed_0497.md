@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 The local zoo has acquired a large open garden where animals can move freely as in their natural habitats and can entertain visitors with their usual antics.
 The most appreciated animals are the monkeys. With their climbing, jumping, and other skills, they delight both old and young visitors alike.

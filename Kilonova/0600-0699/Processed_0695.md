@@ -1,4 +1,4 @@
-```markdown
+
 A permutation of order $N$ is called a $mountain\ permutation$ if and only if for each $i$, $1 \leq i \leq N$, $i$ even, the condition $v[i-1]>v[i]<v[i+1]$ holds. If $i=N$, only the condition $v[i-1]>v[i]$ must hold.
 
 For example, the permutation of order 5 $[2, 1, 4, 3, 5]$ is a $mountain\ permutation$, because $2>1<4$ and $4>3<5$, but the permutation of order 5 $[2, 1, 5, 4, 3]$ is not a $mountain\ permutation$ because $5>4>3$, so for $i=4$ the condition is not met.
@@ -44,4 +44,3 @@ The first line contains the result modulo $M$.
 ## Explanation
 
 The number of mountain permutations with order $ \leq 5$ is $25$. $2$ of these permutations are $[4, 1, 3, 2]$ and $[3, 1, 2]$.
-```

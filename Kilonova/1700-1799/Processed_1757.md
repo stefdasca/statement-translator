@@ -32,4 +32,3 @@ The file `calatorie.out` contains on the first line a single natural number repr
 `calatorie.out`
 ```
 8
-```

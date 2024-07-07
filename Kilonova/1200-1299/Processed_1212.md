@@ -1,4 +1,4 @@
-```markdown
+
 The fertile gardens of Bărăgan suffer immense losses annually due to drought.
 
 Water seekers have found $n$ wells from which they want to supply $n$ gardens. Let $G_i$, $F_i$, $i=1 \ldots n$ be points in the plane representing the supply points of the gardens and respectively the points where the wells are located. For each point, the integer coordinates $(x,y)$ in the plane are given. To economize materials, the connection between a garden and a well is made through a straight pipeline. Each well supplies a single garden. The County Council of Galați will pay for the investment under the condition that the total length of the pipelines is minimal. Each unit of pipeline costs $100$ new lei (RON).
@@ -53,4 +53,3 @@ The minimum cost is $[6.24264 \cdot 100]=624$ by linking the pairs:
 Gardens: $(1 \ 4) \ (3 \ 3) \ (4 \ 7)$
 
 Wells: $(2 \ 3) \ (3 \ 1) \ (2 \ 5)$
-```

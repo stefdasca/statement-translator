@@ -1,4 +1,4 @@
-```markdown
+
 Baxibilian, while learning computer science, discovered the game _Loopover_. This game can be described by the following rules:
 
 * The game is played on a square board of $n \times n$ cells, where both rows and columns are numbered from $1$;
@@ -144,4 +144,3 @@ U 3
 ## Explanation
 
 $4 \ 284$ applications of the sequence are needed to return to the initial state.
-```

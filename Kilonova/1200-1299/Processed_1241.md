@@ -1,4 +1,4 @@
-As you well know, Professor Utonium created the Powerpuff Girls by "adding sugar, spice, and everything nice, and accidentally, element $X$.‚Äù Element $X$ distinguishes the three girls and simultaneously defines their powers. In our problem, element $X$ is a natural number with a maximum of $6$ digits. The digits that make up this number define the girls' powers.
+As you well know, Professor Utonium created the Powerpuff Girls by "adding sugar, spice, and everything nice, and accidentally, element $X$.‚Ä Element $X$ distinguishes the three girls and simultaneously defines their powers. In our problem, element $X$ is a natural number with a maximum of $6$ digits. The digits that make up this number define the girls' powers.
 
 Mojo Jojo, the evil scientist, conducts numerous experiments trying to create villains capable of defeating the girls. Mojo Jojo creates villains by "adding" for each one an element $Y$, which is also a natural number with a maximum of $6$ digits.
 
@@ -48,7 +48,7 @@ The output file `powerpuff.out` will contain on one line the three numbers $X$ w
 
 ## Explanation
 
-First, $x_1$ (value $234$) is compared with $r_1$ (value $554$). $234$ has "extra‚Äù digits $2$, $3$ and "misses‚Äù $5$ and $5$ so $234+2+3-5-5 = 229$. $229$ has "extra‚Äù digits $2$, $2$ and $9$ and "misses‚Äù $4$, $5$ and $1$ so $229+2+2+9-4-5-1 = 232$ (the final power of the first girl).
+First, $x_1$ (value $234$) is compared with $r_1$ (value $554$). $234$ has "extra‚Ä digits $2$, $3$ and "misses‚Ä $5$ and $5$ so $234+2+3-5-5 = 229$. $229$ has "extra‚Ä digits $2$, $2$ and $9$ and "misses‚Ä $4$, $5$ and $1$ so $229+2+2+9-4-5-1 = 232$ (the final power of the first girl).
 
 Similarly, $133+1+3+3-5-5-4 = 126$; $126+1+2+6-4-5-1 = 125$ (the final power of the second girl).
 

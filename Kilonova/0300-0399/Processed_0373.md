@@ -1,4 +1,4 @@
-```markdown
+
 Bubu and Puffy have started gambling. Although it sounds strange, they are playing the famous game called Hangman. But because they got bored, now they want to play with you. They will give you a dictionary with `N` words formed only with lowercase letters of the alphabet, and then `T` secret words for which you will only know their lengths. You will need to "guess" each secret word, having at your disposal the functions:
 ```cpp
 std::vector<int> ask(char ch);
@@ -51,4 +51,3 @@ The contestant calls `guess("benene")`. The function returns `false`, the cost i
 The contestant calls `ask('a')`. The function returns `{1,3,5}`, the cost is `5+1=6`.
 The contestant calls `guess("banana")`. The function returns `true`, the cost is `6+0=6`.
 `solve` returns `"banana"`, the total cost is `6`.
-```

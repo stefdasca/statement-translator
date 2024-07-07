@@ -1,4 +1,4 @@
-```
+
 Lensu has a very large garden and wants to water all the $N$ plants placed in a line next to his fountain. To avoid wilting by the evening, each plant $i \\ (i \in {1, 2, \dots, N})$ must receive at least $c_i$ drops of water. He doesn't want to waste time, so he asked the robotics team to help build a robot that will do all the work for him.
 
 Although they worked a lot on the robot, its algorithm is very peculiar. From the spot it is in, our robot will water with one drop each second of idleness all the plants in the interval delimited by the nearest plant on the left with a required amount strictly less than the current plant's required amount and the nearest plant on the right with a required amount strictly greater than the current plant's required amount. If there is no such plant on the left, the robot will water up to plant $1$, and if there is no such plant on the right, the robot will water up to plant $N$.
@@ -68,4 +68,3 @@ The robot will execute the last command and water the plants from position $1$ t
 At the end of the operations, each plant will be watered for:
 $6 \\ 6 \\ 6 \\ 5 \\ 5 \\ 3 \\ 3 \\ 3 \\ 0 \\ 0$ seconds.
 It is observed that $15$ drops are wasted, which we can redistribute to save a maximum of $4$ plants.
-```

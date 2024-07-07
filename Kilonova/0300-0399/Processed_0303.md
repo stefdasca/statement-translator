@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 This is the legend of the old, long-lost package in Dristor 2.
@@ -36,5 +36,4 @@ You should output the number of different searches the group can try (modulo $10
 `stdout`
 ```
 3
-```
 ```

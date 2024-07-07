@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 $M$ mafiosos have taken control of the city of Grozburg. This city is represented as the $Ox$ axis of the coordinate system, with each positive integer coordinate having a building. It is known that among all the buildings in the city, $N$ are banks where the mafiosos can deposit their illegal earnings. Each mafioso can use his influence to control an interval of exactly $K$ consecutive buildings in the city. To avoid raising suspicions from DIICOT, the mafiosos want a minimal number of buildings in the city to be under their influence. A building is considered to be under the influence of the mafiosos if it is under the influence of at least one of them.
@@ -39,4 +39,3 @@ The first (and only) line of the file `mafioti.out` should contain the minimum n
 ## Explanation
 
 The first mafioso chooses the buildings $1, 2, 3, 4$ (controls bank $1$). The second chooses the buildings $1, 2, 3, 4$ (controls bank $3$). The third chooses the buildings $2, 3, 4, 5$ (controls bank $4$). The fourth chooses the buildings $2, 3, 4, 5$ (controls bank $5$). In total, the mafiosos control a minimum of $5$ buildings.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 In the _Altfel - "Să știi mai multe, să fii mai bun"_ week, students $A$ and $B$ are playing a _different_ game called "margins". The two have a binary square matrix of size $2^n$ at their disposal.
 
 ~[margi1.png|align=right]
@@ -126,4 +126,3 @@ The maximum sum = ($0$ + $1$) + ($0$ + $1$) = $2$. If we had $C = 2$, on lines $
 
 The maximum sum = ($7 + 5$) + ($3 + 3$) + ($1 + 1$) = $20$. The example from the figure above.
 
-```

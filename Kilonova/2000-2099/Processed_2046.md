@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A SUPERnumber is a number for which:
@@ -57,5 +57,4 @@ YES
 `stdout`
 ```
 NO
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a number with $N$ digits from which you must remove exactly $K$ digits. Calculate the maximum number that can be obtained.
@@ -40,5 +40,4 @@ The first line of the output file `numar-maxim.out` will contain a single number
 `numar-maxim.out`
 ```
 775841
-```
 ```

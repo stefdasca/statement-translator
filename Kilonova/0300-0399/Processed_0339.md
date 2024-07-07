@@ -35,4 +35,3 @@ The output will contain on the first line $q$ integers, the number of circuits o
 `stdout`
 ```
 6 20
-```

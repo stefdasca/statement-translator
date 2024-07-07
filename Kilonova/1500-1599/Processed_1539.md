@@ -1,4 +1,4 @@
-```
+
 A set with natural number elements can be written in a **reduced form** if, when ordered in increasing order, the difference between any two consecutive values is the same. For example, set $D = \\{11, 14, 17, 20, 23\\}$ can be written as `D=11-23/3`, specifying the minimum element, the maximum element, and the difference between elements.
 
 Given $N$ sets written in reduced form, each labeled with a capital letter of the English alphabet, it is required to calculate an expression that can contain:

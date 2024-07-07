@@ -1,4 +1,4 @@
-```markdown
+
 A digital signal represents a succession of data represented using two voltage levels called logical $0$ and logical $1$ and are found in all digital electronics, especially in computing equipment and those used for data transmission.
 The graphical representation or so-called waveform of a digital signal is an uninterrupted succession of horizontal lines at level $0$ or level $1$, connected by vertical lines, as shown in the adjacent image.
 

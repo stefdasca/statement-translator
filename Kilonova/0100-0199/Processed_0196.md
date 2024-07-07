@@ -12,7 +12,7 @@ Calculate for how many distinct speed values the total consumption will be `L` l
 The input file `xmoto.in` contains the natural numbers `N` and `L` on the first line. The following `N` lines each contain four **real** numbers $a_i, b_i, k_i, q_i$ followed by one **integer** number $v_i$ with the meanings from the statement.
 
 # Output data
-The output file `xmoto.out` will contain on the first line a single number `M`, representing the maximum number of speed values for which traveling the entire track results in a total consumption of `L` liters. On the following `M` lines, `M` distinct real numbers will be printed, each with at least `6` **decimal places and sorted in ascending order** $w_1, w_2, ... w_M$, such that if the track is traveled at speed $w_i$ `(1<=i<=M)` the total consumption is `L` liters.
+The output file `xmoto.out` will contain on the first line a single number `M`, representing the maximum number of speed values for which traveling the entire track results in a total consumption of `L` liters. On the following `M` lines, `M` distinct real numbers will be printed, each with at least `6` **decimal places and sorted in ascending order** $w_1, w_2, ... w_M$, such that if the track is traveled at speed $w_i$ `(1\leqi\leqM)` the total consumption is `L` liters.
 
 # Constraints and clarifications
 * `N \leq 50000`
@@ -49,4 +49,4 @@ The output file `xmoto.out` will contain on the first line a single number `M`, 
 
 `28.8 \leq 60` so the consumption on the first segment is `x = 3*28.8 + 2 = 88.4`
 `28.8 \leq 50` so the consumption on the second segment is `y = 2*28.8 + 4 = 61.6`
-Total consumption: `x + y = 88.4 + 61.6 = 150`
+Total consumption: `x + y = 88.4 + 61.6 = 150

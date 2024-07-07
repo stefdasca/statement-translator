@@ -1,4 +1,4 @@
-```markdown
+
 ~[img1.JPG|align=right|width=auto]
 The 100 meters flat race is one of the most popular and prestigious events in any athletics competition. The current world record for this event is held by Jamaican athlete Usain Bolt with a time of $9.58$ seconds.
 

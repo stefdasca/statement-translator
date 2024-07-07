@@ -1,4 +1,4 @@
-```
+
 It's spring and the storks are returning. In our village, the poles at the edge of the road have tips that are too sharp, and therefore, the storks cannot build their nests. So there is great sadness here... But we all gathered together and decided to install a horizontal flat support on top of some poles, so that it would be easy for a stork to arrange its nest. We have $n$ poles at the edge of the road, arranged linearly and numbered from $0$ to $n - 1$.
 
 A number of $m$ villagers came with a restriction of the form $i \\ j$, meaning that on the poles in the interval $[i, j]$ at most two supports for stork nests can be installed. The reasons for these restrictions are diverse, such as the poles being too close to each other. We will take these into account because we want all the villagers to be satisfied.
@@ -55,5 +55,4 @@ T I T I
 T I T T
 I T T I 
 I T T T
-```
 ```

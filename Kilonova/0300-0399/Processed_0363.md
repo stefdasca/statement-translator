@@ -39,4 +39,3 @@ Print $q$ lines, the answers to each query. Every line should contain two number
 1 9
 12 15
 0 31
-```

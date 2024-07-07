@@ -1,4 +1,4 @@
-```
+
 # Task
 
 Generate a two-dimensional array with the following properties:
@@ -36,5 +36,4 @@ The output file `tablou.out` contains $N$ rows, each with $N$ numbers, represent
 4 6 7
 7 4 5
 5 7 6
-```
 ```

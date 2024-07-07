@@ -1,3 +1,3 @@
-It seems there is no “statement-ro.md” file available to translate. Your request includes processing a Romanian text file that outlines a competitive programming problem. However, without access to the content, it's not possible to provide a translation.
+It seems there is no “statement-ro.md� file available to translate. Your request includes processing a Romanian text file that outlines a competitive programming problem. However, without access to the content, it's not possible to provide a translation.
 
 If you can provide the actual content of the problem statement in Romanian, I would be happy to help translate it to English while preserving the necessary formatting and detail.

@@ -28,4 +28,3 @@ The file `portocal.out` contains on the first line the natural number $m$, repre
 `portocal.out`
 ```
 3
-```

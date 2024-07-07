@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Kida decided to test your knowledge again. You are given a list $V$, of $N$ integers. Kida asks you to count the number of interesting subsets that satisfy the following condition: for any two numbers $V_x$ and $V_y$ in the subset, $V_x$ appears in the subset the same number of times as $V_y$.

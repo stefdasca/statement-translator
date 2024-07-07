@@ -1,4 +1,4 @@
-```markdown
+
 The Dragon Arhirel decides to learn biology, so he wants to buy the 10th-grade textbook. Unfortunately, it is no longer available on the market, but Arhirel manages to find a copy from a friend. After starting to read, Arhirel notices that there are mistakes in his friend's copy, and in a burst of energy, he decides to correct the textbook. He has a dictionary of $M$ words from which he needs to extract variants for the incorrect word. Regarding the incorrect word, the dragon can make the following changes to turn it into a variant from the dictionary:
 - he can delete a letter;
 - he can insert a letter;
@@ -46,5 +46,4 @@ The output file `cuvinte.out` will contain $M$ lines. On line $i$ there is the v
 1
 0
 1
-```
 ```

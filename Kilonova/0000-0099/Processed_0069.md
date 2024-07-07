@@ -1,4 +1,4 @@
-```markdown
+
 Robert got bored of his white t-shirt, so he decided to dye it in his favorite color, blue. He received from his friend, Georgian, multiple pills of `N` different shades of blue, now having $p_i$ pills of the `i`-th shade of blue (for `i` from `1` to `N`). To dye the t-shirt, Robert will put the t-shirt in the washing machine along with various pills.
 
 Bored of the usual shades of blue, he will create a new shade by taking $a_1, ..., a_N$ pills ($a_i$ pills from the initial shade `i`). Robert will take **at least one pill** from each initial shade and at most $p_i$ pills from shade `i`. Also, he can only use an integer number of pills from each type. Two shades $a_1, ..., a_N$ and $b_1, ..., b_N$ will be considered the same if and only if $\\frac{a_1}{b_1} = ... = \\frac{a_N}{b_N}$.

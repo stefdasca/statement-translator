@@ -30,4 +30,3 @@ The first line of the output file `asfalt.out` will contain a single integer, re
 `asfalt.out`
 ```
 2
-```

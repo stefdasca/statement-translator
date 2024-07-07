@@ -1,4 +1,4 @@
-```markdown
+
 Once upon a time, in a distant land, there lived a pig named John Pork. He never had a phone, but he wanted to talk to people and have friends. John Pork made many plans and saved money to buy his first phone. After many efforts, he managed to buy a mobile phone. He was so excited that he couldn't hold his joy for himself. He started calling people, but no one answered him. However, John Pork did not give up.
 *-chat gpt*
 
@@ -43,6 +43,5 @@ In the `mex.out` file, print $Q$ lines, representing the answers to the queries,
 26
 4
 1
-```
 ```
 ```

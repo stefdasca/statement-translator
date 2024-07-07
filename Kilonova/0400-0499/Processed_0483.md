@@ -1,4 +1,4 @@
-```markdown
+
 # Task<br><br>
 
 Given $3$ numbers $a$, $b$, and $c$.  <br><br>
@@ -73,4 +73,3 @@ The output file **adece.out** will contain the result of the problem, modulo $10
 
 - In the first example, the $5$ strings that meet the conditions in the statement are: `"acb"`, `"bac"`, `"bca"`, `"cab"`, and `"cba"`.
 - In the second example, the $10$ strings that meet the conditions in the statement are: `"acbc"`, `"accb"`, `"bacc"`, `"bcac"`, `"bcca"`, `"cacb"`, `"cbac"`, `"cbca"` , `"ccab"`, and `"ccba"`.
-```

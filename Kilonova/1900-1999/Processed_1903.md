@@ -73,4 +73,3 @@ ajhsajdjadnggsk
 `stdout`
 ```
 1100001
-```

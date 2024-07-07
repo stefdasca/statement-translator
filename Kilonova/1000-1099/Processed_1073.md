@@ -1,4 +1,4 @@
-```markdown
+
 A number is called **putere4** if it can be written in the form $X^4$ + $Y^4$ (with $X$ and $Y$ being non-zero natural numbers).
 
 Given a sequence of $N$ natural numbers $T_1$, $T_2$, $\dots$, $T_N$. The sum of a subarray of $K$ terms of the sequence $T_i^4$ + $T_{i+1}^4$ + $\dots$ + $T_{i+K-1}^4$ is called **sum4** if its last digit is $4$.
@@ -42,4 +42,3 @@ The output file `patru.out` contains on the first line the number of terms of th
 ## Explanation
 
 There are three **putere4** elements, namely $2$, $17$, and $17$. There are $2$ **sum4** subarrays of length $5$ with the given property (the one that starts at position $1$ and the one that starts at position $2$).
-```

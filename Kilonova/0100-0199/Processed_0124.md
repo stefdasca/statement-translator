@@ -41,4 +41,3 @@ The output file `nr.out` contains a single line that contains the smallest natur
 ```
 20102
 ```
-```

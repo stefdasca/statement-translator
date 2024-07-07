@@ -53,4 +53,4 @@ If the maximum score associated with a test is $s$, then a source that correctly
 * Contestant: `cel_mai_tare_hack(-3)`
 * Commission: `1`
 * Contestant: `return {-3,-2}`
-* Commission: `OK 2 queries used`
+* Commission: `OK 2 queries used

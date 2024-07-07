@@ -40,4 +40,3 @@ The output file: `foto.out` has the following structure:
 40 130
 100 140
 20 10
-```

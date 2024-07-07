@@ -1,4 +1,4 @@
-```markdown
+
 Chess is becoming more and more popular in IIOTLand and as a result, the government decided to organize a chess tournament in order to award the best chess players from the country. In order to find out more about the outcome of the tournament, you have been asked by the government to analyze the results of each game played.
 
 In short, you are given the descriptions of each game, move by move, and you have to print the outcome of each game. The moves are noted according to the algebraic chess notation.
@@ -41,5 +41,4 @@ The output will contain for each of the testcases a string, which is either "Fir
 First
 Second
 First
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with `m` rows and `n` columns is given, with non-zero natural number elements and a fixed non-zero natural number `k`.
 
 # Task
@@ -62,4 +62,3 @@ For the first and last questions, there are two submatrices:
 ```
 
 The first submatrix is obtained by the intersection of the first two rows with the first two columns, and the second by the intersection of the last two rows with the last two columns.
-```

@@ -27,4 +27,3 @@ The output file `palindrom.out` contains on the first line the largest palindrom
 `palindrom.out`
 ```
 3211123
-```

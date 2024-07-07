@@ -1,4 +1,4 @@
-```markdown
+
 Viorel received a strategy game from his parents. The hero of the game has an initial level $n$ and must complete certain missions. The hero $i$ is allowed access to a mission only if his level is at least equal to the minimum level required by it, and after each completed mission, his level increases to a certain value, specific to that mission.  
 After completing a mission, Viorel chooses another mission for his hero, under the mentioned conditions.  
 Because his parents do not let him play too much, Viorel must choose the $\\underline{\\text{minimum number of missions}}$, and his dream is to reach a $\\underline{\\text{level at least equal to} \\ m}$.

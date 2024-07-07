@@ -1,4 +1,4 @@
-```markdown
+
 Given a natural number $a$ having $n$ digits.
 
 # Task
@@ -38,4 +38,3 @@ The output file `numar.out` will contain a single line that will contain the num
 ## Explanation
 
 There are several numbers formed from exactly the same digits as the number $204 \ 924$ that are greater than it. Among these, $204 \ 942$ is the smallest.
-```

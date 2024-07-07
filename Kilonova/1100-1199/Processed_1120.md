@@ -191,4 +191,3 @@ SFARSIT
 `algor.out`
 ```
 6
-```

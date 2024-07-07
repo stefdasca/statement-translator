@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Miguel is a spectator at a horse race and, somehow, found a list of the top speeds of all the horses. There are $N$ horses, each competing exactly once. Horses compete in pairs, the fastest one being the winner. A horse $A$ with speed $X$ will compete with a horse $B$ with speed $Y$ such that horse $B$ has not competed before and $max(X,Y)-min(X,Y)$ is minimized. There will not be 2 horses that satisfy this condition for any horse $A$.
@@ -35,4 +35,3 @@ Print, in ascending order, the indices of the winning horses.
 # Explanation
 
 The pairs are $(408, 435)$, $(487, 524)$, $(605, 626)$, $(823, 831)$, the winners having indices $1, 4, 6, 8$
-```

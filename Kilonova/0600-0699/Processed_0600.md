@@ -1,10 +1,10 @@
-```markdown
+
 # Statement
 Mihai was a very naughty student during the computer science class, so the computer science teacher gave him the following problem to solve:
 
-Tell if an array of $N$ elements can become sorted in ascending order, by applying the operation “inter-K” as many times as you want.
+Tell if an array of $N$ elements can become sorted in ascending order, by applying the operation “inter-K� as many times as you want.
 
-We define the operation “inter-K” as follows:
+We define the operation “inter-K� as follows:
 - There exist $i$ and $j$, $1 \leq i, j \leq N$, $i \neq j$
 - If $a_i \equiv a_j$ (mod $K$), then the values $a_i$ and $a_j$ can be swapped
 
@@ -39,7 +39,7 @@ In the output file `crescator.out`, the first line contains the message $YES$ if
 YES
 ```
 # Explanations:
-In the array 6, 11, 2, 3, 7, we can apply the “inter-K” operation 3 times, as follows:
+In the array 6, 11, 2, 3, 7, we can apply the “inter-K� operation 3 times, as follows:
 swap the values 2 and 6, because $2 \equiv 6$ (mod $4$), resulting in the array 2, 11, 6, 3, 7,
 then swap the values 11 and 3, because $11 \equiv 3$ (mod $4$), resulting in the array 2, 3, 6, 11, 7,
 then swap the values 11 and 7, because $11 \equiv 7$ (mod $4$), resulting in the array 2, 3, 6, 7, 11, which is a sorted array.
@@ -47,4 +47,3 @@ then swap the values 11 and 7, because $11 \equiv 7$ (mod $4$), resulting in the
 ```
 
 I have translated the statement while preserving all mathematical values, variable names, and the overall format and structure. I have also corrected grammatical errors according to the rules of English language.
-```

@@ -43,4 +43,3 @@ By swapping the first two rows we obtain the matrix:
 ```
 1 0
 0 1
-```

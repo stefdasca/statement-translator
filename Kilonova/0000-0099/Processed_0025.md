@@ -1,4 +1,4 @@
-```markdown
+
 To attract tourists, the town hall of a city decided to build an enormous water park with `n` pools. The park will have a covered area and will be surrounded by an open space for outdoor activities.
 
 The enclosed area will be covered by a single building in the shape of a polygon, and the pools will be designed at the vertices of the polygon and can communicate with each other through `m` access paths that do not intersect. The access paths between two pools can be of type `1`: a water-filled canal inside the building, or of type `2`: an alley outside the building.

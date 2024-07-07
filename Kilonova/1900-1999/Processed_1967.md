@@ -1,4 +1,4 @@
-```markdown
+
 # Problem Statement
 Alex learned at school about several sequences like the Fibonacci sequence. Moreover, he learned that he can create his own sequence. After doing that, being naturally curious, Alex studied multiple properties of it, including the remainders of its numbers when divided by other numbers, but he's unable to answer all his questions, so he asks you to help him.
 
@@ -39,4 +39,3 @@ For tests worth $60$ points: $1 \leq q \leq 5000$
 
 # Explanation
 The first $7$ numbers in the sequence are $1,3,7,15,31,63,127$
-```

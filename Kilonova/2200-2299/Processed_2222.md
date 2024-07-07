@@ -1,4 +1,4 @@
-```markdown
+
 James Bond (JB) has a new mission: he must destroy $N$ two-dimensional planets, where there are secret bases (obviously not for JB) of villains. Each planet is shaped like a circle, having a certain number of secret bases on its circumference.
 JB will have to place a single bomb on each planet. The bomb can be planted in any of the planet's secret bases. After planting the bomb, JB moves to another planet in a straight line, being able to land only in one of its secret bases. After landing on a new planet, JB can move or not on its circumference to any other secret base, after which he will place a bomb and depart for another planet.
 JB cannot return to a planet he previously landed on.
@@ -61,5 +61,4 @@ The file `jb.out` will contain on the first line three numbers, representing the
 `jb.out`
 ```
 121.231056 161.415927 161.415927
-```
 ```

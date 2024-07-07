@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given the integers $N$, $M$ and $T$. Calculate the number of ways to construct a matrix with $N$ rows and $M$ columns using integer values in the closed interval $[0, T]$, such that each row and each column of the matrix has elements in arithmetic progression with a strictly positive ratio. The progressions are considered for the sequence of elements in the rows from left to right, and for the columns from top to bottom. Moreover, each row and each column can have its own ratio, distinct from the others, and the ratios associated with the rows and columns must increase from top to bottom, respectively from left to right. Since this number can be very large, it will be displayed modulo $10^9 + 9$.
@@ -81,5 +81,4 @@ It can be observed that the ratios of the rows and columns **DO NOT** necessaril
 `matrice.out`
 ```
 437458160
-```
 ```

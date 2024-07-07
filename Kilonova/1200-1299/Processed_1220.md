@@ -1,4 +1,4 @@
-```markdown
+
 A group of children buy tickets to climb Postăvarul peak. At the cable car, they find a line formed by $n$ of their classmates and ask to be let in among them. To avoid any disagreements, a rule was established by which some of the newcomers are accepted. Thus, for each ticket (let $P$ be its series), the sum $S$ of the digits of the number $P$ is calculated. In front of each child in the initial line, for whom the numbers $P$ and $S$ are coprime, those children for whom the series on their tickets are prime numbers between $S$ and $P$ are placed.
 
 # Task
@@ -40,4 +40,3 @@ $P = 14$ and $S = 1+4 = 5$ are coprime. In front of $14$, the prime numbers betw
 $P = 31$ and $S = 3+1 = 4$ are coprime. In front of $31$, the prime numbers between $4$ and $31$ that are not in the line are inserted.
 
 $P = 17$ and $S = 1+7 = 8$ are coprime. No numbers are inserted in front of $17$.
-```

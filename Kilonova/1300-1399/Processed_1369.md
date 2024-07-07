@@ -32,4 +32,3 @@ Fișierul de ieșire `butoane.out` will contain $n$ lines. Each line $i$ ($1 \le
 0
 1
 2
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A flower shop wants to achieve a Guinness book record with the largest floral arrangement. They have `t` types of flowers, out of which four types are more special: gerbera, orchid, azalea, and hydrangea. The workers have decided to place the flowers evenly spaced in several rows, with exactly `n` flowers in each row. There will not be two identical rows, but all rows will comply with certain requirements:
 * They have observed that hydrangeas have a much longer lifespan if they are in the same row as an azalea and an orchid, regardless of whether the order is azalea-hydrangea-orchid or orchid-hydrangea-azalea.
 * Gerberas will be placed such that there are at least `p` flowers between any two gerberas, the type of which can be anything but gerbera.
@@ -56,4 +56,3 @@ The number of distinct arrangements is `2906`
 Explanations
 ---
 The number of distinct arrangements is `181775696`, and we have: `181775696 % 666013 = 620160`
-```

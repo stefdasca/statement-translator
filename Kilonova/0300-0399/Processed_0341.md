@@ -1,4 +1,4 @@
-```markdown
+
 Consider $n$ points in a 2D plane. You are required to compute the square of the minimum distance between any two of the first two points, then the first three points, and so on until the $n ^ {th}$ point.
 
 # Input
@@ -41,4 +41,3 @@ The square of the distance between the first two points is $((1 - 3)^2 + (2 - 6)
 The square of the distance between the third and first point is $128$, and between the third and second point is $52$, so the minimum distance remains $20$.
 
 The distance between the fourth and first point is $1$.
-```

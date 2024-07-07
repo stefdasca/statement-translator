@@ -1,4 +1,4 @@
-You just bought a new computer from some very obscure sources on which you want to play “*Minecraft*”. Unfortunately, the computer is not what you imagined and does not even meet the specifications you found on the internet. Nevertheless, you want to see if you can find some utility in your purchase or at least learn how it works.
+You just bought a new computer from some very obscure sources on which you want to play “*Minecraft*�. Unfortunately, the computer is not what you imagined and does not even meet the specifications you found on the internet. Nevertheless, you want to see if you can find some utility in your purchase or at least learn how it works.
 
 Your computer features `12` registers and a set of four instructions.
 

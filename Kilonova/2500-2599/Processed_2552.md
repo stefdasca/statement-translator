@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We have at our disposal a chessboard of $N \times M$.
@@ -38,5 +38,4 @@ Print the maximum number of knights.
 `stdout`
 ```
 6
-```
 ```

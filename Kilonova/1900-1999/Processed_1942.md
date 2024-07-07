@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 A pipeline is formed from a set of $N$ pipes. Through a pipe, a limited amount of water can pass, with each pipe having the capacity $C_i$. In other words, through pipe $i$, at most $C_i$ liters of water can pass.
 # Task

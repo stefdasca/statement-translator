@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Your friend, Ursu, gave a list of $N$ words only containing lowercase letters of the English alphabet. The list represents Ursu's phone book. Unfortunately, Ursu's phone book is quite long. That is why he would like you to help him rename all his contacts. Since both of you are quite lazy, you want to minimize the time spent renaming all the contacts. Now, Ursu asks you to find for each of the $N$ words the length of its shortest substring that does not appear in any of the other strings. If no such substring exists, Ursu would like to know that he cannot rename that contact, so, the answer will be considered to be $-1$.
@@ -32,5 +32,4 @@ abde
 2
 2
 1
-```
 ```

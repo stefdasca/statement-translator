@@ -1,15 +1,15 @@
 Given an array of $N$ natural numbers $A_1, A_2, \ldots, A_N$, we consider the following algorithm, presented in pseudocode:
 
 ```
-cnt â† 0
-score â† 0
+cnt â† 0
+score â† 0
 for i from 1 to N do
-    min â† âˆ
+    min â† âˆ
     for j from i to N do
         if A[j] < min then
-            min â† A[j]
-            cnt â† cnt + 1
-            score â† score + cnt Â· A[j]
+            min â† A[j]
+            cnt â† cnt + 1
+            score â† score + cnt Â· A[j]
         end_if
     end_for
 end_for

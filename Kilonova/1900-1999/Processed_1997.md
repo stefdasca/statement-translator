@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 There are $N$ ships on the sea. The shore is curiously perfectly straight and is represented by the Ox axis of the coordinate system. The $N$ ships are represented by pairs of coordinates $(V_{x_i}, V_{y_i})$, where $V_{y_i}$ is strictly positive (the sea is above the Ox axis). On the shore, there are $M$ lighthouses, given by their coordinates $F_{x_i}$ (being exactly at the boundary between the sea and the land, their $y$ is always $0$). The $M$ lighthouses are strange because they can only illuminate to the left. Thus, the illuminated area of each lighthouse $i$ is bounded by a quarter circle with a radius $F_{r_i}$. More precisely, a ship is illuminated by a certain lighthouse if it is to the left of the lighthouse (its $x$ is smaller) and the distance from the lighthouse to the ship is **less than or equal to** the value $F_{r_i}$ associated with the respective lighthouse.
@@ -49,5 +49,4 @@ The file `sea.out` will contain $M$ lines, each line containing a real number, g
 5.3852
 0.7071
 4.4721
-```
 ```

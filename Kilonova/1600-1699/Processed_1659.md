@@ -1,4 +1,4 @@
-```markdown
+
 A chessboard with $n$ lines and $n$ columns is considered, and $n = 4 \cdot k + 1$. The lines of this board are numbered from top to bottom starting with line $1$, and the columns are numbered from left to right starting with $1$. In each field of this board, a natural number from the set $\{1, 2, \dots, n^2\}$ is written according to the following rules:
 
 * Start from the top-left corner of the board, and advance using the knight's move.
@@ -95,4 +95,3 @@ On a $9 \cdot 9$ board, the number $36$ will reach row $8$ and column $9$.
 ## Explanation
 
 On a $41 \cdot 41$ board, the number $1 \ 000$ will reach row $14$ and column $7$.
-```

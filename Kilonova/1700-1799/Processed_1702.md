@@ -1,4 +1,4 @@
-```
+
 Consider a string $S$ composed of lowercase letters from the English alphabet. A subsequence of the string is palindromic if, when read from right to left, it results in the same word as when read from left to right.
 
 # Task
@@ -56,4 +56,3 @@ In the third query, the subsequence formed `baa` is not palindromic, and by exte
 In the fourth query, we have the subsequence `baa` and we can extend it by up to two characters: we have the options of extending it with one character from the left resulting in `abaa`, with one character from the right resulting in `baaa`, with one character from the left and one from the right resulting in `abaaa`, or with two characters from the right resulting in `baaaa`. We cannot extend by two characters to the left because we do not have enough characters.
 
 The fifth query is the same as the first, so the result is $0$, and the sixth query contains an interval with a single element, which represents a palindromic subsequence.
-```

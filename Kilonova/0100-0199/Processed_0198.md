@@ -41,4 +41,3 @@ For each query, print on a separate line in the file `entries.out` the number $1
 0
 1
 0
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Sudoku is a game that takes place on a square board consisting of $9$ rows and $9$ columns. Each cell must contain a value between $1$ and $9$. Typically, some of the cell values are given, and we need to fill in the rest so that:
 
 * Each row contains exactly one occurrence of every number from $1$ to $9$.
@@ -55,5 +55,4 @@ For a board, in the order from the input file, print $1$ if it is correctly comp
 `sudoku.out`
 ```
 01
-```
 ```

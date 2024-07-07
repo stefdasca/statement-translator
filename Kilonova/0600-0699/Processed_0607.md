@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 RAU-Gigel nostalgically remembers his early moments in programming, when he made mistakes such as declaring a name of type `int`... thus, the following problem appeared: Let's imagine the political map of the future world, divided into countries whose names are actually non-zero natural numbers. There are certain relationships between them: two countries are allied if they have the same digits in their names (the number of occurrences does not matter), while two countries are in conflict if they have no common digit in their names. Interested in politics, RAU-Gigel would like to know a few things:
 - Type $1$ question: how many countries are politically neutral, in the sense that they are not allied with any other country?
@@ -54,4 +54,3 @@ For question of type $1$ we have: the countries $1133, 3131, 13, 1331$ and $133$
 ```
 ## Explanation
 For question of type $2$ we have: the country $13$ is allied with $4$ countries: $1133, 3131$ and $1331, 133$. Country $13$ is in conflict with 3 countries: $2444, 678$ and $42$. The second preferred country of RAU-Gigel, country $123456789$ is not allied with any other country, nor in conflict.
-```

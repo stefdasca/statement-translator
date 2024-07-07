@@ -1,4 +1,4 @@
-```markdown
+
 $N$ friends are sitting around $N$ urns containing balls. The friends and the urns are numbered from $0$ to $N-1$. Each urn $i$  $(0 \leq i \leq N-1)$ contains $S_i$ balls. Friends want to extract balls from urns and put them in their pockets. Due to the arrangement, only friends $i$ and $((i+1)$ mod $N)$ can extract balls from urn $i$. Each friend $i$  $(0 \leq i \leq N-1)$ has a pocket capacity of $P_i$ balls (i.e., they cannot extract more than $P_i$ balls in total). Friend $0$ is their leader and asks the question: if I extract exactly $x$ balls from urn $0$, what is the maximum number of balls that all the friends together can extract in total, using an appropriate strategy and considering the problem constraints? An appropriate strategy determines how many balls each friend extracts from each urn from which they can extract balls, considering that friend $0$ necessarily extracts $x$ balls from urn $0$.
 
 # Task
@@ -58,4 +58,3 @@ For $x=3$, the $4$ friends can extract a total of $19$ balls.
 For $x=4$, the $4$ friends can extract a total of $19$ balls.
 For $x=5$, the $4$ friends can extract a total of $18$ balls.
 The value of $x$ was included each time in the total number of balls that the $4$ friends could extract.
-```

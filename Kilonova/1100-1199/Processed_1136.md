@@ -23,4 +23,3 @@ The first line of the output file `viespi.out` will contain a single integer, th
 `viespi.out`
 ```
 37
-```

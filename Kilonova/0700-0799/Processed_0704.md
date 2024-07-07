@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Gigel's younger brother received a set of colored blocks from Santa Claus. Gigel had just finished fifth grade and no longer played with such toys, but when nobody was watching, he seemed to join the little one in the game, especially when he arranged the $n$ blocks one after another, and all kinds of requirements that his computer science teacher might come up with crossed his mind:
@@ -37,5 +37,4 @@ The file `cuburi.out` will contain one line for the answer/answers to each task.
 3
 2 3
 10
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In this version of the problem, $n = 1$.

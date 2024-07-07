@@ -1,4 +1,4 @@
-```markdown
+
 A number is prime if it has exactly two natural divisors. By dividing a number into $p$ parts, we understand the division of the number into $p$ numbers, each with at least one digit, so that by concatenating the numbers from left to right we obtain the initial number.
 
 For example, if we divide the number $12045$ into two parts, we have four possible divisions resulting in the numbers: $1$ and $2045$; $12$ and $045$; $120$ and $45$; $1204$ and $5$. If we divide it into three parts, we have six possible divisions resulting in the numbers $1$, $2$, and $045$; $1$, $20$, and $45$; $1$, $204$, and $5$; $12$, $0$, and $45$; $12$, $04$, and $5$; $120$, $4$, and $5$.
@@ -83,4 +83,3 @@ From $23$ we obtain the numbers $2$ and $3$, from $196$ we can obtain the number
 From the number $1234$ we can obtain the numbers: $1$, $2$, $34$ or $1$, $23$, $4$ or $12$, $3$, $4$. From the number $17119$ we can obtain the numbers: $1$, $7$, and $119$ or $1$, $71$, and $19$ or $1$, $711$, and $9$ or $17$, $1$, and $19$ or $17$, $11$, and $9$. 
 
 From the number $5678$ we can obtain the numbers: $5$, $6$, and $78$ or $5$, $67$, and $8$ or $56$, $7$, and $8$. The largest prime number that can be obtained is $71$.
-```

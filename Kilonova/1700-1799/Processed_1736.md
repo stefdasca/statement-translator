@@ -1,4 +1,4 @@
-```markdown
+
 A sentence consisting of lowercase English alphabet letters and possibly spaces is given. Words are formed only from letters and are separated by one or more spaces.
 
 We define the **associated number** of a word $c_1 c_2 \dots c_k$ as a natural number $n_c$, obtained as the product of positions in the alphabet of the letter $c_i$. Thus, the word `badab` is associated with the number $n_c = 2^1 \cdot 1^2 \cdot 4^3 \cdot 1^4 \cdot 2^5$, i.e., $n_c = 4\ 096$.

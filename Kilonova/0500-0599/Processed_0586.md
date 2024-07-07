@@ -46,4 +46,3 @@ In the file $ducks.out$, print $T$ natural numbers $X$, each on a separate line,
 `ducks.out`
 ```
 514
-```

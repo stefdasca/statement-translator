@@ -1,5 +1,5 @@
-```markdown
-Mircea and Vasilică want to send messages that others cannot understand. They read about spies and ways to write messages and, finally, they imagined a way to encrypt a message that uses a “key word”.
+
+Mircea and Vasilică want to send messages that others cannot understand. They read about spies and ways to write messages and, finally, they imagined a way to encrypt a message that uses a “key word�.
 
 By choosing a key word made only of distinct letters, they count its letters and divide the message into groups of length equal to the number of letters in the key word, placing them one below the other.
 
@@ -400,5 +400,4 @@ criptam
 `criptare.out`
 ```
 Incercam sa lucram cu coduri si criptari.
-```
 ```

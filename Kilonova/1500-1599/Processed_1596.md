@@ -1,4 +1,4 @@
-```markdown
+
 On the planet Quadratia, the inhabitants use square shapes in everything they build. They have sent $N$ special defense machines, called rovers, to the planet's surface, which move along trajectories that describe squares. The planet's map can be viewed as a two-dimensional grid with an infinite number of rows and columns, starting from $1$. Each element of this grid is identified by the row number and the column number it is positioned in.
 
 Each rover is described by $3$ positive natural numbers $L, C$, and $R$, representing the position (row $L$ and column $C$) of the element in the top-left corner of the square that describes the trajectory, and the length $R$ of its side, respectively. All rovers initially start from the element in the top-left corner of the square that describes their trajectory, moving clockwise, traversing one element per second. They are programmed to follow this trajectory without stopping. It is possible for multiple rovers to be at the same position on the map at the same time.
@@ -124,4 +124,3 @@ The task is $1$. Four rovers intersect the diagonal.
 ## Explanation
 
 The task is $2$. The maximum number of rovers that can be destroyed is $2$. This can be achieved earliest at second $3$.
-```

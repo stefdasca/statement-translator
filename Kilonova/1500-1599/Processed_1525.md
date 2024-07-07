@@ -1,4 +1,4 @@
-```markdown
+
 Dan is a big fan of fruits, with grapes and watermelons being among his favorites. However, recently he has also discovered his passion for vegetables, especially tomatoes, but most of all small tomatoes. Luckily for him, his grandfather's garden is full of tomatoes.
 The garden is in the shape of a matrix with $N$ rows and $M$ columns with natural numbers, not necessarily distinct, where each element in the matrix represents the size of a tomato. The matrix has the property that any column has values in ascending order from top to bottom, i.e., from the first to the last row. His grandfather asks him to solve $Q$ tasks. For each task, Dan receives a natural number $x$ and must find a maximum area submatrix that starts from the first row of the matrix representing the garden and has all elements less than or equal to $x$. In determining the required submatrix, Dan is allowed to move all values from one column in front of any other column. Additionally, he is allowed to perform any number of such moves.
 

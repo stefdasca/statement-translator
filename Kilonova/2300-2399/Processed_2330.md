@@ -39,4 +39,3 @@ The output file `bombe.out` will contain a single line with two numbers separate
 `bombe.out`
 ```
 4 0.333
-```

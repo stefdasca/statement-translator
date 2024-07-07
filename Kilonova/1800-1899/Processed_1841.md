@@ -1,4 +1,4 @@
-```markdown
+
 _Note: In the statement, $\\overline{b_1 \dots b_k}$ represents an integer written in binary notation, where $b_1$ is the most significant bit, and $b_k$ is the least significant bit._
 
 While flying on her broomstick through the galaxy, the witch Roxana discovered a new planet (planet BR-PERM) where all inhabitants were involved in a new dance. In this dance, participants stand in a line and then reorder themselves. In a dance with $2^k$ inhabitants, the person at position $\\overline{b_1 \dots b_k}$ will move to position $\\overline{b_k \dots b_1}$ (indexed from $0$).
@@ -9,7 +9,7 @@ BR-PERM inhabitants consider as special the dance sequences where the sequence o
 
 # Task
 
-The BR-PERM inhabitants ask Roxana to help them with this problem (it seems that witches always help people solve their problems). They show her a sequence of $n$ dancers and ask her to answer multiple questions: “Is the subarray of length $2^k$ that starts at dancer $i$ _cute_?”
+The BR-PERM inhabitants ask Roxana to help them with this problem (it seems that witches always help people solve their problems). They show her a sequence of $n$ dancers and ask her to answer multiple questions: “Is the subarray of length $2^k$ that starts at dancer $i$ _cute_?�
 
 # Interaction Protocol
 
@@ -54,5 +54,4 @@ query(0, 3) = true
 query(1, 1) = true
 query(1, 2) = false
 query(3, 2) = true
-```
 ```

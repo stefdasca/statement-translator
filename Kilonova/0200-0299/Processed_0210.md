@@ -1,4 +1,4 @@
-```markdown
+
 Matei the Erinaceid has a garden divided into plots in the form of a two-dimensional array, the rows and columns of the garden are numbered starting from `0`.
 
 In the garden, there are `N` fruits, either apples or pears. The `i`-th fruit can be described by a triplet $(x_i, y_i, z_i)$, representing the row, column, and type of fruit (`1` for apples and `2` for pears). Each fruit is located in the center of a plot, and in each plot, there can be at most one fruit.

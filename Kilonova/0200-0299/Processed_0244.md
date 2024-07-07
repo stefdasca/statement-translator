@@ -1,4 +1,4 @@
-```markdown
+
 Fujiwara-san loves dates! She calls a date a string of form `y/m/d` where `d, m` and `y` are positive integers without leading zeroes that represent a calendar date (`d` is the day, `m` is the month, `y` is the year). The precise rules for a valid date is the following:
 * `y ∈ {1, 2, . . .}`.
 * `m ∈ {1, . . . , 12}`
@@ -106,5 +106,4 @@ Explanation
 
 ```
 66078
-```
 ```

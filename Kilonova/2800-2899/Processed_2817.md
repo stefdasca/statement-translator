@@ -1,4 +1,4 @@
-You have just been hired by the airline company “Brătianu Airlines”. You know that there are $N$ cities indexed from $1$ to $N$ between which the company organizes $M$ flight routes. Each flight route is given by the number of the city from which it takes off, the city in which it lands, the duration, and the price of the flight.
+You have just been hired by the airline company “Brătianu Airlines�. You know that there are $N$ cities indexed from $1$ to $N$ between which the company organizes $M$ flight routes. Each flight route is given by the number of the city from which it takes off, the city in which it lands, the duration, and the price of the flight.
 Due to a network overload caused by the congestion in the airport, you must manually find a way to identify flights for passengers.
 
 # Task

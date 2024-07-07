@@ -49,7 +49,7 @@ The sub-teams formed are: $\\{ \\texttt{1, 2, 3} \\}$ and $\\{ \\texttt{4, 5} \\
 
 And here are the passes that the players will make, and the ways in which roles can be assigned are as follows ($r_i$ indicates the role of player $i$):
 
-|#|r₁|r₂|r₃|r₄|r₅|
+|#|r�|r₂|r₃|r₄|r₅|
 |-|-|--------|-|-|-|
 1|1|1|2|1|2|
 2|1|1|2|2|1|

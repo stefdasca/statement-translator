@@ -1,4 +1,4 @@
-```markdown
+
 To enter the Record Book, the inhabitants of Văscăuți will make a very very long string of beads. For this purpose, they bought beads of $K$ colors (for each color $i$, the number $a_i$ of beads bought is known).
 The inhabitants of Văscăuți consider the string to be beautiful if any subarray of $P$ consecutive beads in the string $(2 \leq P \leq K)$ does not contain two beads of the same color.
 
@@ -38,4 +38,3 @@ The output file `sirag.out` will contain a single line that will contain the nat
 ## Explanation
 
 A beautiful string of maximum length $8$ is $2, 4, 3, 1, 2, 3, 1, 2$
-```

@@ -51,4 +51,3 @@ The output file `infinitywar.out` should contain $Q$ lines. Each line should con
 5
 4
 4
-```

@@ -34,4 +34,3 @@ The output file `cod.out` contains on the first line:
 `cod.out`
 ```
 75
-```

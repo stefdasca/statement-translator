@@ -1,4 +1,4 @@
-```markdown
+
 In the attic, Andrei found the cover of an old book belonging to his grandfather, and scattered through several boxes, the torn pages of this book. He thinks it would make his grandfather very happy if he could restore the book and bind its pages to the cover.
 
 After gathering all the found pages, Andrei realizes that they are not in order and some of them are missing. Thus, he decides to bind together with a clip the pages that should be arranged consecutively in the book.
@@ -58,4 +58,3 @@ The output file `pagini.out` will contain:
 Pages $10, 11, 12, 13$ have been bound with a clip.  
 Pages $4$ and $5$ have been bound with a clip.  
 Pages $25, 26, 27$ have been bound with a clip.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Consider a matrix $A$ of dimensions $2^N$ x $2^N$ given. This is constructed as follows:
 It starts with a matrix of dimension $2$ x $2$ having small letters of the English alphabet as elements. The matrix $B$ of dimension $2^k$ x $2^k$ is formed from four submatrices of dimension $2^{k-1}$ x $2^{k-1}$ and is obtained from the matrix $C$ of dimension $2^{k-1}$ x $2^{k-1}$, as follows:
 
@@ -95,4 +95,3 @@ Then the final matrix is:
 - $ \\begin{pmatrix} a & b & d & e \\\\ c & d & f & g \\\\ v & x & d & c \\\\ y & z & b & a \\end{pmatrix}  $
 
 This matrix satisfies all the 5 triplets.
-```

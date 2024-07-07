@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with $2$ rows and $n$ columns is given, which has $k$ occupied cells.
 
 There are $q$ queries of the form $(x_1, y_1, x_2, y_2)$, with the following meaning: if you occupy two distinct free cells of the initial matrix, $(x_1, y_1)$ and $(x_2, y_2)$, can you completely pave the matrix with domino pieces of sizes $2 \times 1$ and $1 \times 2$? After performing a query, the occupied cells associated with it will become free again (changes made to the matrix do not persist between queries).

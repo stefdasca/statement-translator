@@ -1,4 +1,4 @@
-```markdown
+
 Between two banks of a deep valley, a suspension bridge has been built, composed of $N$ wooden planks tied together with lianas. We assume that the planks are numbered from $1$ to $N$, starting from the bank we are on. Over time, some of the wooden planks have deteriorated, while others have even disappeared.
 
 For crossing the bridge, it is known that:
@@ -92,5 +92,4 @@ $p_1 \\ p_2 \\ldots p_m$ represents the determined solution, by indicating in or
 `pod.out`
 ```
 -1
-```
 ```

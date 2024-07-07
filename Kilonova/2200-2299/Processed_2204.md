@@ -31,4 +31,3 @@ The first line of your submission will contain $K$ ($K \le 5$), the number of pa
 ```
 3
 xswew reret uiuiu
-```

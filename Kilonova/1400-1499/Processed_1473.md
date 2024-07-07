@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence of positive natural numbers $a[1], a[2], \dots , a[n]$ and a natural number $k$.
 
 # Task
@@ -38,4 +38,3 @@ The output file `cmmdc.out` contains on the first line a natural number represen
 ## Explanation
 
 The greatest common divisor that can be obtained from a group of 3 numbers is 3, and the three numbers that give the maximum sum, sorted in descending order, are $15, 9$ and $6$.
-```

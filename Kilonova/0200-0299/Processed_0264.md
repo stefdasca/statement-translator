@@ -46,4 +46,4 @@ A possible series of calls to the `check` function is as follows:
 * The `check` function is called with the permutation `(3 2 1 4 5)` and returns the value `2`
 * The `check` function is called with the permutation `(2 1 3 4 5)` and returns the value `5`
 
-Finally, `solve` will return the permutation `(2 1 3 4 5)`
+Finally, `solve` will return the permutation `(2 1 3 4 5)

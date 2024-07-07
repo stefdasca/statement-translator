@@ -1,4 +1,4 @@
-```markdown
+
 A positive integer $K$ is given and $N = 2^K$. $N$ competitors, numbered from $0$ to $N-1$, participate in a tournament. For each competitor $i$, their power $p_i$ is known. The powers are distinct positive integers and strictly less than $N$. In other words, the sequence $p$ is a permutation of the integers from $0$ to $N-1$. A match between two competitors is won by the player with the higher power.
 
 In the first round of the tournament, matches take place as follows: the first match is between competitors $0$ and $1$, the second match between competitors $2$ and $3$, and so on. The $m$-th match is between competitors $2 \cdot m-2$ and $2 \cdot m-1$. The last match of the first round will be between players $N-2$ and $N-1$.
@@ -87,5 +87,4 @@ query (7, 7)
 1
 2
 3
-```
 ```

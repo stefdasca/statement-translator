@@ -1,4 +1,4 @@
-```markdown
+
 Consider $N$ disjoint intervals $[A_i, B_i] \\ (1 \\leq i \\leq N)$. All intervals undergo an extension operation at both ends with a natural value $x$, so that after extending by the value $x$, the interval $[A_i, B_i]$ will become the interval $[A_i-x, B_i+x]$, $(1 \\leq i \\leq N)$.
 
 After the extension, we say that the intervals $[A_i, B_i]$ and $[A_j, B_j]$ belong to the same group of intervals if they intersect or if there exists an interval $[A_k, B_k]$ such that $[A_i,B_i]$ intersects with $[A_k, B_k]$ and the intervals $[A_k, B_k]$, $[A_j, B_j]$ belong to the same group of intervals.
@@ -51,4 +51,3 @@ Group $1$: $[-1, 6]$, $[6, 11]$
 Group $2$: $[12, 19]$, $[19, 27]$, $[26, 34]$, $[33, 44]$
 Group $3$: $[98, 202]$
 Group $2$ is formed from at least $3$ intervals
-```

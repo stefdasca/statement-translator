@@ -1,4 +1,4 @@
-```markdown
+
 A square matrix of size $N$ containing natural numbers is considered. We define a **cross of width $K$** as the union of the set of all elements located on $K$ consecutive rows of the matrix and the set of all elements located on $K$ consecutive columns of the matrix. Two elements of the matrix are considered distinct if they are situated on distinct positions in the matrix. The degenerate form of a cross, in the shape of `T` or `L`, is also allowed when one of the rows or columns that form the cross are at the edge of the matrix. We define the **value** of a cross as the sum of the elements from which it is formed.
 
 # Task
@@ -64,4 +64,3 @@ The elements forming the cross with maximum value are:
 
 The maximum value of a cross of width $2$ is $28$. In the example, there are other crosses with a value of $28$, but with higher starting row or column indices.
 For example, the cross starting from row $3$ and column $3$.
-```

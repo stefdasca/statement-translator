@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In DinoLand there were two major dinosaur families: Ankylosaurus and Brachiosaurus. The family of Ankylosaurus' consists of $N$ species, numbered from $1$ to $N$, while the family of Brachiosaurus' consists of $M$ species, numbered from $1$ to $M$.
@@ -84,4 +84,3 @@ In the **second query** we are interested in Ankylosaurus species $3$ (and its a
 In the **third query** we are interested in Ankylosaurus species $5$ (and its ancestors: $4, 2$ and $1$), and Brachiosaurus species $3$ (and its ancestors: $4$ and $1$). These have two connections, connection $(1, 4)$ of strength $5$ and connection $(4, 1)$ of strength $7$, so the answer is $5 + 7 = 12$.
 
 In the **fourth query** we are interested in Ankylosaurus species $1$ (and its ancestors: *none*), and Brachiosaurus species $1$ (and its ancestors: *none*). These don't have any connections, so the answer is $0$.
-```

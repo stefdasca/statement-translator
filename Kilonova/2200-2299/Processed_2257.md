@@ -46,4 +46,3 @@ Out of the $24$ possible permutations, the following three are not valid: $(\und
 `kcons.out`
 ```
 27042
-```

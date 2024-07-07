@@ -12,11 +12,11 @@ The first line of the file `coach.in` contains three integers `N, M`, and `T` - 
 The file `coach.out` will contain one line with the four values found: start node, finish node, minimum caloric value, and maximum caloric value. The nodes will be integers between `1` and `N`, and the caloric values will be integers between `1` and `10000` (inclusive).
 
 # Constraints and clarifications
-* `1 <= N <= 100`
-* `1 <= M <= 4950`
-* `1 <= T <= 1000000`
+* `1 \leq N \leq 100`
+* `1 \leq M \leq 4950`
+* `1 \leq T \leq 1000000`
 * The found intersections (start and finish) must also respect the caloric restrictions.
-* A drink with a caloric value \(x\) can be drunk if and only if \(cmin <= x <= cmax\), where `cmin` and `cmax` are the minimum and maximum caloric values set by the coach.
+* A drink with a caloric value $x$ can be drunk if and only if $cmin \leq x \leq cmax$, where `cmin` and `cmax` are the minimum and maximum caloric values set by the coach.
 * There is a maximum of one road between two intersections.
 * Caloric values are distinct.
 * There is always a solution; if there are multiple solutions, any of them can be returned.

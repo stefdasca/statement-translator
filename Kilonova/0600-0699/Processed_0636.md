@@ -1,4 +1,4 @@
-```markdown
+
 Two twin squirrels discovered a deposit of hazelnuts with a very strange shape. More precisely, the deposit has the form of an $N \times N$ matrix with $N$ odd. Each position in the matrix is a room, and in each room lies a hazelnut.
 
 The rooms are numbered by their row and column number. The first squirrel, named Chip, is initially in room $(1, 1)$, and the second, named Dale, is in room $(N, N)$. The squirrels want to collect all the hazelnuts and meet in the central room of the deposit. For this, they will traverse the rooms, passing from one to another without ever crossing a room one of them has passed through before. They can move from one room to another (obviously, without exiting the deposit or entering an already visited room). When Chip passes from one room to another, he notes his path as follows:
@@ -65,5 +65,4 @@ The output file contains $Q$ lines. Each line contains a string of characters `0
 `veverite.out`
 ```
 0000311113333333000211200000022213312213
-```
 ```

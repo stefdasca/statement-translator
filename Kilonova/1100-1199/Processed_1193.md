@@ -33,4 +33,3 @@ The first line of the output file `nota.out` should contain the grades that were
 ```
 8
 1 2 3 5 6 7
-```

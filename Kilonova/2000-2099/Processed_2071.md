@@ -1,4 +1,4 @@
-```markdown
+
 > *National College "Frații Buzești"* ~[logos.png|align=right|width=20rem] 
 > *Training Center for Informatics Performance* 
 > **InfoCNFB** - Second Edition, Juniors 
@@ -99,5 +99,4 @@ The $4$ lines full of $0$ above are no longer printed.
 0 1 1 0
 1 1 0 0
 1 1 0 1
-```
 ```

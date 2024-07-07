@@ -1,4 +1,4 @@
-```
+
 Archaeologists have found an artifact that seems to contain a mathematical equation, which uses the symbols of an unknown script. A series of hypotheses have begun to emerge, so they propose to solve the equation in order to decipher the symbols. The equation contains $N + M$ terms, each term representing a number encoded by a sequence of symbols, which have been replaced with uppercase English alphabet letters from $A$ to $Z$. It is assumed that the sum of the first $N$ numbers must be equal to the sum of the last $M$ numbers. Also, each letter corresponds to a digit from $0$ to $9$, and two different letters are associated with two different digits.
 
 # Task

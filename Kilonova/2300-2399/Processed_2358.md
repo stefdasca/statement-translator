@@ -44,4 +44,3 @@ Print the answer to the problem, which can be $0$ or $1$.
 `stdout`
 ```
 0
-```

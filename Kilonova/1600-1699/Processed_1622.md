@@ -57,4 +57,3 @@ The maximum value is $16$ and is obtained for $e(-2, 8, 2) = 16$.
 ## Explanation
 
 $e(2, -7, 5) = 21$
-```

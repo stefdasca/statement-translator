@@ -1,4 +1,4 @@
-*“As you have gone, so shall you return!”*  
+*“As you have gone, so shall you return!�*  
 old Oltenian proverb*
 
 The Gorj region consists of $N$ cities, connected by $M$ **one-way** roads. The roads are of two types: $\\text{\\textcolor{red}{trails}}$ (represented by $\\text{\\textcolor{red}{0}}$) and $\\text{\\textcolor{blue}{national roads}}$ (represented by $\\text{\\textcolor{blue}{1}}$). Nea Marin starts from a city and wants to create a route with the following properties:

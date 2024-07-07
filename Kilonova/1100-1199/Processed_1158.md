@@ -45,4 +45,3 @@ The file `lac.out` will contain the following structure:
 2
 4 5
 7 8
-```

@@ -1,4 +1,4 @@
-```markdown
+
 ~[img1.jpg|align=right] Mircea and Andrei are passionate about building structures from Lego pieces. Each of them has a set consisting of $N$ **black cubes** with sides of length $1$ and several white **rectangular parallelepiped** pieces with which they build a rectangular parallelepiped building with a square base of side $2$ and height $H$.
 
 All white pieces have a height of $2$ and the other sides equal to $1$ and **cannot** be turned over when assembled to construct the building. The building will always contain **all** black pieces from the set and as many white pieces as necessary to complete it.
@@ -58,5 +58,4 @@ The file `cladire.out` will contain on the first line a single natural number re
 `cladire.out`
 ```
 16
-```
 ```

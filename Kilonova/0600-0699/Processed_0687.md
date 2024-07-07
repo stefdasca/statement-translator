@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of $N$ coins numbered from $0$ to $N - 1$ is considered. On a toss, the coin $i$ has a probability $p[i]$ of landing heads, and $1 - p[i]$ of landing tails.
 
 # Task
@@ -54,5 +54,4 @@ Solve(0, 0) = 1 / 4;
 Solve(1, 1) = 1 / 3;
 Solve(0, 1) = 5 / 12
 Solve(0, 2) = Solve(1, 2) = Solve(2, 2) = 1 / 2
-```
 ```

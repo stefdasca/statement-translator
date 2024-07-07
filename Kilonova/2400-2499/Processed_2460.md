@@ -1,4 +1,4 @@
-```markdown
+
 Gregor lives by the saying _"One for all and all for one"_, so you can(not) imagine what he did when he received a sequence of $N$ numbers for his birthday! He created a new operation on the sequence: delete all elements of value $x$ and concatenate the remaining parts. For example, if the sequence contains the numbers $1, \\ 1, \\ 2, \\ 2, \\ 3, \\ 3, \\ 1, \\ 1, \\ 2, \\ 2, \\ 3, \\ 3,$ then performing the operation for $x = 1$ gives $2, \\ 2, \\ 3, \\ 3, \\ 2, \\ 2, \\ 3, \\ 3$.
 
 Gregor wants you to perform this operation a number of times such that the resulting sequence has the following properties: First, the resulting sequence must be _increasing_ and, second, among all increasing sequences of this kind, it must have _maximum length_. We consider a sequence $a_1, \\dots , a_N$ to be increasing if $a_1 \\leq a_2 \\leq \\dots \\leq a_N$. Similarly, we consider it to be decreasing if $a_1 \geq a_2 \geq \\dots \geq a_N$.
@@ -59,4 +59,3 @@ In the first test case, Gregor can keep all the values since the sequence is alr
 In the second test case, Gregor needs to delete at least one of the values to obtain an increasing sequence, so the answer is $2$.
 
 In the third test case, it can be demonstrated that by deleting the values $2$ and $3$, Gregor will obtain an increasing sequence of maximum length.
-```

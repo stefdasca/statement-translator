@@ -67,4 +67,3 @@ The sequences describe the following figures:
 9 1
 ```
 ```
-```

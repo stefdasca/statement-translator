@@ -1,4 +1,4 @@
-```markdown
+
 As any civilized country, Romania imports various products from other countries. To achieve this, $M$ transports are made, each transport starting from a city outside the country and having a city in Romania as the final destination. Each transport is carried out by a truck belonging to either the company Alfatrans or the company Betatrans.
 
 We can assume that the cities are numbered from $1$ to $N$, the cities from $1..K$ being in Romania, and the cities from $K+1..N$ being in other countries. Between these cities, there are $N-1$ bidirectional roads such that between any $2$ cities there is exactly one route (composed of one or more roads), and every route from a city in Romania to a city in another country passes through city $1$, where the customs are located.
@@ -61,4 +61,3 @@ The second transport passes through $6 \ 1 \ 3$ obtaining a profit of $10+0-6=4 
 The third transport passes through the cities $7 \ 6 \ 1 \ 3 \ 4$, obtaining a profit of $0+10+0-6+3=7$, and the last transport passes through $5 \ 1 \ 3 \ 4$ with a profit of $0+0-6+3= -3 < -2`.
 
 ~[img1.png]
-```

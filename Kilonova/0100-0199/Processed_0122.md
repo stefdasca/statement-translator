@@ -1,4 +1,4 @@
-```markdown
+
 An application that must be executed on a multi-processor computer consists of `N` independent code fragments, which can be run in parallel. Each fragment must be executed entirely on a single processor. To parallelize the application as much as possible, the code fragments are small and thus have small execution times. More precisely, each fragment's execution takes **ONE** or **TWO** clock cycles on a **Pentium IV** processor.
 
 The system on which the application is to be executed consists of `P` processors. Unlike most such systems, however, the `P` processors have different execution speeds. The first processor is a **Pentium IV** and is the fastest. The second processor is twice as slow as the first, the third is three times slower … the `i-th` processor is `i` times slower than the first. Under these conditions, the execution time of each code fragment differs depending on the processor on which it will be executed. Let's assume a code segment has an execution time of `T` (where `T` is `1` or `2`) on the first processor. Then on a processor `i`, its execution time will be `i*T`.

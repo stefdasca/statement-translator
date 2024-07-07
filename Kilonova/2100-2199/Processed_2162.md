@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The cheerful city is a row of houses with different heights. We are interested to know for each house which is the nearest house to its left with a strictly smaller height.
@@ -49,4 +49,3 @@ For example, for the $6$-th house, the nearest house to the left with a strictly
 ## Explanation
 
 No house has a strictly smaller house to its left.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A matrix of natural numbers $A$ with $N_1$ rows and $N_2$ columns is given. Determine another matrix $B$, where $B_{i_1,i_2}$ is the smallest natural number that is not found in the rectangle determined by the top-left corner $(0, 0)$ and bottom-right corner $(i_1, i_2)$ in $A$.
 
 # Interaction Protocol

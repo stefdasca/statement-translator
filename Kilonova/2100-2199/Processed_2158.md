@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The defense device of the elves is in the shape of a matrix with $N$ rows and $M$ columns. In each position of the matrix, a defense tower is placed according to well-established rules. As long as there are positions not occupied by a tower, such a position is chosen and a level $1$ tower is placed there. We call this operation placement. Depending on the configuration of neighboring positions (in $8$ directions), the tower will upgrade to a higher level. When a tower reaches level $X$ and has at least one neighbor of level $X$, it becomes a level $X+1$ tower, and all neighboring towers of level $X$ disappear, leaving free spots where other towers can be placed again. We call this operation upgrade and it will be applied as often as possible after a placement. The defense device has its final form when no other towers can be placed.
@@ -57,4 +57,3 @@ The following sequence of moves was made.
 ~[tower8.png]
 
 Where $P$ – means a placement is about to be made in the hashed position and $U$ – means an upgrade is about to be made in the bordered position using the highlighted tower from the neighboring position.
-```

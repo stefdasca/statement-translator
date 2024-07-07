@@ -1,4 +1,4 @@
-```markdown
+
 On his birthday, Florin received a **periodic** and **infinite** string of characters. Its period has a length $n$ and contains only lowercase letters of the English alphabet.
 
 Since he is curious, he wants to customize the received string in various ways. To do this, he provides $q$ operations on the given string, operations of two types, as follows:
@@ -74,4 +74,3 @@ bun
 - For the third type $2$ operation, the letter $u$ is at positions $2$, $5$, $11$ and $14$.
 - After the next update, the string becomes `bunxuobrabubbunbun...`
 - For the last type $2$ operation, the letter $b$ is at positions $7$, $10$ and $12$.
-```

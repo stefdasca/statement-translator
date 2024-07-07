@@ -1,4 +1,4 @@
-```markdown
+
 Passionate about astronomy, Teodora wishes to keep track of the number of stars in galaxies. To make things more interesting, she encodes these numbers in her own system, transforming them into a sequence of letters and digits according to the following algorithm:
  - she denotes each power of $2$, strictly less than $2^{26}$, with a letter of the alphabet, as shown
  ~[figura_stele.png|align=center]
@@ -79,4 +79,3 @@ $\texttt{100a2000b} = \texttt{4100}$
 $\texttt{7e15f} = \texttt{592}$
 $\texttt{2d6f} = \texttt{208}$
 Their sum is: $450 + 970 + 4100 + 592 + 208 = 6320$
-```

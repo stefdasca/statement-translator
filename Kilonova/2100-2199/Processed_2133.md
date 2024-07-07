@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We are given the arrays $A$ and $B$ of $N$ values.
@@ -58,5 +58,4 @@ The third element will add $2$ to the elements at indices $3$, $5$.
 `stdout`
 ```
 12 31 54 13 57 12 88 23 125 51 
-```
 ```

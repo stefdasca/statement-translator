@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Two permutations $A$ and $B$ are given. Handle the following updates:
@@ -70,4 +70,3 @@ After the first swap, the permutations become $[1,3,4,2]$ and $[1,4,3,2]$, satis
 After the second swap, the permutations both become $[1,3,4,2]$, satisfying the condition in the statement.
 
 After the third swap, the permutations become $[3,1,4,2]$ and $[1,3,4,2]$. The condition is not met because $mex([3]) \neq mex([1])$.
-```

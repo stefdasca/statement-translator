@@ -1,4 +1,4 @@
-```markdown
+
 Consider the Fibonacci sequence: $0$, $1$, $1$, $2$, $3$, $5$, $8$, $13$, $21$, $\\dots$.
 
 Given a natural number $n$, write this number as a sum of non-consecutive elements from the Fibonacci sequence, where each element can appear at most once, such that the number of terms in the sum is minimal.
@@ -39,5 +39,4 @@ The output file `fibo.out` will contain on the first line a single integer $x$, 
 ```
 1
 8
-```
 ```

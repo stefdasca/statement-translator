@@ -1,4 +1,4 @@
-```markdown
+
 The planar surface of a *pseudo-billiard* table is made up of $n \times n$ square cells with a side length equal to $1$ (one unit), assembled together, arranged in $n$ rows numbered from $1$ to $n$ and $n$ columns, numbered from $1$ to $n$. On the table, $K$ balls are placed, each ball located in the center of a specific cell of the table. A player wants to place a square frame on the surface of the table having the length of the diagonal equal to $D$ units.
 
 He has to answer $m$ questions of the form $x y$. Each question means: how many balls are found **inside** or **on the sides of the frame**?
@@ -88,4 +88,3 @@ The first question is $1\ 3$. There are two balls on the sides of the frame and 
 
 The second question is $2\ 4$. One ball is on one of the sides of the frame and one inside, so $n_2 = 2$.
 ~[2.jpg|width=20em]
-```

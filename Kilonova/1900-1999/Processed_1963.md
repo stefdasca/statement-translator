@@ -1,4 +1,4 @@
-```markdown
+
 ~[img1.jpg|align=right|widht=auto] Goku is put in an UNPRECEDENTED situation: he has to traverse a swamp with a length of $L$ (the swamp can be seen as a segment of length $L$ on the $OX$ axis). Goku, along with his friend, Krillin (who is about to die in problem $3$), has to traverse the swamp from one end to the other (they are at position $0$ and need to reach position $L$). $N$ planks are at certain distinct positions in the swamp. Since Goku cannot reach the destination directly, he will use the $N$ planks and the turtle's jumping ability. Goku can move from one plank (located at position $x$) to another plank (position $y$) if the distance between the two planks (i.e., $y - x$) is less than or equal to $D$ (where $D$ is Goku's jumping ability). Krillin has been helpful and brought $T$ additional planks (which he is carrying on his back). Determine the minimum ability $D$ necessary for Goku to reach from position $0$ to position $L$, knowing that he can place the $T$ additional planks wherever he wants.
 
 # Input data
@@ -30,5 +30,4 @@ The output file `dragonball.out` will print the minimum ability $D$ necessary fo
 `dragonball.out`
 ```
 12
-```
 ```

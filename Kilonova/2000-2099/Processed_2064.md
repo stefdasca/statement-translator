@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We are given a tree with $n$ nodes, each node having a value assigned to it. The root of the tree is node $1$. Find the sum of the sums of the subtrees of the given tree.
@@ -46,4 +46,3 @@ The first line contains the required answer.
 ~[tree.png]
 
 For example, the subtree of node $2$ includes nodes $2$, $4$, and $5$. The sum of these values is $1 + 3 + 4 = 8$.
-```

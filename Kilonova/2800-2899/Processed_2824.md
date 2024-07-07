@@ -67,4 +67,3 @@ If the answer is equal to the fraction $\\frac{A}{B}$, print the number $A \\cdo
 `stdout`
 ```
 413422235
-```

@@ -1,4 +1,4 @@
-```markdown
+
 On a rectangular shaped field with $L$ rows and $C$ columns, $M$ mines are planted. The rows are numbered from top to bottom with values from $1$ to $L$, and the columns are numbered from left to right with values from $1$ to $C$.
 
 Since the war has ended, specialists want to clear the field of mines and make it available for public use. Moving a mine means transferring a mine from row $x_1$ and column $y_1$ to a free position given by row $x_2$ and column $y_2$, where $1 \leq x_1, x_2 \leq L$ and $1 \leq y_1, y_2 \leq C$.
@@ -104,4 +104,3 @@ The mine from $(1,5)$ is moved to $(3,4)$;
 The mine from $(2,1)$ is moved to $(4,2)$.
 
 This results in a compact rectangular area, with the top-left corner at position $(3,2)$ and the bottom-right corner at position $(4,5)$.
-```

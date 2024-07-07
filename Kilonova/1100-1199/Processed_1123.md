@@ -51,4 +51,3 @@ A sequence of the type $i$ `*` $j$ means that the worker has left the castle thr
 ```
 DA
 1 – 2 - 5 * 6 - 4 - 3 - 2 * 4 – 1
-```

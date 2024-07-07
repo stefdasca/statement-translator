@@ -1,4 +1,4 @@
-```markdown
+
 Given a natural number `X` consisting of a maximum of `20` digits, all non-zero. Adrian wants to construct, in ascending order of their values, all distinct numbers that can be formed by rearranging the digits of the number `X`. Since `n` is his lucky number, he wants to find the `n`-th number obtained in this manner.
 
 # Task

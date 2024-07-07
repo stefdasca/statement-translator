@@ -67,4 +67,4 @@ Explanations
 For the first example: study the example above
 For the second example: the number of distinct paths is `53`
 For the third example: the number of distinct paths modulo `666013` is `44702`
-For the last example: the number of distinct paths modulo `666013` is `145267`
+For the last example: the number of distinct paths modulo `666013` is `145267

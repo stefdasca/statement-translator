@@ -1,4 +1,4 @@
-```markdown
+
 It is considered $N$ closed intervals, having natural number boundaries between $1$ and $L$. Each natural number $i$ in the interval $[1, L]$ has an associated weight $c_i$.
 
 We call a *cover* a set of natural numbers between $1$ and $L$ with the property that each interval contains at least one element of the set. The cost of a cover is equal to the sum of the weights of the numbers in the cover.
@@ -62,5 +62,4 @@ There are other possible covers, for example $\\{2, 4\\}$ but its cost is $11$ w
 ## Explanation
 
 The cover $\\{1, 4, 7\\}$ is built, which has a cost of 5.
-```
 ```

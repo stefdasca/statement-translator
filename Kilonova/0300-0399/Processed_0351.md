@@ -1,4 +1,4 @@
-```markdown
+
 We are given an undirected **connected** graph with $n$ vertexes and $m$ edges.
 
 Find the greatest number of edges we can remove such that if we do all pairs shortest paths on the reduced graph, it will be the same as it used to be before all the reductions were done.
@@ -42,5 +42,4 @@ Example
 2    
 1 3
 2 5
-```
 ```

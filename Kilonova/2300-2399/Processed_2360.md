@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given three natural numbers, $a$, $b$, and $k$. George, being passionate about mathematics and computer science, has invented an algorithm, and now he wants to test your computer science knowledge to find the answers he seeks.
@@ -69,4 +69,3 @@ For the second pair, the values of $a$ and $b$ change as follows:
 * $17 \\ 4$
 
 We will display $17 \\ 4$.
-```

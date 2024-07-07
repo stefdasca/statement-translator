@@ -1,3 +1,4 @@
+
 A natural number $n$ is called a power if there exist two natural numbers $a$, $b$, $a \geq 1$, $b \geq 2$ such that $n = a^b$. For example, the numbers $32$, $169$, $1$ are powers ($32=2^5$, $169=13^2$, $1=1^2$), while $72$, $2000$, and $31$ are not powers.
 We read the natural numbers $N$, $M$ and a sequence of $N$ natural numbers $x_1, x_2, \dots, x_N$ from the interval $[1,M]$.
 

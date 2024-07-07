@@ -65,4 +65,3 @@ The first line of the output file `anarhie.out` contains `N` numbers, separated 
 `anarhie.out`
 ```
 18 35 47 56 65 68 68 68 68 65 61 54 47 38 28 17 0
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 
 There is a tree with $N$ nodes numbered from $1$ to $N$, out of which $K$ are leaves (nodes with degree $1$). The leaves are numbered from $1$ to $K$.
@@ -34,4 +34,3 @@ where $x$ and $y$ are distinct integer numbers between $1$ and $K$, and the func
 * The number of nodes in the resultant tree will not exceed $10\ 000$.
 * If the program does not comply with the established interaction, it will receive $0$ points for the respective test.
 * You need to include `copac.h`
-```

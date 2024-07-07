@@ -1,4 +1,4 @@
-```markdown
+
 Didel learned today in math what a rectangle is. He defined the special number of a pair $(x, y)$ as follows: He drew a rectangle with length $x$ and width $y$. The special number will be the number of squares (with natural side lengths greater than $1$) included in the drawn rectangle.
 
 ~[special.png|align=center|width=400px]
@@ -48,4 +48,3 @@ The first line of the output file `special.out` will contain a single integer, t
 ## Explanation
 
 The array $a$ becomes: $79 \ 80 \ 73 \ 74 \ 5$. The maximum is $80$.
-```

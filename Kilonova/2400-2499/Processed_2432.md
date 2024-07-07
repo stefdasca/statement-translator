@@ -77,4 +77,3 @@ Print $Q$ lines, where the $i$-th line contains the answer to the $i$-th query.
 2
 15
 15
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 You are given an array $v$ of $n$ integers. Display the result of the expression $ \\displaystyle \\sum_{i=1}^{n-2} \\sum_{j=i+1}^{n-1} \\sum_{k=j+1}^{n} v_i \\cdot v_j \\cdot v_k $.
 

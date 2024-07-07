@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an undirected graph with $N$ nodes (numbered from $1$ to $N$) and $M$ edges, we define $A(i,j) = 1$ if nodes $i$ and $j$ are adjacent (there is an edge between them), and $A(i,j) = 0$ if nodes $i$ and $j$ are not adjacent.
@@ -49,4 +49,3 @@ The output file `module.out` will contain the number of modules of the given gra
 
 The $14$ modules are:
 $\{ \}, \{1\}, \{2\}, \{3\}, \{4\}, \{5\}, \{6\}, \{7\}, \{1,6\}, \{2,3\}, \{2,7\}, \{3,7\}, \{2,3,7\}, \{1,2,3,4,5,6,7\}$.
-```

@@ -44,4 +44,3 @@ The file `a007.out` will contain `k` lines, on each line it will contain `1`, if
 ```
 1 5.0000 5.0000
 0
-```

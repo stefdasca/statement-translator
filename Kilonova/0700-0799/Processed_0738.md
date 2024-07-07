@@ -1,4 +1,4 @@
-```
+
 Let $n$ be a natural number and $s = 1^1 + 2^2 + 3^3 + \dots + n^n$.
 
 # Task

@@ -1,4 +1,4 @@
-```markdown
+
 The National Audiovisual Council (CNA) is the authority that coordinates the activity of media stations in Romania. The head of CNA wants a statistic regarding the advertising broadcasted by TV stations. To this end, he receives daily information in the following format: $d \ \ \text{hh}:\text{mm}:\text{ss}$, where $d$ is the duration expressed in seconds of the advertising, and $\text{hh}:\text{mm}:\text{ss}$ is the start time of the advertising ($\text{hh}$ is the hour, $\text{mm}$ is the minute, and $\text{ss}$ is the second). Note that $d$ is separated from $\text{hh}$ by a single space, and the following values are separated by the `:` character.
 For example, a line in the form: $150 \ 05:02:45$ is interpreted as follows: there is a TV station that broadcasted an advertisement with a duration of $150$ seconds, starting at $5$ hours, $2$ minutes, and $45$ seconds.
 The "golden second" is a second in which the most advertising is broadcasted, meaning that the maximum number of TV stations are broadcasting advertisements during that second. If there are multiple such seconds, the "golden second" is considered to be the first such second during the day.
@@ -71,4 +71,3 @@ For example $1$, the requirement is $1$. During the day, for $23$ hours, $18$ mi
 ## Explanation
 
 For example $2$, the requirement is $2$. The golden second is $12:01:50$ because there is a maximum number of stations broadcasting advertisements ($3$ stations).
-```

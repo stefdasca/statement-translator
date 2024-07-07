@@ -4,7 +4,7 @@ Costel, a student skilled in math but also in using the computer, writes his hom
 
 # Task
 
-Write a program to restore the assignment to the form required by the teacher. Each exercise will be written on a separate line, without any spaces. Each line will end with a “;” (semicolon). Additionally, you will have to find the missing numbers!
+Write a program to restore the assignment to the form required by the teacher. Each exercise will be written on a separate line, without any spaces. Each line will end with a “;� (semicolon). Additionally, you will have to find the missing numbers!
 
 # Input data
 
@@ -38,4 +38,3 @@ The output data will be printed in the file `adun.out`, which contains, on separ
 16+300=316;
 7+3=10;
 3000+1000=4000;
-```

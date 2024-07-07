@@ -71,4 +71,3 @@ Each of the next $Q$ lines must contain the answers to Vadim's questions.
 5
 4
 6
-```

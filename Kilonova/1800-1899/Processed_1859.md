@@ -1,4 +1,4 @@
-```markdown
+
 Agent caterpillar Smith is tired of always destroying trees and now he develops his artistic sense – he much prefers coloring them. Every time he wants to create a new tree painting, he takes with him the $K$ colored pencils, chooses a tree from the garden, and starts working. The tree chosen by Smith is made up of $N$ nodes, has node $R$ as the root, and its structure is suitable for painting:
 - each node has at most two branches that lead to two other nodes: one to the left and/or one to the right;
 - between any two nodes there is a unique path made up of distinct branches, on which the caterpillar can walk to get from one node to another;
@@ -67,5 +67,4 @@ The output file `acolor.out` will contain a single line that contains the number
 `acolor.out`
 ```
 0
-```
 ```

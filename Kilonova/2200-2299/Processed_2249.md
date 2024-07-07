@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The two teams named Runtime Terror meet in a match between their robots, which will decide which is the best team with the name Runtime Terror!
@@ -78,5 +78,4 @@ Print $q$ lines, representing the answer for each query.
 7
 216
 5
-```
 ```

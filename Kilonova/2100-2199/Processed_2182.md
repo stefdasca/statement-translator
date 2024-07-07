@@ -1,4 +1,4 @@
-```markdown
+
 Gardener Marian has at his disposal a permutation with $n$ elements and a natural number $S$ which initially has the value $0$. Marian performs $n$ operations as follows:
 
 * chooses the minimum element from the permutation, let $x$ be its position within the permutation
@@ -63,4 +63,3 @@ The final value of $S$ is $11$.
 
 ## Explanation
 $S = 5 + 1 + 5 + 1 + 2 + 1 + 1$
-```

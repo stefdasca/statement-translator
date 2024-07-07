@@ -1,4 +1,4 @@
-```markdown
+
 Let $n$ be a natural number and $p=(p_1, p_2, \dots, p_n)$ a permutation of order $n$. We define the degree of a permutation as the smallest natural number $k>0$, such that $p^k = p \circ p \circ p \circ \dots \circ p = e$ (k times), where $e$ is the identity permutation, i.e. the permutation for which $e(i)=i$, for any $i=1, 2, \dots, n$.
 
 # Task
@@ -44,5 +44,4 @@ The permutation $(2, 1, 4, 5, 3)$ has a degree of $6$ (maximum possible). There 
 `perm.out`
 ```
 2 3 1 5 6 7 4 9 10 11 12 13 14 8
-```
 ```

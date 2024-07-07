@@ -1,4 +1,4 @@
-```markdown
+
 Let $N$ and $T$ be two natural numbers.
 
 Determine the number of different solutions $S$ of the equation $x_1 \cdot x_2 \dots x_N = T$, in the set of natural numbers.
@@ -52,4 +52,3 @@ There are $6$ pairs $(x_1, x_2)$ of natural numbers with the property that $x_1 
 $N = 3$ and $T = 10$
 
 There are 9 triplets $(x_1, x_2, x_3)$ of natural numbers with the property that $x_1 \cdot x_2 \cdot x_3 = 10$: $(1, 1, 10)$, $(1, 2, 5)$, $(1, 5, 2)$, $(1, 10, 1)$, $(2, 1, 5)$, $(2, 5, 1)$, $(5, 1, 2)$, $(5, 2, 1)$, $(10, 1, 1)$
-```

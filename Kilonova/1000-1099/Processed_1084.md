@@ -1,4 +1,4 @@
-```markdown
+
 Consider an even natural number $N$ and the increasing ordered array $X$ formed from the first $N$ non-zero natural numbers: $X_1=1$, $X_2=2$, $\dots$, $X_N=N$.
 
 The positions of the numbers in the array can only be modified according to rule $A$, as follows:
@@ -10,7 +10,7 @@ By applying rule $A$ $R$ times, the array $X$ is transformed into an "A-sorted" 
 
 Given the natural numbers $N$, $R$, $K$, and $T$, write a program to determine:
 
-1. The number located at position $K$ in the "A-sorted" array obtained by applying rule “A” to array $X$ $R$ times.
+1. The number located at position $K$ in the "A-sorted" array obtained by applying rule “A� to array $X$ $R$ times.
 2. The predecessor and successor of the number $T$ in the "A-sorted" array.
 
 # Input data
@@ -49,8 +49,8 @@ The input file `asort.in` contains on the first line a natural number $P$; the n
 Task $1$ is solved. $N=6$, $R=2$, $K=3$ and $T=4$
 
 * The initial array $X$ is `1 2 3 4 5 6`.
-* After the first application of rule $"A”$, the array is `2 1 4 3 6 5`.
-* After the second application of rule “A”, the sorted array is `5 4 1 6 3 2`.
+* After the first application of rule $"A�$, the array is `2 1 4 3 6 5`.
+* After the second application of rule “A�, the sorted array is `5 4 1 6 3 2`.
 * In the "A-sorted" array, the value at position $K=3$ is `1`.
 
 # Example 2
@@ -71,7 +71,6 @@ Task $1$ is solved. $N=6$, $R=2$, $K=3$ and $T=4$
 Task $2$ is solved. $N=6$, $R=2$, $K=3$ and $T=4$
 
 * The initial array $X$ is `1 2 3 4 5 6`.
-* After the first application of rule $"A”$, the array is `2 1 4 3 6 5`.
-* After the second application of rule “A”, the sorted array is `5 4 1 6 3 2`.
+* After the first application of rule $"A�$, the array is `2 1 4 3 6 5`.
+* After the second application of rule “A�, the sorted array is `5 4 1 6 3 2`.
 * In the "A-sorted" array, the predecessor of the number $T=4$ is `5`, and the successor is `1`.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Let $n$ and $p$ be two natural numbers.
 We denote by $A(n, p)$ the set of all natural numbers with the following properties:
 * They are greater than or equal to $2$ and less than or equal to $n$;
@@ -55,4 +55,3 @@ There are $10$ natural numbers less than or equal to $15$ that contain in their 
 ## Explanation
 
 There are $22$ natural numbers less than or equal to $27$ that contain in their prime factorization exponents less than or equal to $2$.
-```

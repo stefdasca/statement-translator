@@ -1,4 +1,4 @@
-```
+
 An `N`-node tree is given, with nodes numbered from `1` to `N`, where each node has an associated value. `M` operations are performed on the tree. Each operation is either of type `Q` - query or `U` - update. Each operation of either type has several subtypes:
 * `1 x` The operation is performed on node `x`
 * `2 x` The operation is performed on all nodes in the subtree of `x` (the root of the tree is `1`)

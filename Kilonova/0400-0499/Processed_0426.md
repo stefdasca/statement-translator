@@ -42,4 +42,3 @@ The output file `hacker.out` will contain `M` lines representing the answers to 
 1 7 0
 8 7 0
 6 4 0
-```

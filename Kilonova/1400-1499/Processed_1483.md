@@ -1,5 +1,5 @@
-```markdown
-Tudor received an educational game called “Roboțel” with which he will learn the cardinal points North, East, South, West. The game consists of a robot that moves on a board in the form of a square matrix, divided into $R$ rows and $R$ columns. Each cell, at the intersection of a row and a column, is either an “empty” cell or a *signal* cell, in which case it is labeled with one of the letters `N`, `E`, `S`, `V`, representing $4$ possible directions of movement. When the robot reaches a “signal cell”, it changes its direction as follows:
+
+Tudor received an educational game called “Roboțel� with which he will learn the cardinal points North, East, South, West. The game consists of a robot that moves on a board in the form of a square matrix, divided into $R$ rows and $R$ columns. Each cell, at the intersection of a row and a column, is either an “empty� cell or a *signal* cell, in which case it is labeled with one of the letters `N`, `E`, `S`, `V`, representing $4$ possible directions of movement. When the robot reaches a “signal cell�, it changes its direction as follows:
 
 * If the cell is labeled with `N` then the robot will move from bottom to top
 * If the cell is labeled with `E` then the robot will move from left to right
@@ -16,7 +16,7 @@ In $Figure \\ 1$, for example, there are $2$ blocking pairs: The pair $(1, 2)$, 
 Considering that the robot moves on the board, it stops **only** in the following situations:
 
 * The robot enters an empty cell located on the first or last row, or the first or last column, in which case if it maintained the current movement direction it would leave the board.
-* The robot enters a “signal cell” of a blocking pair and will stop in the other cell of the pair.
+* The robot enters a “signal cell� of a blocking pair and will stop in the other cell of the pair.
 
 ~[figura23.png|align=right]
 For example, in $Figure \\ 2$, the robot reaches the empty cell $(3, 5)$ where it stops. In $Figure \\ 3$, the robot will stop in cell $(4, 1)$ because if it changed direction to East, it would return to the last visited signal cell, $(4, 3)$.

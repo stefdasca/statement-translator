@@ -54,4 +54,3 @@ ten three
 `stdout`
 ```
 ten ten nine
-```

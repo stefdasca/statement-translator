@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 $n$ points are given in the plane $P_1, P_2, \dots, P_n$ and $k$ is a natural number. It is required to verify if it is possible to construct $k$ segments with both ends from the set $\\{P_1, P_2, \dots, P_n\\}$, in such a way that no triangle is formed with vertices in these points.
@@ -38,5 +38,4 @@ The output will be in the file `puncte.out` which will contain:
 1
 1 4
 1 2
-```
 ```

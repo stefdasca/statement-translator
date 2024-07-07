@@ -2,7 +2,7 @@ Sure, here is the translated competitive programming problem statement:
 
 ---
 
-Gică and Lică work in a toy factory, in different shifts. This year, the factory owner decided to make and sell “mărțișoare.” The finished mărțișoare are placed in consecutively numbered boxes. The boxes are arranged in strictly increasing and consecutive order of their numbers. Gică needs to take each box in order, tie a red and white string to each mărțișor and then put them back in the box.
+Gică and Lică work in a toy factory, in different shifts. This year, the factory owner decided to make and sell “mărțișoare.� The finished mărțișoare are placed in consecutively numbered boxes. The boxes are arranged in strictly increasing and consecutive order of their numbers. Gică needs to take each box in order, tie a red and white string to each mărțișor and then put them back in the box.
 
 In each shift, Gică writes on a magnetic board, using magnetic digits, in strictly increasing order, the numbers of the boxes for which he tied strings to the mărțișoare. When Gică’s shift ends, Lică, who works the next shift, comes and packages the boxes with the numbers on the board and sends them to the stores. Everything goes smoothly until one day, when two digits on the board demagnetize and fall, leaving two empty spots. Lică notices this, picks them up, and puts them randomly back on the board in the two empty spots. The only thing he takes into account is that the digit $0$ cannot be the first digit of a number.
 

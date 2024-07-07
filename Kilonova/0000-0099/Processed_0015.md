@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Felicia is interested in the maximum lexicographic subsequence of a string. Note that a string $a$ is considered smaller in lexicographic order than a string $b$ if $a$ is a prefix of $b$, or if there exists a position $i$ for which we have $a[1] = b[1]$, $...$, $a[i-1] = b[i-1]$, and $a[i] \lt b[i]$. Thus, the maximum lexicographic subsequence of a string of characters is the largest subsequence, in lexicographic order, of a string of characters (for example `zzxx` for `azbxazbxaax`). For a string $s$ of characters, we denote by $m(s)$ the maximum lexicographic subsequence of $s$, and with $v(s) = |m(s)|$ the length of this subsequence.
@@ -54,5 +54,4 @@ felicia
 `stdout`
 ```
 59
-```
 ```

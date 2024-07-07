@@ -14,12 +14,12 @@ The input file `zuma.in` contains on the first line the numbers `N` and `K` sepa
 The output file `zuma.out` must contain a single natural number representing the minimum length that the string can have after applying the operations in a convenient way.
 
 # Constraints and clarifications
-* \( 1 \leq K \leq N \leq 500 \)
-* For tests worth `10` points, \( 25 \leq K \leq N \leq 100 \)
-* For other tests worth `10` points, \( K = 2 \)
+* $ 1 \leq K \leq N \leq 500 $
+* For tests worth `10` points, $ 25 \leq K \leq N \leq 100 $
+* For other tests worth `10` points, $ K = 2 $
 * For other tests worth `10` points, the number of distinct characters in the string is `2`
-* For other tests worth `15` points, \( 1 \leq N \leq 50 \)
-* For other tests worth `35` points, \( 1 \leq N \leq 200 \)
+* For other tests worth `15` points, $ 1 \leq N \leq 50 $
+* For other tests worth `35` points, $ 1 \leq N \leq 200 $
 
 # Example
 `zuma.in`

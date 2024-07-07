@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence of natural numbers $a_1$, $a_2$, $\dots$, $a_n$ arranged circularly. This means that $a_1$ has $a_n$ and $a_2$ as neighbors, and $a_n$ has $a_{n-1}$ and $a_1$ as neighbors. Also consider a natural number $K$.
 
 # Task
@@ -38,4 +38,3 @@ The file `kds.out` contains a single natural number representing the maximum sum
 The two subarrays are $1$ and $4\ 5\ 3\ 7$.
 
 Note that you cannot choose the subarrays $3\ 7\ 2$ and $2\ 4\ 5$ because they are adjacent ($5$ is adjacent to $3$).
-```

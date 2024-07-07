@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Two sequences, $A$ and $B$, each containing $N$ numbers indexed from $1$, are given. Find the maximum value of the expression $(A_{l}+A_{l+1}+\ldots+A_{r}) - (B_{l}+B_{l+1}+\ldots+B_{r})$, with $1 \leq l \leq r \leq N$.
@@ -36,4 +36,3 @@ Print a single number, representing the maximum value of the above expression.
 ## Explanation
 
 We will choose $l=4$ and $r=5$ and obtain $(6 + (-1)) - (0 + (-4)) = 5 - (-4) = 9$. This value is maximum.
-```

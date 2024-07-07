@@ -102,4 +102,3 @@ The state above is the state of the fans at the end of the concert, from which w
 0
 1
 1
-```

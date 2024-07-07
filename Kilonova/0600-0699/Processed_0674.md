@@ -1,4 +1,4 @@
-```markdown
+
 You are given an integer $n$ and your task is to check how many numbers from $1$ to $n$ can be written as sum of $k$ not necessary distinct prime numbers.
 
 As this is too easy, you will have to check whether this is possible or not for $q$ such numbers.
@@ -39,5 +39,4 @@ The output will contain $q$ lines, each having a single element representing the
 3
 2
 0
-```
 ```

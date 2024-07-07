@@ -1,4 +1,4 @@
-```markdown
+
 Since K.L 2.0 got tired of counting problems, he decided to organize a ball. At the ball, $N$ girls and $N$ boys participate. As soon as they heard about this ball, the girls started making plans, noting down their preferences for dance partners, with each girl writing how happy she would be if she danced with a particular partner. Unfortunately, the girls lost their notes and no longer know which boy they wanted to dance with. However, before losing them, the girls had sent the notes to the participants at LOT. Therefore, for each boy, the probability that a girl will be happy if she dances with him is known. In addition, any boy who dances does not want to disappoint his partner and therefore cannot dance with more than $K$ girls without diminishing his performance.
 
 # Task

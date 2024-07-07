@@ -1,4 +1,4 @@
-```markdown
+
 The Archipelago of Zopopan consists of `n` triangular islands numbered from `1` to `n`. Each island is located using the Cartesian coordinates of its vertices.
 
 The administration wants to purchase helicopters to facilitate transportation between the islands. A helicopter will be able to ensure a route between two islands at the minimum distance obtained horizontally or vertically (parallel to the coordinate axes). Additionally, due to the tank capacity, such a route cannot exceed a value `k` — a natural number. The helicopters can travel the routes in both directions.
@@ -112,4 +112,3 @@ The helicopters ensure direct transport between islands:
 `5` and `6` with a vertical distance equal to `10`;
 In total, the transport routes have a distance of `30`.
 
-```

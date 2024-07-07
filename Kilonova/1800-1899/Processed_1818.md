@@ -1,4 +1,4 @@
-```markdown
+
 The SEPI safe, where the prizes of the computer science olympiads are stored, is secured with a cipher in the form of a square matrix $A$ with $N$ rows and $N$ columns, where $N$ is an even natural number. The rows and columns are numbered starting from $1$.
 
 The _cipher-matrix_ $A$ consists of $\frac{N}{2}$ layers. The $i$-th layer ($1 \leq i \leq \frac{N}{2}$) will contain the elements located on the edge of matrix $A$, after excluding the first $i - 1$ layers. The order of the elements of this layer is obtained starting from position $(i, i)$, traversing the top edge from left to right, the right edge from top to bottom, the bottom edge from right to left, and then the left edge from bottom to top.

@@ -1,4 +1,4 @@
-```markdown
+
 Mirko's great-grandmother, Katica, is passionate about mathematics. She likes to challenge Mirko with math games. This time, she wrote down a sequence of numbers on a piece of paper and told Mirko that he can do the following:
 
 - He can choose any two numbers from the sequence (let's call them $A$ and $B$) and a prime number $X$, such that $A$ is divisible by $X$. Then, Mirko deletes $A$ and replaces it with $A/X$. After that, he deletes $B$ and puts $B * X$ in its place.
@@ -76,6 +76,5 @@ The third line of input contains $N$ natural numbers less than or equal to $10^6
 `stdout`
 ```
 2 2
-```
 ```
 ```

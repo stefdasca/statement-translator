@@ -1,4 +1,4 @@
-```markdown
+
 $n$ and $t$ are given as two non-zero natural numbers, and $S$ is a binary array of $n$ elements indexed from $1$. A swap in this array consists of choosing two indices $i, j\\ (1 \\leq i, j \\leq n)$ and changing the values of $S[i]$ and $S[j]$. A subarray of length $t$ in the array $S$ represents $t$ elements in consecutive positions in $S$.
 
 # Task
@@ -51,4 +51,3 @@ The element at position $1$ is swapped with the element at position $6$, and the
 ## Explanation
 
 A convenient sequence is located between positions $4$ and $6$ and another between positions $18$ and $20$. A single swap is needed to place a $1$ element at position $5$.
-```

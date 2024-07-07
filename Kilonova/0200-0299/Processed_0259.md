@@ -1,4 +1,4 @@
-```markdown
+
 A sequence with $n$ integers and $q$ queries of the form $x, y$ is given.
 
 To answer, in order, each query which means: "Remove from the sequence the elements at positions between $x$ and $y$. What is the minimum value among the remaining elements in the sequence?". **ATTENTION! The operation of deleting the numbers with positions between $x$ and $y$ implies replacing the elements with positions strictly greater than $y$, in order, on positions greater than $x$. The number of elements will be reduced by $y-x+1$ after each query.**
@@ -52,4 +52,3 @@ After deleting the element at the third position, the resulting sequence is $[1,
 After deleting the elements at positions $3$ and $4$ from the new sequence, the resulting sequence is $[1, 5]$, so the minimum is $1$.
 
 After deleting the element at the first position, the resulting sequence is $[5]$, so the minimum is $5$.
-```

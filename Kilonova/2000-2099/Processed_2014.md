@@ -1,4 +1,4 @@
-```markdown
+
 Daniel opened a "kindergarten" and he is taking care of $N$ puppies of different ages that he has trained to stand in a circle. The puppies are numbered from $1$ to $N$ and for each puppy $i$ with values between $1$ and $N$ we know its age $V_i$. Each puppy $i$ has as neighbors puppies $i - 1$ and $i + 1$. Since they stand in a circle, the puppies in positions $1$ and $N$ are also neighbors.
 
 Daniel needs to keep the puppies concentrated for a few hours and decides to play a game with them. For the game chosen by Daniel, he needs to divide the puppies into teams of $K$ puppies placed in consecutive order in the circle. Since the puppies have different ages, he wants to choose a $K$ such that the teams are as balanced as possible. To evaluate how balanced the division into teams of $K$ is, he calculates a balance coefficient as follows:
@@ -95,4 +95,3 @@ $2 \ 4 \rightarrow$ the minimum is $2$
 $4 \ 2 \rightarrow$ the minimum is $2$
 The maximum is $2$ which is strictly less than $3$.
 We notice that we obtain the ideal value for $K$ equal to $2$, $3$, and $4$, but since in the case of equality we choose the largest $K$, the final answer is $4$.
-```

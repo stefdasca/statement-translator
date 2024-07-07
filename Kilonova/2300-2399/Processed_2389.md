@@ -1,4 +1,4 @@
-```markdown
+
 In the Cartesian coordinate system xOy, $N$ segments parallel to the y-axis are given. Each segment is determined by its endpoints $(x, y_1)$ and $(x, y_2)$.
 
 # Task
@@ -37,5 +37,4 @@ There can be three collinear segment endpoints.
 `oypara.out`
 ```
 1 3 14 13
-```
 ```

@@ -27,4 +27,3 @@ The output file `coduri.out` will contain $n$ lines, each one for each code in t
 ```
 625
 1250
-```

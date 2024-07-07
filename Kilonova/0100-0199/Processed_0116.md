@@ -14,7 +14,7 @@ The file `patrate.in` contains a single natural number `N` representing the leng
 In the file `patrate.out`, you will write a single natural number (followed by a newline character) representing the number of requested possibilities.
 
 # Constraints and clarifications
-* `2 <= N <= 1000`
+* `2 \leq N \leq 1000`
 
 # Example
 

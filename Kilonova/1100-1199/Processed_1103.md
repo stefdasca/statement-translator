@@ -1,4 +1,4 @@
-```markdown
+
 Given a sequence of hexadecimal numbers, that is, numbers in which the 16 digits are from the set {`0`,`1`,`2`,`3`,`4`,`5`,`6`,`7`,`8`,`9`,`A`,`B`,`C`,`D`,`E`,`F`}. We say that two numbers match if they have no common hexadecimal digits and together contain all the digits in base $16$ at least once. For example, `24FFA032` and `EDCB1998765` are numbers that match.
 
 # Task
@@ -36,4 +36,3 @@ The output file `perechi.out` will contain a single natural number representing 
 ## Explanation
 
 The four pairs are: (`24FFA032`, `EDCB1998765`), (`EDCB1998765`, `24FA03`), (`EDCB1998765`, `24FFA032`) and (`0`, `123456789ABCDEF12`).
-```

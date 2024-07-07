@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence $a_1, a_2, \ldots, a_N$ of natural numbers. The sequence is divided into four subarrays such that any element from the sequence belongs to only one subarray and each subarray contains at least two elements. Specifically, three indices $i < j < k$ are identified so that the first subarray consists of elements $a_1, a_2, \ldots, a_i$, the second subarray of elements $a_{i+1}, a_{i+2}, \ldots, a_j$, the third subarray of elements $a_{j+1}, a_{j+2}, \ldots, a_k$ and the last subarray of elements $a_{k+1}, a_{k+2}, \ldots, a_n$. For each subarray, its cost is determined as the difference between the maximum value and the minimum value in that subarray.
 
 # Task
@@ -47,4 +47,3 @@ $(6, 0)$ (cost $6 - 0 = 6$)
 $(11, 4)$ (cost $11 - 4 = 7$)
 
 Another solution that achieves the same maximum sum of $29$ is $i = 5$, $j = 7$, $k = 9$, but it does not have the minimum $i$.
-```

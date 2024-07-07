@@ -80,4 +80,4 @@ The solution obtains $(100+75+100)/3 = 91.66\\%$ of the test points.
 
 # Epilogue
 
-“In the end, Floricel realized that material things are necessary but not sufficient for fulfillment in life. Now that he no longer follows what he sees from others, he does not chase fake lifestyles, cringe, and propaganda on social media, and the goals he aims for are chosen by himself, for his own fulfillment and that of those around him. Now he is truly happy.”
+“In the end, Floricel realized that material things are necessary but not sufficient for fulfillment in life. Now that he no longer follows what he sees from others, he does not chase fake lifestyles, cringe, and propaganda on social media, and the goals he aims for are chosen by himself, for his own fulfillment and that of those around him. Now he is truly happy.�

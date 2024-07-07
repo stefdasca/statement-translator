@@ -36,4 +36,3 @@ Print on the first line the value $k$ (the number of galleries that will be nece
 ```
 4
 1 3 4 5
-```

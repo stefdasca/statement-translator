@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Miguel has $Q$ square tables (matrices) **indexed from 1**. Each element of a table is equal to the $gcd$ of the indices. He wants to know how many values equal to 1 are there in total.

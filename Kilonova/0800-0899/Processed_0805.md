@@ -2,7 +2,7 @@
 
 The specialists in chemistry have successfully created a wide range of immiscible liquid substances (which do not mix with each other), of the same density and different colors.
 
-This result was used by specialists in physics to study the principle of communicating vessels. According to this principle “*in a system of communicating vessels, the liquid level is the same regardless of the shape of the vessels*”.
+This result was used by specialists in physics to study the principle of communicating vessels. According to this principle “*in a system of communicating vessels, the liquid level is the same regardless of the shape of the vessels*�.
 
 \
 The physicists' experiments are conducted as follows:

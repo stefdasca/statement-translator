@@ -1,4 +1,4 @@
-```markdown
+
 For an array $x_1, x_2, \dots x_m$ of integers, we define the following terms:
 
 A subarray $(i, j)$ is the array formed by the numbers $x_i, x_{i+1}, x_{i+2}, \dots x_j$ in this order.
@@ -108,4 +108,3 @@ There are multiple subarrays that give the sum $7$. For example, we can choose t
 $k = 2$
 
 We observe that any subarray of length $\geq 1$ has a negative sum. Therefore, we can choose the empty subarray which has a sum of $0$.
-```

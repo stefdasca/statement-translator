@@ -1,4 +1,4 @@
-> *Colegiul Național “Frații Buzești”* ~[logos.png|align=right|width=20rem]
+> *Colegiul Național “Frații Buzești�* ~[logos.png|align=right|width=20rem]
 > *Centrul de Pregătire pentru Performanță în Informatică*
 > **InfoCNFB** - Second Edition, Senior
 > December 9, 2023

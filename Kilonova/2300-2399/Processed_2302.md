@@ -1,4 +1,4 @@
-```markdown
+
 Termopanes found a new friend, Boolanel, the master of Boolean in informatics and wants to have fun together with him. Since Termopanes likes natural numbers and Boolanel likes mirrored numbers, they decide to calculate the sum of numbers $X$ with $N$ digits that do not contain the digit $0$, with the property that $X$ modulo $K = 0$ and $reverse(X)$ modulo $K = 0$. Since the sum of the numbers can be very large, they want to find the sum modulo $M$.
 
 # Task

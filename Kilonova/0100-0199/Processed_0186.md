@@ -1,4 +1,4 @@
-```
+
 After a productive day of cleaning, Henry and Hetty went out to a sushi restaurant in the city. This restaurant has `N` tables connected by `N-1` double-sided conveyor belts, so any two tables are directly or indirectly connected through conveyor belts. For each table `i`, `1 \leq i \leq N`, we know both the number $K_i$ of tables it is directly connected to, and the ordered list of its neighboring tables: $V_{i,1}, V_{i,2} \ldots V_{i,K_i}$.
 
 The conveyor belts transport dishes to customers. They follow a unique route defined by the following rule: for any table `i`, a dish at table `i` that just came from table $V_{i,j}$ will go from table `i` to table:
@@ -93,4 +93,3 @@ The other dish is placed at time `1` at table `3`, heading towards the first tab
 - table `1` at time `2`
 - table `2` at time `3`
 - table `3` at time `1`
-```

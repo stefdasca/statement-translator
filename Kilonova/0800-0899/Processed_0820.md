@@ -1,4 +1,4 @@
-```markdown
+
 The inhabitants of the planet Agria, known as agri, decided in the famous year $2012$ to explain to Earthlings how to efficiently harvest a row of $n$ corn plants, numbered in order, with $1$, $2$, $3$, ..., $n$.
 
 The $n$ corn plants are harvested by several agri. The first agri walks along the row, starting from the first corn plant and harvesting the first encountered corn plant, the third, the fifth, and so on until the end of the row.

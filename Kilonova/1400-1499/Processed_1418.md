@@ -1,4 +1,4 @@
-```markdown
+
 A non-zero natural number $n$ is called *balanced* if in its prime factorization the sum of the bases is equal to the sum of the exponents.
 
 For example, the numbers $72 = 2^3 \cdot 3^2$, $5760 = 2^7 \cdot 3^2 \cdot 5^1$ are *balanced*.
@@ -33,5 +33,4 @@ The output file `cumpanit.out` will contain the sought numbers, written in **inc
 27
 48
 72
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 At the wood processing exam, the apprentice engineers received a door with $N$ hinges, each with a resistance $R_1, \dots, R_N$.
 
 The first task of the exam involves determining the total resistance of the door, which is an array $T_1, \dots, T_K$ composed of $K$ numbers, calculated as follows.
@@ -102,4 +102,3 @@ $\begin{pmatrix}
 \end{pmatrix}$
 
 The column maxima are $3$, $7$, $8$.
-```

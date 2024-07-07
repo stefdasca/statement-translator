@@ -50,4 +50,3 @@ The only line of the output will contain the biggest value of sum of $AND$ sums 
 `stdout`
 ```
 75
-```

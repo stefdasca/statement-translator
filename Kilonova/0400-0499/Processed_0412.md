@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The Spring Carnival has arrived and $n$ tourists have reached to the event. We know that all the tourists must wear a hat which is in one of the $k$ colors.
@@ -56,4 +56,3 @@ The output will contain a single number, representing the answer modulo $10^9+7$
 For the second sample test case, the arrays we can generate are:
 
 $[1, 1, 2, 3]$, $[1, 1, 3, 2]$, $[2, 2, 1, 3]$, $[2, 2, 3, 1]$, $[3, 3, 1, 2]$, $[3, 3, 2, 1]$
-```

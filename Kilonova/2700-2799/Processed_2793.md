@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 The given `main.cpp` code reads itself, performs the XOR operation between the characters in the file, and displays the result.
 
@@ -37,4 +37,3 @@ A number is displayed.
 - When running, it should display the same number as before the modification.
 - The contest code has been slightly modified.
 - To check if you haven't mistakenly added/removed any character, the submitted source code must be 398 B in size.
-```

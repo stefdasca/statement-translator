@@ -1,4 +1,4 @@
-```markdown
+
 Pepi is an outstanding student studying Computer Science in Bucharest. In his year the total number of students is $2^N$ . Because Pepi cares a lot about his fellow students he doesn't bother remembering their names but he has assigned everyone, including himself, an ID from $0$ to $2^N - 1$.
 
 The students in Pepi's year have organized a charitable event for the Ukrainian people where every student came dressed in $1$ of $2$ colors, either yellow or blue (it is possible that everyone wore only one of the $2$ colors). Unfortunately, Pepi forgot how everyone was dressed but he desperately wants to remember.
@@ -37,4 +37,3 @@ Explanation
 There are $2$ students with IDs ranging from $0$ to $1$. The student with the ID $0$ talks only with the student with ID $1$ and he doesn't talk to more than $\lceil \sqrt{1} \rceil = 1$ students dressed with the same color as him.
 
 The number of students dressed in yellow is not equal to the number of students dressed in blue. So, a possible way that the students were dressed would be blue and blue ($11$). Of course, yellow, yellow ($00$) is another great solution.
-```

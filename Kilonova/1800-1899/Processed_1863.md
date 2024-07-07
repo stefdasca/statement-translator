@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of $1 \ 048 \ 576$ $(2^{20})$ elements, which are integers, is considered. We define the following concepts:
 - a plateau as a sequence of equal elements located in consecutive positions in an array;
 - the length of a plateau as the number of elements that make up the plateau.
@@ -42,4 +42,3 @@ Otherwise, your program receives a score that depends on the number of questions
 * Call `ask(1, 8192)`, to query the maximum length of a plateau found between positions $1$ and $8192$.
 * The function returns $8192$, meaning the maximum length is $8192$.
 * `solve` returns $(1, 8192)$, because we know that a plateau with a length of $8192$ is located between positions $1$ and $8192$.
-```

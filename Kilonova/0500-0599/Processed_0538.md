@@ -1,4 +1,4 @@
-```markdown
+
 Costel owns an array $p$ of $n$ precious stones numbered from $1$ to $n$. Because Costel is a superstitious person, he collects stones of only certain types. The type of a stone is represented by a lowercase letter of the English alphabet, and each type has a specific value. <br/> <br/>
 
 One day, Costel decided to distribute the array of $n$ stones on $k$ shelves so that each shelf contains a nonempty subarray of stones from the original array, and finally, each stone is on exactly one shelf. We define the value of a shelf as the sum of the values of the stones on that shelf.
@@ -65,4 +65,3 @@ aabaacabcbaa
 
 The largest value a shelf can have is $18$ and is obtained by the following distribution on the shelves: `a`, `bbaacabcba`, `a`, each with values $1$, $18$, and $1$ respectively. <br/>
 The array is distributed on $3$ shelves as follows: `aabaa`, `cab`, `cbaa`, each with values $6$, $6$ and $7$ respectively. Thus, $6$ is the smallest value of a shelf, which for this example is the maximum possible.
-```

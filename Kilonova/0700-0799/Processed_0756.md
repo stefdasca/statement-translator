@@ -1,4 +1,4 @@
-```
+
 Given $n$ natural numbers $x_1, x_2, \dots, x_n$. Large numbers can be formed by writing the numbers of a subarray consecutively without spaces between them.
 
 # Task
@@ -39,4 +39,3 @@ The output file `mare.out` will contain on the first line the large number from 
 The subarrays of numbers that give palindromic large numbers are: $(1)$, $(1, 23, 2, 1)$, $(2)$, $(1)$, $(401, 10, 4)$ and $(4)$.
 
 These give us the large numbers $1$, $12321$, $2$, $1$, $401104$ and $4$. Among these, the largest is the penultimate one.
-```

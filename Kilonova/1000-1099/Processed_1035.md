@@ -1,4 +1,4 @@
-```markdown
+
 # Input data
 
 The first line contains a natural number $n$.
@@ -28,4 +28,3 @@ The first line will contain a natural number $s$.
 
 -Give me 500 lei as a loan...
 -Here is 512, to make it a round sum...
-```

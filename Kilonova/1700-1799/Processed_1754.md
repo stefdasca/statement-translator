@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 On the real axis, there are $N$ cities, numbered with the numbers $1, 2, 3, \dots, N$. Although in a one-dimensional world things seem to be much simpler, most of the inhabitants are dissatisfied with the long distances traveled between cities to resolve various issues. Thus, for better organization, it was put to a vote and it was decided to promote at most $K$ cities to the rank of administrative center. The centers must be placed in a smart way, so that the maximum distance calculated from each city to the nearest administrative center is as small as possible. Since the administrative costs of such a center are high, a number of administrative centers should be placed in such a way that the maximum distance does not change.
@@ -34,4 +34,3 @@ The file `orase.out` must contain on a single line, separated by spaces, two nat
 ## Explanation
 
 One possibility for optimal placement of the centers can be in cities $3$ and $6$.
-```

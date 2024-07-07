@@ -56,4 +56,3 @@ The first line of the output file `chromosome.out` will contain the value $r$ – 
 6 1 3 4 
 6 4
 6 5 3 4 
-```

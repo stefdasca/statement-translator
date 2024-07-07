@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of $N$ distinct numbers $a_1, a_2, \dots, a_N$ is given. Any sequence $a_i, a_{i+1}, \dots, a_{j-1}, a_j$, $1 \leq i + 1 < j \leq n$, for which all the values $a_k$, $i < k < j$, are smaller than the extremities $a_i$ and $a_j$, will henceforth be called a "pit."
 
 # Task
@@ -35,4 +35,3 @@ The output file `nrpits.out` will contain a single number representing the numbe
 ## Explanation
 
 The eight "pits" are: $(12, 1, 10)$, $(10, 3, 4)$, $(12, 1, 10, 3, 4, 11)$, $(10, 3, 4, 11)$, $(11, 5, 8)$, $(8, 7, 9)$, $(9, 2, 6)$, $(11, 5, 8, 7, 9)$.
-```

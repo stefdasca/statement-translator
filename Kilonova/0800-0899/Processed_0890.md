@@ -1,4 +1,4 @@
-```markdown
+
 The kind witch has a chest in which the magic stone is locked up by the dwarves using a digital code. The dwarves gave the witch a box containing $n$ cards. Each card has a natural number written on it that the witch will use to open the chest. The values written on the cards are distinct from each other.
 
 To find the code, she must proceed as follows: take each card out of the box and then determine the magic value associated with the natural number written on the card. For each card, the magic value is given by the $k$-th prime divisor of the number written on it. The witch must sum the obtained magic values for the $n$ cards and then input the digits of the obtained value in order to unlock the chest.
@@ -68,4 +68,3 @@ The $2$nd prime divisor of the number $105$ is $5$.
 The $3$rd prime divisor of the number $1001$ is $13$.
 The $4$th prime divisor of the number $5474$ is $23$.
 The sought sum will be $S = 5 + 2 + 5 + 13 + 23$, resulting in the code $48$.
-```

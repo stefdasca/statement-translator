@@ -1,4 +1,4 @@
-```
+
 Amidamaru loves to do his shopping at Cora. Being his favorite store, he made a list of all the products he usually buys, represented by $n$ words.
 
 Since Amidamaru is a well-organized person, he asked his mother to make him a complete shopping list for today, a list in which there are products from the $n$ words, each of which can appear multiple times. The list sent by his mother got corrupted when Amidamaru received it on his phone, spaces disappeared, some characters changed, and now the list is a random string of characters $S$.
@@ -71,4 +71,3 @@ prime
 ## Explanation
 
 `prime` and `sco` both appear exactly $4$ times, but `prime` is smaller lexicographically.
-```

@@ -41,4 +41,3 @@ The output file `ghizi.out` will contain the number of guides employed $M$ on th
 ```
 4
 1 4 5 6
-```

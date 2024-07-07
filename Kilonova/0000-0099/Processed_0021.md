@@ -1,4 +1,4 @@
-```markdown
+
 Alex wants to dry his clothes on the balcony. He washed `K` t-shirts and one sock. Alex's drying rack has `N` levels, and each level has `M` spots where only one piece of clothing can be hung. Alex dries the clothes in a specific way: he starts by placing the sock on level `A`, spot `B`, and then brings the laundry basket with the `K` t-shirts and places them one by one, always choosing a free spot as far away as possible from where he placed the sock. The metric he finds most appropriate when it comes to drying clothes is the Manhattan distance, so the distance from level `r1`, spot `c1` to level `r2`, spot `c2` is given by the expression `|r1 – r2| + |c1 - c2|`.
 
 # Task
@@ -71,4 +71,3 @@ The drying rack has `5` levels with `6` spots per level. The sock is placed on l
 
 For the last test:
 In this case, Alex is drying $10^{10}$ t-shirts. Pay attention when reading such a large value from the file.
-```

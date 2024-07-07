@@ -1,4 +1,4 @@
-```markdown
+
 Fascinated by Ancient Egypt, Rareș wants to build as many pyramids as possible from identical square cards. He has $N$ cards numbered from $1$ to $N$, either white or grey, arranged in strictly increasing order of numbers.
 
 The first pyramid will be built using the first three cards. The base of the pyramid will be formed from cards $1$ and $2$ placed side by side, with card $3$ placed on top (the peak of the pyramid).
@@ -61,4 +61,3 @@ The fourth line will contain the number $A$ or the value $0$ (zero) if no comple
 ## Explanation
 
 Pyramid $3$ ($P = 3$) contains the card numbered $X = 15$. Rareș can build only $M = 5$ complete pyramids, leaving $20$ unused cards ($C = 20$) insufficient to construct the 6th pyramid. The maximum number of white cards in a complete pyramid is $6$. Pyramids $4$ and $5$ each contain a maximum number of white cards ($6$), the first of these being pyramid $4$ ($A = 4$). The last $7$ white cards (numbered: $60$, $65$, $68$, $69$, $70$, $71$, $72$) are not used in constructing complete pyramids.
-```

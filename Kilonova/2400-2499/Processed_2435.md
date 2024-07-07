@@ -1,4 +1,4 @@
-```markdown
+
 Given a matrix $A$ with integers that has $N$ rows and $M$ columns, indexed from $1$.
 
 A submatrix of matrix $A$ is a matrix formed from all elements in rows with indices $x_1, x_1+1, \dots, x_2$ and columns with indices $y_1, y_1+1, \dots, y_2$ from matrix $A$, where $1 \leq x_1 \leq x_2 \leq N$ and $1 \leq y_1 \leq y_2 \leq M$.
@@ -44,4 +44,3 @@ Print a single line with an integer: the number of submatrices of $A$ for which 
 
 In the given example, a submatrix for which the **greatest common divisor** of its elements is $1$ is the entire matrix.
 
-```

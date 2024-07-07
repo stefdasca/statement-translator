@@ -1,4 +1,4 @@
-```markdown
+
 Two arrays containing natural numbers are considered: $s$ with $M$ elements and $v$ with $N$ elements. We define a sequence as *$i$-exclusive* if it does not contain any of the values $v_1, v_2, \dots, v_i$.
 
 # Task

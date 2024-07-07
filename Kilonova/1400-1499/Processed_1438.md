@@ -1,4 +1,4 @@
-```markdown
+
 A fence is made up of several rectangular panels. Each panel is, in turn, constructed from $N \times M$ bricks. One of the panels poses a problem because it is damaged. The panel is represented on paper using a matrix with $N$ rows and $M$ columns, numbered from $1$ to $N$, and from $1$ to $M$ respectively. The matrix contains only $0$ and $1$ values and follows these rules:
 * An element equal to $1$ indicates the presence of a brick in that position, while an element equal to $0$ indicates its absence
 * Row $1$ and row $N$ contain only $1$ values because the top and bottom edges of the panel are intact
@@ -68,4 +68,3 @@ $1 \\ 1 \\ 1 \\ 1$
 ```
 
 Please verify the English grammar and syntax for coherence.
-```

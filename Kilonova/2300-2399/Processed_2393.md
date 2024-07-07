@@ -9,7 +9,7 @@ Before you start working, the $N$ business people have provided you with informa
 2. It is obtained by inserting a new node $X$ into a chordal graph $G$, as follows: a subset of nodes from $G$ is chosen, with the property that there is an edge between any two nodes in the subset (the subset can contain just a single node), and an edge is introduced between the new node $X$ and each node in the subset.
 ~[img1.png]
 
-An equivalent definition of chordal graphs is the following: a graph is called a **chordal graph** if it is connected and any elementary cycle (which contains each node of the graph at most once) having at least $4$ nodes contains at least one “chord” (an edge between two nodes that are part of the cycle but are not adjacent on the cycle). Here are some examples of chordal and non-chordal graphs:
+An equivalent definition of chordal graphs is the following: a graph is called a **chordal graph** if it is connected and any elementary cycle (which contains each node of the graph at most once) having at least $4$ nodes contains at least one “chord� (an edge between two nodes that are part of the cycle but are not adjacent on the cycle). Here are some examples of chordal and non-chordal graphs:
 ~[img2.png]
 
 # Input data

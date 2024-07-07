@@ -12,7 +12,7 @@ Given two compartments of book titles $A = [c_1, c_2, ..., c_K]$ and $B = [d_1, 
 
 Sabin would like to take `K` books from the second shelf and find a compartment from the first shelf with a given degree of similarity with the selected books.
 
-To gain Sabin's favor, you need to answer `Q` queries of the form: “Given `K` books from the second shelf, find all compartments in **the first shelf** that have a degree of similarity with the given compartment **exactly X** and print their count.”
+To gain Sabin's favor, you need to answer `Q` queries of the form: “Given `K` books from the second shelf, find all compartments in **the first shelf** that have a degree of similarity with the given compartment **exactly X** and print their count.�
 
 # Input data
 The first line of the file `sabin.in` contains `N, K, M, P`, and `Q`. The following `N` lines describe the sets of books in the first shelf: the `i`-th line will contain `K` strings of length `P`, separated by a space, representing the books in the `i`-th compartment. The next line describes the `M` books in the second shelf.

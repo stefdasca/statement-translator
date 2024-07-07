@@ -49,4 +49,3 @@ To the file `neo.out`, print:
 ```
 0
 0 0
-```

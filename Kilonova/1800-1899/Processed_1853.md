@@ -50,4 +50,4 @@ VASILE NU
 ## Explanation
 
 The second sentence, after applying the $9$ operations, is:
-`V ASI LENU`
+`V ASI LENU

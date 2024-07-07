@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Miki has finished preparing pickles for winter and now wants to label the $N$ jars he has filled. He has $K$ labels available, numbered from $1$ to $K$.
@@ -72,5 +72,4 @@ For the first example, there are two distinct labeling processes:
 `stdout`
 ```
 18
-```
 ```

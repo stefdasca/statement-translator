@@ -1,4 +1,4 @@
-```markdown
+
 Alex, a great tourism enthusiast, decided to turn his passion into a business and organize tours of the city of Bistrița. The city can be represented as a **directed** graph of tourist attractions, directly connected by streets. However, since Alex's ability to navigate is not comparable to his enthusiasm, organizing the routes is difficult for him. Firstly, he wants to count how many such routes exist in the city. A route represents an ordered list $a$ of $k$ tourist attractions, with the following properties:
 
 * From node $a_i$ one can reach node $a_{i+1}$, for $1 \le i < k$;
@@ -163,5 +163,4 @@ Routes of length $2$ are: $(1, 2)$, $(2, 1)$.
 755810045
 46480318
 371842544
-```
 ```

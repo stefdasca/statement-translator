@@ -1,4 +1,4 @@
-```markdown
+
 We consider the non-zero natural numbers $X$, $N$, $K$, where $N$ is a power of $2$. For a permutation $p = (p_1, p_2, \dots, p_N)$ of the set $\{1, 2, \dots, N\}$, determine the maximum following the example below:
 
 ~[xnk.png]
@@ -53,4 +53,3 @@ The value $1$ cannot appear at level $3$, only at level $4$.
 ## Explanation
 
 The $8$ permutations are: $(1 \ 2 \ 3 \ 4)$, $(1 \ 2 \ 4 \ 3)$, $(2 \ 1 \ 3 \ 4)$, $(2 \ 1 \ 4 \ 3)$, $(3 \ 4 \ 1 \ 2)$, $(3 \ 4 \ 2 \ 1)$, $(4 \ 3 \ 1 \ 2)$, $(4 \ 3 \ 2 \ 1)$
-```

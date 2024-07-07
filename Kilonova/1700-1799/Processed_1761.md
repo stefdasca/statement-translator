@@ -1,4 +1,4 @@
-```
+
 Ionică and Gigel are playing a game with $N$ pieces numbered from $1$ to $N$, which are placed in some order on a board in the form of a sequence. Gigel arranges the pieces on the board and Ionică has to guess their order using as few questions as possible. In one question, Ionică specifies a number of positions on the board where he wants to know the pieces. Gigel responds by specifying the set of values placed at those positions, but does not tell which value corresponds to which position. The positions of the board are numbered from $1$ to $N$.
 
 # Task
@@ -41,4 +41,3 @@ Knowing this value and the answer to the first question, it is possible to estab
 Similarly, based on the answer to the second question, it is possible to determine the value of the piece at position $4$.
 After the first two questions, the pieces at the first and last positions remain undecided.
 The last question determines the value of the piece at position $5$, so implicitly the value of the piece at the first position can also be determined.
-```

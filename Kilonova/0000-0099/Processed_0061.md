@@ -21,4 +21,3 @@ Given two numbers $N$ and $K$. Print an $N \times N$ binary matrix in which each
 011
 101
 110
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Gigi is passionate about car rides. He loves driving between $N$ cities. These cities are connected by roads of known length. The roads are bidirectional (if there's a road of $5$ km from city $A$ to $B$, then the same road can be used from $B$ to $A$). Even though Gigi is passionate, he does not want to spend all day driving. For this, he found the following solution: he wants to find for each city the shortest interesting route he can take. An interesting route is defined as a route that starts from a city, let's call it $A$, and returns to the same city $A$, but without traveling the same road twice.
 

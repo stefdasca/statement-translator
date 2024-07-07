@@ -53,4 +53,3 @@ The output file `reactii.out` contains, for each sequence of substances in the i
 0
 1
 1
-```

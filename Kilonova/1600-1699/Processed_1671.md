@@ -1,4 +1,4 @@
-```markdown
+
 A vector $V$ of $N$ elements from the set $\{0, 1\}$ is given. A subarray is called *linear* if the equation $aU - Z = b$ is true, where $U$ and $Z$ represent the number of elements equal to $1$ and the number of elements equal to $0$ in the subarray, respectively, and $a$ and $b$ are given natural numbers.
 
 # Task

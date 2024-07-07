@@ -1,4 +1,4 @@
-```markdown
+
 Given a sequence of $n$ digits $c_1, c_2, \dots, c_n$, where $0 \leq c_i \leq 9$. From a sequence of digits, a sequence of $1 \leq m \leq n$ numbers $a_1, a_2, \dots, a_m$ can be obtained as follows:
 
 * Initially, we consider each digit a number and obtain the sequence of $n$ numbers $a_i = c_i$.
@@ -71,4 +71,3 @@ For the second example, we can concatenate the following sequences:
 [$3, 2, 1, 2, 1, 0, 6, 3, 0, 5, 6, 3, 0, 6, 9, 2, 9, 3$] $\rightarrow$ [$3, 2, 1, 2, 1, 0, 6305, 6306, 9, 2, 9, 3$]
 
 The pair with the largest two consecutive neighboring numbers is $6305$ and $6306$. According to the task, only the first number of the pair was written to the file.
-```

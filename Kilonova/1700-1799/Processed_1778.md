@@ -1,4 +1,4 @@
-```markdown
+
 A sequence with $n$ elements $x_1, x_2, \dots, x_n$ is called a **palindrome** if it is identical to the sequence $x_n, x_{n-1}, \dots, x_1$. A **subsequence of the sequence** $x$ is defined as a subset of elements of the sequence $x$ that are not necessarily in successive positions, where the relative positions between any two elements are preserved: $x_{i_1}, x_{i_2}, \dots, x_{i_k}$, with $1 \leq i_1 < i_2 < \dots < i_k \leq n$. We will call $i_1, i_2, \dots, i_k$ the _index sequence_. Two subsequences are considered **distinct** if their corresponding index sequences differ by at least one element. For example, for the sequence $x = (1, 3, 5, 6, 3, 5, 1)$, the subsequence $(1, 3, 5)$ can correspond to three distinct subsequences $(x_1, x_2, x_3)$, $(x_1, x_2, x_6)$, $(x_1, x_5, x_6)$, but it cannot correspond to the subsequence $(x_1, x_5, x_3)$, because in this case, the relative position of elements $x_3$ and $x_5$ is reversed. The subsequence $(x_1, x_2, x_3, x_5, x_7)$ = $(1, 3, 5, 3, 1)$ is a palindromic subsequence.
 
 # Task

@@ -1,4 +1,4 @@
-```markdown
+
 $N$ friends, numbered from $1$ to $N$, are drinking non-alcoholic beer at a round table.
 
 For each friend $i$, the cost of their favorite beer $C_i$ is known. From time to time, a friend $k$ buys a beer for a sequence of friends sitting in consecutive positions at the table, including himself, in a clockwise direction.

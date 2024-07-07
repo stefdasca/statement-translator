@@ -1,4 +1,4 @@
-```markdown
+
 Robin Hood and Little John decided to determine who is the best archer. To this end, they built $n$ targets arranged in a straight line and numbered from $1$ to $n$. They then established the shooting distance. The two move in front of the targets in a straight line at the agreed distance.
 
 ~[rh.png]
@@ -102,4 +102,3 @@ The targets that were hit with a single arrow are targets $1\ 2\ 4$ and $5$.
 ## Explanation
 
 Target $3$ was hit $3$ times: twice by Robin and once by John.
-```

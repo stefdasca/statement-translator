@@ -41,4 +41,3 @@ Print the value of the matrix cell at coordinates $(x, y)$ after all operations.
 `stdout`
 ```
 14
-```

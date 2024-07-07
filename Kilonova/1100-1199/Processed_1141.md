@@ -37,4 +37,3 @@ The first line of the output file `drum.out` should contain four real numbers tr
 `drum.out`
 ```
 5.0000 3.5000 8.0000 3.5000
-```

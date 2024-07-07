@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a sequence of $N$ values $A_1, A_2, ..., A_N$. Calculate the number of good pairs $(St, Dr)$. 
@@ -46,5 +46,4 @@ The pairs are $(1,4),(1,5),(2,5)$. For example, for the pair $(1,4)$, we can cho
 `stdout`
 ```
 3
-```
 ```

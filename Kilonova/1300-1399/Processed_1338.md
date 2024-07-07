@@ -1,4 +1,4 @@
-Fie $n$ un număr natural nenul și un șir de $n$ numere naturale nenule, fiecare număr din șir având cel mult $3$ cifre. Șirul dat se „maximizează” prin aplicarea următoarelor transformări:
+Fie $n$ un număr natural nenul și un șir de $n$ numere naturale nenule, fiecare număr din șir având cel mult $3$ cifre. Șirul dat se „maximizează� prin aplicarea următoarelor transformări:
 
 $T1$: Fiecare număr $y$ din șir este înlocuit cu cel mai mare număr care se poate obține prin aranjarea tuturor cifrelor lui $y$. De exemplu, pentru $y = 102$, prin aranjarea cifrelor, se obțin numerele: $12$, $21$, $102$, $120$, $201$, $210$, cel mai mare număr fiind $210$. Astfel, $y$ se va înlocui în șir cu numărul $210$.
 $T2$: Se schimbă ordinea numerelor din șirul obținut după aplicarea transformării $T1$ astfel încât numărul $x$ obținut prin alipirea tuturor numerelor din șir, în ordinea în care apar după schimbare, să fie cel mai mare posibil.
@@ -21,7 +21,7 @@ Numerele care rezultă prin alipirea numerelor din fiecare șir obținut sunt:
 5) $21021321$
 6) $21032121$
 
-După aplicarea transformării $T2$, șirul „maximizat” este: $321, \\ 21, \\ 210$ deoarece cel mai mare număr dintre cele $6$ obținute este $x = 32121210$.
+După aplicarea transformării $T2$, șirul „maximizat� este: $321, \\ 21, \\ 210$ deoarece cel mai mare număr dintre cele $6$ obținute este $x = 32121210$.
 
 # Task
 

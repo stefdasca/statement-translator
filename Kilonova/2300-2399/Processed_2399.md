@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We define the cost of an array as follows:

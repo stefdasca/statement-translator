@@ -1,4 +1,4 @@
-```markdown
+
 The Advanced National Robotics Institute conducts a series of tests on the latest generation of intelligent robots designed by its specialists. The testing system is based on a network of sensors consisting of $n$ equal segments arranged horizontally and $n$ equal segments arranged vertically. The distance between two adjacent horizontal and vertical segments is $1$ meter. Each horizontal segment is in contact with each vertical segment. We call a point where a horizontal segment and a vertical segment come into contact a *node*. The segments are numbered: the horizontal ones from top to bottom starting with $1$, and the vertical ones from left to right starting with $1$.
 
 A node will be identified by two numbers: the first represents the number of the horizontal segment and the second the number of the vertical segment that come into contact at that node.
@@ -72,4 +72,3 @@ The file `ai.out` will contain:
 The longest wall has a length of $4$ (it is the one placed on the horizontal segment number $2$); the obstacles on the vertical segment $2$ form two walls with lengths $2$ and $3$.
 
 The first robot reaches the position $6 \\ 5$ in $4$ seconds, thereby protecting the target from the beam emitted by the source at position $6 \\ 5$, and the second robot reaches the position $3 \\ 3$ in $8$ seconds, thereby protecting the target from the beam emitted by the source at position $1 \\ 1$. After $8$ seconds, the target is protected from both laser beams.
-```

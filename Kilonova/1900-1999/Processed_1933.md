@@ -1,4 +1,4 @@
-```markdown
+
 Two undirected trees with $N$ nodes labeled from $1$ to $N$ and edge costs are given. The first tree is named **TREN**, and the second is named **BUS**. For two nodes $A$ and $B$ and a tree $T$, we define $d(A, B, T)$ as the maximum value of an edge on the elementary path between nodes $A$ and $B$ in tree $T$. We are interested in pairs of values $X$ and $Y$ such that $d(X, Y, TREN) + d(X, Y, BUS)$ is as small as possible. Depending on the value of a parameter $C$ from the input data, you should print the required minimum sum, respectively the number of value pairs $(X, Y)$ that achieve this minimum value.
 
 # Input data

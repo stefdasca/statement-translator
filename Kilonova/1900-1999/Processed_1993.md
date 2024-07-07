@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a sequence of $N$ natural numbers, which must be sorted in ascending order. The only allowed operation is to consider elements from positions $i, i+1, \dots, j$ (for arbitrary $i$ and $j$, $i<j$), and reverse the order of these elements (i.e., the element at position $i$ moves to position $j$, $i+1$ moves to position $j-1$, $\\dots$, $j$ moves to position $i$). The cost of such an operation is the number of elements in the reversed subsequence, specifically $j-i+1$.

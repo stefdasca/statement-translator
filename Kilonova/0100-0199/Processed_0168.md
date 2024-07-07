@@ -1,4 +1,4 @@
-```markdown
+
 During the National Informatics Olympiad, Ninel (Gigel's younger brother) received an undirected connected graph `G` with `N` nodes, numbered from `1` to `N`. He wrote down the adjacency list corresponding to each node. Being mischievous, Gigel changed the adjacency list for one or two nodes, thus altering their adjacent nodes. More precisely, if a node has `X` neighbors, Gigel will still write `X` neighbors, but some of them will not match those written initially by Ninel.
 
 # Task
@@ -45,4 +45,3 @@ If $P=2$ the file `incurcatura.out` will contain on the first line the nodes tha
 Explanations
 ---
 Gigel altered the adjacency lists corresponding to nodes `1` and `6`.
-```

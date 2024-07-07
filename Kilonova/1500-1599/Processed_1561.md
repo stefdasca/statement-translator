@@ -1,4 +1,4 @@
-```markdown
+
 Viewed from space, the map of the island in our story has the shape of a square grid with $L$ rows and $L$ columns. The rows and columns are numbered from $1$ to $L$. In each of the $L \cdot L$ cells, there is a lighthouse. Initially, the one at position $1,1$ is lit, and all of them respect the rule: any lighthouse has neighboring lighthouses (on row and column, so at most $4$) in the opposite state to its own.
 
 After a storm, strange things happened: lightning struck one after another and affected the state of some lighthouses. There are three types of lightning:
@@ -104,4 +104,3 @@ $
     0 & 1 & \textbf{1} & \textbf{0}
 \end{matrix}
 $
-```

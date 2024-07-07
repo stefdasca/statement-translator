@@ -46,4 +46,4 @@ Print the time (in seconds) Luka needs to reach the end of the road.
   `stdout`
   ```
   36
-  ```
+  

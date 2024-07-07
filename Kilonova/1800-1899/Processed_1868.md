@@ -1,4 +1,4 @@
-```markdown
+
 Given a natural number $N$.
 We define a **binary string** of length $N$ as the sequence $x_0, x_1, \dots, x_{N-1}$, where
 
@@ -58,5 +58,4 @@ The output file `bsir.out` will contain $M$ modulo $30\ 103$ (the remainder of d
 `bsir.out`
 ```
 30
-```
 ```

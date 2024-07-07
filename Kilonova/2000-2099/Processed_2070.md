@@ -1,5 +1,5 @@
-```markdown
-> *Colegiul Național “Frații Buzești”* ~[logos.png|align=right|width=20rem]
+
+> *Colegiul Național “Frații Buzești�* ~[logos.png|align=right|width=20rem]
 > *Centrul de Pregătire pentru Performanță în Informatică*
 > **InfoCNFB** - Edition II, Juniors
 > December 9, 2023
@@ -48,5 +48,4 @@ The file `mmx.out` contains on the first line a natural number representing the 
 0 0 0 1 1 1 1
 1 1 1 1 1 0 0
 0 0 0 0 1 0 0
-```
 ```

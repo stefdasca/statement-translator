@@ -1,4 +1,4 @@
-```
+
 The year is $2154$, somewhere on the lush planet _Pandora_. Here, the RDA (_Resources Development Administration_) settlers want to establish a star base to exploit the natural reserves of _unobtainium_, a rare and precious ore abundant in the floating mountains (_Hallelujah Mountains_), mountains that float slowly carried by magnetic currents similar to icebergs in the sea, on the liquid gas surface of the planet.
 
 For prospecting and exploiting the ore deposits, it is necessary to map the planet's surface and create a digitized map represented as a two-dimensional array. Thus, the region of geological interest is divided into $N \cdot N$ identical territorial squares (zones), each zone being identified by the triplet $(x, y, c)$, where $(x, y)$ represents the coordinates of the territorial zone ($x$ - the row, $y$ - the column), and $c$ the altitude (height). Between the occupied mountainous zones, there are vast areas of liquid gas, zones that have altitude $0$.

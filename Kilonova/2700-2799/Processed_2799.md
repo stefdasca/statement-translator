@@ -1,4 +1,4 @@
-```markdown
+
 Given two trees $G$ and $H$. Tree $G$ has nodes $G_1, \dots , G_N$, and tree $H$ has nodes $H_1, \dots , H_N$. For any $u$ and $v$, it is guaranteed that there is an edge between $G_u$ and $G_v$ if and only if there is an edge between $H_u$ and $H_v$. All edges in trees $G$ and $H$ _have a length of_ $1$.
 
 The leaves of a tree can be connected with their counterparts in the other tree by an edge _of length_ $0$. In other words, for any $v$, the leaf $G_v$ can be connected by an edge with the leaf $H_v$. If the leaf $G_v$ is connected with the leaf $H_v$, then that leaf is considered **active**, otherwise it is **inactive**.
@@ -105,5 +105,4 @@ The last query is shown below.
 `stdout`
 ```
 1
-```
 ```

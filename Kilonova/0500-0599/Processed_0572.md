@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a sequence of numbers $A$ of length $N$, verify if there exist $2$ elements in the sequence that are not coprime.
@@ -46,5 +46,4 @@ The pairs $(2,6)$ and $(3,6)$ are not coprime.
 
 ```
 NU
-```
 ```

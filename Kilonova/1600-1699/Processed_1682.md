@@ -1,4 +1,4 @@
-```markdown
+
 We define the set of lattice points as the set of pairs of points in the plane $(x, y)$ with the property that $x$ and $y$ are integer numbers.
 
 Let $R$ be a positive natural number and $C(O, R)$ the circle with center at the **origin** of the coordinate system and radius $R$. We denote by $P_1$, $P_2$, $P_3$, $\\dots$, $P_k$ the lattice points found on the circle $C(O, R)$, in a counterclockwise order, starting with the point of coordinates $(R, 0)$. Write a program that determines the number of lattice points $N$ with the following properties:
@@ -55,4 +55,3 @@ On the circle $C(O, 4)$ we find the following 4 lattice points $P_1(4, 0)$, $P_2
 ## Explanation
 
 There are $666\ 556\ 106\ 540$ points that satisfy the problem's requirements.
-```

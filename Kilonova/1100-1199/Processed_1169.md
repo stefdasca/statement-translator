@@ -1,4 +1,4 @@
-```
+
 A long time ago, there was a kangaroo that grew as fast as in the stories, in one year it grew as much as others in ten. One day it started to jump. It started by jumping $7$ meters. The next day it jumped, in addition to the previous day, ten times more. On the third day, it managed to jump, in addition to the first day, ten times more than on the second day. On the fourth day, it jumped, in addition to the first day, ten times more than on the third day. And so on.
 
 # Task
@@ -27,5 +27,4 @@ The output file `cangur.out` will contain on the first line a single integer, ho
 `cangur.out`
 ```
 861
-```
 ```

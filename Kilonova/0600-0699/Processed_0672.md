@@ -1,4 +1,4 @@
-```markdown
+
 Seeking treasures of immense value to add to his almighty random knapsack, Prosto is travelling around the world. During one of his journeys he found a room filled with chests, each being locked. On every chest there is a boolean formula engraved on it. 
 
 The boolean formulas are $\text{XOR}$ sums of multiple clauses, where a clause is the $\text{AND}$ sum of some literals, which can be negated.
@@ -53,5 +53,4 @@ The output will contain on $T$ lines the keys of the chests in the order they ap
 6
 8
 8
-```
 ```

@@ -36,4 +36,3 @@ The second line will contain the largest slope value, followed by the positions 
 4
 9621 2 6
 126 1
-```

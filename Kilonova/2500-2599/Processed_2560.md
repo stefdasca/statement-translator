@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 On the alien planet PPR-5, the structure of the year is slightly different from that of the Earth year. 
@@ -57,5 +57,4 @@ The *relative value* of the year is equal to $1 + 2 + 3 + 4 + 1 + 1 + 2 = 14$.
 
 ```
 5738
-```
 ```

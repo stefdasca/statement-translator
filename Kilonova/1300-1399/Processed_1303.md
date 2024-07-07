@@ -1,4 +1,4 @@
-```markdown
+
 At the opening ceremony of ONI Ploiesti, Gigel, a big fan of logic problems, noticed that the first row in the hall consists of $2 \cdot N + 2$ seats, numbered from left to right from $1$ to $2 \cdot N + 2$. In this row, $N$ boys and $N$ girls are seated in any order, with the two remaining free seats being adjacent.
 
 Immediately Gigel invents a problem. Let's consider that the only possible move is for two students sitting on adjacent seats to stand up and sit down (in the same order) on the two free seats.

@@ -1,4 +1,4 @@
-```markdown
+
 A black and white photograph captured the image of lightning in the dark sky during an electrical storm. Enlarged, the photograph looks like a grid made up of small identical squares, white or black, arranged next to each other in $N$ rows and $M$ columns, $M$ per row. **The white squares** form the lightning in the photograph, while **the black squares** represent the sky. In the photograph, no two white squares are situated next to each other in the same row. **A lightning** is formed by white squares situated on consecutive rows that meet the following conditions:
 - the white squares situated on two consecutive rows have a common corner or a common edge;
 - a lightning can have only one white square per row.
@@ -75,4 +75,3 @@ Task **1** is solved. $N=6$, $M=7$. There are a maximum of $P=3$ black squares s
 
 ## Explanation
 Task **2** is solved. $N=6$, $M=7$. There are $F=5$ lightnings and the maximum height of a lightning is $H=4$ (see the photograph in the statement).
-```

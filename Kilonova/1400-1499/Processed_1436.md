@@ -1,4 +1,4 @@
-```markdown
+
 It is considered a sequence of $N$ natural numbers, denoted $x_1, x_2, x_3, ..., x_N$. We define for any pair of indices $i, j, 1 \leq i \leq j \leq N$, the distance between elements $x_i$ and $x_j$ as being equal to $j - i$.
 
 This sequence will be encoded according to the following rules:
@@ -47,4 +47,3 @@ $x_4 = 5$: the closest strictly greater element is $x_2$
 $x_5 = 1$: the closest strictly greater element is $x_4$
 $x_6 = 1$: the closest strictly greater element is $x_7$
 $x_7 = 4$: the closest strictly greater element is $x_4$
-```

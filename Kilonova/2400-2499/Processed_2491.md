@@ -29,7 +29,7 @@ For the given matrix $A$, the results are:
 
 # Task
 
-Mihai decided to create a program to help him understand the application of a specific kernel on any given matrix, but he has a problem. More precisely, he does not obtain the expected results. Help him! The program written by Mihai can be found [here](kernel.cpp) or on the right side of the page under _“Attachments”_.
+Mihai decided to create a program to help him understand the application of a specific kernel on any given matrix, but he has a problem. More precisely, he does not obtain the expected results. Help him! The program written by Mihai can be found [here](kernel.cpp) or on the right side of the page under _“Attachments�_.
 
 # Input data
 

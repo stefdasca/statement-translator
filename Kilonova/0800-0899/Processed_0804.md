@@ -60,4 +60,4 @@ From the entire text which is made up of $19$ words, $13$ words are eliminated a
 * `urmareste`
 * `emisiuni`
 * `interesante`
-* `evident`
+* `evident

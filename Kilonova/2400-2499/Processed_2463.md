@@ -85,4 +85,3 @@ abcd
 `magice.out`
 ```
 0
-```

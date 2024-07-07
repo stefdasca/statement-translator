@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given $N$, an **0-indexed** array $v$ containing $N$ numbers, $Q$ and $Q$ queries of the form:
@@ -70,5 +70,4 @@ The first $Q$ lines will contain the answers to the queries, one line per answer
 -1
 9
 8
-```
 ```

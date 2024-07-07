@@ -1,4 +1,4 @@
-```
+
 Let $n$ be a non-zero natural number, $n \leq 100$.
 
 # Task
@@ -33,5 +33,4 @@ The output file `sume.out` contains $n$ lines, one for each determined subset. L
 15 10 5 4
 3 8 9 14
 13 2 7 12
-```
 ```

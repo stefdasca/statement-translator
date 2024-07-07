@@ -1,4 +1,4 @@
-```markdown
+
 We define a double permutation of order `n` as a sequence consisting of the first `2n` positive natural numbers: $(a_1, a_2, ... , a_n, a_{n+1}, a_{n+2}, ... , a_{2n})$. This double permutation is thrice increasing if the following three properties hold true:
 1. The sequence formed from the first `n` elements is increasing: $a_1 < a_2 < ... < a_n$
 2. The sequence formed from the last `n` elements is increasing: $a_{n+1} < a_{n+2} < ... < a_{2n}$
@@ -39,9 +39,9 @@ $a_1\\ a_2\\ \\dots\\ a_{2n}$ – the elements of the permutation.
 
 # Examples
 The question `1 3 2` means:
-“What permutation of order `3` is at position `2` in lexicographic order?” and has the answer: `1 2 4 3 5 6`.
+“What permutation of order `3` is at position `2` in lexicographic order?� and has the answer: `1 2 4 3 5 6`.
 The question `2 3 1 3 5 2 4 6` means:
-“At what position is the permutation of order `3`: `1 3 5 2 4 6`?” and has the answer: `5`.
+“At what position is the permutation of order `3`: `1 3 5 2 4 6`?� and has the answer: `5`.
 
 # Task
 Respond correctly to a set of questions.
@@ -88,4 +88,3 @@ Explanations
 - The permutation `(1,3,5,2,4,6)` is at position `5`
 - The first permutation of order `4` `(1,2,3,4,5,6,7,8)`
 - The permutation `(1,2,3,4,5,6,7,8)` is at position `1`
-```

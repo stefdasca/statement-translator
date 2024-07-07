@@ -1,4 +1,4 @@
-```markdown
+
 We consider the matrix $A$ whose elements can only have the values $0$ or $1$ and in which the numbering of rows and columns starts from $1$. For any element of the matrix, we define the notion of a neighbor as those elements in the matrix located immediately adjacent to it in one of the horizontal, vertical, or two diagonal directions (see the figure below where the neighbors of the element marked with $o$ are marked with $x$).
 
 ~[vecini.png]
@@ -49,4 +49,3 @@ The matrix $A$ is as follows:
 1 1 1 1
 ```
 The maximum number of good neighbors encountered for the matrix elements is $3$. There are $6$ elements that have this maximum number of good neighbors, those located at positions: $1,2; 2,2; 2,3; 2,4; 3,2; 3,3$ (the ones that are underlined in the representation of the matrix above).
-```

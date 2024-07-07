@@ -1,4 +1,4 @@
-Gigel has a peculiar “balance” which he wants to level. In fact, the device is different from any balance you have seen so far. Gigel's balance has two arms with negligible weight and length of $15$ each. From place to place, hooks are attached to these arms, on which Gigel can hang weights from his collection of $G$ distinct weights (natural numbers between $1$ and $25$). Gigel can hang any number of weights on any hook, but he must use all the weights he has.
+Gigel has a peculiar “balance� which he wants to level. In fact, the device is different from any balance you have seen so far. Gigel's balance has two arms with negligible weight and length of $15$ each. From place to place, hooks are attached to these arms, on which Gigel can hang weights from his collection of $G$ distinct weights (natural numbers between $1$ and $25$). Gigel can hang any number of weights on any hook, but he must use all the weights he has.
 
 Using his experience from participating in the National Informatics Olympiad, Gigel quickly managed to balance the scale, but now he wants to know in how many ways it can be balanced.
 
@@ -38,4 +38,3 @@ The output file `balanta.out` contains a single line, which contains a number $M
 `balanta.out`
 ```
 2
-```

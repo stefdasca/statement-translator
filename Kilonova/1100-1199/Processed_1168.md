@@ -1,4 +1,4 @@
-```markdown
+
 Notate with $c$ and $r$ the quotient and the remainder of the division of a number $nr$ by $2^k$, where $k$ is a non-zero natural number. On the number, we can successively perform the following operations:
 
 $O_1(nr, k)$ represents the transformation of the number $nr$ into the number $2^k \cdot (2 \cdot c + 1) + r$ for any remainder $r$
@@ -47,5 +47,4 @@ The output file `operatii.out` contains the following on the $i+j+3$ lines:
 2
 2 2
 2 4
-```
 ```

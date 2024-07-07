@@ -76,4 +76,3 @@ One possible solution is to use one strip for the first column, one strip for th
 `scotch.out`
 ```
 5
-```

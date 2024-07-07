@@ -1,4 +1,4 @@
-```markdown
+
 Given the numbers $P$, $m$, $n$, $k$, and two arrays: $b_1, b_2, \dots b_m$ and $a_0, a_1, \dots a_{n-1}$ of natural numbers. Array $v_0, v_1, \dots , v_{n-1}$ is formed by traversing the elements of $a$ in steps of $k \pmod{n}$, starting from position 0.
 
 Each number in $v$ is replaced by the closest power with a natural exponent of an element from $b$. If a number is at the same distance from two powers, the smaller value is chosen. For example, if $b = [2, 3]$, the powers of elements in the array $b$ are: $1, 2, 4, 8, 16, \dots, 1, 3, 9, 27, 81, \dots$.
@@ -67,4 +67,3 @@ We traverse from 4 to 4 and obtain $V = \{\texttt{5}$ , $\texttt{32}$ , $\texttt
 
 ## Explanation
 In the end, $V = \{\texttt{4}$ , $\texttt{32}$ , $\texttt{8388608}$ , $\texttt{81}$ , $\texttt{16}$ , $\texttt{27}$ , $\texttt{100000000}$ , $\texttt{1024}$ , $\texttt{289}$ , $\texttt{64}$ , $\texttt{4}$ , $\texttt{531441}$ , $\texttt{-64}$ , $\texttt{1}$ , $\texttt{81}\}$
-```

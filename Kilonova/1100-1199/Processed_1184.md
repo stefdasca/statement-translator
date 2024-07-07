@@ -1,4 +1,4 @@
-```markdown
+
 A partition of a natural number $n$ is defined as writing $n$ in the form:
 
 $n$ = $n_1$ + $n_2$ + $\\dots$ + $n_k$, ($k \geq 1$), where $n_1$, $n_2$, $\\dots$, $n_k$ are natural numbers that verify the following relationship: $n_1 \geq n_2 \geq \\dots \geq n_i \geq \\dots \geq n_k \geq 1$.
@@ -40,4 +40,3 @@ The five partitions are:
 * $1+1+5$; 
 * $1+3+3$; 
 * $7$;
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Two integers $a$ and $b$ are given. Calculate the sum of the two numbers.
 
 # Input data
@@ -46,4 +46,3 @@ As can be seen, $1 + 2 = 3$.
 ## Explanation
 
 $5 + (-1) = 4$, as we know.
-```

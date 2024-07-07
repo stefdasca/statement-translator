@@ -1,4 +1,4 @@
-```markdown
+
 Two non-zero natural numbers $N$ and $K$ are considered. We define a $K$-sequence as a sequence of natural numbers with $K$ terms.
 
 # Task
@@ -32,4 +32,3 @@ The output file `multiplu.out` contains a single natural number representing the
 ## Explanation
 
 The $3 \ 2$-sequences with the least common multiple of the terms equal to $5$ are: $(1, 5)$, $(5, 1)$ and $(5, 5)$.
-```

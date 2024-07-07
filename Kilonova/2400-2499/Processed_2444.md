@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 ~[Picture 1.png|align=right|width=50%]
 
@@ -44,4 +44,3 @@ The output file `scari.out` will contain $Q$ lines, each containing a single num
 
 For $1$: with a single tile, we can build only one staircase of level $1$.
 For $8$: with $8$ tiles we can build only $2$ beautiful staircases: one of level $1$ (costs $1$) and another one of level $3$ (which costs $6$). In total, we spend $7$ (the last remaining tile cannot be used to create an interesting staircase of different levels than $1$ and $3$). Very important: the staircase of level $2$ is not beautiful (it cannot be colored in $2$ squares).
-```

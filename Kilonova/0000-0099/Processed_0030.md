@@ -1,4 +1,4 @@
-```markdown
+
 We have a triangular matrix with $n$ rows, containing integer elements. In this matrix, we can build a path following this rule:
 - The first element of the path is element $a_{1,1}$
 - If the element $a_{i,j}$ is part of the path, then the next element of the path can only be $a_{i+1,j}$ or $a_{i+1,j+1}$, for any $1 \leq j \leq i \leq n$.
@@ -84,4 +84,3 @@ The number of maximum value paths is $6$.
 
 For the second example, $v=2$, $st=2$, $dr=4$.
 The paths with the indices $2$, $3$, and $4$ were printed.
-```

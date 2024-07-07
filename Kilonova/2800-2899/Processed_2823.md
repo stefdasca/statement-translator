@@ -53,4 +53,3 @@ The single line of standard output will contain a single number, the maximum sat
 `stdout`
 ```
 43
-```

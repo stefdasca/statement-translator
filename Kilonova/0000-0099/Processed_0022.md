@@ -77,4 +77,3 @@ Following the images in the above examples, at distance $3$, we have the followi
 `tairos.out`
 ```
 33554432
-```

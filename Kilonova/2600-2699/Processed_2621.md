@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We are given a tree with $N$ nodes rooted at node $1$ whose edges have lengths expressed by non-zero natural numbers and $Q$ queries of the form $u \ v$. For each query, find the sum of the lengths of all distinct paths from a node in the subtree rooted at node $u$ to a node in the subtree rooted at node $v$ modulo $10^9 + 7$. (the length of a path is equal to the sum of the lengths of all edges that compose it).
@@ -69,4 +69,3 @@ For the first query, the paths are:
 - From $10$ to $14$ with length $24$
 
 Total: $14 + 23 + 22 + 31 + 15 + 24 = 129$
-```

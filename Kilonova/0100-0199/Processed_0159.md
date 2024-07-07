@@ -1,4 +1,4 @@
-```markdown
+
 Consider three positive natural numbers: `n`, `k`, and `x`. We call a *kx-decomposition* of the number `n` a way to write the number `n` as the sum of `k` positive natural numbers such that the difference between any two terms of the sum is at least `x`.
 
 # Task
@@ -37,5 +37,4 @@ The number of *kx-decompositions* in this case is `8`. These are formed from the
 `desc.out`
 ```
 3184    
-```
 ```

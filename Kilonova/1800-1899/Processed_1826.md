@@ -92,4 +92,3 @@ The function will return an STL vector containing the $Q$ numbers requested in r
 `Output`
 ```
 0
-```

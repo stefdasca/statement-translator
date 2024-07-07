@@ -1,4 +1,4 @@
-```markdown
+
 It is considered two arrays of natural numbers, both of length $n$, $a$ = ($a_1$, $a_2$, $\\dots$, $a_n$) and $b$ = ($b_1$, $b_2$, $\\dots$, $b_n$). It is known that the elements in the two arrays are natural numbers, not necessarily distinct, from the set {$1$, $2$, $\\dots$, $n$}. With the two arrays, the following operation can be performed: two indices $i$ and $j$ are chosen, with $1 \\leq i \\leq j \\leq n$, then by swapping the subarrays $a_i$, $a_{i+1}$, $\\dots$, $a_j$ with $b_i$, $b_{i+1}$, $\\dots$, $b_j$, the arrays obtained are: $a_1$, $a_2$, $\\dots$, $a_{i-1}$, $b_i$ ,$b_{i+1}$, $\\dots$, $b_j$, $a_{j+1}$, $a_{j+2}$, $\\dots$, $a_n$ and $b_1$, $b_2$, $\\dots$, $b_{i-1}$, $a_i$ ,$a_{i+1}$, $\\dots$, $a_j$, $b_{j+1}$, $b_{j+2}$, $\\dots$, $b_n$.
 
 If at least one of the obtained arrays is a permutation of the set {$1$, $2$, $\\dots$, $n$}, then we say that a _mixperm_ is obtained.
@@ -54,4 +54,3 @@ The subarrays that can be swapped starting and ending at positions $(1, 3)$, $(1
 ## Explanation
 
 The subarrays that can be swapped starting and ending at positions $(1, 1)$, $(2, 2)$ and $(1, 2)$.
-```

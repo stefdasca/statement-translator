@@ -1,4 +1,4 @@
-```markdown
+
 In a more or less near future, humans will populate $n$ galaxies, numbered from $1$ to $n$. Due to the development of space transport technology, it is possible to reach any other galaxy from any galaxy through a flight. Each pair of galaxies thus defines a flight that can be traversed in any direction.
 
 At some point, it was decided that $\\frac{n+1}{2}$ transport companies will ensure the free movement of people between existing galaxies. The companies are numbered from $1$ to $\\frac{n+1}{2}$. Each company $x$ will be assigned a set of flights $Z_x$. We denote by $G_x$ the set of galaxies served by company $x$ through the flights in the set $Z_x$. 

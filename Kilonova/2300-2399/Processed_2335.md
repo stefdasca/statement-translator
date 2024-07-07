@@ -1,4 +1,4 @@
-```markdown
+
 After noon in Iezăreni, the $N$ members of the national informatics team will participate in a special game of paintball. Each contestant will receive a weapon and a single paintball. 
 First, the contestants are numbered from $1$ to $N$. Having a single paintball, each contestant decides beforehand whom they will shoot. A contestant who has been shot with a paintball is declared "dead" and can no longer shoot.
 Contestants shoot successively, in any order they wish.
@@ -37,4 +37,3 @@ The output file `paintball.out` will contain a single line containing two natura
 
 If, for example, the order in which the contestants shoot is $1, 4, 3, 5, 7$, the minimum number of deads will be $2, 6, 8$.
 If the order is $2, 1, 4, 7, 6, 5$, the maximum number of deads will be $3, 2, 8, 7, 6$.
-```

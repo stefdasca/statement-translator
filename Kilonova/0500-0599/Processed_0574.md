@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array $A$ of length $N$ and $Q$ queries of the type $St\\ Dr\\ X$.
@@ -36,5 +36,4 @@ Print $Q$ lines with the answers. The answer is either `DA` or `NU`.
 DA
 NU
 DA
-```
 ```

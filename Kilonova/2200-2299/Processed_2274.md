@@ -1,4 +1,4 @@
-```markdown
+
 Qwerty plays a lot with random numbers. Recently, he combined his passion for random numbers with his passion for permutations. Qwerty has an array of distinct numbers $V$ and a permutation $P$. He started applying the permutation on the array. He would like to apply the permutation an infinite number of times on the array, but since the world will end in the year $2012$, he thought to ask for help to satisfy his sick curiosity.
 
 # Task
@@ -50,4 +50,3 @@ The arrays that Qwerty can obtain are:
 8. $(74 \ 18 \ 25 \ 68 \ 82 \ 65 \ 4 \ 34 \ 67 \ 5)$
 9. $(68 \ 25 \ 34 \ 4 \ 74 \ 82 \ 18 \ 5 \ 65 \ 67)$
 10. $(4 \ 34 \ 5 \ 18 \ 68 \ 74 \ 25 \ 67 \ 82 \ 65)$
-```

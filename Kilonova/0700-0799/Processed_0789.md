@@ -1,4 +1,4 @@
-```markdown
+
 Jean-Luc Picard, the captain of the spaceship Enterprise, noticed that $n$ Borg ships have appeared near his ship. The distances between them and the Enterprise are $d_1, d_2, \dots, d_n$. The Borg ships do not move relative to each other or to the Enterprise. The positions in space of the $n$ Borg ships and the position of the Enterprise are distinct pairwise (no two ships occupy the same point in three-dimensional space).
 
 At one point, all $n$ Borg ships simultaneously launch an attack, each launching a projectile in the direction of the Enterprise. The walls of the Enterprise are resistant to such attacks, but the captain decides to destroy as many projectiles as possible using the laser weapon. The $n$ projectiles travel at constant speeds $v_1, v_2, \dots, v_n$ expressed in meters per second. Captain Jean-Luc Picard has a laser weapon at his disposal with which he can destroy one projectile at a time. The weapon can be oriented instantly towards any Borg ship. The laser can perform any number of shots starting from the moment the attack is initiated, but after each shot it needs $t$ seconds to recharge. During this time, no other shot can be fired. Orienting the laser towards a specific projectile does not consume time. Also, the time between firing and destroying the targeted projectile is zero. The captain never misses his target, and projectiles that manage to hit the Enterprise do not prevent Captain Picard from continuing to shoot at other moving projectiles.
@@ -59,4 +59,3 @@ Projectile 1 is destroyed, then projectile 2 hits the Enterprise, then projectil
 ## Explanation
 
 Projectile 4 is destroyed, then projectile 2 hits the Enterprise, then projectile 1 is destroyed, and then projectile 3 is destroyed.
-```

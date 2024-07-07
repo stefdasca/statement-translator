@@ -1,4 +1,4 @@
-```
+
 Arrange the first $N$ positive natural numbers in the form of an array $A_1, A_2, \dots, A_N$.
 
 Let $X_1, X_2, \dots, X_K$, ($K \geq 3$), be a subsequence of the array $A$. We call a term of the subsequence $X$ an *local extremum* if it is the middle of a subarray of length $3$ in the subsequence, $X_{i-1}, X_i, X_{i+1}$, with the property:
@@ -42,4 +42,3 @@ The output file `sam.out` will contain the remainder obtained by dividing the nu
 ## Explanation
 
 The given array contains three *local extrema*, the values $5$, $4$ and $7$. The six *maximal alternating subsequences* with the given array are: $(1, 5, 4, 6, 2)$, $(1, 5, 4, 7, 2)$, $(1, 5, 4, 7, 6)$, $(3, 5, 4, 6, 2)$, $(3, 5, 4, 7, 2)$, $(3, 5, 4, 7, 6)$.
-```

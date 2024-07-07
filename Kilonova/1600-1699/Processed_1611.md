@@ -1,4 +1,4 @@
-```markdown
+
 Gigel has a graph with $n$ nodes and $m$ edges, which is not connected. He wants to find out the answer to two questions:
 
 1) What is the minimum number of edges that need to be added for the graph to become connected?
@@ -53,4 +53,3 @@ The output file `unire.out` will contain on the first line the number $S$, repre
 ## Explanation
 
 Nodes $1$ and $3$ will be connected, respectively nodes $1$ and $5$. $2$ edges were used, and the total cost will be $1 + 3 + 1 + 5 = 10$.
-```

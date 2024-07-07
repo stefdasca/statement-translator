@@ -1,4 +1,4 @@
-```
+
 We denote $X$ as the set of natural numbers that can be written in the form $2^a \cdot 3^b$. We only consider those numbers for which $0 \leq a \leq D$ and $0 \leq b \leq T$, where $D$ and $T$ are given. For a number $v$ in $X$, we consider its associate to be the value $(C \cdot P) \% Q$ where $C$ is the last digit of $v$ and $P$ and $Q$ are given (for example, for $P = 1$ and $Q = 10$, the associate of $2 \cdot 3^2$ is $8$).
 
 # Task
@@ -32,4 +32,3 @@ The file `smsm.out` will contain a single number, the maximum value of the sum o
 ## Explanation
 
 The numbers in the set $X$ are: $(1, 2, 3, 6)$. Their associates are: $(1, 2, 0, 0)$, respectively. We can choose for the optimal solution either the subset $\{2, 3\}$ or the subset $\{2\}$, both with the sum of associates $2$. Choosing the subset $\{1, 1\}$, with the sum of associates $3$, does not respect the constraint that the elements of the subset do not divide each other.
-```

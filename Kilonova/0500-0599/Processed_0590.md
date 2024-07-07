@@ -1,4 +1,4 @@
-```markdown
+
 In a room, there are $N$ urns. In each urn, there are $P$ balls numbered with integers. Amongst the $N \times P$ balls, there are no two balls with the same number.
 For any natural number $X$ in the interval $[1, P^N]$, there exists a combination of balls, one extracted from each urn, such that the sum of the numbers on the balls equals $X$.
 
@@ -40,4 +40,3 @@ Explanation
 We have $2$ urns, each containing $4$ balls.
 The minimized maximum value is $10$.
 If any of the examples from the task description were displayed, the test score would be $0$.
-```

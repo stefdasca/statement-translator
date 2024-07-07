@@ -132,4 +132,3 @@ The task is $3$. The maximum number of lit bulbs in a square area of the city of
 ```
 16 13
 12  9
-```

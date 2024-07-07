@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a natural number $K$. Determine the $K$-th term of the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number), modulo $10^9 + 7$.
@@ -45,5 +45,4 @@ The $6$-th term is $8$.
 `kfib.out`
 ```
 62791945
-```
 ```

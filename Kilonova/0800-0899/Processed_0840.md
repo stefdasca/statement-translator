@@ -1,4 +1,4 @@
-```markdown
+
 A sequence $A$ consisting of $N$ non-zero natural elements is considered. We call the subarray of length $K$ of sequence $A$ any succession of consecutive elements in the form $A_i, A_{i+1}, \dots, A_{i+K-1}$.
 
 A subarray is called a *cool subarray* if the elements it contains are distinct and can be rearranged to form a continuous sequence of consecutive numbers.
@@ -76,4 +76,3 @@ The subarray $(6, 4, 5, 7, 5, 4)$ is not a *cool subarray*. The number of distin
 The two *cool subarrays* of maximum length $5$ are:
 $(7, 4, 5, 6, 8)$
 $(6, 8, 4, 5, 7)$
-```

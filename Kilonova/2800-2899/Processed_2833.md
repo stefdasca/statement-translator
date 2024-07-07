@@ -1,4 +1,4 @@
-```markdown
+
 Between the city $X$ and the city $Y$ there is a very complex railway system. The city $X$ is to the west of the city $Y$. Both the station in the city $X$ and the station in the city $Y$ have $N$ platforms, with platform $1$ being the northernmost and platform $N$ being the southernmost.
 
 There are $M$ tracks installed between the two cities. Track $i \\ (1 \\leq i \\leq M)$ connects via a straight line the platform $a_i$ in the city $X$ with the platform $b_i$ in the city $Y$.
@@ -53,4 +53,3 @@ Print a single number, namely the number of intersections between the train trac
 ## Explanation
 
 The $9$ intersections expressed in the form $(i, j)$, meaning track $i$ intersects track $j$, are: $(1, 3), (1, 5), (1, 6), (2, 5), (3, 5), (3, 6), (4, 5), (4, 6), (5, 6)$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Four sequences of real numbers are given $(a_n)_{n \geq 0}$, $(b_n)_{n \geq 0}$, $(c_n)_{n \geq 0}$, $(d_n)_{n \geq 0}$, defined recursively as follows:
 
 $a_0$ = $a + b\sqrt{2}$, where $a$, $b$ are integers  
@@ -57,4 +57,3 @@ Because $a_0 b_0 = (0 + 0\sqrt{2})(0 + 0\sqrt{2}) = 0 \times 0 = 0$ and $c_0 d_0
 ## Explanation
 
 Because $a_n = d_n = 1 + 0 \sqrt{2} = 1$ and $b_n = c_n = 0 + 0\sqrt{2} = 0$, meaning $a_n d_n = 1 \times 1 = 1$ and $b_n c_n = 0 \times 0 = 0$, for any $n \geq 0$.
-```

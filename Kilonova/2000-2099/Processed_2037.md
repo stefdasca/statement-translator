@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an undirected graph $G$ with $N$ nodes and $M$ edges, and a node $S$. Find the length of the shortest path between $S$ and each node in the graph, including $S$.
@@ -36,5 +36,4 @@ The first line will contain $N$ numbers, representing the lengths of the shortes
 `stdout`
 ```
 1 1 0 2 3
-```
 ```

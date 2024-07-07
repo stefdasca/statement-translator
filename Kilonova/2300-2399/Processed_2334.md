@@ -42,4 +42,3 @@ The output file `arbnr.out` will contain a single line with a natural number rep
 `arbnr.out`
 ```
 3
-```

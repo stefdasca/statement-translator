@@ -99,4 +99,3 @@ In the third example test, it is impossible to make the first two elements sum a
 `stdout`
 ```
 0
-```

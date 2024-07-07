@@ -1,4 +1,4 @@
-```markdown
+
 Rail Fence Cipher, known as the zigzag cipher, is a method of encoding messages using a grid where the text is written starting from the top-left corner, diagonally from top to bottom, and then, after writing the character on the last line, continues diagonally from bottom to top, as in the example. The number of lines in the grid is the *encoding key*. After the text has been written in this way, the encoded message is obtained by traversing the lines from top to bottom and taking all the characters from left to right on each line.
 If we want to encode the text `OLIMPIADA DE INFORMATICA`, with an *encoding key* $6$, then proceed as follows:
 1. Write the text in zigzag in the grid;
@@ -34,5 +34,4 @@ ODTL EAIIA MCMDIRAPANOIF
 `zigzag.out`
 ```
 OLIMPIADA DE INFORMATICA
-```
 ```

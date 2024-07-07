@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 After Hayley realized that Essex is in fact not a continent, but a county, she decided to start a love journal with one of the fellow Love Islanders. Since they are not remarkably smart by nature, they forgot to add the spaces in between their daily entries in their journal and they now need your help to figure out how did their journal look in fact.

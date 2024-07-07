@@ -1,4 +1,4 @@
-```markdown
+
 A software production company is organizing an interview to fill a programmer position, to which $N$ candidates have applied. These candidates are ordered based on the moment they submitted their CV and numbered consecutively from $1$ to $N$. Each candidate has previously undergone a psychological profiling to determine their level of agitation caused by the upcoming interview, as well as the direction (increasing or decreasing) of change of this level. Thus, at the announced start time of the interview (which we will consider as moment $0$), each candidate has an initial level of agitation.
 
 For each unit of time after moment $0$ and until the moment the candidate is invited for the interview (until then they must wait), their level of agitation changes by $1$: for some candidates, the level increases by $1$ unit, while for others it decreases by $1$ unit. If a candidate's level of agitation reaches $0$, from that moment on, for each subsequent unit of time, the level of agitation will increase by $1$ (the direction of the change in the level of agitation changes).

@@ -55,4 +55,3 @@ Computer $1$ has a connection with computer $4$, computer $4$ has a connection w
 `retea.out`
 ```
 {4,5}
-```

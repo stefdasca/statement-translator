@@ -42,4 +42,3 @@ The first line of the output file will contain $N$ values, where the $i$-th valu
 `cosgigmax.out`
 ```
 10 5 0 5 10 10 10 -1 2 3 
-```

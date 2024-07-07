@@ -1,4 +1,4 @@
-```markdown
+
 The value of a letter is given by its position in the alphabet (`A` has the value $1$, `B` has the value $2$, `C` has the value $3$, etc.). A *special text* is composed of one or more uppercase letters of the English alphabet and does not contain other types of characters.
 
 The value of a special text is defined as equal to the sum of the values of the letters that compose it. For example, the special text `ABAC` has the value $7$ ($7 = 1+2+1+3$).
@@ -85,4 +85,3 @@ Task 2 is solved. The compact form of the special text is `(ABAC)2E2(CD)2E`. The
 ## Explanation
 
 Task 3 is solved. The compact form `(ABAC)2E2(CD)2E` represents the transcription of the special text `ABACABACEECDCDE`. In the special text, there are $4$ `A`s, $2$ `B`s, $4$ `C`s, $2$ `D`s, and $3$ `E`s. Thus, the value of the special text is equal to $43$ ($=4*1+2*2+4*3+2*4+3*5$).
-```

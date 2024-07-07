@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a tree with $N$ nodes, numbered from $1$ to $N$. The edges are numbered from $1$ to $N-1$, and edge $i$ has a weight $w_i$. 
@@ -62,4 +62,3 @@ In the **first sample case**, the elements of $M$ in increasing order are 1, 1 a
 In the **second sample case**, the elements of $M$ in increasing order are 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 4, 4, 5, 5 and 9.
 
 ~[sample2.png]
-```

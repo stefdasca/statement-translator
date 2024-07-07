@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Until recently, long-distance communication was done with the help of the telegraph. Using the telegraph, two types of signals can be transmitted: dot and dash. In general, we want to transmit texts made up of letters of the Latin alphabet and numbers (a total of $36$ symbols). Therefore, we need to use encoding, i.e., to associate a distinct sequence of dashes and dots to each of the $36$ symbols. In order to decode a received sequence of dashes and dots, it is necessary that no symbol has an encoding identical to the beginning of the encoding for another symbol. Let's consider some examples (assuming we only want to transmit the letters $A, B, C$):
@@ -45,4 +45,3 @@ The file `telegraf.out` will contain a single number, namely the minimum length 
 ## Explanation
 
 It is found that it is optimal to transmit this text using the encoding from Example $1$, obtaining a minimum transmission length of $11$ seconds.
-```

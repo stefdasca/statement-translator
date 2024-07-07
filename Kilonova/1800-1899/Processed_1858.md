@@ -57,4 +57,3 @@ The output file `role.out` will contain a sequence of natural numbers, one numbe
 3
 2
 0
-```

@@ -1,4 +1,4 @@
-```
+
 # The Hourglass
 
 An **hourglass** is a device used to measure time. The hourglass consists of two glass chambers connected by a thin tube. One chamber is filled with sand, which flows into the second chamber at a constant rate. The hourglass can be inverted to measure another period of time.

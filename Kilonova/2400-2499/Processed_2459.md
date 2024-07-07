@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 This year's OJI has $3$ rounds, of which $2$ have already ended.
@@ -70,5 +70,4 @@ Print in the output file `oji.out` $N$ lines. On the $i$-th line print two value
 1 10
 5 10
 5 10
-```
 ```

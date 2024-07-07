@@ -35,4 +35,3 @@ The output file `trecere.out` will contain on its first line three integers $a, 
 `trecere.out`
 ```
 5 1 6
-```

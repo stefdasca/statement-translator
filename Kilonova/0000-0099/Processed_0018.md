@@ -1,4 +1,4 @@
-```markdown
+
 A partition of a natural number `n` is defined as an ordered set of non-zero natural numbers $(p_1, p_2, \ldots, p_k)$ that contains at least two elements, fulfilling the condition: $p_1 + p_2 + \ldots + p_k = n$.
 
 Let's consider all partitions of a natural number $n$ in lexicographic order.
@@ -65,5 +65,4 @@ The output file `partit.out` will have the following content depending on the va
 `partit.out`
 ```
 375776
-```
 ```

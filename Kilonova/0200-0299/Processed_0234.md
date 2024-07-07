@@ -1,4 +1,4 @@
-```markdown
+
 *In a mysterious way, Gigelivs Valerivs Maximvs Olimpicvs, a computer scientist from ancient Rome, was transported through time to today. (What was a computer scientist in ancient Rome? An expert in using automatic calculation devices, such as the abacus.)*
 
 Gigelivs is very surprised by everything that has happened, but what surprises him the most are today's computing problems. If in ancient times even dynamic allocation was considered a big deal, now people are not so easily impressed. However, Gigelivs, wanting to impress, presents the following problem.
@@ -108,4 +108,3 @@ long long calculate()
 ```
 
 We can modify the sequence `a` to `a = [3, 3, 3, 3, 2]` by changing the values at positions `0` and `3`. We get `v(a) = 1` which is also the minimum value we can obtain, so the function should return the value `1`.
-```

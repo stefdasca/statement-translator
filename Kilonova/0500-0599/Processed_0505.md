@@ -1,4 +1,4 @@
-```markdown
+
 The $N$ children from the elementary school want to form a soccer team composed of $K$ students, out of which at least one must be left-footed and at least one must be right-footed. For each child $i$ (from $0$ to $N-1$), the time interval during which they are available to be part of the team is known as a pair, $[start_{i}, end_{i}]$, as well as whether they are left-footed or right-footed. $K$ children can play in the same team if their availability intervals overlap at least at one point (moment in time).
 
 # Task
@@ -43,4 +43,3 @@ The file `fotbal.out` will contain only the required number of ways, in the form
 ## Explanation
 
 Possible teams are $(0, 1)$, $(0, 3)$, $(1, 2)$, $(2, 3)$, $(3, 4)$. We cannot form, for example, the team $(2, 4)$ because both children are left-footed. Also, we cannot form the team $(1, 4)$ because the time intervals during which the two children are available do not overlap at any point.
-```

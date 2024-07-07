@@ -1,5 +1,5 @@
 > “Be it rain or storm
-> A shawarma is just great”
+> A shawarma is just great�
 
 All of Orăștia knows that Naic has the best shawarma shop in town. With so many orders, he no longer competes with Siclam and GurgerBrill, but with KFC and McDonald's. Since the problems at today’s contest are too easy, you decided to go to your brother Naic to get a shawarma, but of course, there are 150 orders ahead of you from the firefighters and IGO. Since he doesn’t look at you angrily while you wait for your order, as those from Siclam and GurgerBrill do, he lets you play on OEIS 5 (Orăștie Entertainment Interactive System 5). Naic's favorite game on the play station 5 is the following:
 
@@ -7,7 +7,7 @@ You are given a tree with $N$ nodes where each edge can have a value of $0$ or $
 
 A path in the tree from one node to any other node is called $K$-alternating if at most $K$ consecutive edges have the same value.
 
-There is a possibility to perform operations of the type “change the value of an edge from $0$ to $1$ or from $1$ to $0$”.
+There is a possibility to perform operations of the type “change the value of an edge from $0$ to $1$ or from $1$ to $0$�.
 
 Find the length of the longest $K$-alternating path that can be obtained if at most $M$ edges can be changed.
 

@@ -1,4 +1,4 @@
-```markdown
+
 At a competition, $N$ contestants participated. Each of them received a competition number so that no two contestants have the same number. The competition numbers belong to the set $\\{ 1,2, \\ldots ,N \\}$.
 
 Unfortunately, the final ranking was lost, and the committee can only remember a few relationships between some participants (such as "the participant with number $3$ finished before the one with number $5$").
@@ -52,5 +52,4 @@ Line $1$ contain: $nr_1 \\ nr_2 \\ldots \\ nr_N$, this line will contain the ran
 `compet.out`
 ```
 2 1 3 4
-```
 ```

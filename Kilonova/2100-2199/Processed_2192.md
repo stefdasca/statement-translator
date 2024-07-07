@@ -1,4 +1,4 @@
-```markdown
+
 **ATTENTION:** This problem is worth $150$ points. In "submissions," the maximum score is rescaled to $100$ points, but the real score will be visible on the *[leaderboard](https://kilonova.ro/contests/179/leaderboard)*. 
 
 The environmental guard has determined that water cells between which one can move in two different ways have special properties that can help uncover the mystery!
@@ -11,7 +11,7 @@ A movement between two cells is a succession of cells such that any two consecut
 
 # Output only
 
-This problem is of type output only. You (the participants) will need to run $Q$ tests locally (which can be downloaded [here](algo1task3.zip) or on the right side of the page under *“Attachments”*), then submit the answers to the committee through the platform.
+This problem is of type output only. You (the participants) will need to run $Q$ tests locally (which can be downloaded [here](algo1task3.zip) or on the right side of the page under *“Attachments�*), then submit the answers to the committee through the platform.
 
 ## Input data
 
@@ -87,4 +87,3 @@ Between the cells $(3, 1)$ and $(1, 2)$, two distinct paths can be made (the ora
 Between the cells $(3, 1)$ and $(4, 7)$, two distinct paths cannot be made.
 
 # Good luck!
-```

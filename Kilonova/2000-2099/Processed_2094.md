@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Ualpa is a being passionate about nicknames, so she started collecting them. For Christmas, a friend gave her a list of nicknames, but not all are to her liking, so she will eliminate some of them.
@@ -39,4 +39,3 @@ lllup
 ## Explanation
 
 The nicknames that will be deleted by `Ualpa` are `pauala` (different number of letters) and `lllup` (differs by more than one letter).
-```

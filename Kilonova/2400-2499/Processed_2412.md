@@ -69,4 +69,3 @@ The following table contains the power of each material:
 `stdout`
 ```
 1
-```

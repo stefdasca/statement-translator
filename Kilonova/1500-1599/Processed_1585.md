@@ -1,4 +1,4 @@
-```markdown
+
 We define an **expression** as a string of characters $e$ which follows one of the following:
 * $e =$ `x`;
 * $e$ represents a natural number (constant); (e.g. $e \in \{$`1`$, `2`$, `200`, \dots$\})
@@ -119,4 +119,3 @@ For the second example, $[1, 6] + [2, 6] + [3, 6] + [4, 6] + [5, 6] + [6, 6] = 6
 For the last example, the answers for each value in the interval are $4, 2, 10, 2, 16, 2$ (in this order).
 
 **Note!** Examples $2$, $3$, $4$, and $5$ do not follow the constraints of subtask $1$. Examples $2$, $4$, and $5$ do not follow the constraints of subtask $2$. Examples $2$, $3$, and $5$ do not follow the constraints of subtask $6$.
-```

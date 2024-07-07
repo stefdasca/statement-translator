@@ -40,4 +40,3 @@ In the output file `patrate.out` you will write a single natural number, which r
 `patrate.out`
 ```
 928344252
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Andrei has two numbers $a$ and $b$. He wants to find the number $x$ such that the number of integers in the interval $[a, b]$ that are divisible by $x$ is maximized.
@@ -53,5 +53,4 @@ The first line will contain a single number $x$, $(x \neq 1)$ which satisfies th
 `stdout`
 ```
 7
-```
 ```

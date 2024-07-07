@@ -1,4 +1,4 @@
-```markdown
+
 Kaguya, the vice-president of the student council, is sick. Miyuki wants to traditionally give her a gift of a thousand paper cranes. Maybe not a thousand... (*too exaggerated for a simple cold*), and maybe not a crane... (*too traditional and anyway I don't have origami paper...*). A star tree should be ideal!
 
 Miyuki has a tree (an acyclic connected graph) consisting of `N` nodes numbered from `1` to `N`. He wants to transform it into a star tree of size `N - K`, meaning a connected acyclic graph that has at least `N - K - 1` leaves (nodes with exactly `1` neighbor).
@@ -94,4 +94,3 @@ Two folding operations are performed:
 - `(5, 7)`, adding node `N+2 = 8`.
 
 The final tree consists of nodes `1, 3, 6` and `8`, and edges `(1, 8), (3, 8), (6, 8)`.
-```

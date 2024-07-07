@@ -1,4 +1,4 @@
-```markdown
+
 Given an array $A$, whose elements are defined by the relation $A_i$ = $i^K \cdot 2^i$ for any $1 \leq i$, where $K$ is a given natural number. The elements of this array are placed in a matrix $M$, consisting of $L$ rows and $C$ columns, as follows: $M_{11} = A_1$, $M_{21} = A_2$, $M_{12} = A_3$, $M_{31} = A_4$, $M_{22} = A_5$, $M_{13} = A_6$, $M_{41} = A_7$, $M_{32} = A_8$ ..., that is, traversing the matrix on diagonals from bottom-left to top-right.
 
 For example, for $K=0$, $L=3$ and $C=4$, the array $A$ is composed of elements $2, 4, 8, 16, 32, 64...$, and the matrix $M$ will be filled as:

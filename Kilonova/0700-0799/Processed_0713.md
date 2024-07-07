@@ -1,4 +1,4 @@
-```markdown
+
 Given a natural number $n$ and a digit $k$ from the set $\{2, 3, 5, 7\}$.
 
 # Task
@@ -33,4 +33,3 @@ The output file `exponent.out` will contain a single natural number, which is th
 ## Explanation
 
 $1 \cdot 2 \cdot 3 \cdot \ldots \cdot 6 = 2^4 \cdot 3^2 \cdot 5$ and therefore $3$ has the exponent $2$ in the prime factorization.
-```

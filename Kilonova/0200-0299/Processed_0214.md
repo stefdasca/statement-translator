@@ -1,4 +1,4 @@
-```markdown
+
 Sile the Great Buyer (SMC) has gone to the market! He knows that the market consists of `N` stalls, each stall selling an infinite number of products. Additionally, SMC knows the initial price $A_i$ of the product at stall `i` and the ratio $B_i$ by which this price increases with each purchase of a product. In other words, if the first product bought from stall `i` costs $A_i$, the second will cost $A_i+B_i$, the third will cost $A_i+2 \cdot B_i$, and so on.
 
 # Task
@@ -14,11 +14,11 @@ The first line of the file `tarabe.in` contains two natural numbers `N` and `K`,
 The first and only line of the file `tarabe.out` must contain a single number, which is the minimum sum of prices that SMC can achieve if he buys **exactly** `K` products.
 
 # Constraints and clarifications
-* `1 <= N <= 200 \ 000`;
-* `1 <= K <= 1 \ 000 \ 000 \ 000`;
-* $1 <= A_i, B_i <= 1 \ 000$;
-* For `20%` of the tests `N, K <= 1 \ 000`;
-* For `60%` of the tests `N, K <= 200 \ 000`;
+* `1 \leq N \leq 200 \ 000`;
+* `1 \leq K \leq 1 \ 000 \ 000 \ 000`;
+* $1 \leq A_i, B_i \leq 1 \ 000$;
+* For `20%` of the tests `N, K \leq 1 \ 000`;
+* For `60%` of the tests `N, K \leq 200 \ 000`;
 * **Attention!** SMC guarantees that for the result, data types of `64` bits with sign can be used.
 
 # Example

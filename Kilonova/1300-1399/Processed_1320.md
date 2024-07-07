@@ -1,4 +1,4 @@
-```markdown
+
 Alex and his younger brother Marian bought a bow and arrows, a target poster, and a square board (on which to stick the target poster). The board can be viewed as a square array of size $n$, and the target poster as a square array of size $m$. For $n = 6$ and $m = 5$, we have:
 ~[tir.png|align=center]
 The sizes of the squares composing the board and the poster are equal.
@@ -45,4 +45,3 @@ The output file `tir.out` should contain on the first line $p$, and on the secon
 ## Explanation
 
 By placing the poster starting with the top-left corner in the square at row $1$ and column $2$, two points are obtained corresponding to the arrows in the squares $1 6$ and $2 6$. The poster can also be placed in the squares $1 1$, $2 1$, and $2 2$ (row column), but in each of these cases, the score is $1$.
-```

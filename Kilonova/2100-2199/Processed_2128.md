@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The President of an Informatics Contest wants the atmosphere at the closing ceremony to be pleasant. To achieve this, he wants to seat the participants in $n$ rows according to certain rules. These rules are:
@@ -48,5 +48,4 @@ In the text file `sala.out`, the first line will contain the number stated in th
 `sala.out`
 ```
 61
-```
 ```

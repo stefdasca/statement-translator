@@ -1,4 +1,4 @@
-```
+
 Localitatea Târgoviște este în plină modernizare. Primăria decide să inventarieze toate clădirile din oraș pentru a renova fațadele acestora. În acest sens analizează harta orașului și constată că toți pereții sunt așezați doar pe direcția Nord Sud sau Est Vest. Pereții vizibili de către turiști sunt doar aceia la care se poate ajunge din exteriorul orașului prin deplasarea pe cele două direcții date, în oricare din cele $4$ sensuri $(N, E, S, V)$. Harta orașului este întocmită pe un caroiaj format din pătrate cu latura $1$. 
 
 # Task
@@ -41,4 +41,3 @@ The output file `pereti.out` will contain on the first line the natural number $
 ## Explanation
 
 For positions $(5, 2)$ and $(5, 3)$ the wall between them will be painted on both sides. The wall towards the North of position $(1,3)$ is an external wall, even if it is on the edge of the map.
-```

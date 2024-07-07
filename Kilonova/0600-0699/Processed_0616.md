@@ -85,4 +85,3 @@ There will be $Q$ lines. The $i$-th line will contain the number of points of in
 3
 7
 1
-```

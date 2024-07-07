@@ -1,4 +1,4 @@
-```markdown
+
 ~[poza.png|align=right|width=15em]
 Chef Alexandru received an order for the house specialty: a generous portion of garlic sauce cake.
 
@@ -66,5 +66,4 @@ FILL A
 FILL B
 EMPTY B
 POUR A INTO B
-```
 ```

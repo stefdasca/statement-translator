@@ -1,4 +1,4 @@
-```markdown
+
 Farmer Quinto has an orchard full of fruit trees. The orchard has $N$ rows, numbered from $1$ to $N$, with $M$ fruit trees in each row, numbered from $1$ to $M$. Quinto's orchard is special, so for some trees, the amount of fruit (expressed in kg) that can be harvested is known, while for others it can be determined based on a formula. Quinto aims to harvest $C$ kg of fruit from the trees in his orchard.
 
 He uses a modern machine for picking fruit. The machine can be used on any of the orchard's rows, but it can only gather fruit from a consecutive sequence of trees, starting with the first tree on that row, without the possibility of partially picking fruit from a tree.
@@ -70,4 +70,3 @@ $$
 In the adjacent figure, a possible solution is presented where the maximum amount collected from a tree is $4$ kg.
 
 It is not possible to collect $18$ kg of fruit from a maximum of $4$ rows while only picking trees with a fruit amount of $3$ kg (in this case, at most $8$ kg can be collected).
-```

@@ -1,4 +1,4 @@
-```markdown
+
 The secret services of Crivățului Country have a very well established network. The network is made up of $N$ centers, numbered from $1$ to $N$. Between the centers, there are roads that can be traveled in both directions, with known lengths. A road connects two centers. Using the existing roads, there is a connection (direct or through other centers) between any two centers. The distance between two centers is the total **minimum** length of the roads traveled to get from one center to the other.
 Chief Teo has decided to divide all centers into two departments: espionage and counter-espionage. A division is considered optimal if the **maximum distance** between any two centers in the same department is minimal.
 If there are multiple solutions with the same maximum, the solution for which the difference (in absolute value) between the number of centers in the espionage department and the number of centers in the counter-espionage department is minimal is chosen. If even in this case there are multiple solutions, the first in lexicographical order is preferred.
@@ -78,4 +78,3 @@ The absolute difference between the number of centers in the espionage and count
 
 The maximum distance between any two centers in the same department is $3$.
 The absolute difference between the number of centers in the espionage and counter-espionage departments is $3$.
-```

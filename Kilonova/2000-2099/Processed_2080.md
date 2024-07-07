@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A string consisting of the letters `'a'`, `'b'`, and `'c'` is *good* if there are no `'a'` and `'b'` located at consecutive positions.
@@ -71,4 +71,3 @@ The 12 good strings are: `aacbbc`, `aacbcb`, `aaccbb`, `acacbb`, `acbbca`, `bbca
 ## Explanation
 
 The answer must be displayed modulo $10^9+7$.
-```

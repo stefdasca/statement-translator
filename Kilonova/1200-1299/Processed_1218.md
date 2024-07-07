@@ -1,4 +1,4 @@
-```markdown
+
 A group of $N$ angels gathered in a circle - each of them stands on a cloud, at a certain known height. The clouds are numbered in order from $1$ to $N$. The angels will talk "on equal terms" and, aiming to be at the same height, they do not miss the opportunity to play a little. The game consists of winking at each other in a certain order: the "emitter" will be the angel who is closest to the ground, and if there are more at the same minimum height, then the one who stands on the cloud with the smallest order number will emit.
 
 The emitter will look at all the others in order and will wink only at those above him: the angel who receives the signal will reduce the height of his cloud by a value equal to the height where the emitter's cloud is. In the next round, a new emitter is chosen (by the same rule) who will resume the series of "winks". In one step, the emitter will wink once at each angel (if they are higher than him). The game continues until, after a number of such steps, all the angels reach the same height, $H$.
@@ -51,4 +51,3 @@ In the third stage, $3$ is the emitter (at height $2$)
 * $3$ winks at $2$ and he will reach the height $4 - 2 = 2$
 
 The game ends because all the angels are at the same height, $H = 2$
-```

@@ -1,4 +1,4 @@
-Fie șirul de numere naturale: $a$, $a+1$, $a+2$, $\dots$, $b$. Din toate numerele acestui șir se poate forma un alt număr prin „lipirea” tuturor cifrelor numerelor din șir, în ordinea din șir. Numim acest număr $x$. Exemplu: $a=97$ și $b=105$. Se va obține prin „lipire” numărul $x = 979899100101102103104105$.
+Fie șirul de numere naturale: $a$, $a+1$, $a+2$, $\dots$, $b$. Din toate numerele acestui șir se poate forma un alt număr prin „lipirea� tuturor cifrelor numerelor din șir, în ordinea din șir. Numim acest număr $x$. Exemplu: $a=97$ și $b=105$. Se va obține prin „lipire� numărul $x = 979899100101102103104105$.
 
 # Task
 
@@ -44,4 +44,4 @@ Se vor afișa în fișierul de ieșire `maxim.out`:
 
 ## Explanation
 
-$a=13$, $b=19$, $c=8$ și $d=1$. Numărul $x$ obținut prin „lipire” este $13141516171819$. Cifra de pe poziția $c=8$ din $x$ este $6$. Acest $6$ se scrie pe prima linie de pe ecran. Pe linia a doua este numărul $671819$, după ce s-au eliminat $c=8$ cifre și anume: $1$, $3$, $1$, $4$, $1$, $5$, $1$ de pe primele poziții și apoi cifra $1$ de după cifra $6$; astfel, numărul rămas este $671819$. Pe ultima linie este numărul $2$ (numărul de apariții ale cifrei $d=1$ în numărul obținut după eliminări).
+$a=13$, $b=19$, $c=8$ și $d=1$. Numărul $x$ obținut prin „lipire� este $13141516171819$. Cifra de pe poziția $c=8$ din $x$ este $6$. Acest $6$ se scrie pe prima linie de pe ecran. Pe linia a doua este numărul $671819$, după ce s-au eliminat $c=8$ cifre și anume: $1$, $3$, $1$, $4$, $1$, $5$, $1$ de pe primele poziții și apoi cifra $1$ de după cifra $6$; astfel, numărul rămas este $671819$. Pe ultima linie este numărul $2$ (numărul de apariții ale cifrei $d=1$ în numărul obținut după eliminări).

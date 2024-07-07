@@ -79,4 +79,3 @@ The $6$ pairs of indices are as follows: $(5, 1), (5, 2), (5, 3), (6, 1), (6, 2)
 `pseudocmp.out`
 ```
 -1
-```

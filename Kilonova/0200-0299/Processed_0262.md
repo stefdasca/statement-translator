@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We have a hidden number $x$ and you need to find its value using the following function:

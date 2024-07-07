@@ -72,4 +72,3 @@ For the first query, we have $M=8$, and the smallest $N \leq 13$ with a prefix e
 For the second query, we have $M=81$ and $N=13$ and since $2^{13} = 8 \ 192$, we have the result $1$.  
 For the third query, we have $M=64$ and $N=7$ and since $2^7 = 128$, we have that the result is $0$.  
 For the fourth query, we have $M=1$, $A=0$ and $B=13$, and the values of $N$ for which $1$ appears as a prefix in $2^N$ are $0$, $4$, $7$, $10$ so the answer is $4$.
-```

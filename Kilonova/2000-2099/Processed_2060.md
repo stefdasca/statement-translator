@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Andrei and Cepeaua are arguing with their friend Octopus about multiples. The two friends claim to know all multiples of $a$ less than or equal to $b$, in descending order. Therefore, Andrei asks for your help to prove to Octopus that they are right.
@@ -25,5 +25,4 @@ All multiples of $a$ less than or equal to $b$ will be printed, separated by a s
 `stdout`
 ```
 10 9 8 7 6 5 4 3 2 1 0 
-```
 ```

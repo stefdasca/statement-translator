@@ -1,4 +1,4 @@
-```markdown
+
 One of the ways to sort an array of numbers in ascending order, called insertion sort, is described below. We assume that the elements of the array are natural numbers, arranged on $n$ consecutive positions starting at $1$ and named $s[1], s[2], ..., s[n]$. We call *prefix $i$* the sequence of values occupying positions $1, 2, ..., i$. Thus, *prefix $1$* is the first element, *prefix $2$* is the first element followed by the second, *prefix $n$* is the entire array. At step $i$, with $i$ starting from $2$, we assume that prefix $i \text{−} 1$ is sorted and we insert the element $s[i]$. The insertion is done by comparing the new element with values from the end of prefix $i \text{−} 1$, in descending order of indices, and when the current element (the one at position $i$ at the beginning of this step) is smaller, the two are swapped. Obviously, when we reach the front or encounter an element smaller than the current one, the current step ends, thus obtaining prefix $i$ as sorted, being therefore ready for the next step.
 
 Here is an example. Consider the array $s[1] = 2, s[2] = 4, s[3] = 3, s[4] = 5, s[5] = 1$.
@@ -41,5 +41,4 @@ The second line contains the $r$ determined values, in ascending order, separate
 ```
 2
 3 7
-```
 ```

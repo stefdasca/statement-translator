@@ -1,4 +1,4 @@
-```markdown
+
 *This problem is dedicated to those who wait for the metro with the greatest ardor: the inhabitants of Drumul Taberei.*  
 
 Given the plan of a metro network with `N` stations and `M` bidirectional tunnels between stations. Two metro stations are called *neighbors* if there is a tunnel between them in this plan. Each station `i` has an associated profit $p_i$ given.  
@@ -54,4 +54,3 @@ Explanations
 We have `N = 8` metro stations and `M = 10` tunnels in the plan.  
 The subset of stations `{2, 4, 8}` ensures the maximum profit of `3 + 5 + 1 = 9`.  
 We observe that the subset respects the rule described, as there is no tunnel connecting stations `2-4`, `2-8`, or `4-8`.
-```

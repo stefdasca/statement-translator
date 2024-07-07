@@ -1,4 +1,4 @@
-```
+
 Termopanes got bored of large numbers but hasn't lost his enthusiasm for numbers in general, so he asked his sister for a new challenge. He received an array $a$ of $n$ natural **distinct pairwise** numbers and a number $S$.
 
 His sister asks for a maximum length subsequence that has the following properties (assume that the subsequence is $a[i], a[i+1], \dots, a[j]$):
@@ -47,4 +47,3 @@ $3 +  8 = 11$
 $1 + 10 = 11$
 $4 +  7 = 11$
 $0 + 11 = 11$
-```

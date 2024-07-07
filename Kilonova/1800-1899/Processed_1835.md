@@ -65,4 +65,3 @@ There are $H=3$ heroes and $M=6$ monsters, each with $K=1$ life points. The init
 `stdout`
 ```
 10
-```

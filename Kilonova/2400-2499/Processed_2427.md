@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an array $A$ with $N$ elements. We define $\\min(i,j)$ as the minimum value in the subarray $[i,j]$ of the array $A$. Similarly, we define $\\max(i,j)$ as the maximum value in the subarray $[i,j]$ of the array $A$. There are also $Q$ queries of the form $(X_i,Y_i)$ with the meaning "how many subarrays $[l,r]$ have $\\min(l,r)=X_i$ and $\\max(l,r)=Y_i$?".
@@ -76,5 +76,4 @@ Print $Q$ lines, where the $i$-th line contains the answer to the $i$-th query.
 2
 15
 15
-```
 ```

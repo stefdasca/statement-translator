@@ -1,4 +1,4 @@
-```markdown
+
 $N$ points are given in the plane, numbered from $1$ to $N$. Point $i$ has the coordinates $(i, y(i))$, and the $N$ $y$ coordinates form a permutation of the numbers from $1$ to $N$. A *beautiful* rectangle is a rectangle that has, in the bottom-left and top-right corners, two of the $N$ points. More precisely, two points $i$ and $j$ determine a *beautiful* rectangle with the bottom-left corner at point $i$ and the top-right corner at point $j$ if $i < j$ and $y(i) < y(j)$. Let $NPID(i, j)$ be the number of points **strictly** inside the beautiful rectangle with the bottom-left corner at point $i$ and the top-right corner at point $j$.
 
 # Task
@@ -40,5 +40,4 @@ The file `snpid.out` will contain $N$ lines, the $i$-th line containing the valu
 0
 0
 0
-```
 ```

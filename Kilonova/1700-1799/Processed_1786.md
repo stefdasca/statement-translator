@@ -1,4 +1,4 @@
-```markdown
+
 The communication network of the city of Ploiești consists of $N$ nodes, numbered from $1$ to $N$. There are $N-1$ pairs of nodes with a direct connection (these nodes are called neighbors). A direct connection ensures communication in both directions between connected nodes. The direct connections are built so that any two nodes in the network can communicate (directly, or indirectly through other nodes). At time $0$, node $1$ has a message it wants to send to all other nodes. To achieve this, at any integer time $t$, any node $x$ that has previously received the message (or which received it exactly at time $t$), can send it to a neighbor $y$ of its own who has not yet received the message. Sending the message takes $1$ unit of time – hence, node $y$ will receive the message at time $t+1$. A node can send the message to several of its neighbors, but not simultaneously.
 
 For security reasons, at certain times within the interval $[0, T)$, the communication nodes are checked. For each node $x$ and each time $t \\ (0 \\leq t \\leq T-1)$, it is known whether node $x$ is checked at time $t$. The duration of the check is $1$ unit of time (thus, if node $x$ is checked at time $t$, the check ends at time $t+1$). At each time a node is checked, it cannot send any messages (but it can receive messages from its neighbors).
@@ -47,4 +47,3 @@ The output file `tcast.out` will contain a single line which will hold the minim
 ## Explanation
 
 At time $0$ node $1$ is checked and cannot send the message to any neighbor. At time $1$, node $1$ sends the message to node $4$. At time $2$, node $1$ sends the message to node $2$, and node $4$ sends the message to node $5$. At time $3$, node $2$ sends the message to node $3$, and at time $4$ node $3$ sends the message to node $6$. At time $5$, node $6$ is the last node to receive the message.
-```

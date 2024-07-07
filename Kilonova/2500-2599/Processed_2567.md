@@ -1,4 +1,4 @@
-```markdown
+
 Given $N$ points in a plane, $(x_i, y_i)$ with integer, non-negative coordinates and $q$ queries of the form $l_i \\ r_i$, with $l_i \\leq r_i$.
 
 The angle between two lines is defined as the measure in degrees of the acute or right angle formed between the two lines. If the lines are parallel or coincide, the angle measure is $0$ degrees.
@@ -59,5 +59,4 @@ Print the answers with at least 3 correct decimals (the difference between the c
 -1
 18.434949
 21.037511
-```
 ```

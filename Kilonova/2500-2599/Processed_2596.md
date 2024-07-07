@@ -1,4 +1,4 @@
-```markdown
+
 A pair of strings $S$ and $T$, consisting only of the letters 'A', 'B', and 'C', is **matchable** if the strings can become equal after a transformation consisting of a sequence of $0$ or more operations. An **operation** consists of inserting or deleting one of the subarrays: 'AAA', 'BBB', 'CCC', 'ABC', or 'BAC' from one of the strings. Both insertion and deletion can be performed at any position. As a result of an operation, the resulting string may become empty.
 
 # Task
@@ -50,4 +50,3 @@ For the second pair, it can be shown that there is no transformation after which
 ```
 
 I've double-checked and fixed potential grammar and syntax errors according to the rules of the English language.
-```

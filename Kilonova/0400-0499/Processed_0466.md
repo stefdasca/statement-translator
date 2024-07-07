@@ -65,4 +65,3 @@ The way of choosing the fights is not necessarily unique.
 `stdout`
 ```
 17
-```

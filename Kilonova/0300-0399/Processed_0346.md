@@ -1,4 +1,4 @@
-```markdown
+
 As you may already know, accountants keep their data in form of tables and they calculate all sorts of sums on lines and columns. Atnoc, our accountant, has organized his values in the form of a table with $N$ rows (numbered from $0$ to $N - 1$) and $M$ columns (numbered from $0$ to $M - 1$).
 
 Elements on the last column are the sums of their row (more precisely, the element on row $i$ and column $M - 1$ is the sum of elements on row $i$ situated on the columns $0, 1, 2,... , M - 2$), and the elements on the last line are the sums of their column (more precisely, the element on column $i$ and row $N - 1$ is the sum of elements on column $i$ situated on the rows $0, 1, 2,... , N - 2$). An example of such a table is shown below.
@@ -65,4 +65,3 @@ Explanation
 ---
 
 By finding the cell $(0, 0)$, paying $3$ we will have enough information to reconstruct the entire table.
-```

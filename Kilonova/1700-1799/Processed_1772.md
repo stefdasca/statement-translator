@@ -1,4 +1,4 @@
-```markdown
+
 Given is a tree $T$ with $n$ nodes, numbered from $1$ to $n$, having its root at node $1$. Each edge $(x, y)$, from node $x$ to node $y$, of the tree has a given length, $d_{(x, y)}$. The root sends a message to all other nodes in the tree. The time after which a leaf receives the message is equal to the sum of the lengths of the edges on the path from the root to this leaf.
 
 It is desired that the message transmission duration from the root to each leaf is identical. For this, we have the _increment operation_ at our disposal, which can be applied to any edge $(x, y)$ and consists of increasing the length of the edge by one unit. The cost of applying the increment operation to an edge $(x, y)$ is $c_{(x, y)}$. The operation can be applied repeatedly to the same edge.
@@ -75,4 +75,3 @@ The edges will be incremented as follows:
 * $(7, 9)$ until the length is $4$ with a cost of $3$;
 
 The required minimum cost is $2+1+6+3=12$.
-```

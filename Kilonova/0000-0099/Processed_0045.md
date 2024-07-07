@@ -1,4 +1,4 @@
-```markdown
+
 A farmer has $N$ rabbits (which he numbered from $1$ to $N$) and a lot of carrots. What is special in this household is that the rabbits are hierarchically organized, based on age, authority, and nutritional needs. Thus, each rabbit has exactly one direct boss (except for Rilă Iepurilă, who is the big boss, the boss of all rabbits). Any rabbit can have 0, 1, or more direct subordinates. Any rabbit-boss will eat at least one carrot less than each of their direct subordinates.
 
 The farmer cannot decide how many carrots to give to each rabbit and would like to know in how many ways he can distribute the carrots among the rabbits, knowing that each rabbit can eat at least one carrot and at most $K$ carrots.
@@ -36,5 +36,4 @@ The output file `iepuri.out` will contain the number of ways to distribute the c
 `iepuri.out`
 ```
 9
-```
 ```

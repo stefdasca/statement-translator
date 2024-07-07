@@ -67,4 +67,3 @@ The output file `neapuiu.out` must contain the answers to the questions from the
 1 
 4 
 0
-```

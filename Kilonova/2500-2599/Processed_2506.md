@@ -103,4 +103,3 @@ There are $18$ ways to rearrange the treasures. One of them is:
 -1 -1 -1  6  0 -1
 -1 -1  0  8  5 -1
 -1 -1 -1 -1 -1 -1
-```

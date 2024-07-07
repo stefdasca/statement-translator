@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 T. Zahlentheoretische, **Mr. T**, being a "netetist"$^1$, is short and to the point, thus asking you to solve the following problem.
 
@@ -36,5 +36,4 @@ The output file `domnult.out` contains a line with the answers for each type $1$
 ```
 36
 3
-```
 ```

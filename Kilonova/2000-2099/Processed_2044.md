@@ -1,31 +1,32 @@
 # Task
 
-Cătălin has a quantum billiard table of dimensions \( n \times m \).
+Cătălin has a quantum billiard table of dimensions $n \times m$.
 
-Initially, there is a ball in the bottom-left corner of the table, at coordinates \((0,0)\). Every second, the ball will move from the current position \((x,y)\) to \((x+1,y+1)\).
+Initially, there is a ball in the bottom-left corner of the table, at coordinates $(0,0)$. Every second, the ball will move from the current position $(x,y)$ to $(x+1,y+1)$.
 
-Additionally, when the ball collides with an edge of the table, it will teleport to the opposite side, maintaining its direction:
+Furthermore, when the ball hits the edge of the table, it will teleport to the opposite side, maintaining its direction:
 
-- If the ball collides with the top edge of the table at coordinates \((x,n)\), it will instantly teleport to the bottom edge at coordinates \((x,0)\).
-- If the ball collides with the right edge of the table at coordinates \((m,y)\), it will instantly teleport to the left edge at coordinates \((0,y)\).
+- If the ball hits the top edge of the table at coordinates $(x,n)$, it will instantly teleport to the bottom edge at coordinates $(x,0)$.
+- If the ball hits the right edge of the table at coordinates $(m,y)$, it will instantly teleport to the left edge at coordinates $(0,y)$.
 
 Find the first second when the ball will reach the top-right corner of the billiard table. It is guaranteed that this will always be possible.
 
-# Input data
+# Input Data
 
-The input file `biliard.in` will contain two numbers \( n \) and \( m \), the dimensions of the billiard table.
+The input file `biliard.in` will contain two numbers $n$ and $m$, the dimensions of the billiard table.
 
-# Output data
+# Output Data
 
-The output file `biliard.out` will contain a number, the first second when the ball will reach the top-right corner of the billiard table.
+The output file `biliard.out` will contain one number, the first second when the ball will reach the top-right corner of the billiard table.
 
 # Constraints and clarifications
-- \( 1 \le n,m \le 10^9 \);
-- For 5 points, \( n=1 \);
-- For an additional 10 points, \( n=2 \);
-- For an additional 20 points, \( n,m \le 1\ 000 \);
-- For an additional 25 points, \( n,m \le 10^6 \);
-- For the remaining 40 points, no additional constraints.
+
+- $1 \le n,m \le 10^9$;
+- For $5$ points, $n=1$;
+- For another $10$ points, $n=2$;
+- For another $20$ points, $n,m \le 1\ 000$;
+- For another $25$ points, $n,m \le 10^6$;
+- For the remaining $40$ points, no additional constraints.
 
 # Example 1
 
@@ -41,14 +42,14 @@ The output file `biliard.out` will contain a number, the first second when the b
 
 ## Explanation
 
-The ball will follow the trajectory:
+The ball will take the following path:
 ~[exemplu.png|width=50%]
-- \((0,0) \xrightarrow{1s} (1,1) \xrightarrow{1s} (2,2) \xrightarrow{1s} (3,3) \xrightarrow{1s} (4,4) \xrightarrow{0s}\) tp to \((4,0)\)
-- \((4,0) \xrightarrow{1s} (5,1) \xrightarrow{1s} (6,2) \xrightarrow{0s}\) tp to \((0,2)\)
-- \((0,2) \xrightarrow{1s} (1,3) \xrightarrow{1s} (2,4) \xrightarrow{0s}\) tp to \((2,0)\)
-- \((2,0) \xrightarrow{1s} (3,1) \xrightarrow{1s} (4,2) \xrightarrow{1s} (5,3) \xrightarrow{1s} (6,4)\)
+- $(0,0) \xrightarrow{1s} (1,1) \xrightarrow{1s} (2,2) \xrightarrow{1s} (3,3) \xrightarrow{1s} (4,4) \xrightarrow{0s}$ tp to $(4,0)$
+- $(4,0) \xrightarrow{1s} (5,1) \xrightarrow{1s} (6,2) \xrightarrow{0s}$ tp to $(0,2)$
+- $(0,2) \xrightarrow{1s} (1,3) \xrightarrow{1s} (2,4) \xrightarrow{0s}$ tp to $(2,0)$
+- $(2,0) \xrightarrow{1s} (3,1) \xrightarrow{1s} (4,2) \xrightarrow{1s} (5,3) \xrightarrow{1s} (6,4)$
 
-To reach the top-right corner of the table, the ball needed \(4+2+2+4=12\) seconds.
+To reach the top-right corner of the table, the ball took $4+2+2+4=12$ seconds.
 
 # Example 2
 

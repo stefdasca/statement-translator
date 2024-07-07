@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Initially, there existed a sequence of $N$ natural numbers between $1$ and $V$, where $V$ is of the form $2^{k}-1, k \in \mathbb{N}$. This sequence was lost; all that remains is a sequence $Z$ of size $V$ defined as follows: $Z_i = |\{j ~|~ i \& A_j \neq 0,~1 \leq j \leq N \}|$, where $\&$ represents the $AND$ operation on bits. Specifically, $Z_i$ is the number of elements $j$ for which $A_j \& i \neq 0$. You are given the sequence $Z$ and asked for a possible initial sequence.
 
@@ -51,4 +51,3 @@ This is the only possible sequence.
 ## Explanation
 
 No such sequence exists.
-```

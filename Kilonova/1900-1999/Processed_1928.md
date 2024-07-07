@@ -2,7 +2,7 @@ Two people, whom we will call Costel and Costin to maintain their anonymity, par
 
 The two made a rather bizarre agreement: in exchange for material benefits, Costel will help Costin achieve $100$ points on one of the problems. Knowing that all the problems in the team have an output of a single number, Costin has already chosen $50$ preferred numbers $R_i$, which he has given to Costel. Now, for a problem, Costel has to generate $50$ tests for which the answers are the $50$ numbers chosen by Costin.
 
-The problem chosen by Costel to implement the plan is as follows: “Given a tree (an undirected, acyclic, connected graph) consisting of $N$ nodes, $1 \leq N \leq 400$. For it, determine **the number of maximum independent sets of nodes for the given tree**. A maximum independent set of nodes is defined as a set of nodes with the maximum cardinality such that no two nodes in the set are connected by an edge in the original tree.”
+The problem chosen by Costel to implement the plan is as follows: “Given a tree (an undirected, acyclic, connected graph) consisting of $N$ nodes, $1 \leq N \leq 400$. For it, determine **the number of maximum independent sets of nodes for the given tree**. A maximum independent set of nodes is defined as a set of nodes with the maximum cardinality such that no two nodes in the set are connected by an edge in the original tree.�
 
 Due to an unfortunate accident that prevents him from continuing, Costel has tasked you to continue the plan. Construct $50$ trees for which, for each tree $i$, the answer to the chosen problem is the number $R_i$.
 
@@ -71,6 +71,6 @@ For a test, the maximum score is obtained if for each of the $50$ trees, the ans
 
 This example is only for demonstration purposes as it contains only $2$ numbers in the input file. The official tests contain $50$ numbers each.
 
-For the first example, a tree must be generated that has exactly $3$ maximum independent sets. For the generated tree, the $3$ possible sets that can be chosen are those in the following images (the nodes of a set are those with a bold edge): 
+For the first example, a tree must be generated that has exactly $3$ maximum independent sets. For the generated tree, the $3$ possible sets that can be chosen are those in the following images (the nodes of a set are those with a bold edge):�
 
 ~[test.png]

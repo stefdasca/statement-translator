@@ -1,4 +1,4 @@
-```markdown
+
 Given $N$, $M$, $K$, and a directed acyclic graph ([DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph)) consisting of $N$ nodes (numbered from $1$ to $N$) and $M$ edges, find the lexicographically smallest path that ends at node $K$.
 
 A sequence $a_1 \\ a_2 \\ \\dots \\ a_p$ is lexicographically smaller than the sequence $b_1 \\ b_2 \\ \\dots \\ b_q$ if and only if:
@@ -43,4 +43,3 @@ The first line contains the number $L$, representing the length of the lexicogra
 ```
 
 ~[leximinpoza200.png|align=center|width=50%]
-```

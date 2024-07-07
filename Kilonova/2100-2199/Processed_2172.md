@@ -1,6 +1,6 @@
 # Task
 
-> “Walking through the city […] I just have to find my way”
+> “Walking through the city […] I just have to find my way�
 
 MIron, bored with everyday life, decided to go for a walk in his hometown, Deva. It has a tree structure (an undirected, cycle-free, connected graph), consisting of $N$ squares and $N-1$ streets that connect them. MIron wants to choose a square to start his walk from and traverse the longest possible path in the city, without passing through the same square twice (to avoid getting even more bored).
 

@@ -1,11 +1,11 @@
-```markdown
+
 We consider a matrix with $L$ rows (numbered from top to bottom from $1$ to $L$) and $C$ columns (numbered from left to right from $1$ to $C$) which only stores values $0$ and $1$. Furthermore, the values equal to $1$ are grouped into multiple solid rectangles, which **do not** touch each other neither on rows, columns, nor diagonals. In the example from _fig. 1_, the matrix is correct because the $4$ rectangles of $1$ do not touch each other. However, in _fig. 2_, there are $2$ rectangles of $1$ that are adjacent on the column and two that are adjacent on the diagonal, so the matrix is incorrect.
 
 ~[55300bc86fef24cde07277ad815ac767.png]
 
 In this matrix, movements can only be made in the **West** and **North** directions to elements equal to $0$, so from position $(i,j)$ you can only reach positions $(i,j-1)$ and $(i-1,j)$, marked with $0$. In this way, starting from a certain position, through successive movements, a certain number of matrix elements equal to $0$ can be accessed. For example, in _fig. 1_, from the position $(2,4)$ five components equal to $0$ can be accessed, and from the position $(5,4)$ fourteen components equal to $0$ can be accessed.
 
-You need to answer $Q$ questions, each question being of the form: _“How many elements equal to zero in the matrix can be accessed from position $(i,j)$?”_
+You need to answer $Q$ questions, each question being of the form: _“How many elements equal to zero in the matrix can be accessed from position $(i,j)$?�_
 
 # Task
 
@@ -54,4 +54,3 @@ The file `acces.out` contains $Q$ lines. On line $p \\ (1 \\leq p \\leq Q)$ ther
 ## Explanation
 
 For the first question, the $5$ components equal to $0$ that can be accessed are those in positions $(1,1), (1, 2), (1,3), (1,4), (2,4)$.
-```

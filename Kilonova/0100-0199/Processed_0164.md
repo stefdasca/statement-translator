@@ -1,4 +1,4 @@
-```markdown
+
 Let `N` be a non-zero natural number and `P` a permutation of length `N` of the numbers from the set `{1, 2, ..., N}`. We define a visible element in the permutation `P` as a number $P_i$ that has the property that $P_j < P_i$, for `1 \\leq j < i` or `i=1`.
 
 # Task
@@ -39,4 +39,3 @@ There are `3` permutations, of length `4`, which have `2` and `4` as visible ele
 ```
 
 The permutation `2 3 4 1` does not meet the task because it has as visible elements both `2` and `4`, as well as `3`.
-```

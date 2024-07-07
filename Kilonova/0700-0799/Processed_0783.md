@@ -1,4 +1,4 @@
-```markdown
+
 A rectangular area with height $N$ and width $M$ units needs to be perfectly covered (tiled) using rectangular tiles of dimensions $1 \times P$ or $P \times 1$, where $P$ is a non-zero natural number. The given surface can be viewed as a grid with $N \times M$ unit squares.
 
 A correct tiling of the initial surface is stored in a text file using the following encoding conventions:
@@ -60,6 +60,5 @@ The value $-4$ encodes a tile with height $4$ and width $1$ placed starting from
 3 2
 3 2
 3 1
-```
 ```
 ```

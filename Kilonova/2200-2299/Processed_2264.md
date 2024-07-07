@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Consider a cube with side length $N$, composed of $N \times N \times N$ cells. A cell $(i,j,k)$, $(0 \leq i,j,k \leq N-1)$ contains a value $C(i,j,k)$ which can be either $0$ or $1$. We want to place two parallelepipeds inside the cube such that each cell $(i,j,k)$ with $C(i,j,k)=1$ is inside at least one parallelepiped. The two parallelepipeds can intersect.
@@ -51,5 +51,4 @@ In the output file `ppcover.out` you will print one line for each test given in 
 ```
 5
 22
-```
 ```

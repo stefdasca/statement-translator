@@ -1,4 +1,4 @@
-```markdown
+
 Consider a natural number $K$ and a sequence of $N$ arrays $s_1$, $s_2$, $\dots$, $s_N$. Each array is made up of **distinct digits**. For two arrays $s_i$ and $s_j$, the subtraction operation (-) is defined such that: $s_i - s_j$ will contain only the digits that appear in $s_i$ but not in $s_j$. For example, if $s_i = (1, 3, 8)$ and $s_j = (2, 9, 3)$, then $s_i - s_j = (1, 8)$. This operation is not associative, $(s_i - s_j) - s_p$ is different from $s_i - (s_j - s_p)$.
 
 Thus, if a sequence $s_{i_1}$, $s_{i_2}$, $\dots$, $s_{i_p}$ is selected from the sequence, it is agreed that $s_{i_1} - s_{i-2} - \dots - s_{i_p}$ will be executed from right to left.
@@ -45,4 +45,3 @@ $s_2$ = $4 \ 5 \ 6$
 $s_3$ = $7 \ 8 \ 9$
 
 The six non-empty subsequences are: $s_1$, $s_1-s_2$, $s_1-s_2-s_3$, $s_2$, $s_2-s_3$, $s_3$
-```

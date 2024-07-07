@@ -51,4 +51,3 @@ As observed, all the above seven permutations have at least one subarray with el
 `kmax.out`
 ```
 21690
-```

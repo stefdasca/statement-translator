@@ -1,4 +1,4 @@
-```markdown
+
 Marius promised his parents that if they buy him an AcadStation 6 console, he will finish the school year with an average grade of 10. However, since Marius was busy playing games, he couldn't keep his promise and realizes that his only solution is to break the school's grading program.
 
 # Task

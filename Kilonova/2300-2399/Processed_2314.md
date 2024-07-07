@@ -1,4 +1,4 @@
-```markdown
+
 Andreea and Ioana have arrived in Tinichea County and want to visit as many tourist attractions as possible. Tinichea County is made up of $N$ cities, between some of which there are bidirectional roads. Specifically, any road directly connects two cities, and the roads are arranged such that there is a unique path between any two cities in the county. A path is a sequence of cities such that between any two consecutive cities on the path, there is a road connecting them. The cities are numbered from $1$ to $N$, and for each city, $C_i$ is known, the number of tourist attractions in city $i$.
 
 Because they have had a small argument lately, the two girls each want to choose a path such that the number of attractions Andreea visits combined with the number of attractions Ioana visits is maximized. The conditions the girls impose are that their paths must not share any cities and that any city is visited at most once.
@@ -50,4 +50,3 @@ The input file must contain $12$ tests, in the example only the first and the la
 For the first test, there are $2$ cities, each with one tourist attraction. There is a single road (from $1$ to $2$). The optimal solution is $2$ (each girl visits one city).
 For the last test, there are $3$ cities, having $1$, $2$, and $3$ tourist attractions, respectively, and $2$ roads (between $1$ and $2$, and between $1$ and $3$). The optimal solution is $6$. 
 The ellipsis `...` indicates that the other $10$ tests are missing.
-```

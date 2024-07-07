@@ -1,4 +1,4 @@
-```markdown
+
 The new rules in the healthcare system require doctors not to prescribe a specific medication but to mention the active substance. The prescription consists of $n$ prescriptions, one for each prescribed active substance.
 
 The pharmacist from whom I buy my medicines gave me a list in which for each active substance on the prescription, the medicines containing that active substance and the prices of the prescribed pills are noted in the following form:
@@ -86,4 +86,3 @@ bidiab/diclac
 ## Explanation
 
 We pay the minimum amount $67$ if we buy glibomet (price $30$), ibusinus (price $9$), diclac (price $28$). Note that any two purchased drugs are compatible.
-```

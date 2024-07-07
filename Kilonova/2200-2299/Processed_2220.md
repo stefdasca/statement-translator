@@ -47,4 +47,3 @@ TBTB
 `trasee.out`
 ```
 BBBBBB
-```

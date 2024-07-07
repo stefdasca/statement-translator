@@ -1,4 +1,4 @@
-```markdown
+
 Gigel qualified for $\\text{ONI} \\ 2007$. Unfortunately, or fortunately, he encounters a problem similar to the one from $\\text{OJI}$, $\\text{Excel}$.
 We remind that a spreadsheet in $\\text{Excel}$ is presented as a lined surface with horizontal and vertical lines. By their intersection, rectangles (called cells) are obtained, each cell having a name formed by one or more letters and a number, representing the column and row it is located on. For example, the top left cell is $\\text{A}1$, followed by, in the row, $\\text{B}$, $\\text{C}1$, $\\dots$, $\\text{Z}1$, $\\text{AA}1$, $\\text{AB}1$, $\\dots$, $\\text{BA}1$, $\\dots$
 ~[excel.png|align=center]

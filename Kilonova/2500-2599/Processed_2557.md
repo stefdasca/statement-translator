@@ -1,4 +1,4 @@
-```markdown
+
 A superstring is an infinite sequence formed by non-zero natural numbers written without spaces between them, starting with $1$: $1223334444\dots1010\dots$ (each number $x$ appears exactly $x$ times).
 
 # Task
@@ -32,5 +32,4 @@ The output file `superstring.out` contains $T$ lines, each line $i$ containing t
 2
 1
 0
-```
 ```

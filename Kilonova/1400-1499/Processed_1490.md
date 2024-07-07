@@ -67,4 +67,3 @@ In this case, the output file `calc.out` will contain two lines. The first line 
 ```
 -1
 100
-```

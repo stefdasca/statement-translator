@@ -1,4 +1,4 @@
-```markdown
+
 At a math competition, students from multiple schools in different cities participate. To distinguish between their papers, each paper is coded with a natural number of 3 digits, say $abc$, where $a$ (the hundreds digit) is the city code, $b$ (the tens digit) is the school code in city $a$, and $c$ (the units digit) is the student code from school $b$ in city $a$. Example: the paper with the code $328$ belongs to the student with code $8$ from the school with code $2$ in the city with code $3$.
 
 Known data: a code (for the paper of a student $H$, our friend), the number $n$ of awarded papers, and their codes.
@@ -48,4 +48,3 @@ NO
 1. The code of $H$ is not found among the awarded codes, so the message is `NO`.
 2. The awarded papers from $H$'s city (with hundreds digit equal to $2$) total $3$: $232$, $222$, and $225$.
 3. The awarded papers from $H$'s school (with hundreds digit equal to $2$ and tens digit equal to $3$) total $2$: $232$ and $235$.
-```

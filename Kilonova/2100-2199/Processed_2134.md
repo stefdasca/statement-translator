@@ -1,4 +1,4 @@
-```markdown
+
 Consider an array $v_1, v_2, \dots, v_N$ of integers. The *magic operation* consists of executing the following steps:
 
 * Select a position $i$, $1 < i < N$.
@@ -127,4 +127,3 @@ $[21, 16, 11, 8, 6, 5, 4, 3, 3, 3, 7, 13, 19, 28, 37]$
 
 ## Explanation
 In the last 2 examples, the *magic operation* can be successively applied at positions $3$, $2$, $3$, $8$, $5$.
-```

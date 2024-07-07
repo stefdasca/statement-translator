@@ -1,4 +1,4 @@
-```markdown
+
 We have a toy consisting of $N \times N$ squares with side $1$ arranged like in a matrix with $N$ rows and $N$ columns. The rows and columns of the matrix are numbered from $1$ to $N$, and $N$ is always odd. The squares can be white and we will code them as $0$, or black and we will code them as $1$. We divide the matrix into concentric zones as follows: zone $1$ consists of row $1$, column $N$, row $N$, and column $1$; zone $2$ consists of row $2$, column $N - 1$, row $N - 1$, column $2$ etc. There are $ \lfloor \frac{N}{2} \rfloor$ such zones. In the middle of the matrix, there is obviously a single element, $N$ being odd. On any zone, we can apply a rotation operation, **only to the left**. Here is the effect of a rotation operation "of length" $3$ on a zone in the figure below.
 
 ~[cubic1.png]
@@ -46,4 +46,3 @@ The file `cubic.out` contains on the first line the number of possibilities to a
 ## Explanation
 
 The solutions are $(2, 0)$, $(3, 0)$, $(2, 2)$, $(3, 2)$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A binary matrix $B$ (with values $0$ or $1$) with $N$ rows and $M$ columns is considered, with the rows and columns being numbered from $1$ to $N$ and from $1$ to $M$, respectively.
 
 The matrix $B$ is generated according to the rule $B_{ij} = R_i \oplus C_j$, where $R$ and $C$ are binary arrays of length $N$ and $M$, respectively. We call a rectangle with corners ($x_1, y_1$), ($x_2, y_2$) with $x_1 \leq x_2$ and $y_1 \leq y_2$, the set of elements $B_{ij}$ with $x_1 \leq i \leq x_2$ and $y_1 \leq j \leq y_2$. The area of such a rectangle is ($x_2-x_1+1) \cdot (y_2-y_1+1$).

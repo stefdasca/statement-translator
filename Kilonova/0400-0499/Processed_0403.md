@@ -1,4 +1,4 @@
-```markdown
+
 A sequence with $N$ values $0$ and $1$ is read. We call an alternating subarray of the given sequence, a succession of at least $3$ terms located on consecutive positions in the sequence, in which adjacent terms have different values. 
 We say that an alternating subarray is a subarray `T0`, if it starts and ends with $0$. For example `0 1 0 1 0` or `0 1 0` are `T0` subarrays.
 We say that an alternating subarray is a subarray `T1`, if it starts and ends with $1$. For example `1 0 1 0 1` or `1 0 1` are `T1` subarrays.
@@ -56,4 +56,3 @@ $0 \ 1 \ \colorbox{DarkGray}{0 0 0} \ 1 \ 1 \ 0 \ 1 \ 1 \ 0 \ 0 \ 1 \ 0$
 $0 \ \colorbox{DarkGray}{0 \textcolor{red}{1 0} 1} \ \colorbox{DarkGray}{1 \textcolor{red}{0 1} 0} \ 0 \ \colorbox{DarkGray}{0 \textcolor{red}{1 0 1 0 1} 0} \ \colorbox{DarkGray}{0 \textcolor{red}{1 0 1} 0} \ 0$
 
 The intersection between a `T0` subarray and a `T1` subarray generates the longest subarray which starts at position $12$ and ends at position $16$.
-```

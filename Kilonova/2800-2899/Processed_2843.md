@@ -1,4 +1,4 @@
-```markdown
+
 > Write an essay of at least 400 words, in which you present the particularities of a dramatic text belonging to Tanaka or Constantin.
 
 ~[fig1.png|align=right]
@@ -81,4 +81,3 @@ The answer:
 * $-1$
 * $-1$
 would have received $0$ points.
-```

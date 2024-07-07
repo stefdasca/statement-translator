@@ -66,4 +66,3 @@ The output file `elmer.out` will contain on the first line the maximum number of
 `elmer.out`
 ```
 5
-```

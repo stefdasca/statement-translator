@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an array of $n$ numbers, select values from the array such that no two values are chosen from consecutive positions, and their sum is maximized.
@@ -41,5 +41,4 @@ Print $t$ numbers, with one corresponding to each of the $n$ tests.
 17
 24
 39
-```
 ```

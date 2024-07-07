@@ -1,4 +1,4 @@
-```markdown
+
 Let $N$ be segments in the `XOY` coordinate plane. The segments are either horizontal (parallel to the `OX` axis) or vertical (parallel to the `OY` axis) and have endpoints at integer coordinates. Also, no two horizontal segments lie on the same line and no two vertical segments lie on the same line. An operation can be simultaneously applied to all segments, extending both endpoints by an integer value $D$. For any segment, if the length is $L$, then after extension its size is $L + 2 \cdot D$.
 
 # Task

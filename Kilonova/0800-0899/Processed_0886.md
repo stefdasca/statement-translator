@@ -1,4 +1,4 @@
-```markdown
+
 It is considered $N$ points in the plane, having natural number coordinates, relative to a Cartesian reference XOY, with any two points being distinct.
 
 ~[triunghiuri.png]
@@ -82,4 +82,3 @@ then the $4$ triangles that satisfy the conditions are: $ABC$, $ACE$, $ABE$ and 
 ```
 
 Please double-check for potential grammar and/or syntax errors to ensure correctness.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Recent studies have shown that there is indeed intelligent life on Mars. The problem is that now humanity is at war with the Martians and our best bet for survival is that we need to strike first. On Mars, there is a complex railroad system of $n$ cities connected by $m$ bidirectional railroads.
 
 Earth has called upon the best bomber there is, mister RANDy, to strike down those railroads. Because he is a maniac, he only has one bomb left so he can only strike down a single one of those railroads. RANDy will only target strategic railroads. A railroad is strategic if and only if there exists a pair of cities ($x, y$) such that you can reach $x$ from $y$ and after bombing the given railroad, you can no longer reach $x$ from $y$. 
@@ -70,5 +70,4 @@ For the first sample, after the first built railroad, the strategic railroads ar
 ```
 0
 1
-```
 ```

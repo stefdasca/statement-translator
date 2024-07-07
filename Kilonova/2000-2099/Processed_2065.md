@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Alice and Bob are playing (once again!) a game. This time, they have a natural number $n$, and the two players, starting with Alice, will proceed as follows:
@@ -37,5 +37,4 @@ For each test, print `Alice` if Alice wins, or `Bob` if he wins.
 Alice
 Bob
 Alice
-```
 ```

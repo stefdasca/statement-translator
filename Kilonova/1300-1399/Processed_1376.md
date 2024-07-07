@@ -1,4 +1,4 @@
-```markdown
+
 An expression is considered, which may contain:
 
 * operands, which are lowercase letters of the English alphabet;
@@ -70,5 +70,4 @@ b 0
 h 2
 p -1
 x -2
-```
 ```

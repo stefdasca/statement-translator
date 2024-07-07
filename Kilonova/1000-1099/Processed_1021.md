@@ -1,4 +1,4 @@
-```markdown
+
 Given $N$ and $a_1 \\ a_2 \\ \\dots \\ a_N$. There are $Q$ queries of the form $l$, $r$. For the $i$-th query, you will choose the numbers $l$ and $r$ ($1 \\leq l \\leq r \\leq N$) and you want to know what the maximum of the array would be and how many times it would appear if the subarray $[l..r]$ is **censored**.
 
 * The subarray $[l..r]$ of an array is the array $a_l \\ a_{l+1} \\ a_{l+2} \\dots a_r$.
@@ -57,4 +57,3 @@ For the third query, if we censor the subarray ($3$, $6$), we obtain the array $
 For the fourth query, if we censor the subarray ($6$, $9$), we obtain the array $[3, 2, 3, 1, 6, 0, 0, 0, 0]$, the maximum being $6$ and appearing once.
 
 For the fifth query, if we censor the subarray ($1$, $9$), we obtain the array $[0, 0, 0, 0, 0, 0, 0, 0, 0]$, the maximum being $0$ and appearing $9$ times.
-```

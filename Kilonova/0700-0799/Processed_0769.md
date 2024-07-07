@@ -14,7 +14,7 @@ is represented by the string: `FOLDER1(FOLDER2(),FOLDER3(FOLDER4(poveste,basm),b
 
 # Task
 
-Write a program that, given the string encoding a file structure on disk, determines the path for each data file in the structure. A file path is understood as a sequence of folders, each folder followed by the _\\(backslash)_ character, starting from the highest level folder in the structure (the first specified in the string encoding the file structure), up to the subfolder in which the respective data file is located, ending with the name of the file. The determined paths will be displayed in lexicographic order.
+Write a program that, given the string encoding a file structure on disk, determines the path for each data file in the structure. A file path is understood as a sequence of folders, each folder followed by the _\$backslash)_ character, starting from the highest level folder in the structure (the first specified in the string encoding the file structure), up to the subfolder in which the respective data file is located, ending with the name of the file. The determined paths will be displayed in lexicographic order.
 
 # Input data
 
@@ -49,4 +49,3 @@ FOLDER1(FOLDER2(),FOLDER3(FOLDER4(poveste,basm),basm))
 FOLDER1\\FOLDER3\\FOLDER4\\basm
 FOLDER1\\FOLDER3\\FOLDER4\\poveste
 FOLDER1\\FOLDER3\\basm
-```

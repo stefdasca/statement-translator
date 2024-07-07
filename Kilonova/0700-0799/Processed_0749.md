@@ -39,4 +39,3 @@ The output file `case.out` will contain on the first line the number of relative
 15
 17
 29
-```

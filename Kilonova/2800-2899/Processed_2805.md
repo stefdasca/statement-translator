@@ -1,4 +1,4 @@
-```markdown
+
 To relax, Dan takes a walk through a virtual forest made up of $N \times N$ trees, arranged in the form of a square matrix with $N$ rows and $N$ columns. On each tree, a digit in base $10$ is written.
 Dan's walk begins at an unknown coordinate position and consists of a sequence of steps. At each step, Dan will move to one of the neighboring trees. Two trees are neighbors if they are on the same row in consecutive columns, or they are in the same column, in consecutive rows. During the walk, Dan memorizes in a sequence $S$ the digits written on the trees located at the positions he passed through. However, being very tired, it is possible that at some point he memorized the digits incorrectly in the sequence $S$.
 
@@ -116,4 +116,3 @@ Notice that during the walk, Dan might pass through the same position multiple t
 ## Explanation
 
 The maximum number of positions traversed until the first incorrectly memorized digit in $S$ is $0$, because there is no tree on which digit $1$ is written.
-```

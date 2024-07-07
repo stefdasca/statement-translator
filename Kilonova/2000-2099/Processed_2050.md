@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a number $n$, construct the largest super number of $n$ digits.
@@ -27,5 +27,4 @@ The first line will contain the largest super number found.
 `stdout`
 ```
 98
-```
 ```

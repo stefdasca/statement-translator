@@ -14,11 +14,11 @@ The `trenuri.out` file will contain on the first line $2$ integers, $T$ and $C$,
 
 # Constraints and clarifications
 
-* \(2 \leq N \leq 15\ 000\)
-* \(2 \leq M \leq 200\ 000\)
-* \(0 \leq c \leq 10\ 000\)
-* \(0 \leq B \leq 2\ 000\ 000\ 000\)
-* For any train, \(p < s\)
+* $2 \leq N \leq 15\ 000$
+* $2 \leq M \leq 200\ 000$
+* $0 \leq c \leq 10\ 000$
+* $0 \leq B \leq 2\ 000\ 000\ 000$
+* For any train, $p < s$
 * Waiting time at the initial station is not counted; Ivan can come from home at any time he wishes
 * A train departing at time $p$ can be taken only if Ivan arrives at the departure station at a time $s \leq p$; wait time is $p - s$
 * There is a solution for all tests

@@ -1,4 +1,4 @@
-```
+
 Peg Solitaire is a game for a single player. The board is a strip with $N$ positions. Each position can hold a single token.
 
 Any game configuration can be encoded as a binary sequence of length $N$, where $1$ represents a token, and $0$ represents a free position.
@@ -56,4 +56,3 @@ Configuration $1$: the game ends successfully in $0$ moves.
 Configuration $110$: the game ends successfully in a single move (the first token jumps over the second)
 Configuration $001111010$: the game ends successfully in $4$ moves
 $001111010 \rightarrow 001100110 \rightarrow 000010110 \rightarrow 000011000 \rightarrow 000100000$
-```

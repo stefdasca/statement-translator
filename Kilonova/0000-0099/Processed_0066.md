@@ -1,4 +1,4 @@
-```markdown
+
 GrandPa (abbreviated GP) was very passionate about algorithmic competitions. In his youth, he participated in `N` prestigious contests, and at each of them, he managed to rank first and win a trophy. To identify them more easily, he assigned each trophy a number between `1` and `N`, so that any two distinct trophies were assigned **distinct** numbers.
 
 The `N` trophies are now arranged in GrandPa's house on shelf `A`. The `i`-th trophy (`1 \leq i \leq N`), from left to right, is the one with number `P[i]`. GrandPa will soon be visited by his grandchildren, whom he wants to impress with his trophies. Therefore, he will move the trophies from shelf `A` to shelf `B` (which is initially empty) by repeatedly applying the following operation:

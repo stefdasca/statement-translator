@@ -1,4 +1,4 @@
-```markdown
+
 A grid in the form of a square with $n \times n$ cells is considered. We have at most $n \times n$ robots that can be placed in any of the grid cells, at most one robot in each cell. We will identify the robots placed on the grid by capital letters indicating their initial movement directions, as follows: a robot of type $U$ (up) will move from bottom to top (from the cell where it is located, to the cell situated on the line above and the same column), a robot of type $D$ (down) will move from top to bottom (from the cell where it is located, to the cell situated on the next line and the same column), a robot of type $L$ (left) will move from right to left (from the cell where it is located, to the cell situated on the same line and the left column), and a robot of type $R$ (right) will move from left to right (from the cell where it is located, to the cell situated on the same line and the right column).
 The movement takes place for a known number of steps $k$. The initial configuration is considered step $0$. At each step $i$, each robot will move into a cell adjacent to the one occupied at the previous step $i - 1$, according to its movement direction. For example, a robot of type $U$ will advance into the cell placed above it, just as a robot of type $L$ will advance into the cell immediately to the left of the current one. It is possible for the robots' paths to intersect or overlap. If at a certain step, two or more robots advance into the same cell, then a small implosion occurs, and these robots disintegrate and disappear from the grid.
 ~[roboti1.png|align=right]
@@ -47,5 +47,4 @@ The output file `roboti.out` will contain:
 ...
 ..D
 ...
-```
 ```

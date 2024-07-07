@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Consider a natural number $n$, a **strictly increasing** sequence of natural numbers $x_1, x_2, \dots, x_n$ and a closed interval with natural number endpoints. Verify if any natural number in the given interval can be written as a sum with the same minimum number of terms from the sequence in the following two ways:
 1) necessarily using the term $x_n$ at least once;
@@ -78,4 +78,3 @@ The number $13$:
 ```
 ## Explanation
 All the numbers meet the required condition (for example, $7$ cannot be represented in either of the two ways, so both decompositions have $0$ terms, and $8$ is represented in both ways with the same minimum number of $2$ terms, etc.).
-```

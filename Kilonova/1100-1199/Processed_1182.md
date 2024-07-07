@@ -1,4 +1,4 @@
-```markdown
+
 You are a participant at the National Olympiad of Informatics. The program of the Olympiad includes some entertainment activities. One of them is visiting a museum. This museum has a rectangular matrix structure with $M$ rows and $N$ columns; from any room, you can reach the neighboring rooms in the north, east, south, and west directions (if these rooms exist). For the position ($i, j$) moving north means going to position ($i-1, j$), east to ($i, j+1$), south to ($i+1, j$), and west to ($i, j-1$).
 
 This museum has some special rules. Each room is marked with a number between $0$ and $10$ inclusive. Multiple rooms can be marked with the same number. Rooms marked with the number $0$ can be visited for free. You can enter a room marked with the number $i$ for free, but you cannot leave it unless you show the supervisor a ticket with the number $i$. Fortunately, any room with the number $i$ offers for sale a ticket with the number $i$; once bought, this ticket is valid in all rooms marked with that number. Tickets may have different prices, but a ticket with the number $i$ will have the same price in all rooms where it is offered for sale.
@@ -43,5 +43,4 @@ In the file `muzeu.out` you will print:
 12
 9
 EEEEESSSS
-```
 ```

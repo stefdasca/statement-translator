@@ -40,4 +40,3 @@ For the $q$ lines, print, in the order they appear in the input file, the answer
 3
 1
 0
-```

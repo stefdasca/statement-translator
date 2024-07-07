@@ -57,4 +57,3 @@ The first line of the file `joc.out` will contain two natural numbers, separated
 
 There are $3$ players in the game; each receives $5$ balls, their values being between $1$ and $6$.
 The first player does not have special balls. They can construct the subarray with the maximum sum $11$, namely: $5\ 6$. The second player has one special ball. They can construct the subarray with the maximum sum $13$, namely: $3\ 4\ 0\ 6$. The third player has two special balls. They can construct the subarray with the maximum sum $12$, namely: $2\ 0\ 4\ 0\ 6$. The winning sum is $13$ and is obtained by player $2$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A sequence $A$ consisting of $N$ integers, numbered from $1$ to $N$, is given. We call a subarray of the sequence $A$ any succession of consecutive elements in the form $A_i$, $A_{i+1}, \dots, A_j$, with $0 < i < j \leq N$.
 
 # Task
@@ -45,4 +45,3 @@ The subarray referred to in the first question is $1, 2, 4, 3, 2, 5$, and the an
 The subarray referred to in the second question is $2, 4, 3, 2, 5, 6$, and the answer is $0$.
 
 The subarray referred to in the third question is $3, 2, 5, 6, 4, 5, 2, 1$, and the answer is $4$.
-```

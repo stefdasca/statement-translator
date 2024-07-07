@@ -1,4 +1,4 @@
-```markdown
+
 Kaguya has just managed to schedule a new shopping session with Kei, Miyuki's sister. *Just with Kei this time, without the Fujiwara sisters... I will find out everything about Miyuki!* Understandably, Kaguya does not want to meet anyone else. And, of course, Kaguya is upset when she finds out that Chika Fujiwara plans her own shopping session on the same day and in the same mall.
 
 The mall consists of `N` stores numbered from `1` to `N`, connected by `N - 1` alleys so that it is possible to get from any store to any other by walking along one or more alleys. Kaguya and Kei plan to spend their day starting from store `S` and walking to store `F`, visiting every store on the shortest path that connects them (including stores `S` and `F`). We denote this path by $D_{S,F}$. Generally, we denote by $D_{x,y}$ the minimal set of stores that must be visited to get from store `x` to store `y` by crossing the mall's alleys.
@@ -84,4 +84,3 @@ For the second plan, any added alley satisfies the condition from the statement.
 For the third plan, no alley satisfies the condition from the statement since store `1` is on the path between stores `S = 1` and `F = 2`.
 
 For the fourth plan, all alleys except one satisfy the condition from the statement. If the alley `(6, 1)` is added, there would be two minimum-length paths: `6 - 1 - 4` and `6 - 5 - 4`. The first one has a store in common, store `1`, with the path between `S = 1` and `F = 2`, making this alley not satisfy the condition from the statement.
-```

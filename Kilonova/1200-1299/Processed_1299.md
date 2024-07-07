@@ -1,4 +1,4 @@
-```markdown
+
 A matrix $A$ is considered with the following properties:
 - contains $n$ rows and $m$ columns;
 - contains only the values $0$ and $1$;

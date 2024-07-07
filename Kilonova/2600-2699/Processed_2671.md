@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 For a given natural number $n$, what is the smallest natural number $x$ whose reverse is strictly greater than $n$?

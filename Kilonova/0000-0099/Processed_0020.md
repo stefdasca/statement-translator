@@ -1,4 +1,4 @@
-```
+
 Consider an undirected graph with `N` nodes and `M` edges, which **is NOT connected**.
 
 # Task
@@ -66,4 +66,3 @@ For the second test:
 The graph consists of four connected components, with nodes from the set `{3,4}`, and the isolated nodes `1, 2` and `5`.
 After adding the edges `(1,3), (2,3)` and `(4,5)`, we will have the values $extra_1=1, extra_2=1, extra_3=2, extra_4=1, extra_5=1$, so `max_extra=2`.
 It can be demonstrated that there is no solution with `max_extra<2`.
-```

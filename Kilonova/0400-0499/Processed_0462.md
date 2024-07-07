@@ -19,4 +19,3 @@ The initial problem involves displaying even numbers between $0$ and $n$ inclusi
 0
 2
 4
-```

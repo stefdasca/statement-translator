@@ -1,4 +1,4 @@
-```markdown
+
 Two natural numbers `N` and `M` are given. Consider an array of numbers of length `N` indexed from `0` to which values must be assigned such that it adheres to `M` constraints of the form:
 
 `0 i val1 val2` - element $i$ can only have the value $val_1$ or $val_2$
@@ -43,5 +43,4 @@ The output file `valori.out` will contain the values assigned to each element of
 `valori.out`
 ```
 1 1 3 2 0 1
-```
 ```

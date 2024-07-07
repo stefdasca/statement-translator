@@ -54,4 +54,3 @@ In the file `bombo.out`, print a single number, representing the maximum number 
 `bombo.out`
 ```
 32
-```

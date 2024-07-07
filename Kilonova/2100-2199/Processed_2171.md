@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Miruna and Sonia have invented the following game:
@@ -50,4 +50,3 @@ Committee: `1`
 Competitor: `query(1, 3, 4)`  
 Committee: `1`  
 Competitor: `return {{1, 2}, {1, 3}, {1, 4}}`
-```

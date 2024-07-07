@@ -79,4 +79,3 @@ The output will contain `Q` lines, each consisting of `V` numbers separated by s
 
 ```
 0 1 2 1
-```

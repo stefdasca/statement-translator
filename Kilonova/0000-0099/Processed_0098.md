@@ -5,7 +5,7 @@ Here is the translated text:
 Zgăbeață Iftode is the son of a tavern keeper from Văscăuți. As a punishment for the poor impression left during the director's inspection, the pedagogue ordered the entire class to solve a difficult math exercise.
 
 ~[iftode.png]
-*The pedagogue and the student Zgăbeață Iftode. Dem Rădulescu and Vasile Muraru in “Doi Vulpoi” (1983).*
+*The pedagogue and the student Zgăbeață Iftode. Dem Rădulescu and Vasile Muraru in “Doi Vulpoi� (1983).*
 
 For a natural number `X`, the following three types of operations can be performed:
 1. Add `1` to `X`. Thus, the new value of `X` will be `X + 1`.

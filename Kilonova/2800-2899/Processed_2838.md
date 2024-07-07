@@ -2,25 +2,25 @@ Gigel is passionate about order. When he visits his grandmother, he always tidie
 
 To be able to code the moves, the three stacks of plates will be called columns and will be numbered 1, 2, and 3. At any moment, any of the columns may or may not contain plates. If a column does not contain any plates, we will say that it is empty. On an empty column, you can place any plate that can be accessed. If a column contains at least one plate, then a new plate can be placed on top of this column only if the diameter of the new plate is less than or equal to the diameter of the plate on the top of the column.
 
-The solution to the problem will consist of a succession of operations. An operation consists of extracting a plate from a column \( C_1 \) and placing it on another column \( C_2 \), respecting the above constraints. Given a column \( C \), we say that the sequence of operations is correct if, after executing all operations, all the plates are on column \( C \), in descending order of diameters from the base to the top.
+The solution to the problem will consist of a succession of operations. An operation consists of extracting a plate from a column $ C_1 $ and placing it on another column $ C_2 $, respecting the above constraints. Given a column $ C $, we say that the sequence of operations is correct if, after executing all operations, all the plates are on column $ C $, in descending order of diameters from the base to the top.
 
 # Task
 
-Knowing the configuration of the initial three stacks of plates, as well as the number \( C \) of the column where the plates should be at the end, write a program that determines a correct sequence of operations.
+Knowing the configuration of the initial three stacks of plates, as well as the number $ C $ of the column where the plates should be at the end, write a program that determines a correct sequence of operations.
 
 # Input data
 
-The input file `farfurii.in` contains 4 lines. The line \( i \ (1 \leq i \leq 3) \) contains the natural number \( N_i \), which represents the number of plates in column \( i \), followed by \( N_i \) natural numbers separated by a space, representing the sizes of the plate diameters from the base to the top of column \( i \) (if \( N_i = 0 \), then there are no plates on column \( i \)). The last line contains the number \( C \ (1, 2 \text{ or } 3) \), representing the column where all the plates will be finally placed.
+The input file `farfurii.in` contains 4 lines. The line $ i \ (1 \leq i \leq 3) $ contains the natural number $ N_i $, which represents the number of plates in column $ i $, followed by $ N_i $ natural numbers separated by a space, representing the sizes of the plate diameters from the base to the top of column $ i $ (if $ N_i = 0 $, then there are no plates on column $ i $). The last line contains the number $ C \ (1, 2 \text{ or } 3) $, representing the column where all the plates will be finally placed.
 
 # Output data
 
-The output file `farfurii.out` will contain the operations, in the order of their execution, one operation per line. An operation will be described by two numbers separated by a space \( C_1 \space C_2 \) with the meaning: "the plate from the top of column \( C_1 \) is moved to the top of column \( C_2 \)". On the last line, the numbers \( 0 \space 0 \) will be printed.
+The output file `farfurii.out` will contain the operations, in the order of their execution, one operation per line. An operation will be described by two numbers separated by a space $ C_1 \space C_2 $ with the meaning: "the plate from the top of column $ C_1 $ is moved to the top of column $ C_2 $". On the last line, the numbers $ 0 \space 0 $ will be printed.
 
 # Constraints and clarifications
 
-- \( 1 \leq C_1, C_2, C \leq 3 \)
-- \( 1 \leq \) sizes of the plate diameters \( \leq 100 \)
-- \( 2 \leq N_1 + N_2 + N_3 \leq 18 \)
+- $ 1 \leq C_1, C_2, C \leq 3 $
+- $ 1 \leq $ sizes of the plate diameters $ \leq 100 $
+- $ 2 \leq N_1 + N_2 + N_3 \leq 18 $
 - The solution is not unique. Any correct solution is accepted. It is not required to optimize the number of operations, but the problem-solving must fit within the specified execution time.
 
 |#|Points|Constraints|
@@ -57,6 +57,6 @@ The output file `farfurii.out` will contain the operations, in the order of thei
 
 ## Explanation
 
-The plates need to be placed on column \( C = 3 \). Initial configuration:
+The plates need to be placed on column $ C = 3 $. Initial configuration:
 
 ~[img1.jpg|align=center]

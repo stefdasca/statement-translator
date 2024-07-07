@@ -33,4 +33,4 @@ to obtain the next arc. Once the obtained partial graph is strongly connected, `
 * The partial graph is not strongly connected, the `getEdge()` function is called, and we obtain `2 4`
 * The partial graph is not strongly connected, the `getEdge()` function is called, and we obtain `2 3`
 * The partial graph is not strongly connected, the `getEdge()` function is called, and we obtain `4 3`
-* The partial graph is strongly connected, `solve` returns `1`
+* The partial graph is strongly connected, `solve` returns `1

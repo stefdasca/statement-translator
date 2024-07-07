@@ -1,4 +1,4 @@
-```markdown
+
 By convention we call a _weighted arithmetic expression_ an expression constructed as follows:
 - the expression contains integers of at most $2$ digits separated by commas;
 - we call **k-sequence** an enumeration of $k$ numbers separated by commas $(k \geq 1)$;
@@ -86,5 +86,4 @@ $6 + 2$
 ## Explanation
 
 $(2,-1,3,-4,1) = 4$
-```
 ```

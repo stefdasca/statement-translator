@@ -18,7 +18,7 @@ In the output file `provocare.out`, `T` lines will be displayed. Each line will 
 * For another `10%` of the tests, `N \leq 100\ 000`
 * For another `10%` of the tests, `N \leq 1\ 000\ 000`
 * For another `15%` of the tests, `A, B \leq 10\ 000`
-* It is about the same “legendary” Miruna well-known in computer science contests
+* It is about the same “legendary� Miruna well-known in computer science contests
 
 # Examples
 `provocare.in`

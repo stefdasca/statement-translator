@@ -1,10 +1,10 @@
-```markdown
+
 We consider a matrix with an infinite number of rows and columns indexed starting from `0`. On the first row, the matrix contains the sequence of natural numbers `(0, 1, 2, 3…)`.
 
 On each row starting from the second row, at position `j`, the matrix contains the XOR sum of elements located on the previous row from position `0` to position `j`.
 
 # Task
-You are required to answer `q` questions of the form: “For given `i` and `j`, determine the number located at row `i` column `j` of the matrix.” To generate these `q` questions, the following values will be known: $i_1, j_1, a, b, m$. 
+You are required to answer `q` questions of the form: “For given `i` and `j`, determine the number located at row `i` column `j` of the matrix.� To generate these `q` questions, the following values will be known: $i_1, j_1, a, b, m$. 
 $i_1, j_1$ represents the values for the first question. The following questions $i_k, j_k$ will be generated one from another using the following rule: 
 $i_k=(a \cdot i_{k-1} + b) \mod m$
 $j_k=(a \cdot j_{k-1} + b) \mod m$
@@ -53,4 +53,3 @@ The matrix is:
 …
 
 It can be observed that at the positions corresponding to the questions we have the values `2, 7, 0` and `1`
-```

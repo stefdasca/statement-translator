@@ -13,7 +13,7 @@ A treasure hunter has encountered a major problem. After long searches, he manag
       7
 ```
 
-Odd digits are selected from the secret code. With each of these odd digits, a square is formed. On the diagonal of the square, a number of digits equal to the value of the current corresponding odd digit from the code are written. The digits on the same line are separated by a space. All the digits in a square are identical. If the secret code does not contain any odd digit, the message “Cufarul nu se deschide” (The chest does not open) will be displayed on the screen.
+Odd digits are selected from the secret code. With each of these odd digits, a square is formed. On the diagonal of the square, a number of digits equal to the value of the current corresponding odd digit from the code are written. The digits on the same line are separated by a space. All the digits in a square are identical. If the secret code does not contain any odd digit, the message “Cufarul nu se deschide� (The chest does not open) will be displayed on the screen.
 
 # Task
 

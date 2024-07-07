@@ -94,4 +94,4 @@ The words identified in the story are:
 `Olympics` - by (`I`, `I`, `II`)
 `decide` - by (`II`, `II`, `IV`)
 The decoded words of the message, in the order from the story, are:
-`At the Olympics committee decide first`
+`At the Olympics committee decide first

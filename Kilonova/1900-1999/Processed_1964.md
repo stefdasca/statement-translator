@@ -28,4 +28,3 @@ The output file `dbz.out` will contain, for each planet from $1$ to $N$, the min
 `dbz.out`
 ```
 9 9 9 9 13
-```

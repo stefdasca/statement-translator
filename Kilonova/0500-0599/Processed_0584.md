@@ -1,4 +1,4 @@
-```markdown
+
 ***During the competition, the time limit was increased to 1.5s. Now we have changed it back to 1s to encourage finding more efficient solutions.***
 
 # Statement
@@ -54,4 +54,3 @@ long long solve(int n, int p[]) {
 ## Explanations
 For the first example, we can modify $p_5$ from $6$ to $3$ and $p_2$ from $4$ to $1$, the total cost being $6 \oplus 3 + 4 \oplus 1 = 10$.
 For the second example, the only way is to modify all elements to $1$, the total cost being $21$.
-```

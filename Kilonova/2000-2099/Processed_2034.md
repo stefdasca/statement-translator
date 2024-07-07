@@ -1,4 +1,4 @@
-```markdown
+
 An undirected complete graph with $N$ vertices labeled from $1$ to $N$ is considered. We associate with each vertex $i$ an initial value $v_i$. The values in the vertices transform starting from an initial moment $T_0=0$ every second according to the following rule: the value at a vertex $k$ at second $T+1$ is equal to the sum of the values in all other vertices at second $T$.
 
 # Task
@@ -50,4 +50,3 @@ In the second $1$ the values are: $9 \ 6 \ 8 \ 7$
 After sorting, on the first position is $6$.
 In the second $4$ the values are: $201$, $204$, $202$, $203$
 After sorting, on the fourth position is $204$.
-```

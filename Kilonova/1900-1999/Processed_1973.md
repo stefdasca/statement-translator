@@ -20,7 +20,7 @@ If $T=1$ then it will determine if the matrix $C$ can be an entanglement, and if
 
 # Output data
 
-If $T=1$, the output file `entanglement.out` will contain the word “DA” if $C$ can be an entanglement or the word “NU” otherwise.
+If $T=1$, the output file `entanglement.out` will contain the word “DA� if $C$ can be an entanglement or the word “NU� otherwise.
 If $T=2`, the output file `entanglement.out` will contain a single number representing the remainder modulo $1 \ 000 \ 000 \ 007$ of the number of pairs of sequences for which the matrix $C$ represents an entanglement.
 
 # Constraints and clarifications

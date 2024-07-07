@@ -1,4 +1,4 @@
-```markdown
+
 We consider the following sequence of natural numbers: $1$, $1$, $2$, $1$, $2$, $3$, $1$, $2$, $3$, $4$, $1$, $2$, $3$, $4$, $5$, $\\dots$. The numbers in the sequence are grouped such that each group always starts with the number $1$ and ends with the number immediately before the next occurrence of the number $1$ in the given sequence. The number of the first group is $1$ and it consists of a single number ($1$). The number of the second group is $2$ and it consists of two numbers ($1, 2$), and so on.
 
 Let $n$, $k$, and $p$ be three non-zero natural numbers.
@@ -56,4 +56,3 @@ The formed sequence is $1$, $1$, $2$, $1$, $2$, $3$, $1$, $2$, $3$, $4$, $1$, $2
 ## Explanation
 
 The formed sequence is $1$, $1$, $2$, $1$, $2$, $3$, $1$, $2$, $3$, $4$. The sums of the groups are: $1$, $3$, $6$, $10$. Among these, no number has more than $6$ divisors. In this case, the value displayed will be $16$ (because only $6$ and $10$ are even numbers). The value found in the sequence at position $5$ is $2$, and the number of the group to which it belongs is $3$, our sequence having the first 5 values: $1$, $1$, $2$, $1$, $2$.
-```

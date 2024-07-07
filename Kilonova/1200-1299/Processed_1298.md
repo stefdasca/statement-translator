@@ -1,4 +1,4 @@
-```markdown
+
 Gigel needs to buy $n$ medications, numbered from $1$ to $n$. The doctor gave him $m$ prescriptions of two types, coded with the numbers $1$, $2$ as follows:
 * $1$ — non-subsidized prescription, meaning the price of the medications on the prescription is fully paid by the buyer;
 * $2$ — 50\% subsidized prescription, meaning the price of the medications listed on the prescription is halved;
@@ -52,4 +52,3 @@ The output file `reteta.out` will contain a single line that will print a real n
 
 The solution was obtained by using the first and fourth prescriptions.
 Another solution, but with a higher cost, would have been obtained if the fourth and fifth prescriptions were used.
-```

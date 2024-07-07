@@ -1,4 +1,4 @@
-```markdown
+
 On each of the gates of the $n$ houses in a village, a number is written using stamps. Example: to write the number $3404$, the stamps with $3$ and $0$ will be applied once each and the stamp with $4$ twice.
 
 # Task

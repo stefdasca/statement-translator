@@ -91,4 +91,3 @@ The output file `cutpaste.out` will contain $10$ lines, with line $i$ containing
 37
 38
 39
-```

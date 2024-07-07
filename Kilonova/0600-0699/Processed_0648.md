@@ -58,4 +58,3 @@ In the first example, the $based$ numbers are $10, 154, 94, 70$.
 In the second example, the pairs ($i$, $j$) are { ($1$, $2$); ($1$, $5$); ($1$, $7$); ($2$, $5$); ($2$, $7$); ($3$, $6$); ($5$, $7$)}.
 
 These correspond to the sums {$164$, $104$, $80$, $248$, $224$, $50$, $164$}.
-```

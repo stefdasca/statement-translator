@@ -1,4 +1,4 @@
-```markdown
+
 ## Note: This problem may not have an official correct solution.
 
 Ian is a child passionate about music, so his parents bought him a piano for his birthday. Ian's piano is special; it has $N$ keys. Since the piano is not new, the keys are harder to press, so pressing the $i$-th key takes $t_i$ seconds.
@@ -74,4 +74,3 @@ Apply the operation on keys $2$ and $3$. We obtain the array $2\ 2\ 2\ 8\ 10$.
 Apply the operation on keys $4$ and $5$. We obtain the array $2\ 2\ 2\ 2\ 2$.
 
 Finally, the array of keys will be $2\ 2\ 2\ 2\ 2$. Thus, the duration of a riff will be $10$ seconds.
-```

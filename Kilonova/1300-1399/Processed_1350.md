@@ -1,4 +1,4 @@
-```markdown
+
 It is considered that there are $3$ arrays, named $A, B$ and $val$, each having $N$ non-zero natural elements. The elements of the arrays are indexed from $1$ to $N$. Knowing $A[1]$, $B[1]$ and a non-zero natural value $P$, the rule to calculate the elements of the arrays is as follows:
 
 For $2 \leq i \leq N$ we have:
@@ -81,5 +81,4 @@ We get $Rez = 10 \ \textit{\textbf{XOR}} \ 5 \ \textit{\textbf{XOR}} \ 5 \ \text
 `xp.out`
 ```
 594979072
-```
 ```

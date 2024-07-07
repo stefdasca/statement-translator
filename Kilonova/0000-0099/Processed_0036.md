@@ -1,4 +1,4 @@
-```
+
 Let `n` be a natural number and $M=\{S_1,S_2,\dots,S_n\}$ a set of non-empty strings. Let $S_k$ be a string from `M`. Then, any character of $S_k$ belongs to the set `{ 'a', 'b' }`. We denote by $|S_k|$ the number of characters in the string $S_k$ or, equivalently, its length. A subarray $S_k[i:j]$ of $S_k$ is formed by the characters located at consecutive positions `i, i+1, ..., j`. Thus, if $S_k = abbbaababa$, then $S_k[3:6] = bbaa$ or the highlighted subarray: ab**bbaa**baba.
 
 # Task
@@ -43,4 +43,3 @@ The length of a common subarray of maximum length is `5`.
 
 In the example, the common subarray of length `5` is `aaaab`:
 abbaba**aaaab**b, **aaaab**abab, bbbb**aaaab**, aaa**aaaab**aaab.
-```

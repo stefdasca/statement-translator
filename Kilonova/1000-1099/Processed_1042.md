@@ -80,4 +80,3 @@ For the first query, the first moment in time after which we have at least $35$ 
 Similarly, for the second query, the answer is $1$.
 
 It will never be possible to color $1000$ cells, so the answer is $-1$.
-```

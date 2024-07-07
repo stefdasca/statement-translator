@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We have an array $v$ of $N$ numbers, a $K$ and a $C$.
@@ -50,5 +50,4 @@ We choose the subarrays $[1,2]$ and $[4,5]$, with costs of $(2+3)^2+1+2+3=31$ an
 `stdout`
 ```
 6764
-```
 ```

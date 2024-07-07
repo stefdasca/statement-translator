@@ -26,4 +26,3 @@ Print in ascending order, separated by a single space, all the numbers in the ar
 `stdout`
 ```
 11 20 56
-```

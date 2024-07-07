@@ -1,4 +1,4 @@
-```markdown
+
 Ionuț learned at school how to work with large numbers. He has a sequence of $N$ non-zero natural numbers at his disposal. From each number, he deletes **exactly** three digits, without changing the order of the remaining digits, so as to obtain the smallest possible natural **non-zero** number. For example, from the number ~[image.png|align=right] $20731049$ he obtains the number $20049$, and from the number $13004$ he obtains the number $10$. Replacing each read number with the number obtained through the above operation, Ionuț obtains a new sequence and writes its terms on the faces of some cubes as follows: he writes the first six numbers from the sequence on the first cube and labels it with $1$, he writes the next six numbers from the sequence on another cube which he labels with $2$, and so on.
 
 These cubes were distributed in pyramids according to the model in the figure above. The pyramids were numbered with consecutive natural numbers. The pyramid with order number $1$ consists only of the cube with order number $1$ and has a single level, the pyramid with order number $2$ has on the first level the cubes $2, 3$ and $4$ and on the last level the cube $5$ and so on.
@@ -46,4 +46,3 @@ The file `cuburi.out` contains two lines: the first line contains the number of 
 The first $6$ numbers are found on the cube forming the first pyramid, the next $24$ numbers are written, in this order, on the faces of the cubes forming the second pyramid.
 
 Note: In this table, due to insufficient space, the numbers do not appear written on exactly two lines, as in the input/output files.
-```

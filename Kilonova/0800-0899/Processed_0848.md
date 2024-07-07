@@ -1,4 +1,4 @@
-“Arrows” is a game played on a rectangular board whose surface is divided into $N \\cdot M$ cells, arranged in $N$ rows and $M$ columns. Each cell contains an arrow (up, down, left, or right), as shown in the figure below:
+“Arrows� is a game played on a rectangular board whose surface is divided into $N \\cdot M$ cells, arranged in $N$ rows and $M$ columns. Each cell contains an arrow (up, down, left, or right), as shown in the figure below:
 
 ~[arrows.png]
 

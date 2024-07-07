@@ -29,4 +29,3 @@ The output data is printed in the output file `cifre.out` on exactly two lines. 
 ```
 2 5
 955222110
-```

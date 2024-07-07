@@ -1,4 +1,4 @@
-```markdown
+
 The mayor of Julc-Acopan wishes to be able to see as many buildings as he can from his home. His view of the town may be simplified to points on the plane. He is sitting at the origin at $(0, \\ 0)$ and the buildings are segments from $(x_i, \\ 0)$ to $(x_i, \\ y_i)$. It is known that $x_i = i$, in other words $x_1 = 1, x_2 = 2$ and so on (the buildings occupy the integers $1, 2, ..., n$ on the $OX$ axis).
 
 The mayor being mayor he may choose to destroy at most one building to accomplish his dream. You are asked to answer the maximum number of buildings he might see.

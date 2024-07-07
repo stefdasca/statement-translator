@@ -1,4 +1,4 @@
-```markdown
+
 Given an alphabet consisting of $n$ distinct letters. With these letters, words of $n$ letters can be formed. Among these, we are interested in the words in which there is at least one letter that appears at least twice. We denote the number of these words by $nr$.
 
 # Task
@@ -46,5 +46,4 @@ If we denote the two distinct letters by `a` and `b`, the words we are intereste
 285\ 271\ 753\ 811
 ```
 
-```
 ```

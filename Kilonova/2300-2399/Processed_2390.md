@@ -1,4 +1,4 @@
-```markdown
+
 Let's consider sequences of undirected graphs of the following types:
 * Type $A$
 The sequence of type $A$ graphs is constructed in a way that can be deduced from the following examples:
@@ -76,4 +76,3 @@ C 2
 
 The $8$ perfect matchings of the graph $C2$ are:
 ~[img6.png]
-```

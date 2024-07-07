@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Ancient viking people carved stories on stone using their own symbols. Björn found $N$ versions of the same story and he already converted them to texts containing only the lowercase letters **a-z**. The texts are indexed from 0 to $N-1$, let's denote them with $S_0, S_1, \ldots S_{N-1}$. All the texts have the same length $K$, but they might differ on some positions.
@@ -68,4 +68,3 @@ In the **first sample case**,
 So, the last text has the minimal average distance from the others, hence the answer is its index, which is 2.
 
 In the **second sample case**, *abcdefh* has an average distance of $0.75$ while the other texts have an average distance of $1$, so the solution is the index of the first occurrence of *abcdefh*, which is 1.
-```

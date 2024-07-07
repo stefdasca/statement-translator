@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 The joyful city is composed of $N$ buildings of heights $A_1, A_2, ..., A_N$. We want to promote OmegaSRL with a poster of area $X$. The poster must be rectangular and fully supported by the buildings. In how many ways can we promote?
@@ -55,5 +55,4 @@ These are the $2$ ways to place a poster of area $4$ on the buildings:
 `stdout`
 ```
 38
-```
 ```

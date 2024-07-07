@@ -1,4 +1,4 @@
-```markdown
+
 Given a tree with $N$ nodes and root at node $1$. Each node $i$ is associated with a number $a_i$. For a tree $T$ and a node $u$, let $v_1, v_2, \dots, v_k$, $v_1 = 1$, $v_k = u$ be the path from the root to node $u$ in tree $T$. For this node $u$, we define the longest strictly increasing subsequence up to $u$ in tree $T$ as any of the longest strictly increasing subsequences from the sequence of numbers: $a_{v_1}, a_{v_2}, \dots, a_{v_k}$.
 
 There are $q$ queries. For the $i$-th query, there are $k_i$ distinct numbers, $u_1, \dots, u_{k_i}$, which represent nodes in the initial tree $T$. Let the tree $T'$, the connected component that contains the root, result from removing the nodes $u_1, \dots, u_{k_i}$ from tree $T$. For the $i$-th query, we need to find the largest length of the longest strictly increasing subsequence up to any node $v$ in $T'$.
@@ -64,5 +64,4 @@ The output file `arbsub.out` will contain $q$ lines, with line $i$ containing th
 4
 2
 5
-```
 ```

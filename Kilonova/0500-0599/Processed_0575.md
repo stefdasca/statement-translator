@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given is a tree with $N$ nodes and the root in $1$, each node has an associated value.
@@ -36,4 +36,3 @@ Print the answer for each node from $1$ to $N$, in this order.
 
 The tree looks like this:  
 ~[graph.png]
-```

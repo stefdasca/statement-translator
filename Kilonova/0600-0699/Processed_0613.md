@@ -48,4 +48,3 @@ Print the minimum degree of annoyance that can be obtained.
 `stdout`
 ```
 0.141897054604
-```

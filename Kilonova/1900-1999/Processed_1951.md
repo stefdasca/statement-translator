@@ -1,4 +1,4 @@
-```markdown
+
 Consider an alphabet with $\Sigma$ characters. We denote $lcp(S, P)$ as the longest common prefix between a string $S$ and a string $P$. For a string $S$, we will denote $SuffixS[i]$ as the suffix of the string $S$ starting at position $i$. Given the string $S$, we will create the array $A[i] = lcp(S, SuffixS[i])$.
 
 # Task
@@ -36,4 +36,3 @@ The output file `reversez.out` will contain a single natural number representing
 
 If $\Sigma={1,2,3}$, the $6$ possible strings $S$ are:
 `1121`, `1131`, `2212`, `2232`, `3313`, `3323`
-```

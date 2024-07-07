@@ -62,4 +62,3 @@ Line $4$ contains $t_1$, $t_2$, $\\dots$, $t_u$, the number of computers in the 
 2 5 7
 2
 2 12
-```

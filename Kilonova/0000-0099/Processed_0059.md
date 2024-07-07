@@ -81,4 +81,3 @@ Print on the first row an integer representing the number of nonempty strings $S
 `stdout`
 ```
 148
-```

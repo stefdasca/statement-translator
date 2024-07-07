@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 LLM gives you a number $n$ and an array $a_1, a_2, \dots a_n$ consisting of $n$ natural numbers. Now, he wants you to find out for each position $i$ in the array if there exists a subsequence with the following properties:

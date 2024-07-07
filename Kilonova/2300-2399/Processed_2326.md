@@ -1,4 +1,4 @@
-```markdown
+
 Alexandru and Tudor have invented a game called the Game of Divisors. In this game, each of the two players draws a sequence of $n$ numbers. Alexandru is player number $1$ and Tudor is player number $2$. For each number $x$ in the sequence, its prime divisor with the highest power is obtained, called the **p-divisor**; if the number $x$ has several prime divisors with the same highest power, then the p-divisor is the largest among these prime divisors. Thus, the p-divisor of the number $36$ is $3$, the p-divisor of the number $12$ is $2$, the p-divisor of the number $30$ is $5$.
 
 The rules of the game are as follows:
@@ -65,4 +65,3 @@ The largest number among all the winning numbers in the game is $23$.
 ## Explanation
 
 The two players obtain equal scores, each having $20$ points. The game is won by the second player who has the largest winning p-divisor, equal to $11$.
-```

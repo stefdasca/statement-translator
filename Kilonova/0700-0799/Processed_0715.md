@@ -47,4 +47,3 @@ In the example, $311$ is displayed because: $31$ is a prime number, and $11$ is 
 `visul.out`
 ```
 Nu exista
-```

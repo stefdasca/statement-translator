@@ -1,4 +1,4 @@
-```markdown
+
 The kids from 402 heard the bell and quickly ran outside to play. Seeing a very tall pole in the middle of the field, they thought of the following game. Initially, they split into girls and boys (in number of `m`, respectively `n`) and positioned themselves as follows:
 
 \\
@@ -75,4 +75,3 @@ F 2 3
 Explanations
 ---
 No explanations needed.
-```

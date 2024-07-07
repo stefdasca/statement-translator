@@ -1,4 +1,4 @@
-```markdown
+
 The robot Vasile got a job at a pen warehouse. Here, pens are packaged in boxes. There are $N$ types of boxes; a box of type $i$ ($1 \leq i \leq N$) contains exactly $nr_i$ pens ($nr_1 \leq nr_2 \leq \cdots \leq nr_N$). In the warehouse, there is such a large number of boxes of each type that Vasile can use as many boxes as he wants, of any type.
 Vasile's task in the warehouse is to deliver the pens ordered by various stationery companies. He does not know how many pens he will have to deliver in the next order, but he knows there will be at most $Vmax$ pens. Therefore, to be efficient, robot Vasile wants to prepare in the delivery room a minimum number of boxes of pens so that he can deliver any number of pens between $1$ and $Vmax$ using the prepared boxes, obviously, **without opening any boxes**.
 
@@ -65,4 +65,3 @@ Thus, he can deliver any number of pens between $1$ and $15$, one possible way b
 - $15$: all boxes.
 
 This is not the only way to select a minimum number of boxes to achieve all values from $1$ to $15$.
-```

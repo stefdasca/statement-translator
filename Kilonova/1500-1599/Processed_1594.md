@@ -1,4 +1,4 @@
-```markdown
+
 A natural number $N$ and a sequence of $N$ natural numbers $a_1, a_2, \dots, a_n$ are read. The numbers in the sequence do not contain the digit $0$. Starting from the first number in the sequence to the last, the following modifications will be made:
 
 * If the last digit of a number is equal to the first digit of the next number in the sequence, the two numbers merge, with the second number attaching to the first. This newly formed number is transformed by keeping each digit only once: the leftmost occurrence of the digit is kept, subsequent occurrences are eliminated. For example, we can merge the numbers $21245$ and $51278$ resulting in the number $2124551278$. Taking the digits only once results in $214578$. The newly formed number can then be merged with the next number, and so on.
@@ -87,4 +87,3 @@ The task is $2$. There are $8$ numbers in the sequence, after transformations th
 ## Explanation
 
 The task is $3$. There are $9$ numbers in the sequence, after transformations the sequence will look like: [$21457869, 3472, 3978, 54786321, 23578946$]. The maximum number of digits of a number in the new sequence is $8$ and there are $3$ numbers in the new sequence that have $8$ digits: [$21457869, 54786321, 23578946$].
-```

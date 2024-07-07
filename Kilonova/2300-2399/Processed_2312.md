@@ -1,4 +1,4 @@
-```markdown
+
 Grandmother Miruna has $N$ grandchildren who are lined up from left to right and are numbered in order with distinct natural numbers from $1$ to $N$. Since Children's Day is approaching, Miruna has bought several Kinder eggs for her grandchildren. These Kinder eggs are not all the same but come in $M$ types (numbered from $1$ to $M$) and two colors ($0$ - red and $1$ - blue). The type of the egg specifies how tasty the egg is (if type $t_1 < t_2$, then an egg of type $t_1$ will be tastier than an egg of type $t_2$).
 Miruna will perform operations of the following $3$ types:
 
@@ -53,4 +53,3 @@ Miruna has $5$ grandchildren, $100$ types of eggs, and performs $3$ operations.
 In the first operation, child $2$ receives $100$ eggs of type $68$ and color $0$
 In the second operation, child $2$ paints the $100$ eggs of type $68$ they have in color $1$
 In the third operation, Miruna sees that the $99$-th tastiest egg of color $1$ for the grandchildren in the interval $[1, 5]$ has type $68$
-```

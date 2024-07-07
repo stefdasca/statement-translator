@@ -1,4 +1,4 @@
-```markdown
+
 Roboțelul WALL-E este captiv într-un labirint dreptunghiular de dimensiuni $N * M$. Analizând harta, WALL-E constată că are de-a face cu un labirint extrem de sofisticat. El reușește să identifice următoarele tipuri de celule: `W` – celula unde, la început, se află WALL-E, `E` - celula $EXIT$ care poate fi accesată de WALL-E și care îl poate teleporta pe acesta instantaneu în afara labirintului, într-un loc sigur, `.` - celule libere, care pot fi accesate de WALL-E, `#` - celule de tip zid, care **NU** pot fi accesate de WALL-E, `+` - celule de tip ușă, care pot fi accesate de WALL-E, dar continuarea deplasării la o celulă vecină se poate face doar după o așteptare de exact $T$ secunde, `P` - celule de tip portal, care îl teleportează pe WALL-E instantaneu, la întâmplare, într-una dintre celelalte celule de tip portal. Dacă WALL-E accesează o celulă $(x_1, y_1)$ de tip portal, atunci el va fi instantaneu teleportat la o altă celulă $(x_2, y_2)$ de tip portal, iar mai departe el se va deplasa numai într-o celulă vecină cu $(x_2, y_2)$ (nu poate sta pe loc). WALL-E se poate deplasa într-o secundă în oricare dintre cele patru celule vecine: sus, dreapta, jos sau stânga, pe care le poate accesa. De asemenea, roboțelul **NU** se poate deplasa în afara labirintului decât prin intermediul celulei $EXIT$.
 
 # Task
@@ -85,4 +85,3 @@ EPPPWP
 ## Explanation
 
 Suppose WALL-E first moves to the portal $(1,4)$. It is uncertain that WALL-E can reach the portal $(1,2)$ because from the portal $(1,4)$, due to the chaotic behavior of the portals, he can reach any of the other three portals, not just the portal $(1,2)$, and then the next teleportation can return WALL-E, for the same reason, to the portal $(1,4)$. Similarly, the same thing will happen if WALL-E first moves to the portal $(1,6)$.
-```

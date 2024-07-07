@@ -1,4 +1,4 @@
-```markdown
+
 Let there be a matrix with $5$ rows and $N$ columns that stores integers and a positive natural number $K$.
 
 # Task

@@ -1,7 +1,7 @@
-```markdown
+
 Muguraș has finally started studying computer science, and Mugurel, his father, is the proudest of his choice.
 
-Not knowing which is the best language for beginners, he chose to learn *Mac*, the simplest programming language in the “Empire of Rubber Ducks”.
+Not knowing which is the best language for beginners, he chose to learn *Mac*, the simplest programming language in the “Empire of Rubber Ducks�.
 
 In the *Mac* language, we have only two possible types of operations:
 * $x := s$ (direct assignment). After this operation, the variable identified by $x$ will hold the string given by $s$.
@@ -101,5 +101,4 @@ ax = ax + ax
 `muguras.out`
 ```
 64
-```
 ```

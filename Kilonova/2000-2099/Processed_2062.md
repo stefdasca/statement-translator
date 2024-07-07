@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an undirected graph with $n$ nodes, constructed according to the following rule: there is an edge from $i$ to $j$ if and only if $|i - j|$ is a prime number.
@@ -39,5 +39,4 @@ For each test, print the answer to the question or $-1$, as the case may be.
 2
 2
 1
-```
 ```

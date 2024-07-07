@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given the start and end times of $N$ movies, what is the maximum number of movies we can fully watch, knowing that we can only watch one movie at a time?
@@ -36,4 +36,3 @@ Print the maximum number of movies.
 ## Explanation
 
 We can watch the first and the third.
-```

@@ -40,4 +40,3 @@ The file `lcdr.out` will contain $Q$ numbers, one per line representing the answ
 1
 1
 0
-```

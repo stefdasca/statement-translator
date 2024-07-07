@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Maximilian learned dynamic programming at school and set himself the noble goal of joining the National Informatics Team and, if possible, even the elite team.
@@ -44,4 +44,3 @@ There are another $15$ sequences with a maximum of $4$ solutions, that admit a s
 $(3 \ 3 \ 3 \ 3) \ (3 \ 3 \ 3 \ 4) \ (3 \ 3 \ 3 \ 5) \ (3 \ 3 \ 4 \ 4) \ (3 \ 3 \ 4 \ 5) \ (3 \ 3 \ 5 \ 5) \ (3 \ 4 \ 4 \ 4) \ (3 \ 4 \ 4 \ 5) \ (3 \ 4 \ 5 \ 5) \ (3 \ 5 \ 5 \ 5) \ (4 \ 4 \ 4 \ 4) \ (4 \ 4 \ 4 \ 5) \ (4 \ 4 \ 5 \ 5) \ (4 \ 5 \ 5 \ 5) \ (5 \ 5 \ 5 \ 5)$
 
 In total $15 + 5 = 20$ solutions. All other sequences allow a smaller number of solutions of maximum length.
-```

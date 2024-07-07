@@ -1,18 +1,18 @@
 # Task
 
-In a two-dimensional array of given dimensions \(m\) (number of rows) and \(n\) (number of columns), each cell contains a value 0 or 1. A tower consists only of neighboring 1-values in the same column, where the number of these equal 1-values represents the height of the tower. It is assumed that there are no other 1-values in a column apart from those that are part of a tower.
+In a two-dimensional array of given dimensions $m$ (number of rows) and $n$ (number of columns), each cell contains a value 0 or 1. A tower consists only of neighboring 1-values in the same column, where the number of these equal 1-values represents the height of the tower. It is assumed that there are no other 1-values in a column apart from those that are part of a tower.
 
 Each column can contain exactly one tower. If a column has only 0-values, it is still considered to contain a tower with height 0. If a column has one or more 1-values, then one of them is necessarily placed on the last row.
 
 Considering all pairs of 2 towers on neighboring columns, the following reconfiguration operation is possible: from 2 non-zero height towers on 2 neighboring columns, a new tower can be formed with a height equal to the sum of the two. We aim to finally obtain the maximum number of towers with the maximum height. However, there are two conditions that must be met:
-- The height of the newly formed tower cannot exceed the value of \(m\) (the number of rows in the array);
+- The height of the newly formed tower cannot exceed the value of $m$ (the number of rows in the array);
 - Any tower that contributed to the formation of a maximum height tower cannot contribute to the formation of another maximum height tower.
 
 The reconfiguration operation is performed only once.
 
 # Task
 
-Given a two-dimensional array with \(m\) rows and \(n\) columns with 0 and 1 values, it is required:
+Given a two-dimensional array with $m$ rows and $n$ columns with 0 and 1 values, it is required:
 
 1. To display the heights of the towers in the initial configuration, mentioning the towers with height 0, starting with the leftmost tower.
 2. To display the maximum height of the towers resulting from the reconfiguration operation.
@@ -22,8 +22,8 @@ Given a two-dimensional array with \(m\) rows and \(n\) columns with 0 and 1 val
 
 The input file `turnuri.in` will contain:
 
-- the first line of the file contains the natural number \(m\) representing the number of rows and the natural number \(n\) representing the number of columns, values separated by a space.
-- the next \(m\) lines contain \(n\) values 0 or 1, each value separated by a space.
+- the first line of the file contains the natural number $m$ representing the number of rows and the natural number $n$ representing the number of columns, values separated by a space.
+- the next $m$ lines contain $n$ values 0 or 1, each value separated by a space.
 
 # Output data
 
@@ -35,7 +35,7 @@ The output file `turnuri.out` will contain three lines:
 
 # Constraints and clarifications
 
-* \(2 \leq m, n \leq 1\ 000\);
+* $2 \leq m, n \leq 1\ 000$;
 * Tests and constraints have been updated to the standards of the year 2023.
 * Partial scores are awarded: task a) 40% of the points, task b) 40% of the points, task c) 20%.
 * All towers start on the last row of the matrix.

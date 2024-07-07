@@ -1,4 +1,4 @@
-```markdown
+
 Let $N$ be a natural number and $A$ an array indexed from $1$, with $N^2$ elements, constituting a permutation of the numbers $1$, $2$, $3$, . . . , $N^2$. From a position $i$, with $1 \leq i \leq N^2$, we can move to position:
 * $i - 1$, if $i - 1$ is not divisible by $N$
 * $i + 1$, if $i$ is not divisible by $N$
@@ -82,4 +82,3 @@ For the second example, the paths are $(1)$, $(1, 3)$, $(1, 4)$, $(2)$, $(2, 3)$
 ## Explanation
 
 For the third example, the paths are $(1)$, $(1, 4)$, $(1, 4, 8)$, $(1, 3)$, $(1, 3, 5)$, $(1, 3, 5, 9)$, $(1, 3, 6)$, $(1, 3, 6, 7)$, $(1, 3, 8)$, $(1, 7)$, $(1, 3, 6, 9)$, $(2)$, $(2, 5)$, $(2, 5, 9)$, $(2, 8)$ and $73.85$ points will be awarded.
-```

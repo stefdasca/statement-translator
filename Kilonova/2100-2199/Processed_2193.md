@@ -1,4 +1,4 @@
-```markdown
+
 **ATTENTION:** This problem is worth $150$ points. In "submissions," the maximum score is rescaled to $100$ points, but the real score will be visible on the *[leaderboard](https://kilonova.ro/contests/179/leaderboard)*.
 
 You have managed to obtain several emails of the CEO of Chert And, Certes Adrei, sent to his friends: Elefantul Marcici and Lexy. Unfortunately, he got corrupted. If you manage to reveal the content of the email, the megacorporation will be forced to disclose more information about the farm in Romania.
@@ -41,5 +41,4 @@ Then, the score you will receive for the problem will be: $accuracy \cdot 150$. 
 ```
 
 Notice that in this case $\\text{accuracy} = \\frac{7}{8}$, as the correspondent of "sootb" was "boost", **NOT** "bruh". Other than that, all words are matched correctly.
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 RAU-Gigel has a sequence of points, not necessarily distinct, located on the first bisector. The points are characterized by two coordinates (abscissa and ordinate), both integers. When he copied them onto his notebook, carelessly, RAU-Gigel mixed up the coordinates of the $N$ points and omitted the ordinate of one of them. Can you help find it?
@@ -30,5 +30,4 @@ The output file `bisectoare.out` will contain on the first line an integer repre
 `bisectoare.out`
 ```
 5
-```
 ```

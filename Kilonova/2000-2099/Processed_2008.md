@@ -1,4 +1,4 @@
-```markdown
+
 We consider a permutation of the set $\{1, 2, \ldots, N\}$. For this permutation, a single type of operation is defined: a subsequence is extracted from the permutation, and the elements of the subsequence are added (in the same order) to the beginning of the permutation. For example, for the permutation $(3, 1, 5, 2, 6, 4)$, the subsequence $(1, 2, 4)$ can be chosen, which is then inserted at the beginning of the permutation, obtaining $(1, 2, 4, 3, 5, 6)$.
 
 # Task

@@ -1,4 +1,4 @@
-```markdown
+
 A vector is read from the keyboard until the element $0$. A second vector is also read, again until the element $0$.
 
 # Task
@@ -30,5 +30,4 @@ The console will contain a number representing the answer to the task.
 `stdout`
 ```
 3
-```
 ```

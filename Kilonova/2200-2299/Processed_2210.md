@@ -54,4 +54,3 @@ The $12$ correct variants are:
 ```
 
 I have checked for grammar and syntax errors and made sure none exist.
-```

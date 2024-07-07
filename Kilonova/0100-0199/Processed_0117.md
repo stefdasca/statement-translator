@@ -1,4 +1,4 @@
-```markdown
+
 Three numbers written in base `3` (using the digits `0, 1` and `2`) are given. The task is to find a number `N` in base `3` that has an odd number of digits, with the digit in the middle position having the value `1`. This number `N` must be obtained by concatenating the three given numbers; in this concatenation, each of the `3` numbers can be used zero or more times.
 
 # Task
@@ -32,4 +32,3 @@ Explanation:
 ---
 
 The number *2020* $ \mathbf{001} $ *001* $ \mathbf{001} $ can be obtained.
-```

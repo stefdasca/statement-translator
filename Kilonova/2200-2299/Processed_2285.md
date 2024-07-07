@@ -53,4 +53,3 @@ We can partition the tree into at most $3$ components in $4$ ways. The four ways
 - $\{5\}$, $\{1\}$ and $\{2, 4, 3\}$;  
 - $\{5\}$, $\{1, 2\}$ and $\{4, 3\}$;  
 - $\{5\}$, $\{1, 2, 4\}$ and $\{3\}$.
-```

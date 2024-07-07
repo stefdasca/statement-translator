@@ -52,4 +52,4 @@ The possible restorations are:
 `bcae io uxtz` (harmony: $16 + 4 + 16 = 36$)
 `bcae i ouxtz` (harmony: $16 + 1 + 25 = 42$)
 `bcaei o uxtz` (harmony: $25 + 1 + 16 = 42$)
-The most harmonious variant is `bca eio uxtz`
+The most harmonious variant is `bca eio uxtz

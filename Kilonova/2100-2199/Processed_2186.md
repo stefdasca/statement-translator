@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We are given the geography of a place in the form of a $N$ x $N$ matrix. The matrix contains lowercase English letters $a...z$ representing the height of the terrain at a position, $a$ being the valley and $z$ being the mountain.
@@ -58,5 +58,4 @@ abbcd
 `stdout`
 ```
 430
-```
 ```

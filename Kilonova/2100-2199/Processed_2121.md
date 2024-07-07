@@ -64,4 +64,3 @@ Print $T$ lines, each containing a single real number, representing the maximum 
 ```
 0
 3.000000000000
-```

@@ -18,9 +18,9 @@ The first line contains two natural numbers `N` and `M`, with the meaning from t
 The file `amici.out` will display `T` lines, each containing the answer for a test in the order the tests are given.
 
 # Constraints and clarifications
-* `1 <= N <= 21000`
-* `0 <= M <= 41000`
-* `1 <= T <= 5`
+* `1 \leq N \leq 21000`
+* `0 \leq M \leq 41000`
+* `1 \leq T \leq 5`
 * It is guaranteed that the answer is finite.
 * Recall that the answer is considered correct even if it differs by one unit from the true answer.
 

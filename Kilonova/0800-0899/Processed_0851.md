@@ -1,4 +1,4 @@
-```markdown
+
 Gigel is passionate about triangles. He collects sticks of different lengths and assembles them into various triangles. Yesterday, he had $6$ sticks with lengths $5$, $2$, $7$, $3$, $12$, and $3$. From these sticks, Gigel constructed a triangle with sides $3$, $3$, and $5$, while the sticks of lengths $2$, $7$, and $12$ remained unused because these lengths cannot form the sides of a triangle.
 
 ~[0.png]
@@ -70,4 +70,3 @@ In variant $1$ we need to print $5$ numbers, the minimum value is $2$ in both se
 
 $v=2$, $n=3$, $k=5$.  
 In variant $2$ among the printed sequence elements, all elements of the initial sequence are included.
-```

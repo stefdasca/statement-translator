@@ -1,4 +1,4 @@
-```markdown
+
 Robot Vasile has to stick labels on products moving on a conveyor belt. The label of a product will contain its code, which is a natural number. Normally, the products should be coded with consecutive natural numbers starting from $1$, in increasing order. But Robot Vasile has a bug: it does not generate natural numbers that contain the natural number $X$ as a subarray.
 
 A subarray is formed from digits located in consecutive positions in the number. For example, if $X = 213$, then the natural numbers $213$, $1213$, $2131$, $2132$ or $721389$ will not be generated because they contain $213$ as a subarray. However, the number $25136$ will be generated because the digits $213$ do not appear in consecutive positions.
@@ -43,4 +43,3 @@ The output file `bug.out` will contain a single line which will be written the c
 ## Explanation
 
 $X = 3$ and $N = 13$. The code on the label of the last product will be $15$, because the generated codes are $1$, $2$, $4$, $5$, $6$, $7$, $8$, $9$, $10$, $11$, $12$, $14$, $15$.
-```

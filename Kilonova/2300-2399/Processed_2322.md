@@ -14,7 +14,7 @@ The coordinates and weights of each point are generated according to the followi
 C = C1
 for i = 2 to N do
     x[i] = x[i-1] + 1 + (((x[i-1] \cdot i) xor A) modulo B)
-   if (2 \cdot i <= N) then
+   if (2 \cdot i \leq N) then
       k = 1
    else
       k = -1

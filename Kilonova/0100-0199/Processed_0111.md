@@ -10,7 +10,7 @@ The input file `patrat.in` contains on the first line the number `N`.
 The output file `patrat.out` will contain the number of magic squares of order `N` modulo `30103`.
 
 # Constraints and clarifications
-* `1 <= N <= 1\ 000\ 000`
+* `1 \leq N \leq 1\ 000\ 000`
 
 # Examples
 

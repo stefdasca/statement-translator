@@ -1,4 +1,4 @@
-```markdown
+
 Several frogs from the city, taking a walk through the central park and discovering a mosaic similar to a chessboard of size $n \times n$, have come up with a game with the following rules:
 - each frog starts from the center of the square located in the upper-left corner of the board, passes through each square of the mosaic, and returns to the square from where it started;
 - it can jump from the center of any square to the center of any adjacent squares in the directions: N, S, E, W, NE, NW, SE, SW;
@@ -46,4 +46,3 @@ In the output file `frog.out`, on line $i$ ($i = 1 \dots n^2 + 1$), two pairs of
 
 ## Explanation
 This solution respects the rules of the game, but it will not win the frog's bet!
-```

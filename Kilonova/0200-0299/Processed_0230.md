@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with `m` rows and `n` columns is given, each row representing a permutation. It is known that rows from `2` to `m` are circular permutations of the first row. A row `x` `(1 \leq x \leq m)` can be applied the following operations:
 - a left circular permutation: the element at position `i (1 < i \leq n)` moves to position `i-1`, except the first element, which becomes the last;
 - a right circular permutation: the element at position `i (1 \leq i < n)` moves to position `i+1`, except the last element, which becomes the first.
@@ -50,4 +50,3 @@ The matrix will be:
 ```
 
 If we circularly permute the first row to the right by one position, and the rows `4` and `5` to the left by two positions, we will obtain a matrix in `5` operations where all rows are equal. The rows will be determined by the permutation: `5 3 1 4 2 6`
-```

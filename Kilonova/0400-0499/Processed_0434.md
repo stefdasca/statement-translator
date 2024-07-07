@@ -1,4 +1,4 @@
-> *“The grass is always greener on the other side ...”*
+> *“The grass is always greener on the other side ...�*
 
 The recent division of lands in Gheorgheni has generated a lot of envy among the villagers. Thus, some villagers have the impression that the grass grows greener in the yard of some neighbors and would like to move into one of their houses. The Gheorgheni Town Hall has decided on a redistribution of properties so that the overall happiness of the villagers is as high as possible.
 

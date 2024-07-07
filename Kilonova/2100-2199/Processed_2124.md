@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You work at a company that produces microprocessors. To assemble the microprocessors, the company uses a robot consisting of a single arm. The arm is fixed at one end ("shoulder") at a point placed at the center of the working platform, and at the other end, it has a device of negligible length with which it can "pick up" the components from the working platform ("hand"). The arm can only move horizontally above the working platform.
@@ -70,4 +70,3 @@ The output file `robot.out` contains a single line containing the value $0$ if i
 ```
 ```
 
-```

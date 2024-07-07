@@ -1,4 +1,4 @@
-```markdown
+
 We assume we have two boxes noted $A$ and $B$. Box $A$ contains $N$ balls numbered with distinct natural numbers: $0, 1, 2, \dots N-1$. Box $B$ is empty.
 
 We say that a ball in a box is the **special** ball of this box if the number $X$ with which this ball is numbered is equal to the arithmetic mean of the numbers on the other balls in the box.

@@ -36,4 +36,3 @@ SuIgrNuSnUtclIfereNruLaMuuIpi
 `stdout`
 ```
 suIgRNUSnUtClifereNRuLaMuuIpi
-```

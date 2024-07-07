@@ -1,4 +1,4 @@
-```markdown
+
 On his birthday, Gigel received a rectangular cake adorned with a grid that divides the cake into $m \cdot n$ squares, with each square containing either a cherry or a strawberry.
 
 The fruit grid is represented by a matrix with $0$ and $1$, where $0$ means cherry and $1$ means strawberry. The birthday boy is allowed to cut $k$ slices of cake. A slice can be made by cutting along the grid lines, from one end to the other, with a width equal to $1$, from any side of the cake, coded as $N, E, S, W$. Being a big strawberry fan, Gigel wants to cut the $k$ slices in such a way that the number of strawberries in these slices is as large as possible.
@@ -130,4 +130,3 @@ The cake is made up of a grid with $m=6$ rows and $n=6$ columns and $k=3$ slices
 
 The $5$ ways to cut the $3$ slices are:
 $NNS, NSE, NSW, EVW$ and $NEW$
-```

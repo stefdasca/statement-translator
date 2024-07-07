@@ -1,4 +1,4 @@
-```markdown
+
 Manole is extremely sick. Because of this, he went to the family doctor who advised him to follow a treatment with $N$ pills, from which he has to take a half every day. He bought from the pharmacy a box containing exactly $N$ pills, each one having a stripe on the surface that marks its half.
 Manole starts his treatment and finds out that he can only proceed as follows:
 * He takes a whole pill from the box and uses only half of it on that day, putting the remaining half back in the box;
@@ -40,4 +40,3 @@ If we denote by `P` a whole pill and by `J` a half pill then Manole had $5$ poss
 3. `P J P P J J`
 4. `P P P J J J`
 5. `P P J P J J`
-```

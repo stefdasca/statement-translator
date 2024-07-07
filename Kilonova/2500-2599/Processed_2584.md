@@ -1,4 +1,4 @@
-```markdown
+
 A permutation $A$ of the numbers from $1$ to $N$ is given. The operator $\oplus$ in C/C++ performs the XOR operation (exclusive disjunction on bits).
 
 Table 1: XOR Operation Table
@@ -71,4 +71,3 @@ $E = (2 + 1) \oplus (1 + 2) = 3 \oplus 3 = 0$. This is the minimum value that ca
 ## Explanation
 
 $E = (4 + 5) \oplus (3 + 4) \oplus (1 + 3) \oplus (5 + 2) \oplus (2 + 1) = 9 \oplus 7 \oplus 4 \oplus 7 \oplus 3 = 14$. It can be demonstrated that a higher value cannot be obtained in this case.
-```

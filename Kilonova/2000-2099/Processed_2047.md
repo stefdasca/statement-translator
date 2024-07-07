@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an undirected graph with $n$ nodes and $m$ edges, remove at most one edge from the graph such that the number of nodes with even degree is as large as possible.
@@ -31,5 +31,4 @@ The first line will contain a single integer, the maximum number of nodes with e
 `stdout`
 ```
 3
-```
 ```

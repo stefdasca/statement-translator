@@ -1,4 +1,4 @@
-```markdown
+
 Matrix $T$ with $n$ rows (numbered from $1$ to $n$) and $m$ columns (numbered from $1$ to $m$) containing integers is considered.
 
 A submatrix of matrix $T$ is defined by the top-left corner row and column $(x_1,y_1)$, and the bottom-right corner row and column $(x_2,y_2)$, with $1 \leq x_1 \leq x_2 \leq n$ and $1 \leq y_1 \leq y_2 \leq m$ and contains all the elements at positions $(x,y)$ of the matrix for which $x_1 \leq x \leq x_2$ and $y_1 \leq y \leq y_2$. Specifically, the submatrix with the top-left corner at $(1,1)$ and the bottom-right corner at $(n,m)$ is identical to the matrix $T$.
@@ -143,4 +143,3 @@ $c=3$, $n=5$, $m=5$. Task $3$ is solved.
 The answer to this task is printed on a single line in the output file.
 The steps to obtain the answer are explained in the statement.
 
-```

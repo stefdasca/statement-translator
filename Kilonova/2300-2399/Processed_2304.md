@@ -1,4 +1,4 @@
-```markdown
+
 A text and a mask are given, both consisting of lowercase English letters. Additionally, the mask can contain the special characters `?` and `*`.
 
 We say that the mask matches a subarray $S$ of the text if and only if:

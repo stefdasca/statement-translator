@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given $t$ pairs of positive natural numbers. For each pair, find the greatest common divisor (*gcd*) and the least common multiple (*lcm*).
@@ -45,4 +45,3 @@ Each of the $t$ lines will contain in order two numbers, representing the *gcd* 
 ## Explanation
 
 $(14, 8) = 2$, $[14, 8] = 56$, etc.
-```

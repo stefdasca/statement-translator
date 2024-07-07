@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Andrei has an array of $n$ elements, as well as a number $k$. 

@@ -1,4 +1,4 @@
-```markdown
+
 Zăhărel drew $N$ points on a piece of paper. Curious by nature, he chose another $M$ points on the OX axis and wondered for each of the $M$ points on the OX axis which of the $N$ points is the closest (located at the minimum distance). It is considered that the distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is $(x_1 - x_2)^2 + (y_1 - y_2)^2$.
 
 # Task

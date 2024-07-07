@@ -1,4 +1,4 @@
-```markdown
+
 Bob is a big fan of constructions and in order to get new prizes, he decided to study the art of building sand castles to win the annual summer sand castle building competition.
 
 While studying techniques for building the castles, he observed an interesting feature of building such a construction. Namely, once in a while, a wave comes and destroys some, if not all, of the castle and the job has to be partly (or even fully) done again.
@@ -61,4 +61,3 @@ Wave after $8$ seconds: The hit points will be equal to $2 + 2 − 2 = 2$
 Wave after $15$ seconds: The hit points will be equal to $2 + 2 + 7 − 6 = 5$
 
 Therefore, the answer is $2$.
-```

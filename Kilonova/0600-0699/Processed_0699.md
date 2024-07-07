@@ -1,4 +1,4 @@
-```markdown
+
 The universe map is considered to be a matrix with $250$ rows and $250$ columns. In each cell, there is a so-called stargate, and in certain cells, there are stargate crews. In one move, a crew can move from their current location to any other location that has a second stargate, in our case to any other position in the matrix. No more than one crew can be in a cell at the same time. At any point, only one crew can move from one stargate to another.
 
 # Task
@@ -35,4 +35,3 @@ The first line of the output file `poarta.out` contains a single number represen
 
 ## Explanation
 ~[0.gif|width=50em]
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Let a natural number `N` and a room of length `2 * N + 2` be seen as a closed interval `[-N - 1, N + 1]`. In the center `C` of the room `(C = 0)`, there is initially a ballerina named Costelina Salopeta. She is going to perform `T` dance steps of length `1`, making the first step to the right. In the `2 * N` distinct points of integer coordinates inside the room, `K` obstacles can be placed. When the ballerina reaches a point with an obstacle, she stumbles and makes a pirouette. Thus, she changes her direction of movement, and the obstacle from that point disappears.
 
 ~[image.png]
@@ -47,4 +47,3 @@ There are `7` ways to place the obstacles:
 7. `[xxxC..x]`
 
 The position of a free space is denoted by `.`, and the position of an obstacle by `x`.
-```

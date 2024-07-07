@@ -66,4 +66,3 @@ RRRRDD
 `drar.out`
 ```
 6
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Three positive natural numbers $n, k$ and $w$ are given.
 
 # Task
@@ -73,4 +73,3 @@ There are $4$ sets with $3$ elements, such that the difference between any $2$ c
 $n=10, k=4, w=4$
 
 There is no set of $4$ elements where the conditions are met.
-```

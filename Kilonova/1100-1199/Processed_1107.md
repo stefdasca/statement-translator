@@ -1,4 +1,4 @@
-```markdown
+
 Because Lili forgot to give her friend Georgiana a Christmas present, she decided to make up for it by giving her gifts for $N$ days. Thus, each day $i$ of the $N$ days, Lili will bring $cnt_i$ gifts, all of size $m_i$, in front of Georgiana's house. After $N$ days, Georgiana starts sorting the gift boxes in ascending order by size. Since there are so many gifts, Georgiana asks you to find the size of the $K$-th gift after sorting.
 
 # Interaction Protocol

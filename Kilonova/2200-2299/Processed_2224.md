@@ -1,9 +1,9 @@
-```markdown
+
 # Task
 
 A new game called "Neconex" has been circulating on the internet for some time. The game can be played by two people using a graph that is not connected. The two players move alternately. A move consists of adding an edge between two distinct nodes that do not already have an edge between them. The player who causes the graph to become connected, meaning all nodes belong to the same connected component, loses the game.
 
-Instead of preparing for the “National Informatics Team,” Ţirbi and Birţi play this game, and Ţirbi always moves first. Since they are both quite good at algorithms, they play optimally.
+Instead of preparing for the “National Informatics Team,� Ţirbi and Birţi play this game, and Ţirbi always moves first. Since they are both quite good at algorithms, they play optimally.
 
 # Task
 
@@ -46,5 +46,4 @@ The output file `neconex.out` contains $T$ lines, one for each graph in the inpu
 1
 0
 1
-```
 ```

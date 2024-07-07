@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array $A$ of $N$ values. From this array, we can choose any two adjacent elements with equal values and merge them into an element with a value incremented by $1$. 
@@ -57,4 +57,3 @@ $(1, 2, 1, 1, 2) \rightarrow (1, 2, 2, 2) \rightarrow (1, 3, 2)$.
 ## Explanation
 
 We cannot obtain a $COX$ array.
-```

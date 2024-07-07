@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Adrian Wonder Boy has just received a new game. It consists of $n$ equilateral triangles placed in a vertical plane with one horizontal side and the opposite vertex pointing upwards. The triangles have side lengths of $1, 2, 3, \dots, n$ and are nested within each other so that any two consecutive triangles share a common angle. More precisely, a small triangle (of side $i$; in the drawing $i=3$) can be in exactly the following $3$ positions relative to the larger triangle (of side $i+1$):

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 If you get injured, don't use Sprite to treat the wound. It's best to run to the nearest first aid station. Fortunately, you have a map from which you can find the Cartesian coordinates of the first aid stations. Unfortunately, due to the pain, you can't run directly to a station, but only in north-south and east-west directions. To know whether it makes sense for you to run to a station or to enjoy your last moments of life, it'd be best to evaluate the distance to the nearest first aid station.

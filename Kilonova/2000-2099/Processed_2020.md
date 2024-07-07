@@ -44,4 +44,3 @@ The output file `termite.out` will contain $Q$ lines with a single natural numbe
 1
 0
 0
-```

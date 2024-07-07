@@ -1,4 +1,4 @@
-```markdown
+
 The Solarian children often play by sending encrypted messages to each other. For encryption, they use a cipher based on a permutation $p$ of the solarian alphabet letters and a natural number $d$. The solarian alphabet contains $m$ very complicated letters, so we will represent them by numbers from $1$ to $m$. 
 
 Given a message in the solarian language, represented by us as a sequence of $n$ numbers between $1$ and $m$, $c_1 \\ c_2 \\dots c_n$, the message is encrypted as follows: each letter $c_i$ is replaced with $p(c_i)$, then the obtained string $p(c_1) \\ p(c_2) \\dots p(c_n)$ is rotated to the right, making a circular permutation with $d$ positions resulting in the string $p(c_{n-d+1}) \\dots p(c_{n-1}) \\ p(c_n) \\ p(c_1) \\ p(c_2) \\dots p(c_{n-d})$.
@@ -44,5 +44,4 @@ The output file `cifru.out` will contain:
 ```
 2
 3 1 2
-```
 ```

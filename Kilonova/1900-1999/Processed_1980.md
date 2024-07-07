@@ -43,4 +43,3 @@ Another correct result would have been:
 1001
 1111
 0000
-```

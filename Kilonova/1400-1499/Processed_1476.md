@@ -1,4 +1,4 @@
-```markdown
+
 I have a cable with $N$ LEDs (numbered from $1$ to $N$) placed equidistantly. Initially, some LEDs are on, and others are off.
 
 The LEDs are interconnected so that touching any LED changes both its state and the state of its neighboring LEDs. Thus, if the LED $i$ ($2 \leq i \leq N-1$) is touched, the states of LEDs $i-1$, $i$, and $i+1$ change. If the LED $1$ is touched, the states of LEDs $1$ and $2$ change, and if the LED $N$ is touched, the states of LEDs $N-1$ and $N$ change.

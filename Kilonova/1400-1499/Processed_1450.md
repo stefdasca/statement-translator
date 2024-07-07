@@ -1,4 +1,4 @@
-```markdown
+
 A real estate construction company recently purchased a rectangular plot of dimensions $N \times M$. The land is divided into plots of size 1x1. Trees are planted on some of these $N \times M$ plots. The company wants to build a grandiose commercial complex and needs to clear the entire land. For this purpose, robots are used, each robot having a base of a square with side $L$. The area cleared by each robot at any given moment is precisely its coverage area, $L \times L$. Each robot enters through the top-left corner at coordinates $(1, 1)$, can only move to the right and down, and can exit only through the bottom-right corner at coordinates $(N, M)$.
 
 # Task
@@ -82,4 +82,3 @@ $p = 1$. If the robots have a side length of 4, only one robot is needed to clea
 ## Explanation
 
 $p = 2$. The first value in the output file represents the minimum side length of the robots such that only one robot is needed for clearing the entire land according to the first query. The second value in the output file represents the minimum side length of the robots such that at most three robots are needed for clearing the entire land according to the second query. **Attention! Only task 2 is solved for this test.**
-```

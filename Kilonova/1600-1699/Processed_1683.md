@@ -1,4 +1,4 @@
-```markdown
+
 We are given $N$ natural numbers $s_1$, $s_2$, $\\dots$, $s_N$ and $Q$ queries of the form $a \\ b$.
 
 # Task
@@ -46,4 +46,3 @@ In the output file `dss.out` each of the first $Q$ lines contains a natural numb
 - The subsequences formed from distinct elements in the subarray $s[1 \\dots 4$] = $(1 \\ 2 \\ 3 \\ 2)$ are $1$, $2$, $3$, $2$, $1 \\ 2$, $1 \\ 3$, $1 \\ 2$, $2 \\ 3$, $3 \\ 2$, $1 \\ 2 \\ 3$, $1 \\ 3 \\ 2$, so a total of $11$ subsequences.
 - The subsequences formed from distinct elements in the subarray $s[2 \\dots 5$] = $(2 \\ 3 \\ 2 \\ 3)$ are $2$, $3$, $2$, $3$, $2 \\ 3$, $2 \\ 3$, $3 \\ 2$, $2 \\ 3$, so $8$ subsequences.
 - The subsequences formed from distinct elements in the subarray $s[1 \\dots 3$] = $(1 \\ 2 \\ 3)$ are $1$, $2$, $3$, $1 \\ 2$, $1 \\ 3$, $2 \\ 3$, $1 \\ 2 \\ 3$, so $7$ subsequences.
-```

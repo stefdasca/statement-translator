@@ -1,4 +1,4 @@
-```markdown
+
 Let $a$ and $b$ be two natural numbers. Represent these two numbers in base $2$. Apply the following transformation to the two values obtained through their base $2$ representation: if the first digit (leftmost) in the base $2$ representation of number $a$ is equal to the last digit (rightmost) in the base $2$ representation of number $b$, then remove the first digit (leftmost) in the base $2$ representation of number $a$ and the last digit (rightmost) in the base $2$ representation of number $b$ and continue the transformations in the same way until the first digit (leftmost) in the base $2$ representation of number $a$ is different from the last digit (rightmost) in the base $2$ representation of number $b$. The values remaining after the transformations are represented in base $10$, obtaining two numbers: $c$ and $d$.
 
 1. If no transformation is performed on the two base $2$ representations because the first digit in the representation of number $a$ is different from the last digit in the base $2$ representation of number $b$, then the number $c$ will be identical to number $a$, and $d$ will be identical to number $b$.
@@ -76,4 +76,3 @@ After the first transformation, $101$ and $1100$ are obtained. From this point o
 In base $2$, the number $13$ is written as $1101$, and the number $20$ is written as $1100$. 
 
 It is observed that the first digit in the representation of $a$ is different from the last digit in the representation of $b$. Therefore, no transformation is made. After conversion to base $10$, $c = 13$ and $d = 20$. Thus, the sum $c + d$ is $33$.
-```

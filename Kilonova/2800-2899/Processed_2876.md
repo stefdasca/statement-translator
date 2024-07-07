@@ -47,4 +47,3 @@ If convening is possible, the file also contains:
 19
 1
 5
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array with $n$ natural numbers, with values **sorted in ascending order**. The task is to find the subarray with a sum of at least $k$ with the minimal difference between the maximum and minimum value in the subarray. If there are multiple such subarrays, find the one with the minimal length.
@@ -54,4 +54,3 @@ The minimal difference is obtained if we take the subarray $(3, 3, 4)$, with a s
 ## Explanation
 
 $6 + 7 + 7 + 7 + 8 + 8 + 9 + 9 + 11 + 13 = 85$
-```

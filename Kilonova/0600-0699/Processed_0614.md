@@ -62,4 +62,3 @@ Print $Q$ lines, on line $i$ print the answer for the $i$-th scenario, modulo $1
 168
 0
 128
-```

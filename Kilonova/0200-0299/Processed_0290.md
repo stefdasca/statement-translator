@@ -1,4 +1,4 @@
-```markdown
+
 ## **!! YOU ARE NOT ALLOWED TO OPEN THE FILE `ez.out` !!**
 
 *Ez* received a computer for their birthday, but it came defective from the factory: when *Ez* types a word on the keyboard, the computer replaces the vowels `aeiouAEIOU` respectively with the letters `qwrtyQWRTY`. If the words already contain the letters `qwrtyQWRTY`, the computer replaces them with the digits `1234512345` respectively to differentiate them; also, after these modifications, the computer replaces all consonants except `qwrtyQWRTY` in words of even length with the next letter in the alphabet. Words are separated only by spaces or newline characters (`\n`).

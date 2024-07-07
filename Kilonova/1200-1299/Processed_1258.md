@@ -71,4 +71,3 @@ Observations
 1) If position $(3,5)$ had a $0$, then the lake with a side of $3$ would no longer be "full of $1$s" and then the first line would only contain the value $3$ (only $3$ square-shaped lakes would be "full of $1$s")
 2) In the initial example, if position $(6,1)$ had a value of $0$, then not all lakes would be square (the bottom-left one would not be square) and only a $3$ would be displayed in the output file
 3) In the initial example, if position $(5,2)$ had a value of $0$, then only a $3$ would be displayed, because the bottom-left lake would not be a square-shaped lake and "full of $1$s"
-````

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Upset due to the economic crisis, Don Stefano has decided to take up gambling, specifically roulette. His plan is as follows: enter the casino with $X$ lei, place bets, and if he reaches $0$ lei or at least $Y$ lei (where $Y$ is a number determined by Don Stefano), he stops betting and goes home. Don Stefano has decided to play at $2$ roulette tables simultaneously, betting $2$ lei each minute, one at each roulette table. The two roulette tables are identical, half of the slots on one roulette being red, and half blue.
@@ -34,5 +34,4 @@ The file `cazino.out` will contain $T$ lines, with the $i$-th line containing th
 0.40000
 0.00000
 0.02765
-```
 ```

@@ -97,4 +97,3 @@ The sum of all these values is equal to $556$ modulo $10^9 + 7$.
 `stdout`
 ```
 9410
-```

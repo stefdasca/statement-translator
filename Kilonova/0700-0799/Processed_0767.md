@@ -1,4 +1,4 @@
-```markdown
+
 There are $N$ colored points in a plane. They are identified by their integer coordinates on the OX and OY axes. Each point has an associated natural number between $1$ and $C$ representing its color code. A rectangle is called *correct* if it simultaneously meets the following conditions:
 
 * all four vertices are among the given N points;
@@ -53,4 +53,3 @@ The vertices of the three correct rectangles are:
 $(3, 0), (3, 4), (6, 4), (6, 0)$
 $(3, 0), (3,10), (6,10), (6, 0)$
 $(3, 6), (3,10), (6,10), (6, 4)$
-```

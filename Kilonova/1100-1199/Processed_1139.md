@@ -1,4 +1,4 @@
-```markdown
+
 At a contest, $N$ competitors participate. Each competitor receives a sheet of paper on which they will write a word of at most $100$ characters (lowercase letters of the English alphabet). The words will be distinct. For differentiation, the competitors appeal to an oracle. The oracle also produces a word. The competitor who has written the word "closest" to the oracle's word will win. The degree of "closeness" between two words is the length of the longest common subword. A subword of a given word is understood to be a word that can be obtained from the given word by deleting 0 or more letters while preserving the order of the remaining letters.
 
 # Task
@@ -42,5 +42,4 @@ acb
 1 4 5
 3
 2
-```
 ```

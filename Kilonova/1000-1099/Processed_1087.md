@@ -1,4 +1,4 @@
-```markdown
+
 On Mars, $N$ Martians have been discovered, identified by scientists from Earth with numbers ranging from $1$ to $N$. Research has shown that the DNA of any Martian $X$ is formed from the set of prime factors in the decomposition of $X$. For example, $\\text{DNA}(6)=\\{2,3\\}$.
 
 It is known that the Martian with the order number $Y$ inherits from the Martian with the order number $X$ if $\\text{DNA}(X)$ is included in $\\text{DNA}(Y)$, meaning the set of prime factors of $X$ is included in the set of prime factors of $Y$. For example, the Martian $6$ inherits from the Martian $3$ because $\\text{DNA}(3)=\\{3\\}$ is included in $\\text{DNA}(6)=\\{2,3\\}$.

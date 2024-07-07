@@ -1,4 +1,4 @@
-```markdown
+
 A series of words separated pairwise by a space is considered. Each word is characterized by its order number, which represents its position in the series of words (the first word has the order number $1$). A word $i$ can repeatedly undergo the following transformations: the first character of the word (the leftmost) is removed from its position and added after the last character of the word. Thus, from a word $s$ with $k$ characters, other $k-1$ words can be obtained, which we call words obtained from the transformation of the word $s$. For example, from a word consisting of $4$ characters $c_1 c_2 c_3 c_4$, the words obtained by transforming it are: $c_2 c_3 c_4 c_1$, $c_3 c_4 c_1 c_2$, $c_4 c_1 c_2 c_3$.
 
 In the series of words, the first pair of neighboring words $(a,b)$ is searched for, where the second word in the pair (word $b$) is identical to a word obtained from the transformation of $a$. If such a pair exists, the word $b$ is removed from the series. By removing the word $b$ from the series, it will have one less word! The above search operation is repeated until there is no pair $(a,b)$ of neighboring words left in the remaining series, such that $b$ is obtained by transforming $a$.
@@ -54,4 +54,3 @@ The resulting series consists of the following $7$ words: `alfa`, `alfa`, `fala`
 The resulting series after deletion is: `alfa`, `alfa`, `fala`, `afal`, `calfa`, `calfa`. The first pair that meets the problem requirements in the new series is `fala` and `afal`. The word `afal` with order number $6$ will be deleted.
 
 The resulting series after deletion is: `alfa`, `alfa`, `fala`, `calfa`, `calfa`. In this series, there is no more pair that meets the requirements. Thus, the remaining words are: `alfa`, `alfa`, `fala`, `calfa`, `calfa`, which have order numbers $1$, $3$, $4$, $7$, $8$.
-```

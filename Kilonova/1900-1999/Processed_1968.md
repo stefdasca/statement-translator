@@ -1,4 +1,4 @@
-```markdown
+
 A matrix $A$ = $(a_{i, j})$, $1 \leq i, j \leq n$ (a square matrix of order $n$ with rows and columns indexed from $1$ to $n$) is given.
 The task is to construct a matrix $B = (b_{i, j})$, $1 \leq i, j \leq n$ with the following properties:
 
@@ -49,4 +49,3 @@ The output file `echilibrare.out` will contain on the first line a single number
 ## Explanation
 
 The matrix in the output file has a sum of elements $16$, each element is greater than or equal to the corresponding element of the matrix in the input file, it is balanced and has the minimal possible sum of elements.
-```

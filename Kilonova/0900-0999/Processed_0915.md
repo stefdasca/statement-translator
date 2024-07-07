@@ -1,4 +1,4 @@
-```markdown
+
 The rectangular land area is divided into $N$ horizontal strips and $M$ vertical strips of equal width. Thus, $N \times M$ square zones are formed, with each side equal to one unit. The land area is represented as a two-dimensional array with $N$ rows and $M$ columns, where for each zone, a number representing the altitude of that zone is stored. Interestingly, all values $1, 2, \dots, N \cdot M$ appear in the array. The land area is intended for tourism. Because there are extraordinarily beautiful landscapes towards the **East** and **South**, the goal is to find tourist routes that move only towards the **East** and **South** with steps of unit length. A committee, tasked with solving this problem, has determined that a route is attractive if and only if the altitude at the last position of the route is higher than the altitude at the first position of the route. A route can start and end in any of the zones on the land, respecting the previous conditions.
 
 # Task

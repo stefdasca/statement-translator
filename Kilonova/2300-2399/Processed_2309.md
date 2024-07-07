@@ -1,4 +1,4 @@
-```markdown
+
 Andrei is a master of the game of Tetris; he can play for days with his eyes closed and his hands tied behind his back. Therefore, he has decided to move to the next level and play the 3D version of the game. 
 
 The pieces will fall on a flat horizontal surface in the shape of a square, with a side of $M$ cm, called the base. On the base, there is a grid that delimits $M \times M$ squares with a side of $1$ cm, each square being identified by its coordinates (the row and column it is on). 
@@ -77,4 +77,3 @@ The output file `tetris.out` will contain a single line that will contain the nu
 ## Explanation
 
 The piece can be positioned perfectly only at position $(1,3)$.
-```

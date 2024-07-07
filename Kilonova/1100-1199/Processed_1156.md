@@ -1,4 +1,4 @@
-```markdown
+
 A rectangle of size $m \times n$ is divided into $m \cdot n$ squares with side $1$. Some of these squares have a NW-SE diagonal drawn (noted with $1$ in the matrix), others have a NE-SW diagonal (noted with $2$ in the matrix), and others have no diagonal (noted with $0$ in the matrix).
 
 # Task
@@ -61,4 +61,3 @@ The output file `patrate.out` will contain on the first line the total number of
 
 ## Explanation
 ~[2.png|width=20em]
-```

@@ -6,7 +6,7 @@ She has an unlimited number of pieces with a width of one unit and all possible 
 
 Because the yellow color is considered the most prestigious in Chinese culture, Andra wants the sum of the lengths of all yellow pieces that make up the wall to equal a number $K$, specially chosen to bring luck. Furthermore, she wonders **in how many ways** she can build the wall so that this condition is met.
 
-Since this task “seems Chinese” to her (even though she speaks Chinese!), she decided to ask for your help, hearing that you feel lucky in the year of the dragon.
+Since this task “seems Chinese� to her (even though she speaks Chinese!), she decided to ask for your help, hearing that you feel lucky in the year of the dragon.
 
 # Task
 

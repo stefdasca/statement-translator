@@ -1,4 +1,4 @@
-```markdown
+
 A sequence $A=(A_1, A_2, \dots, A_N)$, consisting of $N$ positive natural numbers, is considered. Two numbers are considered neighbors if they are in adjacent positions ($A_i$ has as neighbors $A_{i-1}$ and $A_{i+1}$ for any $1<i<N$, $A_1$ has only $A_2$ as a neighbor, and $A_N$ has only $A_{N-1}$ as a neighbor).
 
 If two neighboring elements $A_i, A_{i+1}$ share at least one common digit, they can be unified. The unification process consists of removing all common digits from $A_i$ and $A_{i+1}$ and concatenating the resultant number from $A_{i+1}$ to the resultant number from $A_i$, forming a new number. $A_i$ will be replaced with the new number, and $A_{i+1}$ will be removed from the sequence.
@@ -72,4 +72,3 @@ Unify: $1238$ with $331 \implies 28$. Remaining sequence: $0 \ 28 \ 2035 \ 50007
 Unify: $28$ with $2035 \implies 835$. Remaining sequence: $0 \ 835 \ 50007$
 
 Unify: $835$ with $50007 \implies 837$. Remaining sequence: $0 \ 837$
-```

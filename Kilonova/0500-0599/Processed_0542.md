@@ -1,7 +1,7 @@
-```markdown
+
 A sequence $V$ containing $N$ integers numbered starting from $1$: $V_1, V_2, \ldots, V_N$ and two non-zero natural numbers $K$ and $L$, with the property that: $1 \leq K \leq L \leq N$ is given. `Mihai` only studies subarrays of length $L$, meaning subarrays formed by exactly $L$ elements located on adjacent positions in this sequence $V$.
 
-He might ask himself the following question: “If I rearrange the elements of the subarray of length $L$ starting at position $poz$ in the sequence $V$ in **ascending** order, which **value** would be at the $K$-th position in the resulting subarray?”.
+He might ask himself the following question: “If I rearrange the elements of the subarray of length $L$ starting at position $poz$ in the sequence $V$ in **ascending** order, which **value** would be at the $K$-th position in the resulting subarray?�.
 
 For the subarray in the sequence starting at position $poz$ and having $L$ elements, meaning $V_{poz}, V_{poz+1}, \ldots, V_{poz+L-1}$, the value of the element at the $K$-th position within the subarray is $V_{poz+K-1}$.
 
@@ -72,5 +72,4 @@ There are $N = 5$ elements in the array $V = (4, -5, 2, 1, 4)$. For the first qu
 
 There are $N = 5$ elements in the array $V = (1, 5, 2, 4, 3)$, $K=2$ and $L=3$. 
 $Q=2$ questions formulated.
-```
 ```

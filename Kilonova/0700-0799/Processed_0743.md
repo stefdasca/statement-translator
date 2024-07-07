@@ -1,4 +1,4 @@
-```markdown
+
 Being a student at an art high school, music section, Andrei proposes to study a new scale made up of $10$ musical notes. Passionate about mathematics as well, he proposes that starting from two natural numbers $a$ and $b$ ($a < b$) to compose an "Endless Symphony", generating a sequence of notes in the new scale. Thus, he generates each note of the symphony by multiplying $a$ by $10$ and dividing the result by $b$ (integer division). To avoid generating the same note, he modifies $a$ each time, replacing it with the remainder of the division of $a \cdot 10$ by $b$. Thus, the notes are generated according to the rule $a \cdot 10$ div $b$, where after each step a changes as follows: $a = a \cdot 10$ mod $b$ (the div operation represents the integer quotient of the division, and mod is the integer representing the remainder of the integer division of two numbers).
 Thus, starting from $a = 42$ and $b = 130$, he will generate the notes: $3 \\ 2 \\ 3 \\ 0 \\ 7 \\ 6 \\ 9 \\ 2 \\ 3 \\ 0 \\ 7 \\ 6 \\ 9 \\ 2$ etc.
 
@@ -78,4 +78,3 @@ $40625$ is the theme, $0$ is the refrain
 ## Explanation
 
 There is no theme, $54$
-```

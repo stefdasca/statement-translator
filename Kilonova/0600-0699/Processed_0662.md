@@ -1,4 +1,4 @@
-```markdown
+
 The locals of Mehedinți county define the *haiestra* of a number as the number obtained by replacing that number with the sum of its digits, until the number remains with a single digit.
 
 For example, the *haiestra* of $6$ is $6$, the *haiestra* of $123$ is $1 + 2 + 3 = 6$, and the *haiestra* of $8097$ is $6$ because $8 + 0 + 9 + 7 = 24$ and $2 + 4 = 6$.
@@ -56,4 +56,3 @@ $10 \cdot 26 \cdot 41 \cdot 33 = 351780$, and the *haiestra* of $351780$ is $6$.
 $26 \cdot 41 = 1066$, and the *haiestra* of $1066$ is $4$.
 
 $0 \cdot 10 = 0$, and the *haiestra* of $0$ is $0$.
-```

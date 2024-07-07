@@ -47,4 +47,3 @@ The output file `implementare.out` will contain on the first line the remainder 
 ## Explanation
 
 $k=3$ and $n=2$. The first for statement executes for all values of its counter $i_1$ between $1$ and $3$ and the algorithm will contain exactly $2$ nested for statements. The second for statement executes for all values of its counter $i_2$ between $1$ and $i_1$ and calculates first $1$ then $1+2$ and finally $1+2+3$. The total sum calculated by the algorithm is $10$.
-```

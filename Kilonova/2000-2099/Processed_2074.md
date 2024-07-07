@@ -1,4 +1,4 @@
-> *National College “Frații Buzești”* ~[logos.png|align=right|width=20rem]
+> *National College “Frații Buzești�* ~[logos.png|align=right|width=20rem]
 > *Training Center for Informatics Performance*
 > **InfoCNFB** - Edition II, Seniors
 > December 9, 2023

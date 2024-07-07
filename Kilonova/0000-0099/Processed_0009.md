@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an array of $n$ natural numbers, sort the array in ascending order.
@@ -25,5 +25,4 @@ The output file `sortare.out` contains on the first line $n$ natural numbers, re
 `sortare.out`
 ```
 2 5 8 11 15 20
-```
 ```

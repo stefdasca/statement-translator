@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Consider an infinite 2D plane that contains all points with integer coordinates, from which the coordinate system has been removed (thus the coordinates of a point are no longer known, but it is still possible to calculate the distance between any $2$ points and differentiate the directions up-down and left-right). Initially, all points with integer coordinates in the plane are colored white. Then, a set consisting of at least $2$ points is selected, and the points in the set are colored black so that the following property exists: there are two black points at Manhattan distance $D$ and the Manhattan distance between any other $2$ black points does not exceed $D$. Determine how many different sets of points with this property can be selected. Two sets of points $A$ and $B$ are considered identical if they contain the same number of black points and if there exist two possible placements of the origin of the coordinate system so that the points in set $A$ and those in set $B$ have exactly the same coordinates (in other words, set $B$ can be obtained from set $A$ by translating all points horizontally and/or vertically). The Manhattan distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is defined as $|x_1 - x_2| + |y_1 - y_2|$.
@@ -94,5 +94,4 @@ The two sets have the following structure:
 `dsets.out`
 ```
 957938183
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 We consider a rectangular matrix $A$ with $m$ rows and $n$ columns with values $0$ or $1$, the rows and columns being numbered from $1$ to $m$, respectively from $1$ to $n$. We call a rectangle with corners $(x_1, y_1)$, $(x_2, y_2)$ where $x_1 < x_2$ and $y_1 < y_2$ the set of elements $A_{ij}$ with $x_1 \leq i \leq x_2$ and $y_1 \leq j \leq y_2$. We call the perimeter of the rectangle with corners $(x_1, y_1)$, $(x_2, y_2)$ the set of elements $A_{ij}$ for which $x_1 = i$ and $y_1 \leq j \leq y_2$ or $x_2 = i$ and $y_1 \leq j \leq y_2$ or $x_1 \leq i \leq x_2$ and $y_1 = j$ or $x_1 \leq i \leq x_2$ and $y_2 = j$.
@@ -32,5 +32,4 @@ The output file `peri.out` will contain a single line that contains two integers
 `peri.out`
 ```
 4 2
-```
 ```

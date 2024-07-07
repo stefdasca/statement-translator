@@ -32,4 +32,3 @@ The output file `nunta.out` will contain:
 ```
 3
 1 3 5
-```

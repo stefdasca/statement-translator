@@ -1,7 +1,7 @@
 Here is the translated text:
 
 ---
-Costel is passionate about the oriental art of crafting paper objects, origami, but he is just beginning and needs to become familiar with the correct folding operations of the paper. He has a square sheet of paper torn from a math notebook, having the size of exactly \(N \cdot N\) squares. The folds must be made exactly on a horizontal or vertical line.
+Costel is passionate about the oriental art of crafting paper objects, origami, but he is just beginning and needs to become familiar with the correct folding operations of the paper. He has a square sheet of paper torn from a math notebook, having the size of exactly $N \cdot N$ squares. The folds must be made exactly on a horizontal or vertical line.
 
 Two types of folds are allowed:
 
@@ -12,7 +12,7 @@ After performing a succession of folds, the initial sheet of paper will become a
 
 # Task
 
-Given a succession of folds applied to a sheet of size \(N \cdot N\), write a program that determines the height, width, and thickness of the resulting object.
+Given a succession of folds applied to a sheet of size $N \cdot N$, write a program that determines the height, width, and thickness of the resulting object.
 
 # Input data
 

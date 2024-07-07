@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Did you think you would get away without a chess problem? You thought wrong!
@@ -59,4 +59,3 @@ For each of the $t$ lines, print the answer for the respective test.
 For the first test, placing the queen on $(2, 1)$ allows attacking $4$ pieces.
 
 The optimal answer is $7$, by placing the queen on square $(5, 5)$.
-```

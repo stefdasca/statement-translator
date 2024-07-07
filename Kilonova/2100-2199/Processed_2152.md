@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a permutation with $N$ elements. Two types of moves can be performed on the permutation:
@@ -45,4 +45,3 @@ P 6
 ## Explanation
 
 After the first operation, the permutation becomes: $6 \ 5 \ 4 \ 3 \ 2 \ 1$. The second operation reverses the entire sequence, and the permutation becomes sorted.
-```

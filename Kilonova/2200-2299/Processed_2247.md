@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 JellyTheOctopus just bought the game City Skylines! The goal of the game is to create a prosperous city. So far, Jelly's city has $N$ districts (numbered from $1$ to $N$) connected by $M$ different roads (two districts have at most one undirected road between them).

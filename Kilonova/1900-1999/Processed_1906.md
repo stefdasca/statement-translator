@@ -1,4 +1,4 @@
-```markdown
+
 >"ok, the statements for muxusetre and 3secv are ready, I'm working on the tests for joingraf RIGHT NOW."
 
 For an array $A$ of $N$ numbers, we define its weight as $weight(A) = \displaystyle \sum_{i \leq j}^{N} sp(i,j)$, where $sp(i,j) = \left( \displaystyle \sum_{k = i}^{j} A[k] \right) \mod M$
@@ -59,5 +59,4 @@ However, if we divide the array into subsequences $(1, 2, 3)$ and $(4, 5, 6)$ we
 `stdout`
 ```
 30
-```
 ```

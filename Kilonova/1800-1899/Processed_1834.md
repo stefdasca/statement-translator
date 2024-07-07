@@ -1,4 +1,4 @@
-```markdown
+
 An *AA tree* is a binary search tree with a special structure. Each node is assigned **a value** and **a level**. Values satisfy the usual properties of binary search trees:
 
 1. The value of each left child (and the nodes in the subtree of the left child) is less than or equal to that of its parent.
@@ -79,5 +79,4 @@ The two possible arrangements are shown in images $2$ and $3$ above.
 `stdout`
 ```
 980381648
-```
 ```

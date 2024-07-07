@@ -1,4 +1,4 @@
-```markdown
+
 Given is a set of segments. The segments are described by their two endpoints, and the endpoints by their Cartesian coordinates. A segment cannot be a single point. Two segments are considered adjacent if they have a common endpoint. 
 Segments $S_i$ and $S_j$ are called **connected** if there is a sequence of segments, starting with $S_i$ and ending with $S_j$, in which two consecutive segments are adjacent.
 
@@ -47,4 +47,3 @@ In the file `segmente.out`, the file `segmente.out` will contain, on the first l
 ## Explanation
 
 Example from the figure.
-```

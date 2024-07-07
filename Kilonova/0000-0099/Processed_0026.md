@@ -42,4 +42,4 @@ Explanations
 ---
 
 The number `3` is the harmonic mean of the numbers `3` and `3`. We have the harmonic progression `(3,3,3)`
-The number `3` is the harmonic mean of the numbers `2` and `6`. We have the harmonic progressions `(2,3,6)` and `(6,3,2)`
+The number `3` is the harmonic mean of the numbers `2` and `6`. We have the harmonic progressions `(2,3,6)` and `(6,3,2)

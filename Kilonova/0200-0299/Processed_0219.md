@@ -1,5 +1,5 @@
-```
-Fie `G` un graf orientat cu `N` noduri și `M` arce. Spunem că *nodul `Y` este accesibil din nodul `X`* dacă se poate ajunge de la `X` la `Y` mergând pe arce în sensul corespunzător al acestora. Spunem că nodul `X` este *“popular”* dacă pentru fiecare nod `Y` al grafului G se îndeplinește cel puțin una din condițiile:
+
+Fie `G` un graf orientat cu `N` noduri și `M` arce. Spunem că *nodul `Y` este accesibil din nodul `X`* dacă se poate ajunge de la `X` la `Y` mergând pe arce în sensul corespunzător al acestora. Spunem că nodul `X` este *“popular�* dacă pentru fiecare nod `Y` al grafului G se îndeplinește cel puțin una din condițiile:
 1. `X` este accesibil din `Y`;
 2. `Y` este accesibil din `X`.
 
@@ -41,4 +41,3 @@ Explanation
 ---
 
 Nodurile `2, 4` și `5` sunt singurele noduri populare. Nodul `1`, spre exemplu, nu este popular deoarece nu este accesibil din `3`, iar nici nodul `3` nu este accesibil din `1`.
-```

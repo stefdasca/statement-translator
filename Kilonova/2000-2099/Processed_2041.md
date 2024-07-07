@@ -164,4 +164,3 @@ In the third second, the robot will advance by $2$ squares, and its battery will
 `monopol.out`
 ```
 4899
-```

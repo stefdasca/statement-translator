@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given $N$ and $K$, display the $K$-th permutation of order $N$ in lexicographic order.
@@ -49,5 +49,4 @@ $(1, 4, 3, 2)$
 `stdout`
 ```
 2 8 7 9 4 1 5 6 3
-```
 ```

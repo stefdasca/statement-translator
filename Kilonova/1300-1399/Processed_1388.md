@@ -1,4 +1,4 @@
-```markdown
+
 For a given number with $k$ digits $\overline{c_1 \ c_2 ... \ c_k}$, the right circular shift algorithm from an initial digit $c_i$ to a final digit $c_j$, shifts the digit $c_i$ to the right $c_i$ times $(1 \leq i, j \leq k)$. If during the shift the digit $c_k$ is reached, the right circular shift continues with the digit $c_1$.
 A number with $k$ digits is called a "circular" number if it meets the following two requirements:
 
@@ -65,4 +65,3 @@ $1. \ 515$ is the largest number among the five numbers read, containing a digit
 $2.$ For $15$: starting from the initial digit $1$, count one digit to the final digit $5$, then starting from digit $5$ as the initial digit, count five digits and reach the final digit $1$. Thus, the digits $1$, $5$ are exactly once initial digits and after two applications of the shift algorithm, the first digit is reached, so 15 is a circular number.
 
 For $123$: starting from the initial digit $1$, count one digit to the final digit $2`, then starting from digit $2$ as the initial digit, count two digits and reach the final digit $1$. Thus, the first digit is reached again, but the shift algorithm was applied only twice and not three times, and digit $3$ was not an initial digit. As a result, $123$ is not a circular number. The two circular numbers are determined, $y = 141$ and $z = 117$, the closest to $123$ being $117$. The same method applies to the other numbers.
-```

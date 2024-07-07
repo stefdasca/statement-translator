@@ -1,4 +1,4 @@
-```markdown
+
 Andrei lives on Dacia Boulevard and wants to find a new friend from the same street. Being interested in strong personalities, he studied each of his neighbors over the past week and assigned each a score, a natural number.
 We say that an individual with a score of $A$ has a stronger personality than an individual with a score of $B$ if the highest exponent that appears in the prime factorization of $A$ is greater than the highest exponent that appears in the prime factorization of $B$. If these values are equal, then the maximum prime factor with the maximum exponent in $A$ must be greater than the maximum prime factor with the maximum exponent in $B$ for the first individual to have a stronger personality than the second. If this criterion does not decide, then the individual with the higher score is considered to have a stronger personality.
 
@@ -84,4 +84,3 @@ $75 = 3 \cdot 5^2$
 $50 = 2 \cdot 5^2$
 
 According to the third criterion, the neighbor with the score $75$ has the strongest personality.
-```

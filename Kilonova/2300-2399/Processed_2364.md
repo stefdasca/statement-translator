@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 
 We construct a recurrent sequence as follows:
@@ -56,4 +56,3 @@ $T_6 = 0 \times 5^2  + 0 \times 8^2 + 1 \times 5 + 1 \times 8 + 0 = 13$
 $T_7 = 0 \times 8^2  + 0 \times 13^2 + 1 \times 8 + 1 \times 13 + 0 = 21$
 
 The result is $T_7 \ mod \ 1\ 000 = 21$.
-```

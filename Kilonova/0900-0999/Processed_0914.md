@@ -1,4 +1,4 @@
-```markdown
+
 After receiving the project theme from his social studies teacher Simonet, the young Trevor came up with the idea of the game "Pay it forward." For those who do not know this game, it involves Trevor helping people in need. These people, in turn, will help other people, and so on.
 
 Each participant (including Trevor) must perform $k$ good deeds by helping people. The elderly and the young accomplish this task in different ways. The elderly need $\\text{zv}$ days to bring another person into the game, while the young need $\\text{zt}$ days. So if an elderly person or a young person enters the game on day $i$, they will introduce the first person into the game on day $i+\\text{zv}$ for the elderly, respectively on day $i+\\text{zt}$ for the young, the second person on day $i+2*\\text{zv}$ for the elderly, respectively on day $i+2*\\text{zt}$ for the young, and so on. Therefore, the number of people participating in the game can vary depending on how elderly and young people are chosen. Trevor wants as many good deeds as possible to be performed in the game in total, but each participant should bring into the game at most $(k+1)/2$ young people and at most $(k+1)/2$ elderly people. Participants can bring fewer people of a certain type, but they must not exceed the number of $(k+1)/2$ people of the same type.
@@ -87,4 +87,3 @@ In the following days:
 - $T_3$ should help two more people, one young person and one elderly.
 
 So, there are $7$ good deeds left to be accomplished.
-```

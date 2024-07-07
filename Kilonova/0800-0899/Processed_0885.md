@@ -1,3 +1,4 @@
+
 It is considered a table with $N$ rows and $N$ columns (numbered from $1$ to $N$) which contains the value $1$ in each of the $N \cdot N$ cells. The values in the table can be modified by applying two coded operations as follows:
 
 * $L \ nr$, which simultaneously changes the signs of all numbers in the row with number $nr$.
@@ -93,5 +94,6 @@ $C \ 1$
 ## Explanation
 
 There is no sequence of operations for which $Z = 7$ negative values can be obtained.
+```
 
 

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Luka is bored again during chemistry class while the teacher explains Avogadro's law.
 
@@ -44,4 +44,3 @@ Print on the first line the minimum number of columns that need to be deleted.
  2
   ```
 
-```

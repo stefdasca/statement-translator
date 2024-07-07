@@ -1,4 +1,4 @@
-```markdown
+
 Given an undirected connected graph $G$ with $N$ nodes and $M$ edges, each edge having an associated cost.
 A partial tree for $G$ is a subgraph with the structure of a tree, which includes all nodes and some of the edges.
 
@@ -57,4 +57,3 @@ The graph in the example:
 A partial tree with the minimal difference between the maximum and minimum cost of the edges:
 
 ~[wd_2.png]
-```

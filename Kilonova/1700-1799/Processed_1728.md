@@ -1,4 +1,4 @@
-```markdown
+
 Through $fibosir(N)$ we understand a sequence constructed by adding at the end (concatenation) the first $N$ non-zero terms of the Fibonacci sequence defined as follows:
 
 * $F_1 = 1$
@@ -40,4 +40,3 @@ The output file `fibosir.out` will contain on the first line the maximum number 
 ## Explanation
 
 $fibosir(8)$: $1123581321$ removing $3$ subarrays of length $2$: $11$, $23$, $13$
-```

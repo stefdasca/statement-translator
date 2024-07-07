@@ -35,4 +35,3 @@ In the output file `pingpong.out` print a single number with three **rounded** d
 `pingpong.out`
 ```
 0.995
-```

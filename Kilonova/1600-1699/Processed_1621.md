@@ -1,4 +1,4 @@
-```markdown
+
 A colony of $N$ ants has started to systematically explore the territory around the anthill. The ants move only to the right or down. This part of the territory has been divided into areas arranged in rows and columns in the form of a matrix with $NX$ rows and $NY$ columns.
 
 The ants begin their exploration one by one from the top-left cell of the matrix. They move alternately: the first to the right, the second down, the third again to the right, and so on. They proceed in the same manner in each cell of the matrix they reach, guided by the pheromones left by the other ants. Thus, the first ant to reach a cell continues its path to the right cell, the second ant that reaches the same cell goes down, the third again to the right, and so on. The ants move in this way until they exit the matrix.
@@ -38,5 +38,4 @@ The output file `explorare.out` will contain a natural number representing the a
 The file will contain the number $7$, this being the number of cells not visited by any of the $4$ ants. The paths followed by the ants are the following:
 
 ~[explorare.png]
-```
 ```

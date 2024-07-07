@@ -62,4 +62,3 @@ PPLKNS NIUKUK
 `cezar.out`
 ```
 ONIGIM GALATI 
-```

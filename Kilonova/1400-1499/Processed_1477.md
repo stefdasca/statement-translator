@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with $L$ rows and $C$ columns is considered, which only stores values from the set $\{0, 1, 2\}$. A non-empty submatrix (formed from at least one row and at least one column) of this matrix is called homogeneous if the number of $0$ values is equal to the number of $1$ values and equal to the number of $2$ values. For example, in the matrix
 
 $$
@@ -110,5 +110,4 @@ The six submatrices were mentioned in the statement.
 `omogene.out`
 ```
 3
-```
 ```

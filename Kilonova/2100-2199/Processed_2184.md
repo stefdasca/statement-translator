@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a word, rearrange its letters to become a palindrome.
@@ -41,5 +41,4 @@ AB
 `stdout`
 ```
 -1
-```
 ```

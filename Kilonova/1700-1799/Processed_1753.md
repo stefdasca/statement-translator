@@ -1,4 +1,4 @@
-```markdown
+
 Let $N$ be a natural number composed of **non-zero** digits.
 
 # Task
@@ -50,4 +50,3 @@ $123 + 132 + 213 + 231 + 312 + 321 = 1 \ 332$.
 
 All distinct numbers that can be formed with the digits $7$, $8$, $8$ are: $788$, $878$, $887$.
 $788 + 878 + 887 = 2 \ 553$
-```

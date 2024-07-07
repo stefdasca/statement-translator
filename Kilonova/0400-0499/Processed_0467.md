@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a string $S$, consisting of lowercase English letters, indexed from $1$. You need to answer $Q$ queries of the form $x, y$ - counting how many inversions are in the interval $[x, y]$. An inversion is a pair of indices $(i, j)$, $1 \leq i < j \leq N$, for which the relation $S_i > S_j$ holds.
@@ -76,5 +76,4 @@ dvoeikwnuw
 0
 1
 2
-```
 ```

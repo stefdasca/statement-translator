@@ -1,4 +1,4 @@
-```markdown
+
 Zizi will spend her holiday this summer in a beautiful seaside resort on the Black Sea. She will stay there for $N$ days. The days are numbered from $1$ to $N$. During each of the $N$ vacation days, she plans to sunbathe for as many time units as possible. However, she must consider the weather forecast, which is unfavorable on $K$ of the $N$ days, specifically on days $z_1$, $z_2$, $\\dots$, $z_k$. On each of these $K$ days, it will either rain or be too sunny, and Zizi will need to limit her sunbathing times to at most $t_1$, $t_2$, $\\dots$, $t_k$ time units. Additionally, for physical comfort reasons, Zizi wants the absolute difference in sunbathing times between any two consecutive days to not exceed $T$.
 
 # Task
@@ -57,4 +57,3 @@ On day $1$, the sunbathing time is limited to $2$ time units. On the second day,
 ## Explanation
 
 On day $2$, the sunbathing time is limited to $2$ time units, and on days $1$ and $3$ there are no limitations. Thus, the maximum sunbathing time for days $1$ or $3$ is $2 + 11 = 13$. On day $4$, the sunbathing time is limited to $5$ time units, and on day $5$ there is no limitation. Therefore, on day $5$, the maximum sunbathing time is $5 + 11 = 16$.
-```

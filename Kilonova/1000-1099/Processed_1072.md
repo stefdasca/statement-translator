@@ -1,4 +1,4 @@
-```markdown
+
 We consider a natural number $N$. We define the set of numbers with **communicating digits**, denoted by $A$, as the set consisting of all numbers with $N$ digits, containing only **non-zero digits** and having the sum of the digits equal to $N + 8$. For example, for $N = 2$, the set $A$ is $\\{19, 28, 37, 46, 55, 64, 73, 82, 91\\}$.
 
 # Task
@@ -36,4 +36,3 @@ The output file `cifreco.out` contains on the first line the determined number.
 ## Explanation
 
 $N = 2$, $x = 37$ and $y = 82$. There are 6 two-digit non-zero numbers, with the sum of the digits equal to 10, between $37$ and $82$ inclusive: $37$, $46$, $55$, $64$, $73$, $82$.
-```

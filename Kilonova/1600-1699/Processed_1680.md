@@ -1,4 +1,4 @@
-```markdown
+
 $N$ bamboo rods are given with lengths $L_1$, $L_2$, $\dots$, $L_N$. According to an ancient tradition, two rods are in harmony if they have the same length. Since the $N$ lengths can differ, it is not obvious how to make pairs of harmonious rods. Thus, two rods can be chosen and if one is longer, it will be cut to match the length of the other, to harmonize with its pair. The surplus is added to the group of existing rods, and the pair is left aside to harmonize for a long time to bring luck and prosperity. The above procedure is repeated successively until either all rods are exhausted or only one rod remains.
 
 # Task
@@ -50,4 +50,3 @@ Set 2: $L = \{2, 3, 3, 3, 10 \}$
 - harmonize $3$ with $5 \rightarrow L = \{2, 3 \}$
 - harmonize $2$ with $3 \rightarrow L = \{1 \}$
 - length of the final rod: $1$
-```

@@ -4,8 +4,8 @@ Two arrays $A$ and $B$, both with $N$ elements, are given, along with the defini
 ```cpp
 long long f(int A[], int B[], int n){
     long long sum = 0;
-    for(int i = 1; i <= n; i++)
-        for(int j = i+1; j <= n; j++)
+    for(int i = 1; i \leq n; i++)
+        for(int j = i+1; j \leq n; j++)
             if(B[i] == B[j]) sum += __gcd(A[i], A[j]);
     return sum;
 }
@@ -81,4 +81,3 @@ After the first modification, the return value will be $\gcd(2,2) + \gcd(2,3) + 
 14
 11
 19
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence $A$ with $N$ non-zero integer elements. We call a sequence of $A$ any succession of elements found in consecutive positions in the sequence: $A_i, A_{i+1}, \dots, A_j$ with $1 \leq i < j \leq N$.
 
 The length of the sequence is understood to be the number of elements that compose it. For any sequence $A_i, A_{i+1}, \dots, A_j$, we call a *split-point* an index $k$, $i \leq k < j$, which divides the sequence into two non-empty subarrays: $A_i, A_{i+1}, \dots, A_k$ and $A_{k+1}, A_{k+2}, \dots, A_j$.
@@ -41,4 +41,3 @@ The output file `ksplit.out` will contain two lines. The first line contains the
 Among all the possible sequences, we choose the sequence $2\ 3\ -1$, which is formed from the first $3$ elements of the sequence.
 The value of $D_{max}$ is $6$, meaning: $s_1 = 2 + 3 = 5$, $s_2 = -1$, $D_{max} = |5 - (-1)| = 6$, $L_{max} = 3$.
 It is also observed that there is the sequence $-1\ 5$ for which: $s_1 = -1$, $s_2 = 5$, $D_{max} = |-1 - 5| = 6$ but this sequence has a length of $2$.
-```

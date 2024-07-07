@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array $a$ of $n$ numbers $a_1,a_2,\ldots,a_n$.
@@ -69,4 +69,3 @@ $[1,2,3,1,3,2,3]$ is the minimum lexicographic sequence that meets the condition
 ## Explanation 
 
 It can be demonstrated that there is no array $b$ that meets the conditions from the statement.
-```

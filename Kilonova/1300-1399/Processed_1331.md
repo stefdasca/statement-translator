@@ -1,4 +1,4 @@
-```markdown
+
 We define the notion of ordered pair, the pair of natural numbers $(x,y)$ with $x \leq y$. We define the least common multiple of an ordered pair as the least common multiple of the numbers that form the pair.
 $k$ natural numbers $n_1, n_2, \dots, n_k$ are given.
 
@@ -44,4 +44,3 @@ The file `cmmmc.out` will contain $k$ lines. Each of these will contain three nu
 
 There are five distinct pairs that have the least common multiple equal to $10$: $(1, 10)$, $(2, 10)$, $(5, 10)$, $(2, 5)$, $(10, 10)$. Among these pairs, the one with the smallest sum is $(2, 5)$.
 For $n = 11$ there are two ordered pairs that have the least common multiple $11$: $(1, 11)$, $(11, 11)$. Among these pairs, the one with the smallest sum is $(1, 11)$.
-```

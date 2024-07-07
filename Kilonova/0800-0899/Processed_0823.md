@@ -33,4 +33,3 @@ The output file `arme.out` will contain a single line which will contain the max
 `arme.out`
 ```
 16
-```

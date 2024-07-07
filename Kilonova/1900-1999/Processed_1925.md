@@ -54,4 +54,3 @@ Starting at minute $1$, the distributions in the $4$ rooms will be as follows:
 1 4 1 1
 1 5 1 1
 1 5 2 1...
-```

@@ -2,7 +2,7 @@ On a wonderful spring day, $P$ ducks went for a walk on the lake. A military pel
 
 ~[pelican_01.png]
 
-When the pelican shouts: “Commands to me!” the ducks must simultaneously execute the $K$ commands given by the pelican. The pelican's commands are encoded as follows:
+When the pelican shouts: “Commands to me!� the ducks must simultaneously execute the $K$ commands given by the pelican. The pelican's commands are encoded as follows:
 
 * $A \\ nr$ – The duck advances $nr$ positions in the direction it is facing. If advancing exceeds the edge of the game board, it will enter from the opposite side. For example, on a $5$ x $5$ lake, a duck placed in position ($1, 3$) facing $1$ (North), executing the command $A \\ 3$ will move as follows: ($1, 3$) $\\rightarrow$ ($0, 3$) $\\rightarrow$ ($4, 3$) $\\rightarrow$ ($3, 3$).
 * $R \\ nr$ – The duck rotates by $nr \\cdot 90 \\degree$ clockwise, where $nr \\in \{1,2,3,4\}$. For example, if the initial orientation of the duck is $1$ (North), the command $R \\ 2$ will change the orientation to $3$ (South).

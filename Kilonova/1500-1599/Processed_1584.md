@@ -89,4 +89,3 @@ The output file `primar.out` will contain a single natural number, representing 
 ```
 52
 ```
-```

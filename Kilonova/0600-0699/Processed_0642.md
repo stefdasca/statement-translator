@@ -1,4 +1,4 @@
-```markdown
+
 We define a ***square-free number*** as a natural number that does not have any perfect square greater than $1$ as a divisor. By convention, $1$ is considered *square-free*.
 
 Thus, the sequence of *square-free* numbers is: $1, 2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, \dots$
@@ -89,4 +89,3 @@ If $28$ is removed, the *bisubsequence* $\{5, 17\}$ of length $2$ is obtained. I
 $C = 2$, $N = 9$, $X_{1−9} = \{3, 10, 5, 8, 9, 11, 4, 15, 21\}$. The second task is solved.
 $8$ cannot be removed as it is at the end of a *bisubsequence* and $9$ cannot be removed as it would be the start of a *bisubsequence*.
 The only number that is not *square-free* and can be removed is $4$ and the *bisubsequence* $\{11, 15, 21\}$ of length $3$ is obtained, starting at position $6$ and ending at position $9$.
-```

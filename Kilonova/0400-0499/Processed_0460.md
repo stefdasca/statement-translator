@@ -1,4 +1,4 @@
-```markdown
+
 The Prime Minister of Great Britain, Rishi Sunak, has decided to reorganize the administrative structure of Oxfordshire county. In Oxfordshire, there are $N$ towns numbered from $1$ to $N$, connected by $M$ highways (one-way roads connecting $2$ towns). Rishi has decided that all towns to which citizens of all other towns can reach via the highways should become residences. Because the number of towns and highways in Oxfordshire is very large, Rishi asks for your help in solving two key problems.
 
 # Task

@@ -1,4 +1,4 @@
-```markdown
+
 Gigel has invented a new programming language which he named GCL (Gigel Champion Language). In GCL, up to $26$ variables can be used, denoted by lowercase letters of the English alphabet. The initial value of each variable (at the start of program execution) is $0$. A program written in GCL consists of a sequence of commands, one command per line.
 
 Command|Meaning|
@@ -105,5 +105,4 @@ STOP
 `gcl.out`
 ```
 x = 1024
-```
 ```

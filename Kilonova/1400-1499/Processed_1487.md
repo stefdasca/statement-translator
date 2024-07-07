@@ -1,4 +1,4 @@
-```markdown
+
 A group of $N$ scouts, numbered from $1$ to $N$, are at a mountain camp. For them, the organizers have prepared $N$ chairs, also numbered from $1$ to $N$, arranged in a circle so that each scout has their seat (the seat of scout $i$ is chair $i$, $1 \leq i \leq N$).
 
 For the next activity, the organizers have decided that $M$ of the scouts should present different exercises. The number $M$ is equal to the largest power of $2$ with the property that the number $N$ of scouts in the camp can be written as the sum of $M$ consecutive odd numbers. The $M$ scouts who will present are those numbered with consecutive odd numbers whose sum is $N$. For example, if $N=8$, then $M$ is $2$, and the exercises will be presented by the scouts numbered $3$ and $5$.
@@ -47,4 +47,3 @@ The output file `cercetasi.out` will contain $3$ lines. The first line will cont
 If $N=8$, then $M$ is $2$, and the exercises will be presented by the scouts numbered $3$ and $5$.
 
 The scout with number $3$ is not in their place and will go inside the circle, thus the chair with number $2$ remains free. The scout with number $2$ takes their place, and the chair with number $1$ remains free. The scout with number $1$ takes their place, and the chair with number $4$ remains free. The scout with number $4$ takes their place, and the chair with number $3$ remains free, thus the scout inside the circle can sit in their place. In this "Move" game, $4$ scouts changed places. Since the scout with number $5$ is already in their place, the number of scouts who change places remains $4$.
-```

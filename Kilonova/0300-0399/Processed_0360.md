@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In a magical forest far-far away lives the Miraculous Deer. It likes to take *magical walks* along the trails of the forest. You're wondering, how many distinct *magical walks* could it take?

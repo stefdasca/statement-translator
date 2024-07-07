@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with `N` rows and `M` columns containing only lowercase letters of the English alphabet is given. A *room* is defined as a maximal area of cells in the matrix that contain the same letter, connected in all `4` directions: *up, down, left, right*.
 
 We are interested in answers to questions of the form: "How many rooms are included completely or partially in a given rectangle, viewed as a submatrix?"

@@ -1,4 +1,4 @@
-```
+
 The Vizima Fortress in the kingdom of Temeria can be represented by a matrix with $N$ rows and $M$ columns, numbered starting from $1$. Vizima is a flourishing fortress due to the large number of merchants and craftsmen present. For this reason, each cell is assigned a profit corresponding to that area. King Foltest wants to rebuild the fortress walls, but as the war with the Nilfgaard Empire looms and the kingdom's resources are limited, he must choose a defendable portion, represented as a submatrix. A submatrix is identified by a **configuration** of four numbers $(i_1, j_1, i_2, j_2)$ ($1 \leq i_1 \leq i_2 \leq N$, $1 \leq j_1 \leq j_2 \leq M$) in this order, and consists of the elements located on the consecutive rows $i_1, i_1+1, \ldots, i_2$ and the consecutive columns $j_1, j_1+1, \ldots, j_2$ of the matrix through which the fortress is represented. The **sides** of the submatrix are equal to the number of rows and columns from which it took elements, and the **profit** of the submatrix is the sum of the values in its cells.
 
 # Task
@@ -56,4 +56,3 @@ In this example, the task 1 is solved. The submatrix with the configuration $(i_
 ## Explanation
 
 In this example, task 2 is solved. All submatrices with sides $1$, $2$ or $3$ were considered, and the found submatrix, with sides $1$ and $2$, is the only maximum profit submatrix that meets the conditions imposed by the task.
-```

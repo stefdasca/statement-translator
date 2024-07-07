@@ -1,4 +1,4 @@
-```markdown
+
 Natural numbers $A$ (composed of two or three distinct and non-zero digits) and $X$ (composed of $N$ digits, all non-zero) are considered.
 
 From the number $X$, using all its $N$ digits, the largest natural number $Y$ **strictly less than $\textbf{X}$** can be constructed. For example, for $X=121621$, $Y=121612$ can be constructed.
@@ -74,4 +74,3 @@ There are $Z=3$ distinct ways to obtain the number $A$ from $X$:
 1) $\textbf{\textcolor{red}{12}} \sout{1621}$;
 2) $\textbf{\textcolor{red}1} \sout{216} \textbf{\textcolor{red}2} \sout{1}$;
 3) $\sout{12} \textbf{\textcolor{red}1} \sout{6} \textbf{\textcolor{red}2} \sout{1}$.
-```

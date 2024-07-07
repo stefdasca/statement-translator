@@ -58,4 +58,3 @@ If we arranged the digits of the numbers in the sequence, forming the numbers $3
 4
 5
 12
-```

@@ -1,4 +1,4 @@
-```markdown
+
 We consider an array with $N$ integer elements. We define the following notions:
 
 * **sequence in the array** = elements positioned consecutively in the array
@@ -94,4 +94,3 @@ The longest of these sequences is the **N-sequence** ($-3, 4, -10, -1$ , $-16, 1
 We solve task $3$. The array has $N=10$ integer elements: $-9, -3, 4, -10$ , $-1, -16, 18$ , $18, -10, 50$.
 
 The maximum sum of a sequence is $60$ (the sum of the **N-sequence**: $-16, 18, 18$ , $-10, 50$).
-```

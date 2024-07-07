@@ -1,4 +1,4 @@
-```markdown
+
 After a full day, three boys play with numbers. Every evening, one of them chooses a number $x$, and another one a number $y$ greater than or equal to $x$. The third one proposes something more interesting. Thus, he chooses to tell them almost instantly the sum of perfect squares from $x$ and $y$.
 You have to solve something similar, but you only know what the first and last boy say. To check if they made mistakes in their calculations, however, you need to find the number that the second boy could say.
 
@@ -41,4 +41,3 @@ The output file `spp.out` will contain the answer to each query.
 
 - $1^2 + 2^2 + 3^2 + 4^2 = 29 \geq 5^2$;
 - $10^2 + 11^2 + 12^2 = 385 \geq 19^2$.
-```

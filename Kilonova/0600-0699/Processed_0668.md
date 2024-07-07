@@ -1,4 +1,4 @@
-```markdown
+
 Stefan is a big football fan and he's also interested in various statistics related to his favorite sport. Today he read about some past football competitions which involved group stage events and he's now stuck with trying to solve this problem:
 
 Given the final results of a round robin round (each team plays against each team twice), help Stefan find whether there is a unique way of assigning the results for each match such that we end up having the final standings given in the input. Since the data can be faulty, there can also be a chance of having invalid group stages, so you will also have to help Stefan find them out.
@@ -65,4 +65,3 @@ Not unique
 For the first testcase, the results are unique because we can uniquely determine that the first team won all the games against all other teams, the second team won all the games except for the ones lost against the first team and the third team won all the games against the fourth team.
 
 For the second testcase, while we can uniquely determine that the fourth team lost twice against each other team, there are at least two ways of assigning game results such that each of the first three teams won twice and lost twice against the other two teams.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array $a_1, a_2, \dots, a_n$.
@@ -48,4 +48,3 @@ For the first query, it requires $a_3 + a_1$.
 For the second query, it requires $a_8 + a_5 + a_2$.
 For the third query, it requires $a_4 + a_1$.
 For the fourth query, it requires $a_6 + a_5 + a_4 + a_3 + a_2 + a_1$.
-```

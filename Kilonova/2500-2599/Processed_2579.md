@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an array of $N$ natural numbers. There are also $Q$ queries of the form $[l, r]$, where the sum of all subarrays of consecutive elements is required. More formally, for each query $[l, r]$, the result of the function $F(l, r) = \\sum_{i=l}^{r} \\sum_{j=i}^{r} S(i, j)$ is required, where $S(l, r)$ is the sum of all elements in the subarray $[l, r]$.
@@ -67,4 +67,3 @@ For the second query (subarray $[3, 5]$), the sum is $2 + 4 + 2 + (2 + 4) + (4 +
 For the third query (subarray $[4, 5]$), the sum is $4 + 2 + (4 + 2) = 12$.
 
 For the fourth query (subarray $[1, 5]$), the sum is $5 + 3 + 2 + 4 + 2 + (5 + 3)$  $+\\ (3 + 2) + (2 + 4) + (4 + 2) + (5 + 3 + 2)$  $+\\ (3 + 2 + 4) + (2 + 4 + 2) + (5 + 3 + 2 + 4) + (3 + 2 + 4 + 2)$  $+\\ (5 + 3 + 2 + 4 + 2) = 109$.
-```

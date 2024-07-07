@@ -48,17 +48,17 @@ a
 
 Explanation
 ---
-We start with the initial string `S = “a”`.
-We add the string `S = “a”` to the set `M` => `M = {“a”}`;
-We add the character `b` to the string `S` and get `S = “ab”`.
-We add the character `a` to the string `S` and get `S = “aba”`.
-We add the string `S = “aba”` to the set `M` => `M = {“a”, “aba”}`;
-We add the string `S = “aba”` to the set `M` => `M = {“a”, “aba”}`;
-We add the character `c` to the string `S` and get `S = “abac”`.
-We add the character `a` to the string `S` and get `S = “abaca”`.
+We start with the initial string `S = “a�`.
+We add the string `S = “a�` to the set `M` => `M = {“a�}`;
+We add the character `b` to the string `S` and get `S = “ab�`.
+We add the character `a` to the string `S` and get `S = “aba�`.
+We add the string `S = “aba�` to the set `M` => `M = {“a�, “aba�}`;
+We add the string `S = “aba�` to the set `M` => `M = {“a�, “aba�}`;
+We add the character `c` to the string `S` and get `S = “abac�`.
+We add the character `a` to the string `S` and get `S = “abaca�`.
 The result of operation `3` is `1`: `a`.
-We add the character `b` to the string `S` and get `S = “abacab”`.
-We add the character `a` to the string `S` and get `S = “abacaba”`.
+We add the character `b` to the string `S` and get `S = “abacab�`.
+We add the character `a` to the string `S` and get `S = “abacaba�`.
 The result of operation `3` is `2`: `a`, `aba`.
 
 ---

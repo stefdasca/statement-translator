@@ -1,4 +1,4 @@
-```
+
 We define the _distance_ between two strings of the same length as the minimum number of characters that need to be modified (each replaced by a different character) in the first string to obtain the second string. We denote the distance between the strings $a$ and $b$ as $dist(a, b)$.
 
 For example, $dist($`abc`$,\\ $`aaa`$) = 2$ (we replace the character `b` with `a`, and the character `c` with `a`), and $dist($`ABC`$,\\ $`abc`$) = 3$ (lowercase letters are considered different from uppercase ones).
@@ -111,5 +111,4 @@ abcdefghizabcdefghiz
 `sdistante.out`
 ```
 7095
-```
 ```

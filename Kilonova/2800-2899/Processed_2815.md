@@ -1,4 +1,4 @@
-`Ionuț tocmai a împlinit 14 ani și a primit cadou de ziua lui un set de $N$ bile de biliard numerotate de la $1$ la $N$ și un aparat de fotografiat. Bilele sunt așezate într-o ordine oarecare.
+Ionuț tocmai a împlinit 14 ani și a primit cadou de ziua lui un set de $N$ bile de biliard numerotate de la $1$ la $N$ și un aparat de fotografiat. Bilele sunt așezate într-o ordine oarecare.
 
 Fiind pasionat de matematică, el își imaginează un joc alcătuit din $K$ pași. El vrea ca, la finalul jocului, bilele să fie așezate într-o anumită ordine cerută de fratele său, conform regulilor jocului:
 * La primul pas, Ionuț așază bilele de biliard pe masă într-o ordine oarecare și fotografiază așezarea acestora. El va avea nevoie de fotografia făcută pe toată durata jocului.

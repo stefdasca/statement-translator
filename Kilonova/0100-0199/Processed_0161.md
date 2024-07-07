@@ -33,4 +33,3 @@ The output file `joc.out` will contain a number of lines equal to the number of 
 ```
 1
 2
-```

@@ -1,4 +1,4 @@
-```
+
 Bossanip presents you with an $N \times N$ matrix initially filled with $0$. You can perform three types of operations on it:
 * $1$ – Update $x \\ y \\ z$: Add integer value $z$ to the element at row $x$ and column $y$.
 * $2$ – Query $x \\ y$: Request the sum of the elements in the submatrix determined by the top-left corner $(1,1)$ and the bottom-right corner $(x,y)$.
@@ -40,5 +40,4 @@ The output file `undo.out` will contain the result of each Query operation, one 
 16
 6
 7
-```
 ```

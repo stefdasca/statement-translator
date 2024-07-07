@@ -1,4 +1,4 @@
-```markdown
+
 The digital map of the battlefield is stored in a two-dimensional array with $N$ rows, $M$ columns, and elements from the set \\{$0,1$}. The value $0$ represents a free position, and the value $1$ represents a position occupied by an obstacle. Each element located on the contour of the array, that is, on the first row, first column, last row, and last column, contains enemy objectives. Only zero elements are found on the contour of the array.
 
 Inside the array (elements that are not on the contour), in a free position, a soldier must be placed. His goal is to annihilate as many enemy objectives as possible. Unfortunately, he has a laser weapon with which he can perform only a single attack. When launching the attack, 4 rays are sent, one in each of the 4 diagonal directions. A ray can go until it encounters an obstacle (in which case it stops and has no effect) or until it reaches the contour (in this case it destroys the respective enemy objective).
@@ -49,4 +49,3 @@ The output file `raze.out` will contain $T$ lines, corresponding to the $T$ inpu
 The file contains two input data sets.
 In the first data set, a maximum of $4$ enemy objectives can be annihilated by positioning the soldier in row $2$ and column $2$.
 In the second data set, a maximum of $3$ enemy objectives can be annihilated by positioning the soldier in the element at row $3$ and column $2$ or in the element at row $3$ and column $6$.
-```

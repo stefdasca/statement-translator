@@ -59,4 +59,3 @@ $k_C \\; h_C$ – between points $k_C$ and $h_C$ the access way was interrupted
 4 5
 5 6
 6 7
-```

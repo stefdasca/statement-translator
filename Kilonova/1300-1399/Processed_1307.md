@@ -1,4 +1,4 @@
-```markdown
+
 A square matrix with $N$ rows and $N$ columns, containing all natural numbers from $1$ to $N \cdot N$, is considered.
 
 Three types of operations are defined on the matrix, encoded as follows:
@@ -92,5 +92,4 @@ C 2 3
 `perspic.out`
 ```
 4
-```
 ```

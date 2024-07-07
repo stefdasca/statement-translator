@@ -1,4 +1,4 @@
-```markdown
+
 In the city of programmers, there is a famous place where people can have fun as much as they want, at any hour. The mayor of the city of programmers has built, starting from this place, several roads to the houses of all citizens, houses coded with numbers from $2$ to $n$, the place being coded with $1$. If there are no other houses between a house and the place, then the road is built directly between the two buildings, but if there are other houses between the house and the place, then the road will be formed by the road from the place to the first house, then the road from the first house to the second house, then from the second house to the third house and so on until it reaches the current house.
 
 The city is coded as an array $t[\\ ]$, where $t[i] = 0$ if the building $i$ is exactly the place where the people of the city can have fun or $t[i] = y$, with $y \\neq 0$, meaning that from house $i$ you can reach the house/building $y$ which is between the place and the current house.
@@ -34,5 +34,4 @@ Print the answer for each question, on different lines.
 ```
 1
 2
-```
 ```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Larry, the lazy lizard, has decided to take some very challenging physics courses at school. In this subject, there are no assignments, only tests! Also, being very lazy, he wants to study as little as possible for his tests.
@@ -46,5 +46,4 @@ Print $N$ lines, with the $i$-th line containing the minimum number of tests to 
 2
 1
 1
-```
 ```

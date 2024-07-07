@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 After 5 minutes of continuous work, the famous mathematician brothers Srep and Pep proposed the concept of *distance* between two natural numbers with the same number of digits.
@@ -56,4 +56,3 @@ The output file `pdist.out` will contain $t$ numbers, the \texttt{p-distances} o
 - The minimum distance between $1$ and another single-digit prime number, such as $2$, $3$, $5$, or $7$, is equal to $1$.
 - The minimum distance between $200$ and another three-digit prime number is equal to $2$. Examples of three-digit prime numbers at a distance of $2$ from $200$ are $107$, $211$, and $293$.
 - $89$ is a prime number, so its *p-distance* is equal to $0$.
-```

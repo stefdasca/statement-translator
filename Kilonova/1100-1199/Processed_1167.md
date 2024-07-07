@@ -1,4 +1,4 @@
-```markdown
+
 ~[img.png|align=right|width=20em]
 
 A country has $N$ cities, numbered from $1$ to $N$, arranged in a circle. PAM has just obtained her driver's license and wants to visit all the cities in the country. PAM is afraid to drive through crowded places, so she decided to drive only on the roads with less traffic. There are connecting roads between any two adjacent cities: between city $1$ and city $2$, ..., between city $i$ and city $i+1$, and city $N$ is connected to city $1$.
@@ -43,5 +43,4 @@ The output file `masina.out` will contain a single number $s$ which represents a
 `masina.out`
 ```
 4
-```
 ```

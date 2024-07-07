@@ -61,4 +61,3 @@ NTS*#c+ MI+#c+U=NATASA MIAU
 `indiciu.out`
 ```
 A
-```

@@ -1,4 +1,4 @@
-```
+
 The Ministry is organizing a trip for the olympiad students to Paris. We are all at the airport, with $K$ olympiad students having a total of $P$ pieces of luggage. The informatics olympiad students now need to solve the following problem.
 
 For the flight to Paris, $N$ check-in counters have been opened, numbered from $1$ to $N$. Each counter is staffed by exactly one employee. The employee at counter $i$ needs $A_i$ seconds to process each piece of luggage of the client at the counter and $B_i$ seconds to issue all the boarding passes requested by the client (the same time $B_i$ regardless of the number of boarding passes requested by the client).
@@ -55,4 +55,3 @@ A third person stands at counter $6$, hands over $6$ pieces of luggage, and gets
 
 A fourth person does not stand at any counter.
 
-```

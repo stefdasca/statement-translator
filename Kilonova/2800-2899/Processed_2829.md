@@ -1,5 +1,5 @@
 > "What's even better than soup?
-> Only kebab and shawarma”
+> Only kebab and shawarma�
 
 After a stormy night at the "La Regele" club, Țil and Rose head towards Siclam to eat. Unfortunately, after finding out that Cristi's menu is not being served that night, Rose decides that the best option is to get a schnitzel as big as a tractor's wheel. Since Țil is highly educated at top universities, he asks for $N$ schnitzels as big as tractor wheels. As tractor wheels are not always equal in size, the schnitzels can have different diameters. Since Rose also has to feed Lion, he will eat every second schnitzel, and Țil will eat every third schnitzel. The story continues through a night full of adventures. In order not to bore you with the details, we will get to the point.
 

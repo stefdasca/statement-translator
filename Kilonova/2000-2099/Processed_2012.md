@@ -1,4 +1,4 @@
-```markdown
+
 At Eden Academy's art class, Anya has to construct a string of pearls. Initially, Professor Henderson gives Anya two numbers, $Q$ and $K$. Then, the professor gives Anya $Q$ instructions of the following types:
 * Addition: Anya has to add a pearl with price $x$ at the right end of the string.
 * Deletion: Anya has to remove the pearl at the right end of the string and state its price.
@@ -70,4 +70,3 @@ Operation $7$ is an addition operation, and the string becomes $2 \\ 3 \\ 5 \\ 2
 Operation $8$ is a special deletion operation, and the removed pearl has a price of $2$. Since the first pearl with price $2$ was the second least valuable and was removed, the string is now in the form $3 \\ 5 \\ 2 \\ 1$.
 Operation $9$ is a deletion operation, and the removed pearl has a price of $1$. The string is now in the form $3 \\ 5 \\ 2$.
 Operation $10$ is an addition operation, and the string becomes $3 \\ 5 \\ 2 \\ 6$, which we also print.
-```

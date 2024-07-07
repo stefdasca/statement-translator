@@ -1,4 +1,4 @@
-```markdown
+
 The reverse of a natural number is the value obtained by reading its digits from right to left. For example, the reverse of the number $245$ is $542$. A number is a palindrome if it is equal to its reverse. For example, $121$ is a palindrome, while the number $21$ is not a palindrome.
 
 Consider the **initial sequence** of natural numbers $0, 1, 2, 3, 4, \dots$
@@ -84,4 +84,3 @@ $1$ appears once, so $n_3=1$ (Since $C$ is $2$, only task $2$ is resolved).
 ## Explanation
 
 $k=2$ and in the new sequence there are $153$ numbers with $2$ digits. (Since $C$ is $3$, only task $3$ is resolved)
-```

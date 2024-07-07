@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Alex finds in the attic of his house a safe on which the following text is written: you can open this safe only if you determine, following certain rules, a cipher consisting of decimal digits, using $N$ given natural numbers formed from non-zero digits. The safe can be opened with one or more numbers, the important thing is that they are correctly determined.
@@ -51,5 +51,4 @@ The numbers $411, 141, 114, 14, 41, 11, 4, 1$ meet the required condition.
 `cifru.out`
 ```
 11231
-```
 ```

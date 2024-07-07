@@ -42,4 +42,3 @@ The output file `pedrumuriminime.out` will contain $q$ values of $0$ and $1$, wi
 `pedrumuriminime.out`
 ```
 10
-```

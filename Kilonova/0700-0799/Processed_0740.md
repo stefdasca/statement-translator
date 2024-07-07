@@ -1,4 +1,4 @@
-```markdown
+
 Given the natural number $k$. We want to obtain a one-dimensional array $a$, with natural elements constituted as follows: $a_1 =$ a two-digit number (the tens digit of $a_1$ is the hundreds digit of the product $k \cdot k$, and the units digit of $a_1$ is the tens digit of the product $k \cdot k$).
 
 For $i > 1$, $a_i$ is obtained as follows: $a_i =$ a two-digit number (the tens digit of $a_i$ is the hundreds digit of the product $a_{i-1} \cdot a_{i-1}$, and the units digit of $a_i$ is the tens digit of the product $a_{i-1} \cdot a_{i-1}$).
@@ -61,4 +61,3 @@ Task 2:
 - $a_5 = 2$; its first digit is $2$;
 - $a_6 = 0$; its first digit is $0$.
 - After sorting these first digits: $2$ (associated with $a_1$), $6$ (associated with $a_2$), $8$ (associated with $a_3$), $5$ (associated with $a_4$), $2$ (associated with $a_5$) and $0$ (associated with $a_6$), the new order of these numbers is obtained: $0, 2, 2, 5, 6, 8$, respectively associated with the elements of the array $a$: $0, 25, 2, 5, 62, 84$; the elements of $a$ will be displayed in this order, or in the order: $0, 2, 25, 5, 62, 84$.
-```

@@ -80,4 +80,3 @@ There will be $T$ lines. The $i$-th line will contain a single integer, represen
 ```
 6
 8
-```

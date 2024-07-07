@@ -1,4 +1,4 @@
-```markdown
+
 A company produces a new type of rectangular diamonds of different qualities. To calculate the quality of a diamond, the company divides the diamond into `N*M` small squares forming a matrix with `N` rows numbered from `1` to `N` and `M` columns numbered from `1` to `M`. The square on row `i` and column `j` can influence the quality of the diamond in the following way (`1 \leq i \leq N, 1 \leq j \leq M`):
 * if the square contains impurities, it is marked with `-1` and will decrease the diamond's quality by `i*j`
 * if the square is empty, it is marked with `0` and does not change the diamond's quality
@@ -43,6 +43,5 @@ The matrices corresponding to the `3` diamonds are:
 ```
 -1 +1     +1  0      +1 +1
 +1 +1     +1 +1       0 +1
-```
 ```
 ```

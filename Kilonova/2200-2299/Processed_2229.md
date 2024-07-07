@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an integer $N$ and a permutation of the set $(1, 2, \dots, N)$. A subarray $[i, j]$, $(i \leq j)$ contains all elements of the permutation found between positions $i$ and $j$ inclusively. A subarray is called a compact interval if its elements form a set of consecutive values (not necessarily in the order in the permutation). For example, for the permutation $1 \ 2 \ 6 \ 4 \ 5 \ 3$, the subarrays $6 \ 4 \ 5$ and $2 \ 6 \ 4 \ 5 \ 3$ are compact intervals, while the subarrays $1 \ 2 \ 6$ and $2 \ 6 \ 4 \ 5$ are not compact intervals. Determine the number of compact intervals in the given permutation.
@@ -47,4 +47,3 @@ The 13 compact intervals in the example are:
 * $4 \ 5 \ 3$
 * $5$
 * $3$
-```

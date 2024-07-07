@@ -1,4 +1,4 @@
-```markdown
+
 We call a list a sequence of natural numbers. We have several lists arranged in order, one below the other. We say that two lists $L_1$ and $L_2$ are neighbors if $L_1$ is immediately above $L_2$, or if $L_2$ is immediately above $L_1$. Any two neighboring lists $L_1$ and $L_2$ can be unified if they have at least one common element. By unification, the new list will include all elements from $L_1$ along with all elements from $L_2$. Lists $L_1$ and $L_2$ will disappear and in their place, the new list will appear.
 
 # Task
@@ -56,5 +56,4 @@ We have four lists. We can unify the first and second list, which will be replac
 `liste.out`
 ```
 3
-```
 ```

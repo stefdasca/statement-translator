@@ -44,4 +44,3 @@ Explanation
 For `i = 1`, we choose the word `a`. The number of operations is `2`: `empty -> a -> empty`
 For `i = 2`, we choose the words `a` and `b`. We need `4` operations to type them: `empty -> a -> empty -> b -> empty`
 For `i = 3`, we choose all `3` words. The minimum number of operations is `10`.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 You have just received an array $v$ of $K$ distinct non-zero natural numbers. Starting from this array, you decided to construct an array $w$ of $N$ distinct natural numbers, such that a number $x$ is in the array $w$ if and only if it was initially in the array $v$ or if it can be chosen from at least two numbers in the array $v$ such that $x$ is the greatest common divisor of those numbers.
 
 For example, if $v = [4, 6, 7]$ then $w = [1, 2, 4, 6, 7]$.
@@ -59,4 +59,3 @@ It can be shown that any other array with the required property has at least $3$
 ## Explanation
 
 There is no array with less than $4$ elements that has the required property.
-```

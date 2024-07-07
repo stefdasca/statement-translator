@@ -1,4 +1,4 @@
-```markdown
+
 Bobi is a passionate hiker. The mountainous area he will visit this summer has an attractive feature: there is a cable car transport system. The horizontal projection of Bobi's chosen route is a straight line. Certain points on the mountain, some of which are on the cable car route, are called altitudes. The horizontal projections of the altitudes are $n$ collinear points located one kilometer apart from each other.
 
 ~[8ad76cce3bb09b4c1d8c3588a651462f.png|align=left] In the figure, the mountain profile is represented by a solid line, and the cable car route, where it does not coincide with the mountain profile, is represented by a thick dotted line. The cable car follows the segments that connect the altitudes: $[1,2],  [2,3],  [3,6], [6,7], [7,8]$ and $[8,9]$.
@@ -110,4 +110,3 @@ Segment $[1,2]$ is covered in $1$ hour and $1$ euro is spent.
 Segment $[2,4]$ is covered in $2$ hours and $1$ euro is spent.
 
 It is noted that the cable car _reaches_ altitudes $2$ and $4$, passing _above altitude_ $3$.
-```

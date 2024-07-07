@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given two numbers $n$ and $k$. Find any sequence of $k$ natural numbers $x_1,x_2,\ldots,x_k$ that satisfies the following conditions:
@@ -71,4 +71,3 @@ $10^9=10^9$
 ## Explanation
 
 $14=2+3+4+5$
-```

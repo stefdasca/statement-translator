@@ -1,4 +1,4 @@
-```markdown
+
 In the info club, a new Pokemon, Meow2, has appeared. Being passionate about trees, Meow2 has a tree with a root of `N` nodes, numbered from `0` to `N - 1`. Node `0` is the root of the tree and, for any node different from `0`, its parent has an index **strictly smaller** than it. Each node `i` initially has an associated natural number `S[i]` between `1` and `L`.
 
 Meow2 would like to know how many times the sequence `1, 2, ..., L` appears as a subsequence "down" the initial tree. Formally, he is interested in how many sequences $A_0, A_1, ..., A_{L-1}$ exist such that each node $A_i$ has an associated value `i + 1` and, for each `0 \leq i < L - 1`, node $A_i$ is an ancestor (not necessarily direct) of node $A_{i+1}$.
@@ -46,4 +46,3 @@ Explanation
 ---
 In the initial tree, the sequence `S` appears `3` times, but after the first change, it will appear `0` times, after the second change still `0` times, after the third change once, after the fourth change once, after the fifth change `2` times, after the sixth change `2` times.
 The answer is `1 * 0 + 2 * 0 + 3 * 1 + 4 * 1 + 5 * 2 + 6 * 2 = 29`
-```

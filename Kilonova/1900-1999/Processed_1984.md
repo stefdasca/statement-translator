@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an integer $N$, followed by $N$ positive numbers, the $i$-th number being $v_i$. Find the maximum *xor sum* that can be obtained by choosing a continuous subarray.
@@ -52,5 +52,4 @@ The subarray with the maximum *xor sum* is $(4, 5)$.
 `stdout`
 ```
 107
-```
 ```

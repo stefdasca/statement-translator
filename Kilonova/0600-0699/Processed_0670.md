@@ -1,3 +1,4 @@
+
 You are given an array $a$ of length $n$. You need to process $q$ queries. Each query is one of the following two types:
 
 1. $x$ - What is the value of $a_x$ modulo $10^9+7$?

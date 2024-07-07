@@ -1,4 +1,4 @@
-```markdown
+
 A land represented by a matrix with $n$ rows and $n$ columns containing natural numbers is considered. Each element of the matrix stores the height of the terrain area corresponding to the position of that element. On this land, $m$ lasers are placed in known positions. A laser is directed towards one of the $4$ cardinal points, coded by numbers as follows: North by the value $1$, East by the value $2$, South by the value $3$, and respectively West by the value $4$. Each laser will make a single shot and as a result, it will decrease by $1$ the values of all elements in the matrix in its shooting direction, except for the laser's position.
 
 After all the shots are fired, the positions of all the pits and trenches are sought. We call a pit an element in the matrix for which all $8$ neighboring elements in the line, column, or diagonals have values greater than or equal to it. We call a trench a maximal sequence formed of two or more pits located on the same line in consecutive columns. The sequence is called maximal if it cannot be extended at either end.
@@ -79,4 +79,3 @@ After the lasers act, the land looks like this:
 1 1 0 5 6
 ```
 There are $6$ pits and one trench. Pits are counted even if they are part of a trench.
-```

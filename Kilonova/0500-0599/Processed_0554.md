@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence of $n$ non-zero natural numbers $a = (a_1 a_2 \dots a_n)$. Two numbers that are in consecutive positions in the sequence ($a_i$ and $a_{i+1}$, where $1 \leq i < n$) can merge if they have at least one common divisor greater than $1$. As a result of merging, they will be replaced by the smallest number that is divisible by all the divisors of $a_i$ and $a_{i+1}$. The merging operation can be repeated on the newly obtained sequence until there is no pair of numbers in consecutive positions that can merge. Let $b$ be the sequence obtained after performing all possible merging operations.
 
 We define the *merging coefficient* of sequence $b$ and denote it by $cf(b)$ as a non-zero number such that any term of sequence $b$ has at least one common divisor with $cf(b)$, strictly greater than $1$. Additionally, $cf(b)$ must satisfy the following conditions:
@@ -113,4 +113,3 @@ $97$
 $75625 = 5^4 \cdot 11^2$
 $10403 = 101 \cdot 103$
 $cf(b)=2 \cdot 3 \cdot 5 \cdot 11 \cdot 97 \cdot 101 = 3233010$.
-```

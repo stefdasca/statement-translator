@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Given an array of numbers, find the longest increasing sequence. Correct the program from [here](sequence.cpp) or from the "Attachments" section on the side.
 

@@ -1,4 +1,4 @@
-```markdown
+
 # Problem Statement
 
 Zăhărel has become the mayor of his city, and the first measure he will take is to develop tourism. In the city, there are $N$ tourist attractions connected by $M$ one-way streets. To attract as many tourists as possible to his city, there must be a possibility to form a tourist route as follows: you start from a tourist attraction, travel each street exactly once and return to the starting point, visiting each tourist attraction at least once. (Ideally, a route should be constructed in such a way that visits each tourist attraction only once, not each street, but this problem is too hard).
@@ -55,4 +55,3 @@ The output file `turism.out` will contain a single integer $K$ on the first line
 
 A valid tourist route is:
 (1, 2) (2, 3) **(3, 1)** (1, 3) (3, 5) **(5, 4)** (4, 6) (6, 5) **(5, 4)** (4, 5) **(5, 1)**
-```

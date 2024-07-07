@@ -1,4 +1,4 @@
-```markdown
+
 Consider a sequence consisting of $N+2$ binary digits, which contains at least one digit $1$ and at least three digits $0$; the first and the last digits of the sequence are $0$.
 We define a __1-sequence__ as a succession made only of digits $1$, found in consecutive positions in this sequence, delimited by a digit $0$.
 Corina constructs such a sequence, in which the number of digits $1$ in each __1-sequence__ is between two given natural numbers, $p$ and $q$ ($p \leq q$).
@@ -45,4 +45,3 @@ $$
 0 \ 1 \ 1 \ 0 \ 1 \ 1 \ 0 \\
 0 \ 1 \ 1 \ 1 \ 0 \ 0 \ 0
 $$
-```

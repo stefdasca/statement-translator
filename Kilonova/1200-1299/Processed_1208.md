@@ -1,4 +1,4 @@
-```markdown
+
 Consider that all points with integer coordinates in the plane are colored black, except for $n$ points which are colored red. Two red points on the same horizontal line or on the same vertical line (that is, points that have the same ordinate or the same abscissa) can be connected by a segment. We color red all integer-coordinate points on this segment. We repeat the operation as long as new red points are obtained.
 
 # Task

@@ -1,4 +1,4 @@
-```markdown
+
 Consider a string of bits and a natural number `K`. The string is split into sequences such that every bit in the string belongs to a single sequence and each sequence has a length of at least `1` and at most `K`. After the splitting, each sequence of bits is converted to base `10`, resulting in a string of decimal values. For example, for the bit string `1001110111101010011` and `K = 4`, one possible split is `1 0011 101 111 0 1010 011`, then in base `10`: `1, 3, 5, 7, 0, 10, 3`. Another split could be `1 00 1 1 10 11 110 1010 011`, which results in `1, 0, 1, 1, 2, 3, 6, 10, 3`.
 
 # Task
@@ -43,4 +43,3 @@ For the second task, the binary string is split as follows:
 Resulting in the decimal string:
 `1, 0, 1, 1, 2, 3, 6, 10, 3`.
 The maximum length strictly increasing subsequence is `0, 1, 2, 3, 6, 10` which has a length of `6`.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Once FlaviuS realized that drawing the "intersection of meteors" is a futile task, he discovered that a much more complicated and important occupation is exactly the opposite! He has an attack plan: he knows where to put the pen on the paper, and exactly what the sequence of directions he will follow is (*North*, *East*, *South*, and *West*). His goal is to create a broken line that does not pass through the same point twice, except the final point, which he wants to be exactly the same as the initial one. Additionally, $2$ consecutive moves have different axial orientations (after a vertical one follows a horizontal one and vice versa).
 
 # Task
@@ -63,4 +63,3 @@ YES
 **For the third example**, the following path is not suspicious at all.
 
 ~[desen2.png|align=center|width=40%]
-```

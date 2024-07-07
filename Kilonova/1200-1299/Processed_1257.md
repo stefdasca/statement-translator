@@ -1,4 +1,4 @@
-```markdown
+
 The SG1 team's mission consists of activating an extraterrestrial device operated with the help of a strange keyboard made up of $n$ switches, all initially in the same position (let's denote this position as $0$). It is known that exactly $k$ switches need to be set (switched to position $1$) and that the order in which the switches are activated does not matter. Additionally, with the help of some ancient documents, they found out that between any two successive set switches there must be at least $d1$ and at most $d2$ unset switches. For example, for $n=7$, $k=3$, $d1=1$, and $d2=2$, a configuration that meets the requirements is: $0100101$, while configurations $1010001$, $1100100$, $1010101$ do not meet the problem's criteria. If a combination of set switches does not activate the device, nothing special happens (such a boring episode!), and the switches automatically reset, allowing another combination attempt. It is required to determine the maximum number of distinct configurations of set switches that the SG1 team must try to activate the device.
 
 # Task
@@ -62,5 +62,4 @@ $11000$, $01100$, $00110$, $00011$.
 `sg1.out`
 ```
 0
-```
 ```

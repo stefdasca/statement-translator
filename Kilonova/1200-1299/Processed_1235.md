@@ -99,4 +99,3 @@ $3$ guards are needed: guard $1$ will supervise between post $10$ and post $20$,
 ## Explanation
 
 $2$ guards are needed: guard $1$ will supervise at post $30$, and the supervised prisoners are $1$, $2$, $3$, and $4$; guard $2$ will supervise between posts $27$ and $28$, and the supervised prisoner is $5$. 
-```

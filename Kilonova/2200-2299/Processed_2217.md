@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Tim Goodman and Detective Pikachu are investigating the source of the mysterious gas $R$ that makes the pokemon in Ryme City go wild. After a long interrogation session with an uncooperative Mr. Mime, they managed to gather some valuable information.
@@ -57,4 +57,3 @@ A possible network of tunnels and control points is represented in the following
 The following network representation is, however, incorrect because the minimum concentration of gas $R$ observed by Mr. Mime on the path from $4$ to $2$ is $1$, but the network would indicate that this concentration is $2$, $2$ being the minimum of the concentrations on the path ($4$ and $2$).
 
 ~[graph5.png]
-```

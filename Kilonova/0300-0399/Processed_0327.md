@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Carlo, as many other people in Provincia di Treviso, produces a lot of rubbish with each activity he carries out during his day.
@@ -71,5 +71,4 @@ You need to print a single integer: the minimum price Carlo has to pay to have a
 `stdout`
 ```
 304
-```
 ```

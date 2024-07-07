@@ -33,4 +33,3 @@ std::string Base64_to_ASCII(std::string s);
 using namespace std;
 string ASCII_to_Base64(string s) { return "QSB2ZW5pdCBBbGV4IQ=="; }
 string Base64_to_ASCII(string s) { return ":))"; }
-```

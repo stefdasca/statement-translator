@@ -1,4 +1,4 @@
-```
+
 In the city of Etsivograt, there are `n` intersections numbered from `1` to `n`. Between some pairs of intersections, there are streets. In total, there are `m` streets, and the street network formed by these has been designed such that there is at least one connection between any two intersections, which may be direct or may pass through other intersections.
 
 After the cold season, the state of the streets has become deplorable, so it is decided to repave them. The cost of repaving each street is known.

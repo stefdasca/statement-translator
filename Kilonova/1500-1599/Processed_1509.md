@@ -1,4 +1,4 @@
-```markdown
+
 Scrat and Scratte are two acorn-devouring squirrels. They live in a tall oak tree and gather acorns from its $N$ branches. The squirrels will organize a competition: whoever gathers the most acorns in $K$ turns. In a turn, each squirrel will travel from the burrow to a branch of the oak tree, gather as many acorns as possible, but no more than $M$ acorns, and then return to the burrow. The squirrels will alternately take $K$ turns each, starting with Scratte.
 
 Upset that he will not start first in the competition, Scrat decides to train separately and see how many acorns he would gather in $K$ turns if he were alone.

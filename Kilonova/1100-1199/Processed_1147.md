@@ -1,4 +1,4 @@
-```markdown
+
 Transmitting and storing information requires various encoding systems to optimize the available space. A very commonly used system associates a sequence of characters $i$ with a number.
 
 We consider words formed only with the lowercase letters of the English alphabet $a,b,c, \\ldots, z$ ($26$ characters). From all these words, we only consider those whose characters are in strictly lexicographical order (the character at any position is strictly smaller than any following character).
@@ -73,5 +73,4 @@ vwxyz
 `cod.out`
 ```
 83681
-```
 ```

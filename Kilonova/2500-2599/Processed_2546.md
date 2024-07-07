@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A superbet has appeared in CrackLand. In this superbet, there are $N$ machines: one trickery machine $1$, one trickery machine $2$, ... one trickery machine $N$.
@@ -54,5 +54,4 @@ We can win on a maximum of $3$ machines at a time, $2$ of these configurations h
 `stdout`
 ```
 14684570
-```
 ```

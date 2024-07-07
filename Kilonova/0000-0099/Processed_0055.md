@@ -27,7 +27,7 @@ The output file `compus.out` contains a single line that contains the number of 
 
 * $30 \leq M \leq 1 \ 000 \ 000$
 * The mass of a `H` atom is $1$, the mass of a `C` atom is $5$, and the mass of a `I` atom is $3$. The molecular mass of a compound is equal to the sum of the masses of the atoms that constitute that compound.
-* The order in which the bonds of an atom are “used” does not matter. Similarly, neither the order of the atoms nor their internal bonds matter as long as they comply with the stated formation rules.
+* The order in which the bonds of an atom are “used� does not matter. Similarly, neither the order of the atoms nor their internal bonds matter as long as they comply with the stated formation rules.
 
 # Examples
 
@@ -60,4 +60,3 @@ Representation with bonds for any of the compounds is not unique. Any other comb
 `compus.out`
 ```
 28
-```

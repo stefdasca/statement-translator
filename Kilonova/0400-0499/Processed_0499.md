@@ -1,4 +1,4 @@
-```markdown
+
 The Galactic Empire had to abandon the well-known spacecraft due to increasingly strict pollution regulations. The administration is now required to develop a network of transplanetary tunnels through which inhabitants will travel.
 The Empire consists of $N$ planets, represented as points in space. The cost of forming a transplanetary tunnel between two planets $A$ and $B$ is:
 $TunnelCost[A, B] = min(|x_A - x_B|, |y_A - y_B|, |z_A - z_B|)$, where $(x_A, y_A, z_A)$ are the 3D coordinates of planet $A$ and $(x_B, y_B, z_B)$ are the 3D coordinates of planet $B$. 
@@ -68,5 +68,4 @@ Print the minimum cost of the tunnel network on the first line.
 `stdout`
 ```
 4
-```
 ```

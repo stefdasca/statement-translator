@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given a number $x$ with $n$ digits. While thinking about various problems for the Runtime Terror Competition, the committee found the following _basic_ mathematical definitions:
@@ -44,4 +44,3 @@ Square
 ## Explanation
 
 The given number, $402497$ has $4$ square digits ($4$, $0$, $4$ and $9$) and $2$ prime digits ($2$ and $7$).
-```

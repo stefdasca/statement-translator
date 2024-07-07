@@ -62,4 +62,3 @@ The output file `snipers.out` contains $n$ lines. Line $i$ of the file contains 
 3
 4
 5
-```

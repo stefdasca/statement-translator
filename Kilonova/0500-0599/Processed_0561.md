@@ -1,4 +1,4 @@
-```markdown
+
 Ștefan, after reading the book *Gödel, Escher, Bach: an Eternal Golden Braid* by Douglas Hofstadter, wanted to implement the "Figure-Figure" sequences as a challenge.\\
 
 The two sequences are defined as follows:
@@ -27,5 +27,4 @@ The terminal will contain on 2 lines the sequence $R(n)$, respectively $S(n)$, f
 ```
 R(20): 1 3 7 12 18 26 35 45 56 69 83 98 114 131 150 170 191 213 236 260
 S(20): 2 4 5 6 8 9 10 11 13 14 15 16 17 19 20 21 22 23 24 25
-```
 ```

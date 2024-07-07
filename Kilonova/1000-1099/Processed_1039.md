@@ -1,4 +1,4 @@
-```markdown
+
 Tomi is the elected mayor of Bittown. In the town, there are $N$ inhabitants, each with a fence made up of exactly 60 boards, each painted either white or black. Each fence is encoded by Tomi using a natural number whose binary representation reproduces the configuration of the fence from left to right, with black boards represented by the bit $1$ and white boards by the bit $0$. Thus, for example, a fence with only the last 2 boards painted in black will be encoded by Tomi with the number 3. Tomi decides to build a fence that is **representative** for Bittown, meaning it must satisfy all of the following rules:
 
 1. Mayor Tomi's fence must have exactly 60 boards;
@@ -36,4 +36,3 @@ The output file `tomi.out` contains a single number, representing the code of th
 ## Explanation
 
 The answer is $5$ which has a binary configuration of $101$. This is representative for the first three fences $(1\ 1\ 5)$, because it includes their binary configurations thus respecting rule $2$.
-```

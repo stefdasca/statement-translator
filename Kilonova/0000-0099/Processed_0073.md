@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 
 Miguel, the new mayor, needs help to optimally place the city hall. He can choose between $N$ buildings that are connected with $N - 1$ one-way roads. If we do not consider the orientation of the roads, all buildings are connected to each other. Also, each road has an associated coefficient $G$, the number of daily users.
@@ -49,4 +49,3 @@ This is the representation of the example:
 ~[miguel-and-the-city-hall.png]
 
 Choosing building 4 to be the city hall results in the minimum number of people being affected: those who use the roads $5 \to 7$ and $2 \to 3$.
-```

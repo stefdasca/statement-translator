@@ -1,4 +1,4 @@
-```markdown
+
 A non-zero natural number $N$ is given, followed by $M$ pairs of natural numbers $(x_1, y_1)$, $(x_2, y_2)$, $\dots$, $(x_m, y_m)$ with $x_1 \leq x_2 \leq \dots \leq x_m$.
 
 Each pair $(x_i, y_i)$ represents a set of consecutive natural numbers where $x_i$ represents the minimum value and $y_i$ the maximum value.

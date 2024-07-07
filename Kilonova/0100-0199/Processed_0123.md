@@ -29,4 +29,3 @@ In the file `inter.out`, the first line will contain a single real number, with 
 `inter.out`
 ```
 3.00
-```

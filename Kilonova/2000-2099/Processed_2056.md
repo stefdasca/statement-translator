@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Cheloo has released a new album and just announced how long each of its $n$ tracks lasts.
@@ -41,5 +41,4 @@ The first line will contain the time in minutes and seconds in which Andrei will
 `stdout`
 ```
 33 34
-```
 ```

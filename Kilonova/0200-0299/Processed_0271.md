@@ -2,7 +2,7 @@ Certainly, here is the translated competitive programming problem statement in E
 
 ---
 
-Romeo Fefetastic lives in the neighborhood of good boys and has `N` friends in the neighborhood. This neighborhood is represented as a tree with `N` nodes, where each node has a friend. Each of his friends has a value, `v[i]`, `1 <= i <= N`.
+Romeo Fefetastic lives in the neighborhood of good boys and has `N` friends in the neighborhood. This neighborhood is represented as a tree with `N` nodes, where each node has a friend. Each of his friends has a value, `v[i]`, `1 \leq i \leq N`.
 
 Before Romeo goes for a ride on his motorcycle through the neighborhood, he makes a list of all the friends he wants to visit. He will successively visit all his friends, each time choosing the shortest path. Practically, Romeo will walk through all the nodes that belong to the connected subtree with the minimum number of nodes that includes all the friends from his list, denoted as `S`.
 

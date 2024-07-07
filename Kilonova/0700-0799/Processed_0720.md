@@ -26,4 +26,3 @@ The file `tort.out` will contain on a single line two natural numbers separated 
 `tort.out`
 ```
 30 4
-```

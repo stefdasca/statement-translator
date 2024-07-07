@@ -1,4 +1,4 @@
-> “The Six of Pentacles represents help and generosity” just as the competitive programming committee generously offers you the opportunity to win 100 points with the following problem.
+> “The Six of Pentacles represents help and generosity� just as the competitive programming committee generously offers you the opportunity to win 100 points with the following problem.
 
 ~[4dp.png|align=right]
 

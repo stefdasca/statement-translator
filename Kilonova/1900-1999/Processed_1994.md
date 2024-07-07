@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In the warehouse of a construction company, there are $N$ stone blocks, either white or black. They are arranged in order $1, 2, \dots , N$ from the entrance into the warehouse to the inside. 
@@ -48,5 +48,4 @@ The output file `trans.out` will contain $Q$ lines. On the $i$-th of these lines
 1005
 5
 14
-```
 ```

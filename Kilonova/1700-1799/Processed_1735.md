@@ -1,4 +1,4 @@
-```markdown
+
 We are given $N$ digits. With these digits, we need to form $K$ numbers such that the sum of these $K$ numbers is minimal. The only condition we must respect when forming the $K$ numbers is that zero digits should not be at the beginning of a number.
 
 # Task
@@ -36,4 +36,3 @@ The file `cifre.out` will contain on the first line a single number representing
 ## Explanation
 
 With the $7$ digits, we need to form $3$ numbers. The minimum sum we can achieve is $152$ and it can be obtained if we construct the numbers $19$, $24$ and $109$. There are also other possibilities to construct the three numbers.
-```

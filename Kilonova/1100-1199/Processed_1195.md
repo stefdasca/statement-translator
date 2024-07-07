@@ -1,4 +1,4 @@
-```markdown
+
 Spider is a spider who lives in the house of a programmer. From the programmer, Spider has inherited the passion for numbers and programs. Given these circumstances, Spider has decided not to weave his web in the traditional way but to use the information learned from the programmer, adopting a methodical approach. Therefore,
 
 Spider proceeds as follows:
@@ -54,4 +54,3 @@ The first line of the output file `spider.out` will contain two integers $x$ and
 ~[spider.png|width=20em]
 
 On day $1$, Spider starts from point $2$ and weaves a thread to point $3$. On day $2$, from point $3$ he weaves a thread to point $1$ (skipping point $4$). On day $3$ from point $1$ he weaves a thread to point $2$. On day $4$ from point $2$ he weaves a thread to point $4$ (skipping point $3$). On day $5$ from point $4$ he weaves a thread to point $1$ and stops.
-```

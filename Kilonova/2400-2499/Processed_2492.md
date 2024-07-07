@@ -185,4 +185,3 @@ Same as in Example $1$, but there are not enough teleportations, and there is no
 `stdout`
 ```
 28
-```

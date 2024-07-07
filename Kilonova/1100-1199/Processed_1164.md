@@ -60,4 +60,3 @@ If a child has no possibility to sit, `0` will be written in his line in the out
 17 0
 13 20
 1 1
-```

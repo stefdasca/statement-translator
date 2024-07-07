@@ -1,4 +1,4 @@
-```markdown
+
 It is considered a matrix with $N$ rows and $N$ columns that stores only digits. The rows and columns are numbered from $1$ to $N$. Also considered is an array $v$ of length $10$, where $v_i =$ cost of digit $i$ ($i = 0 \dots 9$). We need to determine a path from column $1$ to column $N$, starting from a component located on column $1$ to a component on column $N$, and each step is made from a position $(i, j)$ to one of the neighboring positions on the row or column, namely $(i+1, j)$, $(i-1, j)$, $(i, j+1)$, $(i, j-1)$, provided it does not go out of the matrix. The cost of such a path is the sum of the costs of the components through which the path passes.
 
 # Task
@@ -45,4 +45,3 @@ The path is marked with a gray background in the matrix below and uses only thre
 ~[drum.png]
 
 It should be noted that there is another path that uses only three distinct digits (consisting of all elements on the last row), but it has a higher cost.
-```

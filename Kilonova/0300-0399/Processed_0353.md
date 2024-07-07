@@ -1,4 +1,4 @@
-```markdown
+
 A rectangular swimming pool of $N$ meters in length and $M$ meters in width is divided into $N \times M$ zones of $1 m^2$. Such a zone has the same depth over its entire surface of $1 m^2$, but two different zones may have different depths. The depths of the zones, expressed in meters ($m$), are positive natural numbers and are stored in a matrix $A$ with $N$ rows and $M$ columns.
 
 Due to the constructive restrictions of the pool, the matrix $A$ must be *well-defined*, in the sense that for all $2 \times 2$ submatrices **formed by consecutive rows and columns** of the matrix $A$, the numbers on either of the two diagonals are not both smaller than each of the other two elements. In accordance with the laws of physics, if a zone in the pool contains water, the water tends to distribute in the adjacent zones vertically and horizontally that have depth below the water level.
@@ -46,5 +46,4 @@ int complet(int A[101][101], int N, int M) {
 int optim(int A[101][101], int N, int M, int K) {
     return *max_element(A[1] + 1, A[1] + M+1);
 }
-```
 ```

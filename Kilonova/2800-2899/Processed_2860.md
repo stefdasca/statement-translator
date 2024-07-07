@@ -1,4 +1,4 @@
-```markdown
+
 With the help of three given digits $a$, $b$, $c$, where $a > 0$, the following sequence of numbers is constructed: $\overline{\text{a}}$, $\overline{\text{ab}}$, $\overline{\text{abc}}$, $\overline{\text{abca}}$, $\overline{\text{abcab}}$, $\overline{\text{abcabc}}$, $\dots$.
 
 For example, for $a=1$, $b=3$, $c=7$, we can construct the sequence: $1$, $13$, $137$, $1371$, $13713$, $137137$, $1371371$, $13713713$, $\dots$.
@@ -37,4 +37,3 @@ The output file `sirdivk.out` contains a single line which contains the number $
 ## Explanation
 
 Among the first $8$ terms of the sequence: $7$, $72$, $721$, $7217$, $72172$, $721721$, $7217217$, $72172172$, $\dots$ there are two terms divisible by $3$.
-```

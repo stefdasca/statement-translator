@@ -34,4 +34,3 @@ The output file `tric.out` must contain on a single line the number of triangles
 `tric.out`
 ```
 1
-```

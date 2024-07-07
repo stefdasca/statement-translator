@@ -1,4 +1,4 @@
-```markdown
+
 A **binary** matrix with $n$ columns and $m$ rows is given. The columns are numbered from left to right with values from $1$ to $n$, and the rows are numbered **from bottom to top** with values from $1$ to $m$.
 
 The given matrix has a particular form, so that for each column $i$ from $1$ to $n$, all the elements of the matrix in the respective column have the value $1$ for all the rows in the interval $[1, h_i]$ and the value $0$ elsewhere. The values $h_i$ are natural numbers given in ascending order $(h_{i-1} \leq h_i$, $1 \leq i \leq n$).
@@ -51,4 +51,3 @@ The output file `tnia.out` will contain $q$ lines representing the answer for ea
 ## Explanation
 The rectangular area having the bottom-left corner in column $1$ and row $1$ and the top-right corner in column $5$ and row $10$ has the sum of elements $30$.
 Similarly, for the other four questions, the correct answers are $6$, $5$, $0$, and $6$.
-```

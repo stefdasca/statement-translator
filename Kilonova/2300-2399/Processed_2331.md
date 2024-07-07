@@ -1,4 +1,4 @@
-```markdown
+
 $N$ dwarfs (numbered from $1$ to $N$) have fallen into a deep pit of $D$ cm. Each dwarf knows his shoulder height (i.e. the distance from the ground to his shoulders), as well as the length of his arms. Therefore, if dwarf $i$ has a shoulder height of $H_i$ cm and arm length $L_i$ cm, then when he stands with his arms up he will reach a height of $H_i+L_i$ cm.
 
 The dwarfs can climb on each other's shoulders forming a single tower. If dwarf $i$ stands with his arms stretched and is placed on the shoulders of dwarf $j_k$, who is on the shoulders of $j_{k-1}$, $ \dots $ who is on the shoulders of $j_1$ then he will reach a height of $H_{j_1} + H_{j_2} + \dots + H_{j_k} + H_i + L_i$.
@@ -47,4 +47,3 @@ The output file `pitici.out` will contain a single line with the natural number 
 ## Explanation
 
 For example, dwarfs $1 \ 5 \ 6$ can get out.
-```

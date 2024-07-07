@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Baker Ilie has just finished his $N$ wonderful breads. Each dough can be represented in the Cartesian coordinate system as a triangle with vertices at integer coordinate points.
 Costel, the mischievous son of the baker, has just taken a large knife and started cutting the breads. Each cut that Costel makes corresponds to a horizontal line $(y = c)$ or a vertical line $(x = c)$ in the coordinate system.
@@ -67,5 +67,4 @@ x = 9
 2
 3
 2
-```
 ```

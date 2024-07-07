@@ -1,4 +1,4 @@
-```markdown
+
 Gigel, passionate about numbers, knows that any natural number can be written in a numeral system of base $b$ as a sequence of symbols that have values from $0$ to $b - 1$. For example, the number $7$, written in base $10$, is $111$ in base $2$, and the number $26732$, written in base $10$, is a sequence of $3$ symbols in base $37$, the first two having the value $19$, and the last one having the value $18$. He discovered that there are numbers which can be written in **exactly two** different bases with exactly three identical symbols. For example, the number $931 \\ (10)$ is $777 \\ (11)$ in base $11$, and $111 \\ (30)$ in base $30$.
 
 # Task
@@ -92,5 +92,4 @@ The same number is written in base $163$ as $111 \\ (163)$
 ```
 37 19
 163 1
-```
 ```

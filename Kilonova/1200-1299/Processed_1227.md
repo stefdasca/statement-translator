@@ -1,4 +1,4 @@
-```markdown
+
 Mr. Gigi bought his son a construction game. The game consists of a square board $N \cdot N$ ($N$ rows and $N$ columns) and a number of $C$ colored cubes. The cube's side length is equal to the side length of one board square. Gigi junior places each cube on the board, in a given order, perfectly overlapping one face of the cube on the desired square. If there are already cubes at a certain position, the cube is placed on top of the existing ones. The game ends when all the cubes are placed on the board.
 Mr. Gigi sees the game in its final form and looks at the board from three positions. The resultant image can be **top view, left view**, or **front view**.
 Example: for $N=3, C=7$ and a placement of the cubes as in figure `a`), the three views are drawn in figures: `b` (top view), `c` (left view), and `d` (front view).
@@ -56,4 +56,3 @@ The first line of the file should contain the two dimensions $NL$ and $N$ separa
 The tallest tower of cubes is located at position $(1,3)$ and has a height of $4$. Looking from the left side of the board, only the last two cubes of this tower are visible, the rest being hidden from view by the two-cube tower at position $(1,1)$.
 On column $2$ there are no cubes, so we will fill it with $0$. 
 On column $3$, only the cube from position $(3,2)$ is visible, the rest are filled with $0$ up to the maximum height.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Let $n$ be a non-zero natural number.
 Construct the set $M$ of all numbers formed by exactly $n$ digits, numbers formed only with the digits $1$ and $2$.
 
@@ -34,4 +34,3 @@ The output file `doilan.out` will contain on the first line a natural number for
 ## Explanation
 
 The smallest number of three digits, formed only with the digits $1$ and $2$, divisible by $2^3$, is $x = 112$. Thus, this number will be written on the first line of the output file `doilan.out`.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 _sumk_ is a game of insight, with $N$ stages numbered from $1$ to $N$. A game is successfully completed if the player has gone through all the $N$ stages of the game in order, from $1$ to $N$, and has obtained exactly $K$ points in each stage. Each stage has $N$ levels, also numbered from $1$ to $N$. The player can earn $0$, $1$, $\\dots$, $K$ points on any level of the current stage.
 
 If the player is at stage $i$ on level $j$ and the total number of points obtained so far at this stage is less than $K$, he will necessarily move to level $j + 1$ of stage $i$. If the player receives at least one point on level $j$ and thus his score at stage $i$ becomes **exactly** $K$, then the player **automatically moves** to level $j$ of stage $i + 1$ or successfully completes the game if $i = N$.
@@ -56,4 +56,3 @@ There are $N = 2$ stages, with $N = 2$ levels each. The sum is $K = 2$ on each s
 ~[sumk2.png]
 
 There are $N = 3$ stages, with $N = 3$ levels each. The sum is $K = 2$ on each stage. Only a few of the $28$ possibilities are represented.
-```

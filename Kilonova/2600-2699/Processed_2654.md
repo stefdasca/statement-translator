@@ -1,4 +1,4 @@
-```markdown
+
 A square matrix $A_{ij}$ of dimensions $N \times N$ with odd $N$ is called a *spiral* matrix if it respects the following properties when traversed in a spiral as per the image below:
 
 ~[img.png|width=20em]
@@ -54,4 +54,3 @@ The output file `spirala.out` will contain a single number representing the mini
 ## Explanation
 
 To obtain a spiral matrix, the numbers in cells $(1, 3)$ and $(5, 5)$ should be replaced. In cell $(1, 3)$, the number $12 \ 345$ could be written and in cell $(5, 5)$, the number $13 \ 789$.
-```

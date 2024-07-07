@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Determine a strictly increasing sequence of length $N$ consisting of positive natural numbers, $1 \leq a_1 < a_2 < a_3 < \dots < a_N \leq \lfloor 2 \cdot N \cdot \sqrt{N} \rfloor$, with the property that any three distinct terms of the sequence do not form an arithmetic progression, i.e., for any natural numbers $i$, $j$, and $k$ with $1 \leq i < j < k \leq N$, the condition $a_i + a_k \neq 2 \cdot a_j$ is met. Here, $\\lfloor x \\rfloor$ denotes the floor function of $x$.
@@ -40,5 +40,4 @@ The output file `progresie.out` will contain on the first line, separated by a s
 `progresie.out`
 ```
 3 5 6 11 12 14 15
-```
 ```

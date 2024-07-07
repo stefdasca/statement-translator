@@ -1,4 +1,4 @@
-```markdown
+
 At Tesla's latest event, Paul Musk announced a new innovative product: autonomous parking. Known for launching incomplete products, the parking system is also incomplete, requiring automation to assign a parking spot to the cars that want to use it.
 
 The parking lot consists of $N$ places, numbered from $1$ to $N$, and is open for $T$ seconds, starting from the $1^{st}$ second.

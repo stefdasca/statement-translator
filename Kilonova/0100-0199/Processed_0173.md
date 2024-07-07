@@ -1,4 +1,4 @@
-```markdown
+
 All finite sequences of positive natural numbers are considered and ordered as follows:
 `[1]; [1,1]; [2]; [1,1,1]; [1,2]; [2,1]; [3]; [1,1,1,1]; [1,1,2]; [1,2,1]; [1,3]; ...`
 
@@ -52,4 +52,3 @@ Explanation
 ---
 
 The input file contains two queries. The first is of type `1` and requests the determination of the position of the sequence `[1,1,2]` which has the length `3`. This sequence is at position `9` according to the order described in the statement. The second query requests the determination of the sequence at position `14`. This sequence is the sequence `[3,1]` with a length of `2`.
-```

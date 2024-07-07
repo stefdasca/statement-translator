@@ -58,4 +58,4 @@ For the last set of expressions the table is:
 
 ~[logic.JPG|align=left|width=80%]
 
-where `E=(a|~a)&(a|~a)&(a|~a)&(a|b)`
+where `E=(a|~a)&(a|~a)&(a|~a)&(a|b)

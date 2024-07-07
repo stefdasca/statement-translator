@@ -1,4 +1,4 @@
-```markdown
+
 Emanuel, freshly arrived at Oxford, is eager to get to work and start... picking apples. The position where he is located in the orchard can be identified using the coordinate pair $(x, y)$, initially found at point $(0, 0)$. Due to the arrangement of the trees in the orchard, Emanuel can move horizontally with a maximum speed $V_A$, and vertically with another maximum speed $V_B$.
 
 Starting his workday, Emanuel notes down in his notebook the coordinates and time $T_i$ when he picks apples from each of the $N$ apple trees, in order to justify his harvest to his boss. Because all this time he was trying to prove the Riemann hypothesis, he always notes in his notebook only one of the two coordinates $X_i$ where he is, sometimes the horizontal one, other times the vertical one.
@@ -48,4 +48,3 @@ There are $2$ possible ways to assign the coordinates:
   On vertical: $(0, 0), (1, 4)$
 
 It would not be possible to have $X_0$ and $X_2$ on horizontal, $X_1$ and $X_3$ on vertical, because it would mean moving vertically from pair $(0, 0)$ to $(7, 3)$; impossible because we would travel $7$ units in $3$ seconds, and the maximum vertical speed is $2$.
-```

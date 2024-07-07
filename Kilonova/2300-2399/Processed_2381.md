@@ -1,13 +1,13 @@
 Dorel, a 10th-grade student, recently started experimenting with algorithms for placing $B$ identical balls into $C$ boxes! He tried to analyze the number of ways to place the $B$ balls into the $C$ chosen boxes such that for a chosen constant $K$, the algorithm he wrote on paper **does not** run indefinitely. His algorithm can be found written in pseudocode below:
 
 ```
-pos ‚Üê 1
-sum ‚Üê 0
-while pos <= c:
+pos ‚Ü 1
+sum ‚Ü 0
+while pos \leq c:
     while sum != k:
-        sum ‚Üê sum + nrbile[pos] + 1
-        pos ‚Üê pos + 1
-    sum ‚Üê 0
+        sum ‚Ü sum + nrbile[pos] + 1
+        pos ‚Ü pos + 1
+    sum ‚Ü 0
 ```
 
 # Task

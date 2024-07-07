@@ -1,4 +1,4 @@
-```markdown
+
 Farmer Ion wants to expand his business by investing in the oil field. On a field, there is a sequence of $N$ oil wells numbered from $1$ to $N$, where the well numbered $i$ has a profit equal to $P_i$ dollars per month. For reasons we cannot deduce at this time, for each subarray of wells of odd length $[l, r]$, with the property that $(r - l + 1) \geq K$, he considers the well with the median profit in this subarray as a \textit{special well}. Ion is interested in knowing the profits of the \textit{special wells}, in increasing order.
 
 The median profit of a subarray of wells is equal to the profit of the well that would be in position $\displaystyle \frac{r + l}{2}$ if the subarray were sorted.
@@ -48,5 +48,4 @@ The subarray 9 7 10 5 6 4 1 has a median profit of 6, and the subarray 8 3 9 7 1
 ```
 7
 3 4 5 6 7 8 9
-```
 ```

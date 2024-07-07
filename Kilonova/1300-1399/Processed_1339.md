@@ -1,4 +1,4 @@
-```markdown
+
 The control digit of a natural number is obtained by summing the digits of the number; if the obtained result is a digit, that is the control digit of the given number; otherwise, the sum of the digits of the obtained result is calculated, repeatedly applying this procedure until a single-digit result is obtained.
 For example, the control digit of the number $998 979$ is $6$, because: $9 + 9 + 8 + 9 + 7 + 9 = 51$, then $5 + 1 = 6$
 

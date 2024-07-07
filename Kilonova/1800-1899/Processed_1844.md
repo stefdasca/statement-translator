@@ -68,4 +68,3 @@ $m$ natural numbers, one per line, representing, in the order from the input, th
 2
 1
 0
-```

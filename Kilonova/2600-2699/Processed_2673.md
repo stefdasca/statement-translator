@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an array $a$ consisting of $n$ natural numbers. How many subarrays of this array are also subarrays of the Fibonacci sequence?
@@ -61,4 +61,3 @@ The $13$ subarrays that are also subarrays of the Fibonacci sequence are: $[a_1]
 ## Explanation
 
 The $2$ subarrays that are also subarrays of the Fibonacci sequence are $[a_1]$ and $[a_2]$.
-```

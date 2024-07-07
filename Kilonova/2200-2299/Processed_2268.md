@@ -5,7 +5,7 @@ Beyond nine seas and nine countries, in a great empire, Princess Alexandra has f
 
 # Task
 
-Alexandra does not feel comfortable doing calculations, especially since the empire is very large and the calculations can become quite complicated. For this reason, she asks you to make a program that receives the configuration of the railway system and answers questions of the form $x \; y \; v$, with the following meaning: *“How much time will a train that can travel at a maximum speed $v$ need to go from station $x$ to station $y$”*.
+Alexandra does not feel comfortable doing calculations, especially since the empire is very large and the calculations can become quite complicated. For this reason, she asks you to make a program that receives the configuration of the railway system and answers questions of the form $x \; y \; v$, with the following meaning: *“How much time will a train that can travel at a maximum speed $v$ need to go from station $x$ to station $y$�*.
 
 # Input data
 

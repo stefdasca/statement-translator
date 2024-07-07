@@ -1,4 +1,4 @@
-```markdown
+
 Nika is a naturally curious girl. She found an undirected connected graph with `N` nodes and `N` edges in her grandmother's box, with one of the edges designated as the edge that closes a cycle. Knowing that each edge has a cost, Nika asks three types of questions:
 * `0 a b` : "What is the minimum distance between nodes `a` and `b`, if an edge can be crossed at most once?"
 * `1 m c` : "How does the graph look if the cost of edge `m` is changed to value `c`?". The graph is modified by this operation, and the change is persistent.

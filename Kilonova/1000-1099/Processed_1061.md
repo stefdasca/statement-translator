@@ -1,4 +1,4 @@
-```markdown
+
 Two groups of digits are given. Each group contains $n$ digits, not necessarily distinct from each other. By arranging all the digits of the first group in some order, we obtain a number denoted $n_1$. Similarly, by arranging all the digits of the second group in some order, we obtain another number, $n_2$.
 
 # Task
@@ -72,4 +72,3 @@ The output file `2numere.out` will contain three lines. The first line will cont
 ## Explanation
 
 There are other values for $n_1$ and $n_2$ that give the difference $0$, but $n_1$ is not minimal, for example $n_1 = 40$ and $n_2 = 40$.
-```

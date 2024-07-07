@@ -19,9 +19,9 @@ The file `confuzie.out` will contain one line for each query operation present i
 
 # Constraints and clarifications:
 * The root of the tree is considered to be the node with index `1`.
-* `1 <= N <= 200000`
-* `1 <= M <= 450000`
-* `1 <= x, y, a, b <= N`
+* `1 \leq N \leq 200000`
+* `1 \leq M \leq 450000`
+* `1 \leq x, y, a, b \leq N`
 * A *tree* is an undirected, connected, and acyclic graph.
 * A node `x` is called an *ancestor* of `y` if it is on the path from `y` to the root of the tree.
 

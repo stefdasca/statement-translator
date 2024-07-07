@@ -1,4 +1,4 @@
-```markdown
+
 We consider $n$ sets. Each set contains only consecutive natural numbers. To indicate such a set, it is sufficient to provide the first and the last element from it.
 
 # Task
@@ -38,4 +38,3 @@ The first line of the output file `multimi.out` will contain the intersection el
 We have the sets $\{5,6,7,8,9,10\}$, $\{4,5,6,7,8,9,10,11\}$, $\{2,3,4,5,6,7,8,9\}$.
 
 Their intersection is $\{5,6,7,8,9\}$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In a country at the edge of the world, the government discovered a real problem regarding the presence of casinos and gambling halls too close to locations such as schools, hospitals, or other places of public interest.
@@ -37,6 +37,5 @@ C.....
 `stdout`
 ```
 4
-```
 ```
 ```

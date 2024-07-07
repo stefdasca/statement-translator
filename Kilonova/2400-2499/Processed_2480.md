@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 You have at your disposal a C++ program ([here](interclasare.cpp) or in the "Attachments" section on the side) that reads two sorted arrays and displays the resulting merged array. Correct this program.
 
@@ -22,5 +22,4 @@ The screen output contains the merged array.
 `stdout`
 ```
 1 2 2 3 6 7 8 9
-```
 ```

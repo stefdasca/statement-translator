@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Advent of Code 2023 has begun and has already proven to be a huge success. To experiment with the format, Vlad and Ștefan decided to try out different settings regarding the number of participants and days.
@@ -41,5 +41,4 @@ In case of a tie between two or more participants, they will be displayed in asc
 `stdout`
 ```
 2 1 4 3
-```
 ```

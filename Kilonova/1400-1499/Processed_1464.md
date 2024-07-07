@@ -1,4 +1,4 @@
-```markdown
+
 After discovering the ruins of a medieval fortress, archaeologists decided to restore it, starting with the main wall. This wall is made up of $N$ pillars, each with a width of $1$ meter, placed one next to the other (adjacent). The height of each pillar in meters is known, but unfortunately, not all of them are now at the same level. For the restoration of the wall, the archaeologists have bricks that have a width of $1$ meter and variable lengths, expressed in meters. An unlimited number of bricks of any length are available. We assume that all available bricks and all pillars that make up the wall have the same thickness of $1$ meter.
 
 The restoration consists of two stages:
@@ -50,4 +50,3 @@ For $H=1$ all pillars have the same height, so no brick is needed. For $H=4$, $4
 
 For $H=3$, $2$ bricks are needed, with the wall having the following structure after restoration:
 ~[restaurare3.png]
-```

@@ -54,4 +54,3 @@ The output contains the answer modulo $10^9 + 7$.
 `stdout`
 ```
 16
-```

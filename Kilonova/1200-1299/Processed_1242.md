@@ -1,4 +1,4 @@
-```markdown
+
 Anda has created her own method of encoding numbers. Any number is transformed into a sequence of the characters `.` and `-` as follows: she associates the character `.` with the bit $0$ of the number and the character `-` with the bit $1$ of the number in its base $2$ representation.
 
 # Task
@@ -27,5 +27,4 @@ The first line of the output file `morse.out` will contain the encodings of the 
 `morse.out`
 ```
 --- -.-- --.-
-```
 ```

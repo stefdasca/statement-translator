@@ -56,4 +56,3 @@ We have three distinct chains with $3$ eyes from $10$ segments:
 `lant.out`
 ```
 2520
-```

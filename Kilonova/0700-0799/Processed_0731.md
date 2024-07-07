@@ -61,4 +61,3 @@ The file `popas.out` will contain on the same line, separated by a space, two nu
 `popas.out`
 ```
 0
-```

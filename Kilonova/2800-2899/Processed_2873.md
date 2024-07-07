@@ -39,4 +39,3 @@ The output is written to the file `moara.out`, which will contain:
 1 5
 5 4
 4 0
-```

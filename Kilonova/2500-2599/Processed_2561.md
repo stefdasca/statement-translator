@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Gigel, the resident wizard in Peppers, discovered a magic natural number $n$.

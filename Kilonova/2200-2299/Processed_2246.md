@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A lark and a nightingale live in a character matrix of dimensions $N \\cdot N$, the characters being `A`, `B`, and `.`. `A` is a position that the lark can claim, `B` is a position that the nightingale can claim, and `.` is a position that neither bird can claim.
@@ -86,4 +86,3 @@ BBBAAA
 ## Explanation
 
 The explanation for this example is found in the statement.
-```

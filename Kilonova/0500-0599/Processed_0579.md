@@ -43,4 +43,3 @@ contestant: ask(5); committee: -1
 contestant: ask(4); committee: 0
 
 the interaction ended successfully after 3 queries.
-```

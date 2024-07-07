@@ -1,4 +1,4 @@
-```
+
 Given a matrix $A$ of natural numbers, consisting of $N$ rows and $M$ columns. The rows are numbered from top to bottom from $0$ to $N - 1$, and the columns from left to right from $0$ to $M - 1$.
 
 We call the _triangle_ of size $K$ starting from cell $(i, j)$ the set of cells that can be reached starting from $(i, j)$ and making at most $K - 1$ steps, moving one cell up or to the right.
@@ -96,4 +96,3 @@ The second one starts at $(1, 1)$:
 $5$
 $4 \ 5$
 The maximum value is $5$ and it appears $2$ times.
-```

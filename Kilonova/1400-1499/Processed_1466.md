@@ -1,4 +1,4 @@
-```markdown
+
 Ben has a piece of land with a forest of secular trees. He wants to build a cabin there, but being an ecologist, he does not want to cut down any trees. Instead, he wants to find the largest rectangular area without trees. He is looking for a rectangular area guarded only at the corners by trees and with sides parallel to the coordinate axes. Ben knows the coordinates of all the trees in the forest and asks you to help him find the area of the rectangle with the maximum surface area that has trees only at the four corners.
 
 ~[img.png|width=55em]
@@ -54,4 +54,3 @@ The output file `cabana.out` contains on the first line the natural number $a$, 
 
 ## Explanation
 The coordinates of the rectangle with the maximum area with sides parallel to the coordinate axes and containing trees only at the corners are $(19,19)$, $(29,19)$, $(29,4)$, $(19,4)$, so the maximum area is $150$.
-```

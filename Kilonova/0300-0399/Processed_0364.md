@@ -69,4 +69,3 @@ In the **sample case**:
 * Node values on the path of the third query are $4$, $7$, $25$, $2$. The minimum integer not divisible by any of them is $3$.
 
 ~[sample1.png]
-```

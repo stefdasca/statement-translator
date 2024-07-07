@@ -1,4 +1,4 @@
-```markdown
+
 A matrix with $N$ rows and $N$ columns containing natural numbers from $1$ to $N^2$ is considered, arranged consecutively, first in rows and then in columns, starting with $1$ in the top left corner, as shown in the adjacent example $(N = 4)$.
 
 ~[image.png|align=left]
@@ -113,4 +113,3 @@ H
 The adjacent matrix is unrolled by "pulling" from the bottom left corner in a horizontal direction, resulting in the sequence: $7, 8, 9, 6, 3, 2, 1, 4, 5$
 
 ~[image5.png|align=left]
-```

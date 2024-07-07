@@ -114,4 +114,3 @@ In total, there are `108` sub-matrices
 
 ```
 1974342
-```

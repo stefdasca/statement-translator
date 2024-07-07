@@ -1,4 +1,4 @@
-```markdown
+
 We define the following two operations that can be performed on a stack:
 
 * $push(x)$ — the number $x$ is added to the top of the stack
@@ -143,4 +143,3 @@ The $maxstack$ values for all subarrays $(i, j)$ are written in the table below.
 | $8$ | $0$ | $0$ | $0$ | $0$ | $0$ | $0$ | $0$ | $0$ |  |  |
 | $9$ | $0$ | $0$ | $0$ | $0$ | $0$ | $944$ | $0$ | $497$ | $0$ |  |
 | $10$ | $1208$ | $0$ | $1186$ | $0$ | $1160$ | $0$ | $0$ | $0$ | $0$ | $0$ |
-```

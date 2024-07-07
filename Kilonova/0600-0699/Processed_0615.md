@@ -46,4 +46,3 @@ Print the minimum cost that the conductor has to pay to make his journey.
 `stdout`
 ```
 41
-```

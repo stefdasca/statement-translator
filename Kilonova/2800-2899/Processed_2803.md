@@ -1,4 +1,4 @@
-```markdown
+
 The national team's footballers train on a rectangular-shaped field. On this field, $L$ horizontal lines and $C$ vertical lines were drawn so that the distance between any two lines is equal to $1$ meter. The lines were numbered from top to bottom with values from $1$ to $L$, and the columns were numbered from left to right with values from $1$ to $C$, and the entire field is made up of square cells with side $1$. The intersection between a line and a column is called a point. A point is specified by the line and column at whose intersection it is located.
 
 Footballers can pass only from one point to another point. A pass can go through **one or more points**. A point through which a pass goes is called a **passable point**.
@@ -69,4 +69,3 @@ The output file `pase.out` will contain, on the first line, the number $Z$ of de
 The data in the input file corresponds to the previous image.
 
 There is a single square area of maximum area equal to $9$, having the top-left corner $(4, 4)$ and the bottom-right corner $(7, 7)$
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Consider the positive natural numbers $N$ and $D$, followed by a sequence $S$ of $N$ positive natural numbers **sorted in ascending order**, indexed from $1$ to $N$.
 
 Determine the number of quintuplets of indices $(i_1,i_2,i_3,i_4,i_5)$ that satisfy the relations:

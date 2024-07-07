@@ -1,4 +1,4 @@
-```markdown
+
 Let $N$ and $K$ be two natural numbers.
 * All points in the plane with **integer coordinates** $(x,y)$ such that $0 \leq x \leq N, 0 \leq y \leq N$ are connected by horizontal and vertical lines of length $1$.
 * Then $K$ lines of length $1$ from the above lines **are removed**.

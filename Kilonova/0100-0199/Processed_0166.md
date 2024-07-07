@@ -1,4 +1,4 @@
-```markdown
+
 Given `P`, with cartesian coordinates `(a, b, c)`, and `Q`, with cartesian coordinates `(x, y, z)`, two distinct points in three-dimensional space. On the set of points in space, the ordering relation `<` is defined as follows: a point `P` is smaller than a point `Q` (meaning `P<Q`) if one of the following relations is satisfied:
 1) `a < x`;
 2) `a = x` and `b < y`;
@@ -45,4 +45,3 @@ The second line contains a path for which the maximum sum `S` is obtained, writi
 ```
 
 There are `14` points in the set `M`. The maximum sum that can be obtained is `18`, a value that will be written on the first line of the file `drum.out`. There are `2` paths for which the maximum sum is obtained: $(P_1, P_4, P_{13})$ and $(P_1, P_5, P_{14})$. The first path being the smallest (lexicographically) will write on the second line of the file `drum.out` the numbers `1 4 13`, obtaining the maximum points.
-```

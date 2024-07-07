@@ -1,4 +1,4 @@
-```markdown
+
 In the technology education class of the 5th grade, Professor Forus, who is passionate about mathematics, brought each of the $N$ students a card with a natural non-zero number written on it. Each student can use the card as received or cut the card exactly once between two digits and attach the left part to the end of the right part. The student is NOT allowed to make a cut in front of the digit $0$, so none of the obtained numbers CAN start with the digit $0$. Among all the numbers they can obtain, the student chooses the one with the minimum number of divisors, and if they can obtain multiple such numbers, they choose the smallest one among them. At the end of the class, the professor collects the cards with the chosen numbers, in the order they were distributed. For example, if initially the student receives the card with the number $\\boxed{\\color{red}{25082}}$ then they have only the following three cutting and pasting options:
 $ 
 \displaystyle
@@ -61,4 +61,3 @@ If $C = 2$, the output file `forus.out` contains the first line $N$ natural numb
 ## Explanation
 
 The task is $2$. For the card number $51$, the numbers $15$ and $51$ can be obtained. Both numbers have $4$ divisors. Thus, the number $15$ is chosen, being the smallest. For the card number $1234$ ($4$ divisors), the numbers can be obtained: $2341$ ($2$ divisors), $3412$ ($6$ divisors), and $4123$ ($8$ divisors). The number $2341$ will be chosen because it has the minimum number of divisors. The same procedure will be followed for all the other numbers in the sequence.
-```

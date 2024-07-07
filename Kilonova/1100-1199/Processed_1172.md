@@ -1,4 +1,4 @@
-```markdown
+
 The physical education teacher of class VI-B from a school in Focșani wants, at the beginning of the class, to arrange the students on the sports field, in a specific order. For this, the students are well trained so that, by arranging $n$ students in the last row, the other rows of students are created automatically according to the rule:
 
 - on position $i$ of a row, a student will be placed as follows: if in the back row, in positions $i$ and $i+1$, there are either only boys or only girls, then a girl will be placed. If there are students of the opposite sex in these positions, a boy will be placed.
@@ -43,5 +43,4 @@ The first line of the output file `sport.out` will contain the number of boys in
   1 1 1     row 3
    0 0      row 2
     0       row 1
-```
 ```

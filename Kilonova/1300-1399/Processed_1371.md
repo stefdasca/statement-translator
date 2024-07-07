@@ -44,4 +44,3 @@ The output file `sport.out` will contain two lines. The first line will contain 
 ```
 4
 1 2 4 5 6 3
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Gigi is a football coach and today he wants to organize the training differently. Until now, all the players trained together, but today he wants to divide them into groups. Gigi has $N$ football players on the team, each with a rating that represents how talented they are: $a_1$, $a_2$, $a_3$, $\\dots$, $a_N$. Gigi wants to organize the training as follows: he wants to divide them into $M$ groups, represented by $M$ consecutive subarrays in the array $a$. Each group is associated with a rating. The array of group ratings is strictly increasing. The rating of a group is defined by the weakest rating of the players in that group.
@@ -59,5 +59,4 @@ The output file `antrenament.out` will contain a single number representing the 
 `antrenament.out`
 ```
 6
-```
 ```

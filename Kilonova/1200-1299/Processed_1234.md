@@ -1,4 +1,4 @@
-```markdown
+
 We define a programming language with assignment and decision instructions. The syntax of the instructions is:
 
 Assignment instruction
@@ -63,5 +63,4 @@ fi
 `limbaj.out`
 ```
 1 7 5 7 4 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-```
 ```

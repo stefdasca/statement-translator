@@ -1,4 +1,4 @@
-```markdown
+
 Passionate about tree problems, Petrică found the following problem: Given a tree with $N$ nodes and **even** costs on the edges.
 
 The distance between two nodes of the tree is equal to the sum of the edge costs on the shortest path between the two nodes.
@@ -63,6 +63,5 @@ Print on the first line an integer representing the minimum value of a tree obta
 `stdout`
 ```
 77
-```
 ```
 ```

@@ -39,4 +39,3 @@ The output file `arbore.out` will contain for each scenario on the first line th
 2
 6 7
 4 2
-```

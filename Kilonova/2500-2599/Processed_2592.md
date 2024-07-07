@@ -41,4 +41,3 @@ The integers between $1$ and $10$ (inclusive) that are not multiples of $3$ or $
 `stdout`
 ```
 495273003954006262
-```

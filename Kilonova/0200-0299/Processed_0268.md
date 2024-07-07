@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 You are given an array of $n$ numbers. Print the largest 5 numbers from this array.
 
@@ -22,5 +22,4 @@ Print on a single line 5 numbers in increasing order, separated by spaces.
 `stdout`
 ```
 -4 1 2 3 3
-```
 ```

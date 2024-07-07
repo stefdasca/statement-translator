@@ -37,4 +37,3 @@ The output file `meteor.out` contains a single value $k$ representing the maximu
 `meteor.out`
 ```
 6
-```

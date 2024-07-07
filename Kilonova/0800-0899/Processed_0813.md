@@ -71,4 +71,3 @@ The output file `adunscad.out` will contain on the first line the determined exp
 `adunscad.out`
 ```
 0
-```

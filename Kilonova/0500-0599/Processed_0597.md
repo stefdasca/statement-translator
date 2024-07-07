@@ -1,4 +1,4 @@
-```markdown
+
 **ATTENTION: This problem has a similar statement to *John Mex*, but it is fundamentally different. Read the statement carefully! (not the story)**
 
 John Pork was a lonely humanoid pig, ostracized by society and without friends. In hopes of making new acquaintances, he organized a party, but no one came. Feeling isolated and misunderstood, John tried to call the few friends he had, but no one answered. Among them was his best friend, another humanoid pig named Betty.
@@ -51,5 +51,4 @@ In the file `miex.out`, print $Q$ lines, representing the answers to the queries
 6
 3
 1
-```
 ```

@@ -96,4 +96,3 @@ If there is no solution that satisfies the task, print $-1$ on the first line. O
 `stdout`
 ```
 -1
-```

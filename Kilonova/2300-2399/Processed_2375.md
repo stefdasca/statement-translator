@@ -1,4 +1,4 @@
-```
+
 Smith the Caterpillar has started coloring again. This time he decided to try with undirected graphs with $N$ nodes labeled from $1$ to $N$ and $M$ edges numbered from $1$ to $M$.
 
 On a walk, Smith starts from the node labeled $1$, walks along the edges of the graph, and then returns to the starting node.

@@ -1,4 +1,4 @@
-```markdown
+
 We will call a PM sequence a succession consisting of plus and minus, which does not contain two adjacent minus signs.
 For example, there are $5$ PM sequences of length $3$: +++, ++-, +-+, -++, -+-.
 
@@ -37,5 +37,4 @@ The output file `pm.out` will contain a single line, which will contain a single
 `pm.out`
 ```
 10
-```
 ```

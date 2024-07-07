@@ -1,4 +1,4 @@
-```markdown
+
 A natural number $N$ is given and let $A$ be the set of all natural numbers between $1$ and $N^2$.
 
 We call a partition of set $A$ a set of subsets $A_1, A_2, ..., A_N$ with the properties:
@@ -53,4 +53,3 @@ $A_4 = \{2,9,11,18,25 \}; 2+9+11+18+25 = 65$
 $A_5 = \{4,6,13,20,22 \}; 4+6+13+20+22 = 65$
 
 For all subsets $A_i$, $1 \leq i \leq 5$ the difference of any two successive elements is not $4$ or $6$ 
-```

@@ -66,4 +66,3 @@ The file `harta.out` will contain a single line that contains a real number with
 `harta.out`
 ```
 7.667
-```

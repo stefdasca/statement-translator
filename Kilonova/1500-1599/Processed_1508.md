@@ -2,7 +2,7 @@ Certainly! Here's the translated text according to your specifications:
 
 ---
 
-During the activities in “Otherwise Week”, the seventh-grade students want to help organize the books in the school library. Each book is labeled with a code that is expressed as a string of distinct characters. These can be the digits `0`, `1`, $\\dots$, `9` and the first ten lowercase letters of the English alphabet `a`, `b`, $\\dots$, `j`. The code uniquely identifies each book, meaning there will be no two books with the same code, but also the literary genre to which they belong. Books of the same literary genre have the identification code made up of the same characters, distinct, arranged in a different order.
+During the activities in “Otherwise Week�, the seventh-grade students want to help organize the books in the school library. Each book is labeled with a code that is expressed as a string of distinct characters. These can be the digits `0`, `1`, $\\dots$, `9` and the first ten lowercase letters of the English alphabet `a`, `b`, $\\dots$, `j`. The code uniquely identifies each book, meaning there will be no two books with the same code, but also the literary genre to which they belong. Books of the same literary genre have the identification code made up of the same characters, distinct, arranged in a different order.
 
 We call paired codes two identification codes that have the same number of characters and differ by one character. For example, the codes `42a8` and `2c8a` are paired codes. On the other hand, the codes `42a8` and `248a`, respectively `42ab` and `248c`, are not paired codes.
 

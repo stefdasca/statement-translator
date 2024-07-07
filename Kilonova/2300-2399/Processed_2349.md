@@ -1,4 +1,4 @@
-```markdown
+
 On Saturday, I spend time with my friends at the "Why not" nightclub in the city center. From there, we leave at dawn as a group of $p$ people, and we need to get each one of us home. Both at the nightclub, at the destination points of the group members, and at other points in the city, there are Team-Taxi stations that we can use on the way home, paying a fixed sum per each road segment that a driver demands (depending on the length of the road and not on the number of passengers).
 
 At any station, only those who have reached their destination can leave the group, in which case *homogeneous groups* formed will split up (because the linkage people have disappeared) and will continue to take taxis to different destinations. Two different homogeneous groups can go to the same destination, but using different taxis.
@@ -59,4 +59,3 @@ The file `team.out` will contain a single line with a number representing the de
 ## Explanation
 
 ~[img1.png]
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Gary was in math class, learning about prime factorization, when his teacher gave him a problem: given $a$ and $b$; find their greatest common divisor, their least common multiple, and their product. Gary solved the problems quickly, writing the three answers on three different sheets of paper. Then, the bell rang, and Gary went to the lunch line to grab as much food as possible.
@@ -50,5 +50,4 @@ If there is no valid solution, print $0$.
 2 1 4
 2 128 512
 0
-```
 ```

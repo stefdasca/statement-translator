@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 
 Given a triplet $(x, y, z)$ where $x, y, z \in \{1, 2, ..., n\}$.
@@ -35,4 +35,3 @@ The score for a test will be zero if:
 * The interaction protocol is not followed
 * The answer is incorrect for at least one data set
 * The maximum number of allowed questions $m$ is exceeded.
-```

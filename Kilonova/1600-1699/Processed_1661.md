@@ -1,7 +1,7 @@
 Given two 2D arrays $a$ and $b$, each with $m$ rows and $n$ columns, we define the following operations:
 
 1. The sum of arrays $a$ and $b$, as an array $c$ with $m$ rows and $n$ columns, where each element is equal to the sum of the elements in the same row and column from $a$ and $b$. In this case, we use the operator `+`, that is $c = a + b$.
-2. The product of arrays $a$ and $b$, as an array $d$ with $m$ rows and $n$ columns, where each element is equal to the product of the elements in the same row and column from $a$ and $b$. In this case, we use the operator `\(\cdot\)`, that is $d = a \cdot b$.
+2. The product of arrays $a$ and $b$, as an array $d$ with $m$ rows and $n$ columns, where each element is equal to the product of the elements in the same row and column from $a$ and $b$. In this case, we use the operator `$\cdot$`, that is $d = a \cdot b$.
 
 If $a$ and $b$ are identical arrays (i.e., $a$ and $b$ have identical elements in the same positions), then for $d$, the notation $a^2$ or $b^2$ is also used.
 

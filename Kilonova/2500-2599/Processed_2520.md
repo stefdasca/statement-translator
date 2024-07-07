@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a map of size $N \times N$ which contains free spaces (denoted by `.`) and occupied spaces (denoted by `#`). Answer $Q$ queries of the form $i_1\\ j_1\\ i_2\\ j_2$, where you need to find the minimum distance from cell $(i_1, j_1)$ to cell $(i_2, j_2)$.
@@ -76,5 +76,4 @@ For the first query, the distance from cell $(3, 0)$ to cell $(3, 3)$ is $7$. A 
 ..#..
 ```
 
-```
 ```

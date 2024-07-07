@@ -67,4 +67,3 @@ After this, you will know for sure where the treasure is.
 `takara.out`
 ```
 65
-```

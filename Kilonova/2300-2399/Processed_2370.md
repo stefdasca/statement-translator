@@ -1,4 +1,4 @@
-```markdown
+
 # Problem Statement
 
 Let's consider a binary matrix with $n$ rows (numbered from $1$ to $n$) and $m$ columns (numbered from $1$ to $m$). Inside this matrix, we can distinguish one or more objects of type `I`.
@@ -49,4 +49,3 @@ The output file `imax.out` will contain a single line which will print the maxim
 ```
 
 ~[explicatie.png|align=left]
-```

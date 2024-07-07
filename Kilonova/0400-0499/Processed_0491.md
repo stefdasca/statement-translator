@@ -5,7 +5,7 @@ Amicii Aronius și Disconsius nu prea au nimic important de făcut, așa că î�
 
 Piramida a fost completată cu cuvântul `JANJETINA`.
 
-Disconsius a ales acum $K$ linii ale piramidei, cu indicii $a_i (1 \le i \le K)$, și a ales o literă $c_i (1 \le i \le K) $ pentru fiecare linie. Apoi i-a pus lui Aronius $K$ întrebări complicate: „De câte ori litera $c_i$ apare pe linia $a_i$?”.
+Disconsius a ales acum $K$ linii ale piramidei, cu indicii $a_i (1 \le i \le K)$, și a ales o literă $c_i (1 \le i \le K) $ pentru fiecare linie. Apoi i-a pus lui Aronius $K$ întrebări complicate: „De câte ori litera $c_i$ apare pe linia $a_i$?�.
 Aronius nu este la fel de deștept ca tine și ești singurul care îl poate ajuta să îi răspundă lui Disconsius (dacă nu va ști răspunsul întrebărilor, Disconsius se va supăra și nu va mai fi prieten cu el). Scrieți un program care să răspundă la întrebările lui Disconsius, pentru înălțimea piramidei și cuvântul date. Aronius se bazează pe voi să îi rezolvați această problemă.
 
 **Note: Input data is read from the keyboard, and output data is displayed on the console.**
@@ -89,4 +89,4 @@ AB
 1
 1
 2
-  ```
+  

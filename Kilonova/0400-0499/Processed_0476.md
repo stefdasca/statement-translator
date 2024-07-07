@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 A squirrel discovered a deposit of peanuts. The deposit has a weirder shape, as it is made of $3$ rows of rooms, each of them having $3$ rooms. The deposit has in total $9$ rooms situated on the $3 \times 3$ grid. We know the number of peanuts present in each of the $9$ rooms from the matrix.
@@ -62,6 +62,5 @@ Each test will contain the $3 \times 3$ grid corresponding to the answer for tha
 12 12 13
 11 14 11
 13 13 11
-```
 ```
 ```

@@ -1,4 +1,4 @@
-```
+
 No one knows why, but you suddenly decided to start a career in construction. The walls you build are made of cubic bricks with side length $1$, placed in multiple layers.
 
 To design such a wall, you have drawn a grid consisting of $M \cdot N$ squares with side length $1$, organized in $M$ rows and $N$ columns. The rows of the grid are numbered from $1$ to $M$ starting from bottom to top, and the columns are numbered from $1$ to $N$ from left to right.
@@ -54,4 +54,3 @@ The output file `zidar.out` will contain a single line that will contain a singl
 To construct the wall marked in the figure you need exactly $8$ euros. It is not possible to build walls with more bricks using this amount of money. 
 
 ~[zidar2.png]
-```

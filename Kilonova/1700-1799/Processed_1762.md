@@ -1,4 +1,4 @@
-```markdown
+
 Given $L$ and $C$, two natural numbers, and a matrix with $L$ rows and $C$ columns having integer elements.
 
 The elements must be chosen such that they respect the following properties:
@@ -51,4 +51,3 @@ The first line of the file `left.out` will contain a single integer, representin
 ## Explanation
 
 From the first row, $3$ numbers are chosen, and from the other rows, $2$ numbers are chosen.
-```

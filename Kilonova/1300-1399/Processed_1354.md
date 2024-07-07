@@ -1,4 +1,4 @@
-```markdown
+
 The shooting range is a specially arranged field where exercises are conducted and shootings with firearms are executed. The commander places targets at all points at distances $R_i$, $1 \leq i \leq n$ from the shooting point (origin) and which have Cartesian coordinates that are only non-zero natural numbers.
 
 Romanian armament specialists have recently created a new weapon in the form of a laser cannon that launches its beams on a __straight line__ trajectory and has the ability to destroy all targets on the shooting direction.
@@ -55,4 +55,3 @@ The output file `poligon.out` will contain $3$ lines. The first line will contai
 We have $6$ distances: $5, 10, 15, 7, 13, 17$
 
 In the range, there will be $10$ targets (black dots marked on the figure) that can be hit with $6$ shots, and respectively $1, 1, 3, 3, 1, 1$ targets will be hit with each shot.
-```

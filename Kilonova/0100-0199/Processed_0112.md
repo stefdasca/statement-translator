@@ -14,8 +14,8 @@ The first line of the file `color.in` contains the integer `N`, representing the
 The first line of the file `color.out` will contain the integer `M`, representing the number of nodes that Ion can color on the first move so that he is guaranteed to win. On the next line, print the numbers of these nodes, in increasing order.
 
 # Constraints and clarifications
-* `1 <= N <= 16\ 000`, `N` odd
-* `40%` of the tests will have `N <= 1\ 000`
+* `1 \leq N \leq 16\ 000`, `N` odd
+* `40%` of the tests will have `N \leq 1\ 000`
 
 # Example
 
@@ -36,4 +36,3 @@ The first line of the file `color.out` will contain the integer `M`, representin
 ```
 6
 1 5 6 7 8 9
-```

@@ -1,4 +1,4 @@
-```markdown
+
 Andrei is happy that he scored **8 ON THE ROMANIAN TEST**. Thus, he invited $A$ friends and wants to buy enough beers so that each person gets $B$ beers.
 
 # Task
@@ -27,5 +27,4 @@ The first line will contain a single integer, representing the number of beers.
 `stdout`
 ```
 513901756271970
-```
 ```

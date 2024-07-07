@@ -1,4 +1,4 @@
-```markdown
+
 Giovani, tired of losing so much at chess by moving the pawns in front of the king, tries to orient himself towards other activities and signs up for the annual running competition between his native village, Păpucești and the rival village, Băbana. The competition consists in running the greatest distance within a certain fixed time $T$, timed by the village committee. To do this, the village committee has a timer that starts from $T$. Once activated, the timer will decrease by one unit of time. We consider that with each decrement of the timer Giovani covers one unit of length. Since he is not a great athlete, Giovani asks his friend, the hacker Cosminel, for help. Cosminel tells him that he can stop the committee's timer, but only at certain time intervals $[l_i, r_i]$, not necessarily disjoint, so as not to raise suspicions. Display the greatest distance that Giovani can cover until the timer reaches $0$ considering that he can delay until any natural number start time for the timer and that time starts from moment $1$.
 
 # Input data
@@ -57,4 +57,3 @@ In the first example, the timer can be started at moment $16$ and will reach $0$
 ## Explanation
 
 In the second example, the timer can be started at moment $1$ and reaches $0$ at moment $2\ 000\ 000\ 000$. The distance covered will be $2\ 000\ 000\ 000 - 1 = 1\ 999\ 999\ 999$.
-```

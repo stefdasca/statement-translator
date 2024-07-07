@@ -1,4 +1,4 @@
-```markdown
+
 A chessboard with `n + 1` rows (numbered from top to bottom starting at `1`) and `2n + 1` columns (numbered from left to right starting at `1`) is given. On the first row, the square in the middle contains `1` gram of hay, while the other squares on the first row contain nothing. Starting from the second row, each square contains a quantity of hay obtained by summing the hay quantities of the `3` squares of the previous row with which it neighbors (vertically and diagonally). For example, if `n = 3`, the board has `4` rows, `7` columns, and the following configuration.
 
 ~[2sah.png]
@@ -66,4 +66,3 @@ On the second row, there are `3` squares, each containing one gram of hay. (see 
 For the second test:
 `t = 2`, so only the second task is solved.
 The horse's path is: `(1, 2) → (2, 4) → (3, 6)`, meaning exactly the squares marked with asterisks in the drawing from the statement. The first position does not contain hay, while the other two contain one gram of hay each. Therefore, the horse eats `2` grams of hay.
-```

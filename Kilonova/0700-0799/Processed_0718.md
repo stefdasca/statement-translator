@@ -50,4 +50,4 @@ Yes
 
 ## Explanation
 
-The first string in the test corresponds to the bracket string `([])()`
+The first string in the test corresponds to the bracket string `([])()

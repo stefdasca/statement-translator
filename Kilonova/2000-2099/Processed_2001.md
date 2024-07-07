@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given an empty stack, the number $T$ and $T$ operations as follows:
@@ -55,4 +55,3 @@ The stack after each operation:
 6) $[3]$
 7) $[]$
 8) $[]$
-```

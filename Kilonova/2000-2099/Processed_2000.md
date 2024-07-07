@@ -1,4 +1,4 @@
-```markdown
+
 A sequence consisting of $N$ natural numbers indexed from $1$ to $N$ is considered. Initially, the sequence contains only zero values and will be filled with natural numbers as follows. The sequence is traversed multiple times from position $1$ to position $N$ and whenever a zero value is encountered, it is replaced with the smallest non-zero value $X$ that does not exist in the sequence. At the same time, all non-zero values strictly less than $X$ are replaced with zero. The traversal stops when the sequence contains only non-zero values.
 
 # Task
@@ -40,4 +40,3 @@ $3 \ 0 \ 0$
 $3 \ 1 \ 0$
 $3 \ 0 \ 2$
 $3 \ 1 \ 2$
-```

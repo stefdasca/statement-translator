@@ -1,4 +1,4 @@
-```markdown
+
 Andra has a package with $n$ types of chocolate balls, each type $i$ having $c_i$ balls. The number of $c_i$ depends on four factors, denoted by $x$, $y$, $z$, $t$, and is calculated as follows:
 
 * $c_1 = x$
@@ -112,4 +112,3 @@ A possible configuration of the pyramid is the following:
 ~[mms2.png|width=70em]
 
 In this configuration, we have two pyramids with $6$ rows, two with $5$ rows, one with $3$ rows, and two with $2$ rows.
-```

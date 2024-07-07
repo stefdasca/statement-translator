@@ -1,4 +1,4 @@
-```markdown
+
 Consider the matrix $A$ with $n$ rows and $n$ columns. A formation is composed of a subarray of a row $l$ and a subarray of a column $c$ of the matrix. The formation is determined by three aspects:
 * Two indices $i_1$ and $i_2$, $1 \leq i_1 \leq i_2 \leq n$, which represent the starting and ending indices of the subarray on column $c$.
 * Two indices $j_1$ and $j_2$, $1 \leq j_1 \leq j_2 \leq n$, which represent the starting and ending indices of the subarray on row $l$.

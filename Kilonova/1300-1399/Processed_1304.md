@@ -1,4 +1,4 @@
-```markdown
+
 Bogdan received a very ingenious game on his birthday. The game consists of a box with two compartments. Initially, in the first compartment, there are $k$ balls (numbered from $1$ to $k$), while in the second compartment, there are $n-k$ balls (numbered from $k+1$ to $n$).
 
 The two compartments communicate through a special flip door that has two slots. One slot is in compartment $1$, and the other is in compartment $2$. One ball can fit in each slot.
@@ -50,4 +50,3 @@ In the second move, balls $3$ and $4$ were chosen.
 In the third move, balls $1$ and $2$ were chosen.
 In the fourth move, balls $4$ and $3$ were chosen.
 And in the last move, balls $2$ and $4$ were chosen.
-```

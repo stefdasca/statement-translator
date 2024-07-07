@@ -1,4 +1,4 @@
-```
+
 Artanis, the commander of the ship **Spear of Adun**, needs to contact the command center located on the planet **Aiur**. Specifically, he needs to send an encoded message consisting of a bit. This message will be transmitted from the computer on the ship to the computer in the command center on **Aiur** through an intergalactic network of computers.
 
 The network of computers can be viewed as a directed graph with `V` nodes and `E` edges. Each edge is of the form `(x, y, p0, p1)` and signifies: "computer `x` can send messages to computer `y`, a bit `0` is correctly transmitted with probability `p0`, and a bit `1` is correctly transmitted with probability `p1`." A bit is correctly transmitted if it retains the same value both in the sending computer and in the receiving computer.
@@ -24,7 +24,7 @@ In the output file `network.out`, the first line will contain the probability th
 * For any two computers `x` and `y` there will be at most one directed edge from `x` to `y` and at most one directed edge from `y` to `x`, and there will be no edges from a computer to itself
 * The solution is considered correct if it differs from the correct answer by at most `0.00001`
 * It is guaranteed that for tests worth `20` points, there will be no two distinct computers `x` and `y` such that `x` is accessible from `y` and `y` is accessible from `x`
-* It is guaranteed that for tests worth another `40` points, `V <= 100`
+* It is guaranteed that for tests worth another `40` points, `V \leq 100`
 
 # Examples
 
@@ -46,4 +46,3 @@ Explanations
 ---
 
 If we transmit the bit `1` from node `0` to node `3`, there is only one correct transmission: we incorrectly transmit the bit on the edge `(0→1)` with a probability of `0.5`. Thus, computer `1` receives the bit `0`. We correctly transmit the bit `0` from computer `1` to computer `2` on the edge `(1→2)` with a probability of `0.2`. Thus, computer `2` receives the bit `0`. We incorrectly transmit the bit `0` from computer `2` to computer `3` on the edge `(2→3)` with a probability of `0.9`. Therefore, the computer on Aiur receives the bit `1` with a probability of `0.5 * 0.2 * 0.9 = 0.09`. A similar process is followed if we want to transmit the bit `0` to the computer on Aiur.
-```

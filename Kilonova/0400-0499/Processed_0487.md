@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 Ana lives in a small, but cheerful village. There is a row of cherry trees along the main street. Ana has numbered the trees with consecutive integers starting from $1$. After many studies, Ana observed that the number of the tree influences the quantity of cherries that grow on it.
 
@@ -55,4 +55,3 @@ Print a single integer, the number of cherries picked by the villagers.
   ```
   86
   ```
-```

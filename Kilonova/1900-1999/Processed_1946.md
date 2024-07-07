@@ -1,4 +1,4 @@
-```markdown
+
 # Statement
 In math class, all students play the following game. Two arrays of $N$ and $M$ positive natural numbers respectively are given. In an operation, one element from the first array and one from the second array are chosen, removed, and their sum squared is added to the score. The game ends when one of the arrays runs out of elements. Ștefana wants to maximize the score to get a $10$, so she asks you to help her.
 

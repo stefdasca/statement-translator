@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 You are given a number $t$ and $t$ natural numbers. For each of them, check whether it is a _palindrome_ or not.

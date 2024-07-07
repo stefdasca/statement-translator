@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of natural numbers is generated whose first terms are, in this order:
 
 $1$, $2$, $3$, $5$, $8$, $3$, $1$, $4$, $5$, $9$, $4$, $3$, $7$, $0$, $7$, $7$, $4$,...
@@ -53,5 +53,4 @@ On the second line of the file `nr.out` the number $3$ is written, because there
 
 On the last line of the file the number $8$ is written, because the $p$-th term of the sequence is $8$.
 
-```
 ```

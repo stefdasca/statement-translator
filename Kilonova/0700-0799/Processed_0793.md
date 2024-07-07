@@ -1,4 +1,4 @@
-```markdown
+
 The Lucky Gigel just received from his grandfather Nelu, an immense orchard of fruit trees. A former geometry teacher, Nelu rigorously planted fruit trees in $m$ parallel rows, and in each row he planted exactly $n$ fruit trees. However, for reasons more or less objective, Mr. Nelu did not plant all the trees of the same variety in each row, but from several different varieties. The varieties of trees planted in the orchard are coded with natural numbers between $1$ and $p$.
 Engulfed by the fever of mathematical rigor and statistics, Gigel defined the notion of *majority variety* as follows: if in a row $k$ consisting of $n$ fruit trees, we have at least $\\lfloor n/2 \\rfloor + 1$ trees of the same variety $x$, then we say that *the variety $x$ is the majority variety in row $k$ (where $\\lfloor y \\rfloor$ denotes the integer part of the real number $y$)*.
 
@@ -49,4 +49,3 @@ The output file `livada.out` will contain two lines:
 ## Explanation
 
 The plantation consists of $m = 4$ rows, and in each row we have $n = 7$ trees. For a variety to be a majority in a row, there must be at least $\\lfloor 7/2 \\rfloor + 1$ = $4$ trees of that variety in that row. There are majority varieties in two rows: the first and the third. In the third row, there are $3$ consecutive positions where trees of the same variety (variety $5$) are found.
-```

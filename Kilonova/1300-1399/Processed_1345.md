@@ -1,4 +1,4 @@
-```markdown
+
 Gigel has learned to work with non-repeating decimal fractions, simple repeating decimals, and mixed repeating decimals and to transform a decimal fraction into an ordinary fraction. He knows that there are equivalent decimal fractions and ordinary fractions.
 Gigel needs to transform a decimal fraction into an ordinary fraction by writing the denominator of the fraction in one of the following two forms:
 1. A digit $1$ which may or may not be followed by $0$s;

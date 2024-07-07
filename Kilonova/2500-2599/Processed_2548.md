@@ -56,4 +56,3 @@ is not correct because nodes $2$ and $3$ have the same color and the path betwee
 `stdout`
 ```
 50524947
-```

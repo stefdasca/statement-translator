@@ -1,10 +1,10 @@
-```markdown
+
 A sequence `a` of `N` positive integers not exceeding `M` is given. The goal is to partition the sequence into as many stable groups as possible. A stable group is defined as a continuous and non-empty sequence of numbers $a_s, a_{s+1}, a_{s+2}, \ldots, a_{d-1}, a_d$, satisfying the following condition:
 * any other element outside the interval `[s,d]` is either strictly greater or strictly less than all values in `[s,d]`.
 
 More specifically, for any `i ∈ [s,d]`, only one of the following conditions is satisfied:
-1. `a[i] < a[j]`, for any `s <= j <= d`;
-2. `a[i] > a[j]`, for any `s <= j <= d`.
+1. `a[i] < a[j]`, for any `s \leq j \leq d`;
+2. `a[i] > a[j]`, for any `s \leq j \leq d`.
 
 Partitioning the sequence implies that each number is part of exactly one group.
 
@@ -86,4 +86,3 @@ In the file `compact.out`, there will be two lines. The first line will contain 
 2
 1 4
 ``` 
-```

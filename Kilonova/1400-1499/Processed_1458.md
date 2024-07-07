@@ -1,6 +1,6 @@
 ~[lightbot.png|align=right]
 
-This year, the event “Hour of Code” recorded a record number of participants from our country. In this event, one of the most accessed applications was **Lightbot**, which allowed students to test their programming skills.
+This year, the event “Hour of Code� recorded a record number of participants from our country. In this event, one of the most accessed applications was **Lightbot**, which allowed students to test their programming skills.
 The Lightbot application has $N$ levels, consecutively numbered from $1$ to $N$, in strictly increasing order of their complexity. Lightbot allowed each participant to start at any level strictly less than $N - 1$ and skip **one single level** without completing the code, moving to the next level after the skipped one. Upon successful completion of the code corresponding to the current level, the participant is promoted to the next immediate level. Each participant started writing code at a level $P$ and skipped a level $L$ ($P < L < P + K$), completing $K$ levels memorized as a sequence of natural numbers in the form $P, P + 1, ..., L - 1, L + 1, ..., P + K$. The sequences of levels completed by participants were stored in the file `lightbot.in`. Sequences corresponding to participants do not intercalate in the file.
 
 # Task

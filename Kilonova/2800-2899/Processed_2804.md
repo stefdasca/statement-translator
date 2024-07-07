@@ -81,4 +81,3 @@ The output must contain one answer per line corresponding to each type $2$ query
 ```
 7
 11
-```

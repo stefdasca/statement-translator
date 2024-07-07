@@ -1,4 +1,4 @@
-```markdown
+
 $N$ points in 3D space are given by their coordinates. We want to place two cubes with sides parallel to the coordinate axes, such that each point lies on one of the faces or inside at least one of the cubes. Additionally, the side of the cube with the maximum side length among the two must be minimal.
 
 # Task
@@ -36,4 +36,3 @@ The file `cuburi.out` will contain a single natural number representing the side
 ```
 # Explanation
 The 6 points have the following coordinates: $(1,1,1)$, $(8,5,3)$, $(5,0,4)$, $(2,4,0)$, $(9,8,3)$, $(6,3,1)$. One possible solution is to place the first cube such that two opposite corners have coordinates $(0, 0, 0)$ and $(5,5,5)$ and the second cube to have two opposite corners at coordinates $(6,3,1)$ and $(11,8,6)$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 A string $S$, initially empty, is considered. Four operations are performed on it:
 1. insert($k, e$): inserts in $S$ the element e at position $k$;
 2. access($k$): returns the element at position $k$;
@@ -63,4 +63,3 @@ D 3 3
 ## Explanation
 
 The sequence $S$ successively becomes: $(1), (1 \\ 2), (1 \\ 2 \\ 3), (1 \\ 3 \\ 2), (1 \\ 3 \\ 2 \\ 4), (1 \\ 3 \\ 5 \\ \underline{2} \\ 4), (5 \\ 3 \\ 1 \\ 2 \\ 4), (5 \\ 2 \\ \underline{4}), (5 \\ 1 \\ 2 \\ 4), (2 \\ 1 \\ 5 \\ 4), (2 \\ 1 \\ 4)$. The underlined numbers are the responses to the operations of type $2$.
-```

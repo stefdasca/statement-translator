@@ -1,4 +1,4 @@
-```markdown
+
 The model of a solar system consisting of $N$ planets revolving around a star $S$ in a counterclockwise direction is considered. The trajectories of the planets are considered circular and with different radii, and the rotational speeds of the planets around the star are natural numbers and are expressed in degrees per day ($\\degree$/day).
 
 # Task
@@ -74,4 +74,3 @@ In the $2020$ days there were $3928$ alignments of at least $3$ planets out of t
 $N=6$, $P=3$, $Z=658903$ and $V = [17, 24, 12, 150, 200, 12]$.
 
 In the $658903$ days there were $58568$ alignments of at least $3$ planets out of the $6$ planets that form the solar system.
-```

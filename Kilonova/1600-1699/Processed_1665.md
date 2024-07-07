@@ -1,4 +1,4 @@
-```markdown
+
 Two horizontal parallel rays denoted as $a$ and $b$ are considered. Each of them has the left end positioned on the $\\text{Oy}$ axis. The distance between them is **two** units.
 On ray $a$, there are $n_1$ points, and on ray $b$, there are $n_2$ points. For each of these points, the distance from the $\\text{Oy}$ axis is known.
 
@@ -56,4 +56,3 @@ The output file `trapeze.out` will contain two lines:
 On ray $a$, there are $4$ points at distances $1$, $3$, $6$, and $9$ from $\\text{Oy}$.
 On ray $b$, there are $5$ points at distances $2$, $3$, $4$, $6$, and $10$ from $\\text{Oy}$.
 The number of right trapezoids with one base on ray $a$ and the other base on ray $b$ is $12$, and the largest area of one such trapezoid is $13$.
-```

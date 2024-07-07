@@ -1,4 +1,4 @@
-```markdown
+
 The Galaxy Map is represented as a matrix with $N$ rows (numbered from $1$ to $N$) and $M$ columns (numbered from $1$ to $M$). Any element of the matrix represents a square-shaped area with side length of $1$ light year (called a quadrant) and can be identified by its coordinates (the row number and the column number it is located at).
 
 The spaceship Enterprise is located in a quadrant with known coordinates and needs to reach its destination (another quadrant, different from the starting one, with also known coordinates).

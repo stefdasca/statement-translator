@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given an undirected graph $G$ with $N$ nodes and $M$ edges, determine the number of connected components in the given graph.

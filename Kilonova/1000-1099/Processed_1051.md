@@ -1,4 +1,4 @@
-```markdown
+
 A number $n$ is read from the keyboard and then $n$ natural numbers. We define a sequence as a group of elements on consecutive positions in the read array. We define a tri-subarray as a subarray that starts with an odd element, ends with an odd element, and contains exactly one other odd element in between. Thus, each tri-subarray includes two maximal subarrays formed only of even elements (each of these two may be empty). The imbalance of a tri-subarray is calculated as follows: determine the sum of elements in the subarray on the left formed only of even elements, the sum of elements in the subarray on the right formed only of even elements, and then the absolute difference between the two values (i.e., subtract the smaller one from the larger one). If any of the two subarrays of even elements is empty, it is considered to have a sum of $0$. This difference represents the imbalance of the tri-subarray.
 
 # Task
@@ -40,4 +40,3 @@ We have $5$ tri-subarrays:
 - $(5, 10, 7, 9)$, with imbalance $10$;
 - $(7, 9, 8, 11)$, with imbalance $8$;
 - $(9, 8, 11, 8, 2, 13)$, with imbalance $2$.
-```

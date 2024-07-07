@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of $N$ natural numbers is considered. We call ***rectangle-sequence*** any continuous subarray of the sequence (formed from elements in consecutive positions) that contains at least two elements. Each ***rectangle-sequence*** is *characterized* by a rectangle with side lengths equal to the largest two elements within it.
 
 # Task
@@ -46,4 +46,3 @@ The output contains the determined number, modulo $10^9+7$.
 ## Explanation
 
 There are $3$ rectangle-sequences: $(2, 3)$; $(2, 3, 1)$; $(3, 1)$. The areas of the three rectangles that characterize them are: $6, 6, 3$.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 In Australia, there is a kangaroo competition where $n$ kangaroos participate, each kangaroo having a known jump length.
@@ -46,5 +46,4 @@ The first and only line of the output file will contain the first point where th
 `stdout`
 ```
 No
-```
 ```

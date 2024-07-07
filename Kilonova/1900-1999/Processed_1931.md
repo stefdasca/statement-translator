@@ -1,4 +1,4 @@
-```markdown
+
 For an array of numbers $A$, the following cost function is defined:
 $$f(A) = 1 \cdot V_1 + 2 \cdot V_2 + \dots + K \cdot V_K$$, where $[V_1, V_2, \dots, V_K]$ are the distinct values of $A$, sorted in ascending order.
 
@@ -44,5 +44,4 @@ The output file `sortall.out` will contain the answer modulo $1 \ 000 \ 000 \ 00
 `sortall.out`
 ```
 861
-```
 ```

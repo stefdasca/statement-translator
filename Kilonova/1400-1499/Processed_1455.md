@@ -8,7 +8,7 @@ $6 \☺\ 10 = 416$
 $43 \☺\ 1500 = 14571543$
 $23 \☺\ 23 = 46$
 
-The math teacher promised Mihai a grade of $10$ for the invention, only if he correctly determines the number of even divisors for the result obtained through the “smile” operation. Thus, Mihai received $N$ pairs of numbers ($a$, $b$) for which he needs to calculate $a \☺\ b$ and determine if the result obtained has even divisors.
+The math teacher promised Mihai a grade of $10$ for the invention, only if he correctly determines the number of even divisors for the result obtained through the “smile� operation. Thus, Mihai received $N$ pairs of numbers ($a$, $b$) for which he needs to calculate $a \☺\ b$ and determine if the result obtained has even divisors.
 
 # Task
 
@@ -65,7 +65,7 @@ In the output file `inventie.out`:
 
 ## Explanation
 
-Using the “smile” operation, the values obtained in order are $210$, $711$, $313$, $113$, $12$, $416$, $14571543$, $46$. Among these, the numbers that do not have even divisors are $711$, $313$, $113$, $14571543$, with the smallest being $113$ and the largest $14571543$.
+Using the “smile� operation, the values obtained in order are $210$, $711$, $313$, $113$, $12$, $416$, $14571543$, $46$. Among these, the numbers that do not have even divisors are $711$, $313$, $113$, $14571543$, with the smallest being $113$ and the largest $14571543$.
 
 # Example 2
 
@@ -85,4 +85,4 @@ Using the “smile” operation, the values obtained in order are $210$, $711$, 
 
 ## Explanation
 
-Using the “smile” operation, the values obtained in order are $26$, $9761512$, both numbers having even divisors.
+Using the “smile� operation, the values obtained in order are $26$, $9761512$, both numbers having even divisors.

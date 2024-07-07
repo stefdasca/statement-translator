@@ -1,4 +1,4 @@
-```markdown
+
 Coami, stressed about college, decided to play some *Metin*2.
 
 The objective of *Metin*2 is to break *Metin Stones*. A *Metin Stone* is a convex polygon with $4$ vertices. Because Coami is a competitive player, he wants to MinMax his farming strategy, so he wants to know the area of the range in which he can hit all the stones at the same time.

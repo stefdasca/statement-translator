@@ -1,4 +1,4 @@
-```markdown
+
 # Task
 
 Given two natural numbers $n$ and $p$, the task is to find a natural number $m \leq 350\ 000$ with the property that it can be written both as the sum of $p$ nonzero perfect squares and as the sum of $p+1$ nonzero perfect squares, ..., and as the sum of $n$ nonzero perfect squares.
@@ -35,4 +35,3 @@ It is followed by $n-p+1$ lines. Line $i$ of the file, for $i=2, 3, \ldots, n-p+
 
 $18 = 1^2 + 1^2 + 4^2$
 $18 = 2^2 + 1^2 + 2^2 + 3^2$
-```

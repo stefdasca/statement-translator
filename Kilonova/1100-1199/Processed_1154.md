@@ -1,4 +1,4 @@
-```markdown
+
 A monotonic matrix is a matrix where each row is ordered increasingly from left to right and each column is ordered increasingly from top to bottom. A submatrix is a rectangular region in a matrix that consists of consecutive rows and columns. The task is to determine a maximal monotonic submatrix (with the maximum number of elements) in a given matrix. If there are multiple submatrices with the maximum number of elements, the submatrix with the smallest possible top-left corner will be displayed.
 
 # Input data
@@ -52,5 +52,4 @@ The second line of the output file `mmm.out` will contain two integers, $x$ and 
 ```
 2 6
 3 1
-```
 ```

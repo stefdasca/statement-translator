@@ -6,7 +6,7 @@ Given $k$, $n$, and $y$ as three natural numbers.
 Let $X$ be a sequence formed from $n$ natural numbers: $x_1, x_2, x_3, \ldots, x_n$.
 Let $P$ be the product of the numbers $y, x_1, x_2, x_3, \ldots, x_n$, that is: $P = y \cdot x_1 \cdot x_2 \cdot x_3 \cdots x_n$.
 
-The number $P$ is a “**$k$-power**” if there exists a natural number $z$ such that $P = z^k$.
+The number $P$ is a “**$k$-power**� if there exists a natural number $z$ such that $P = z^k$.
 
 # Task
 

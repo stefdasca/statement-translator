@@ -46,4 +46,3 @@ SOICN nu este forte
 0 3
 1 2
 0 1
-```

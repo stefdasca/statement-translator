@@ -1,4 +1,4 @@
-```markdown
+
 Costin has a square matrix $A$ with $N$ rows (numbered from top to bottom from $1$ to $N$) and $N$ columns (numbered from left to right from $1$ to $N$). Initially, all elements of the matrix are equal to $0$. A sequence of $M$ operations will be performed on the matrix $A$, of the following types:
 * $1 \\ i_1 \\ j_1 \\ i_2 \\ j_2 \\ X$ - add the value $X$ to all elements in the submatrix with the top-left corner at $(i_1, j_1)$ and bottom-right corner at $(i_2, j_2)$. In other words, all elements $A_{i,j}$ with $i_1 \leq i \leq i_2$ and $j_1 \leq j \leq j_2$ are incremented by $X$.
 * $2 \\ K$ - the matrix will be rotated $K$ times by 90 degrees to the left (see fig. 1, for $K = 1$).
@@ -51,5 +51,4 @@ The output file `matrix.out` will contain $N$ lines, each containing $N$ numbers
 1 1 0
 1 3 2
 1 3 2
-```
 ```

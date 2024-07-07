@@ -1,4 +1,4 @@
-```
+
 Two natural numbers $N$ and $K$ are given.
 
 # Task
@@ -34,4 +34,3 @@ The output file `minusk.out` will contain on the first line a single natural num
 ## Explanation
 
 The $8$ sequences are: `++++`, `+++-`, `++-+`, `+-++`, `-+++`, `+-+-`, `-++-`, `-+-+`. In none of these sequences do we have two or more `–` characters on consecutive positions.
-```
