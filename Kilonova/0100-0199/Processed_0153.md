@@ -1,4 +1,4 @@
-```markdown
+
 A sequence of `N` natural numbers is considered. Some positions of the sequence are uninfected, and this is marked by the fact that the value at those positions is $0$. The rest of the positions are infected, and the non-zero value at an infected position represents the cost at which it can be disinfected. We disinfect some positions and want to eventually have exactly $K$ uninfected positions, and the total cost of disinfection should be minimal. A position can be disinfected at a given moment if and only if it has at least one uninfected neighboring position. After disinfecting a position, its associated cost is added to the total cost, the position becomes uninfected, and any other neighboring infected position can afterward be disinfected.
 
 # Task
@@ -42,4 +42,3 @@ Explanations
 There are `T = 2` tests.
 For the first test, the elements at indices `2, 3, 4, 6` are disinfected.
 For the second test, the elements at indices `5` and `6` are disinfected. Another valid solution would be indices `1` and `5`.
-```
