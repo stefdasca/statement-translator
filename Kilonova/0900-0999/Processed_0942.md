@@ -1,6 +1,3 @@
-Here is the translated and processed text in English:
-
-```markdown
 Given a number $N$, and a sequence of $N$ non-zero natural numbers.
 
 # Task
@@ -60,6 +57,3 @@ The last non-zero digit of the first element in the sequence is $2$. The sum of 
 ## Explanation
 
 The decomposition can be realized into segments of lengths $4$, $3$, $2$, and $1$. The sums obtained for each are: $8$, $10$, $11$, $3$.
-```
-
-Double-checking the statement and fixing potential grammar and/or syntax errors according to the rules of the English language, the translation appears accurate with preserved structure, formatting, and custom image format.
