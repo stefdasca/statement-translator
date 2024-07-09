@@ -1,6 +1,3 @@
-Here is the translated competitive programming problem statement in English, following the given specifications:
-
-```markdown
 A two-dimensional array consisting of $N$ rows and $N$ columns is considered, containing free cells encoded with the value $0$ and blocked cells encoded with the value $1$. $M$ players are positioned in different cells of the matrix. A player can be positioned in a free cell or a blocked cell. Starting from moment $t_0 = 0$, at each integer moment $t$, each player colors the free cells at distance $t$ from the position they are in.
 
 We define the distance between two cells $(i_1, j_1)$ and $(i_2, j_2)$ as equal to $max(|i_1 - i_2|, |j_1 - j_2|)$, where $i_1$ and $i_2$ correspond to the row indices and $j_1$ and $j_2$ correspond to the column indices of the cells.

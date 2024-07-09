@@ -1,6 +1,3 @@
-The provided statement in Romanian has been translated according to your specifications. Here is the English version:
-
-```markdown
 We define a **right polygon** as a polygon with consecutive sides that are perpendicular and the lengths of the sides are non-zero natural numbers. A right polygon with $n$ sides is described by a sequence of $n$ non-zero integers in which the lengths of the sides are given by the absolute value of the numbers in the sequence, and the sign indicates the position of the sides, with a positive number indicating a side to the right or up from the end of the previous side, and a negative number indicating a side down or to the left from the end of the previous side; for example, the sequence $1,1,-1,-1$ represents a square with side $1$ (first side to the right, second up, third to the left, fourth down). We will consider the sides to be either horizontal or vertical, with the first side listed being horizontally to the right if the number is positive, or to the left if the number is negative.
 
 # Task
@@ -65,5 +62,4 @@ The sequences describe the following figures:
 `drept.out`
 ```
 9 1
-```
 ```

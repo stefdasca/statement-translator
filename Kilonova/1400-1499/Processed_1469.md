@@ -1,6 +1,3 @@
-Sure, here's the translation according to the specified instructions:
-
-```markdown
 We define a percentual price modification as a pair $(c, p)$ consisting of a character $c \in \{\text{‘+’, ‘-’}\}$ and a natural number $p$. If $c = \text{‘+’}$ then there is a price increase and if $c = \text{‘-’}$ then there is a price decrease, with the number $p$ representing the percent change in price. 
 Examples of percentual price modifications:
 * $(+ 35)$ – represents a price increase by $35\%$
@@ -71,4 +68,3 @@ There are four distinct sequences of $3$ percentual price modifications that inc
 * $(- 36)$, $(+ 25)$, $(+ 25)$  
 * $(- 60)$, $(+ 25)$, $(+ 100)$
 * $(- 20)$, $(+ 25)$, $(+ 0)$ 
-```

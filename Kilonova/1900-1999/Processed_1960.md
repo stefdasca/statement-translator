@@ -1,6 +1,3 @@
-Below is the translated text according to the specified instructions:
-
-```markdown
 We define the set of **ordered lattice points** as the set of point pairs in the plane $(x,y)$ with properties: $x$ and $y$ are natural numbers and $x \\geq y$.
 # Task
 Considering a natural number $N$, write a program that determines the number $T$ of distinct triangles that simultaneously meet the conditions:

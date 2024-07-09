@@ -1,7 +1,4 @@
-Here is the translated problem statement according to the instructions:
-
-```markdown
-It is given the algorithm:
+The following algorithm is given:
 ```
 read  k , n; 
 s = 0; 

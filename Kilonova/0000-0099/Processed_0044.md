@@ -1,6 +1,3 @@
-Certainly! Below is the translated competitive programming problem statement in English, following your provided instructions:
-
-```markdown
 At a software company, work is being done on a large project. The project consists of executing $n$ ($n \in \N$) development phases, numbered with the numbers $1, 2, ..., n$. Some phases can be executed in parallel (at the same time), but the execution of other phases cannot start until the execution of certain phases is completed.
 
 # Task
@@ -50,6 +47,3 @@ The output file `pm.out` will contain $n + 1$ lines. The first line will contain
 8 8
 8 9
 ```
-```
-
-Please review for any potential grammar and syntax errors.

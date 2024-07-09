@@ -1,6 +1,3 @@
-Here is the translated and corrected text:
-
-```markdown
 # Task
 
 You have a tree (a connected acyclic graph) of $N$ nodes indexed from $1$ to $N$. Each node $i$ has an integer value $V_i > 1$ assigned to it.

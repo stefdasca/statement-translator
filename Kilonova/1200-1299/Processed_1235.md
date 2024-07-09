@@ -1,6 +1,3 @@
-Here is the translated competitive programming problem statement in English:
-
-```markdown
 The $n$ prisoners of a prison, numbered from $1$ to $n$, need to dig a trench laid in a straight line between two points $A$ and $B$, situated at a distance of $250$ km from each other, where there are $251$ kilometer posts numbered from $0$ to $250$. However, each prisoner has a demand, "it’s democracy, isn't it?": he wants to dig only somewhere in the area between post $x$ and post $y$. Besides these demands, the prison also faces another problem: it doesn't have enough guards.
 
 # Task

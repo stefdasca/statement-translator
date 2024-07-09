@@ -1,6 +1,3 @@
-Here is the translated problem statement:
-
-```markdown
 A string of characters consisting of `N` lowercase letters from the Latin alphabet is given, representing a phrase; there are no spaces between words. A vocabulary is also given, consisting of `M` words that are not necessarily different and do not appear in a predetermined order.
 
 # Task
@@ -46,6 +43,3 @@ simplu
 acesta este un text
 
 ```
-```
-
-I have also double-checked the translation for any grammar and syntax errors, ensuring it follows the rules of the English language.

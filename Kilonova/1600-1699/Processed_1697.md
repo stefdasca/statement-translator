@@ -1,6 +1,3 @@
-Here is the translated text in English:
-
-```markdown
 Given $N$ natural numbers $a_1$, $a_2$, $\dots$, $a_N$ and a nonzero natural number $M$.
 
 # Task
@@ -41,4 +38,4 @@ The output file `prosum.out` will contain on the first line the number of index 
 ## Explanation
 
 There are two pairs of indices with the required property: $(1, 4)$ and $(3, 4)$, because we have $6 \cdot 1 + 6 + 1 = 13$, which is divisible by $M = 13$.
-```
+

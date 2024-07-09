@@ -1,6 +1,3 @@
-Here is the translated text:
-
-```markdown
 MicroPhone, a software applications producer for mobile phones, is developing the spreadsheet program MicroXL to include it in the basic software of the next generation of smartphones. In its current stage, the application allows work on a spreadsheet composed of $N \cdot N$ cells, each cell being able to contain a nonzero natural number or a formula.
 
 A formula is preceded by the equal sign and contains an arbitrary number, possibly zero, of addition operations. The terms of a formula can be nonzero natural constants or references to other cells, as can be seen in the figure below. A cell reference is made by specifying the corresponding row and column number, separated by the `:` character. The formula contains no spaces.
@@ -49,6 +46,3 @@ The file `mxl.out` will contain $N$ lines. Each line $i$ will contain $N$ natura
 0 0 6 0 0 
 0 0 0 0 0
 ```
-```
-
-Double checked the statement for grammar and syntax: everything appears to be correctly translated and formatted according to the rules of the English language.

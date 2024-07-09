@@ -1,6 +1,3 @@
-Certainly! Here is the translated competitive programming problem statement:
-
-```markdown
 Since the data structures in the C++ standard were too simple and couldn't help him in all situations, Gicu decided to dive into research to avoid getting too bored.
 
 He is dissatisfied with the way a dictionary is implemented in C++ and wants to propose a new structure for the upcoming C++26 standard: an interval dictionary.
@@ -131,5 +128,3 @@ We have $5$ operations on the structure:
 1. Set the values in the interval $[17, 52)$ to the value `P`;
 1. Set the values in the interval $[18, 55)$ to the value `R`.
 ```
-
-Please let me know if you need any further adjustments or clarifications!

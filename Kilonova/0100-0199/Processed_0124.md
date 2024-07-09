@@ -1,6 +1,3 @@
-Here is the translated statement:
-
-```markdown
 Let `x` be a natural number with exactly `n` digits written in base `10`.
 
 # Task

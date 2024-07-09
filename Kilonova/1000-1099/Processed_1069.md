@@ -1,6 +1,3 @@
-Sure, here is the translated text:
-
-```markdown
 For the game to be played, $k$ sets of $n+2$ balls each are used. Among the $n+2$ balls:
 - $n$ are inscribed with distinct numbers from $1$ to $n$, representing the value of each ball.
 - $2$ are inscribed with the number $0$, which have a special role and do not have value.

@@ -1,6 +1,3 @@
-Here is the translated problem statement in English:
-
-```markdown
 Let $A$, $B$, $C$, $D$ be four natural numbers.
 
 # Task
@@ -46,5 +43,3 @@ $A \cdot X + B \cdot Y  = 1 \cdot 0.25 + 2 \cdot 0.875 =  2$ and $C \cdot X + D 
 $A \cdot X + B \cdot Y  = 1 \cdot 0.5 + 2 \cdot 0.75 = 2$ and $C \cdot X + D \cdot Y = 10 \cdot 0.5 + 12 \cdot 0.75 = 14$
 $A \cdot X + B \cdot Y  = 1 \cdot 0.75 + 2 \cdot 0.625 = 2$ and $C \cdot X + D \cdot Y = 10 \cdot 0.75 + 12 \cdot 0.625 = 15$
 ```
-
-The problem has been translated with mathematical values, variable names, general syntax, structure, and format preserved. I have also double-checked for potential grammar and/or syntax errors and corrected them according to the rules of the English language.

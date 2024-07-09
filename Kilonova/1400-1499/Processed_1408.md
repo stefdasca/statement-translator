@@ -1,6 +1,3 @@
-Here is the translated text in English, with the format and custom syntax preserved:
-
-```markdown
 At ONIGIM 2013, $N$ fifth-grade students are participating, having as IDs, in order, the natural numbers from $1$ to $N$. This year, the organizers displayed all the distinct scores obtained by the fifth-grade students, in strictly increasing order $p_1$, $p_2$, $\dots$, $p_K$, and an array of $N$ values $a_1$, $a_2$, $\dots$, $a_N$, where $a_i$ represents the number of students who have scores strictly less than the score of the student with ID $i$ ($1 \leq i \leq N$).
 
 # Task
@@ -50,6 +47,3 @@ The output file `onigim.out` will contain three lines. The first line contains $
 There are $4$ students who have a score lower than the score of the student with ID $1$, $2$ students with a score lower than the score of the student with ID $2$, etc.
 The top $3$ scores are obtained by $4$ students.
 The maximum number of students who have the same score is $2$.
-```
-
-I have double-checked the text for any grammar or syntax errors and ensured it aligns with the rules of the English language.

@@ -1,6 +1,3 @@
-The provided text translates to the following English version while preserving the format, structure, and custom image syntax:
-
-```markdown
 Let's consider a non-zero natural number $n$.
 Let us consider an expression of the form: $x_1 - x_2 - x_3 - ... - x_n$
 It is known that subtraction is not an associative operation, i.e., $x_1 - (x_2 - x_3) \neq (x_1 - x_2) - x_3$.

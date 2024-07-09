@@ -1,6 +1,3 @@
-Here is the translated text:
-
-```markdown
 Consider a sequence of $N$ cement columns (their positions are numbered from $1$ to $N$) of the same width and varying heights. They are bordered on the left (position $0$) and on the right (position $N+1$) by very tall walls. Water starts to flow from above the first column, one water unit per second. Water accumulates if there are walls on the left and right; otherwise, it flows lower to the right. Above each cement column, a water column can form, with a height equal to the number of units from the water level to the point of contact with the cement column.
 
 # Task
@@ -108,6 +105,3 @@ All examples refer to the figure above, differing only by the task number. In al
 **Third example**: The green line shows the water level after $42$ seconds. It covers column number $29$. Letting the water flow for another $3$ seconds (up to $S=45$ seconds), the level does not rise enough to reach column $30$ because another $5$ water units are needed, that is $5$ more seconds.
 
 **Fourth example**: The leftmost column that we will reduce by one is column number $7$. Thus, the water will reach the column $P=15$ $5$ seconds earlier. The brown line (the water line of height $6$ extending from column $2$ to column $6$) shows the $5$ units by which we reduce the time. Any other column we reduce will not reach as quickly.
-```
-
-Please review the translation and verify if it matches your needs.

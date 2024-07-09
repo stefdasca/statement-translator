@@ -1,6 +1,3 @@
-Here is the translated and formatted text according to the specified instructions:
-
-```markdown
 Consider $N$ segments in a plane identified by the coordinates of their endpoints. All segments are closed, meaning each also contains the two points considered as its endpoints. We assume that at point $O(0,0)$ which is the origin of the orthogonal axis system $XOY$, there is a laser that can transmit a beam of light to any point with a positive ordinate $(\geq 0)$. The beam can be represented in the plane as a ray with the endpoint at the origin of the axes. However, if the beam of light meets a segment, it obstructs it, meaning it prevents it from passing beyond that point. We consider that each segment has an associated cost for drawing it in the plane.
 
 # Task
@@ -82,6 +79,3 @@ The chosen segments are: $[(-2, 0), (-1,1)], [(-1, 1), (1,1)], [(1, 1), (2,0)]$.
 ## Explanation
 
 No segments exist that meet the requirements.
-```
-
-Please double-check the statement for potential grammar and/or syntax errors according to the rules of the English language.

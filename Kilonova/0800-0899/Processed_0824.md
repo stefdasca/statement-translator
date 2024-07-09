@@ -1,6 +1,3 @@
-Certainly! Below is the translated competitive programming problem statement:
-
-```markdown
 A triangle consisting of natural numbers written on $n$ lines, as shown in the adjacent figure, is considered. The lines of the triangle are numbered from $1$ to $n$, starting with the line from the base of the triangle (the bottom line), and the positions on the line are numbered starting with $1$ from left to right.
 Each number in the triangle, except those on line $1$, is equal to the sum of the numbers immediately below it, to its left and right.
 

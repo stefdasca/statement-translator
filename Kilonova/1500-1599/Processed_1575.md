@@ -1,6 +1,3 @@
-Below is the translated competitive programming problem statement in English:
-
-```markdown
 In Macarie's garden, there are $N^2$ fruit trees of different heights, planted in the form of a grid of $N$ rows and $N$ columns, numbered from $1$ to $N$. Since there are birds that eat their fruits, Macarie thought to place surveillance systems that provide some degree of protection to the trees situated on the row and column where it is placed, in all four directions of movement: North, South, East, and West, i.e., left and right within the row and up and down within the column. In any of these four directions of movement, the surveillance provided by a system is interrupted when it encounters a tree of height strictly greater than the tree in which it was placed.
 
 # Task

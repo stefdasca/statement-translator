@@ -1,6 +1,3 @@
-Sure, here is the translated text:
-
-````markdown
 On a square-shaped piece of land, there are areas of dry land and lakes. The map of the terrain is stored in a two-dimensional array $n \cdot n$ with values $1$ (water) or $0$ (dry land). Rows are numbered from $1$ to $n$ from top to bottom, and columns from $1$ to $n$ from left to right.
 
 Each lake is surrounded by an area of dry land. The only exception is the lakes located at the edge of the terrain, which are surrounded by dry land only within the terrain and not outside it.

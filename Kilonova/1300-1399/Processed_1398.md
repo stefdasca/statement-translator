@@ -1,6 +1,3 @@
-Below is the translated problem statement:
-
-```markdown
 For a matrix $A$ with $n$ rows and $m$ columns, containing natural numbers, **the median of matrix $A$** is defined as the value situated at the midpoint of the sorted sequence formed by all elements of matrix $A$, if the number of elements in this sequence is odd, or the smallest value of the two middle values if the number of elements in this sequence is even. 
 
 Three types of operations that can be applied to matrix $A$ are defined:
@@ -150,6 +147,3 @@ $$
 
 \end{CD}
 $$
-```
-
-Please confirm that the translation is accurate and let me know if any changes are needed.

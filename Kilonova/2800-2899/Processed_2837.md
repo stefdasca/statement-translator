@@ -1,6 +1,3 @@
-Here is the translated and formatted competitive programming problem statement:
-
-```markdown
 Considering two natural numbers $X$ and $Y$, we say that $X$ is a prefix for $Y$ if $X$ can be obtained from $Y$ by deleting $0$, $1$ or more digits from the end of $Y$.  
 Examples:
 * $1024$ is a prefix for $1024789056$

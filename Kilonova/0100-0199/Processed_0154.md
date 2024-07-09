@@ -1,6 +1,3 @@
-Here is the translated and formatted competitive programming problem statement:
-
-```markdown
 Let `G` be an undirected graph with `2 \times N` nodes and `3 \times N - 2` edges. Each edge is colored in white, black, or red.
 
 The following is guaranteed:
@@ -76,6 +73,3 @@ Explanations
 There are two tests.
 In each test, the graph has `2*4` nodes and `3*4-2` edges (`3` white edges, `3` black edges, and `4` red edges).
 In the first graph, there is no special Hamiltonian cycle.
-```
-
-Please double check the statement and correct any potential grammar or syntax errors according to the rules of the English language if necessary.

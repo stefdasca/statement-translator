@@ -1,6 +1,3 @@
-Here is the translated version of the given text:
-
-```markdown
 Given a mathematical expression in which the characters `x`, `y`, `z`, `t`, digits, and the signs `+` or `-` may appear.
 
 Adjacent digits form numbers. Letters represent variables. A variable can be preceded by a number. There are no other characters between the variable and the preceding number. A group consisting of a letter and, possibly, a preceding number forms a monomial. A monomial **does not** contain multiple letters. The number appearing in a monomial is called the coefficient.

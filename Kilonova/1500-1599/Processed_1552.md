@@ -1,5 +1,3 @@
-Sure, here is the translated text:
-```markdown
 Trio is a game containing $N$ pieces of the same shape, placed next to each other on a game board and numbered from left to right with values from $1$ to $N$. Each piece has three zones marked on it, and in each of them, a digit is written. It is considered that a piece on which the digits $\\text{C1}$, $\\text{C2}$, and $\\text{C3}$ are written in order from left to right has the following properties:
 
 * it is *identical* to another piece if that piece contains exactly the same digits, in the same order as them or in reverse order. So, the piece $\\boxed{\\text{C1|C2|C3}}$ is identical to another piece of the form $\\boxed{\\text{C1|C2|C3}}$ and to a piece of the form $\\boxed{\\text{C3|C2|C1}}$.
@@ -105,7 +103,3 @@ Task 3 is solved. We identify two sequences of maximum length, equal to $5$, for
 ~[ex3_1.png]
 
 ~[ex3_2.png]
-
-```
-
-I have translated the text while preserving the formatting and additional instructions you provided. If there are any corrections or additions you would like, please let me know.
