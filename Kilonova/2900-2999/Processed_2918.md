@@ -1,4 +1,3 @@
-```markdown
 Given $N$ equations of both the first and second degree. Each equation is provided as a string that ends with a newline character, one per line, in the following format:
 ```
 Ax^2+Bx+C=0
@@ -73,4 +72,3 @@ For this example, there is only one first-degree equation.
 ## Explanation
 
 In this example: the first equation has no real roots, the second has the root $-2$, $|-2| = 2$, which is in $v$, and the third equation has the roots $-2$, $-3$ with $|-2| = 2$ which is in $v$. Thus, there are two equations with roots that have an absolute value in $v$.
-```

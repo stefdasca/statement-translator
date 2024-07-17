@@ -1,4 +1,3 @@
-```markdown
 We call a multigraph $k$-complete of order $n$ a graph with $n$ nodes, labeled with $1, 2, \dots, n$ in which there exist exactly $k$ edges between any two different nodes. For example, the $2$-complete multigraph of order $3$ is shown in the figure below.
 
 # Task
@@ -36,4 +35,3 @@ The first line of the output file `multigraf.out` will contain a single natural 
 The spanning trees for $n = 3$ and $k = 2$ are drawn in the figure below!
 
 ~[multigraf.png|align=center|width=90]
-```

@@ -1,4 +1,3 @@
-```markdown
 # Task
 **This problem is interactive!**
 Gigel, along with his friends, arrives by bus at Euro. Once the organizers learned this, they started preparing to receive him. They own a parking lot where the spots are lined up. The parking lot has a length of $N$ and is represented by a binary string $p$ of length $N$, where $p_i$ is $0$ if the $i$-th spot is free and $1$ if it is occupied. This parking lot is made for cars, not for buses, but the organizers make a compromise for Gigel, allowing him to park his bus "in reverse" (see drawing) on free spots. However, they tell Gigel that he **CANNOT** park his bus of length $K$ on a **maximal sequence of free spots with a length greater than $4K$**.
@@ -28,6 +27,3 @@ The function `solve` will receive $N$, $K$, and the string $v$ written on the pa
 * If for a test, in a call to the `solve` function, the returned answer is incorrect, the solution will receive 0 points for that test.
 * Let $L$ be the length of the string written by the organizers on the paper. Let $R = min(1,20/L)$.
 * The score obtained for a test of $T$ points will be $T \cdot R^2$.
-```
-
-After reviewing the translated text, the translation is correct, syntax is preserved, and there are no grammatical errors.

@@ -1,4 +1,3 @@
-```markdown
 # Task
 
 Given $n$ and a **binary** matrix, named $c$, with $n$ rows and $n$ columns. Determine if there exist two **binary** sequences $a$ and $b$ of length $n$ such that $a_i \cdot b_j = c_{i,j}$ for every $1 \leq i, j \leq n$. If there do not exist two such sequences, print `1`.
@@ -70,4 +69,3 @@ In the first example, we have $a = [0, 1]$ and $b = [1, 1]$. $c_{1, 1} = a_1 \cd
 ## Explanation
 
 In the third example, it can be demonstrated that there is no solution. Therefore, we print `-1`.
-```

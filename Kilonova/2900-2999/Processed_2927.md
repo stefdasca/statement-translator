@@ -1,4 +1,3 @@
-```markdown
 A prefix of a natural number $N$ is a number obtained by removing digits from the right end of $N$. For example, the prefixes of $123321$ are $123321$, $12332$, $1233$, $123$, $12$, $1$.
 
 Similarly, a suffix of a natural number $N$ is a number obtained by removing digits from the left end of $N$. For example, the prefixes of $1023$ are $1023$, $023$, $23$, $3$.
@@ -62,4 +61,3 @@ In the first example, the sum of the prefixes of $N$ is $123321 + 12332 + 1233 +
 ## Explanation
 
 In the second example, the sum of the suffixes of $N$ is $1023 + 023 + 23 + 3 = 1072$.
-```

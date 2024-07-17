@@ -1,4 +1,3 @@
-```markdown
 # Task
 
 The $N$ players of the national team have arrived in Frankfurt for the match against Slovakia. Like any respectful team, they have friendship relationships in the form of a tree. While waiting for the match, Denis came up with the idea of taking his colleagues to a casino. To avoid attracting the attention of paparazzi, they can enter a casino in a group of up to $K$ people, forming a connected component in the friendship tree. Therefore, he will form several groups, which will enter the casino in turns. Denis wants them to be absent from the hotel as little as possible to avoid attracting the attention of Mr. Coach Fisu' lu' Tasu'.
@@ -42,4 +41,3 @@ The output file `pacanea.out` will contain a single line representing the minimu
 ## Explanation
 
 We can split into the following connected components: $\{1\}$, $\{2, 6\}$, $\{3, 4, 5\}$.
-```

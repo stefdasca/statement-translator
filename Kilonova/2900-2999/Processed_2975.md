@@ -1,4 +1,3 @@
-```markdown
 # Task
 
 You are given an array $v$ of $n$ elements.
@@ -65,5 +64,4 @@ After the second operation, the array $v$ becomes $[1, 5, 1, \textbf{7, 4, 2, 2}
 `stdout`
 ```
 5 7 2 4 1 6 8 3 
-```
 ```

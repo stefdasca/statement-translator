@@ -1,4 +1,3 @@
-```markdown
 A natural number $N$ is given. We will denote by $P$ the set of prime numbers less than or equal to $N$. We aim to determine the largest sum of a subarray of $P$ containing $[card(P)/2]$ elements and the number of non-empty subsets of $P$, modulo $7919$.
 
 # Task
@@ -56,4 +55,3 @@ $C = 1$. We get that $P = \{2, 3, 5, 7\}$, $card(P) = 4$. The largest sum for a 
 ## Explanation
 
 $C = 2$. The number of non-empty subsets of $P = \{2, 3, 5, 7\}$ is $15$.
-```

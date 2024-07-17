@@ -1,4 +1,3 @@
-```markdown
 Ștefan is playing a game using a chessboard of size $N$ by $M$ squares. The board consists of free spaces (`.`), but also spaces occupied by enemy pieces: Queens (`R`, $9$ points), Rooks (`T`, $5$ points), Knights (`C`, $3$ points), and Bishops (`N`, $3$ points). He wants to find out the highest score a pawn can achieve when placed on the first row of this chessboard if the score of a pawn is the sum of the points of the captured pieces.
 
 A pawn can move in 2 ways on a chessboard:
@@ -55,7 +54,3 @@ The output file `scor-pion.out` will contain a single integer, the highest score
 This score can be achieved by placing the pawn in the 3rd column, that is, on the square with coordinates $\{5, 3\}$.
 After capturing the rook at position $\{4, 2\}$, its score goes to $5$ points, then it can move forward and capture the queen at position $\{2, 3\}$, reaching a total score of $5 + 9 = 14$ points.
 The path taken by the pawn is: $\{5, 3\}$ -> $\{4, 2\}$ -> $\{3, 2\}$ -> $\{2, 3\}$.
-```
-
-Double-checking the grammar and syntax, everything looks accurate according to the provided guidelines.
-```

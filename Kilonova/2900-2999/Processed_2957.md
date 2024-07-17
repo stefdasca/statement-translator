@@ -1,4 +1,3 @@
-```markdown
 RAU-Gigel is thinking about a game: $N$ soldiers, numbered from $1$ to $N$ are caught in an ambush. They are subjected to $M$ cannon attacks. The attacks affect not just one soldier, but a range of soldiers, causing each of them a certain amount of damage. For example, the attack $(3,7,5)$ affects soldiers $3$, $4$, $5$, $6$, $7$ with $5$ damage. Initially, all soldiers have $V$ lives. RAU-Gigel wonders how many soldiers remain alive after the $M$ attacks.
 
 # Task
@@ -43,4 +42,3 @@ After the third shot: $3\ 0\ 0\ 5\ 5\ 7$.
 After the fourth shot: $3\ 0\ 0\ 0\ 0\ 1$.
 
 Finally, $2$ soldiers remain alive.
-```

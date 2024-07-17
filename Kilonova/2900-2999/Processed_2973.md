@@ -1,4 +1,3 @@
-```markdown
 # Task
 Given a natural number $N$. Generate a natural number with at least $N$ digits that has the following properties:
 1. It starts with the digit $1$.
@@ -13,4 +12,3 @@ The generated number will be printed in the file `numar-curios.out`.
 # Constraints and clarifications
 - $1 \le N \le 40$
 - The displayed number must have at most $10\ 000$ digits.
-```

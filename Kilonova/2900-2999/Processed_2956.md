@@ -1,4 +1,3 @@
-```markdown
 RAU-Gigel is passionate about graphics, so he thinks of giving you a gift for the 1st of June: a game with images. He creates a binary bitmap image of dimensions $N \times N$ pixels in a graphic editor. A binary bitmap image is a matrix of pixels, each pixel being a bit. Let's consider that the value $0$ (unset) means white and the value $1$ (set) means black. Then RAU-Gigel divides the image into four equal square images with side $N / 2$ which are denoted from 1 to 4 (1 is the image in the top-right corner, 2 is the image in the bottom-right corner, 3 bottom-left and 4 top-left). He repeats the procedure for each of the 4 obtained images, always halving the side and denoting the directions from 1 to 4, until he reaches one-pixel-sized images.
 
 For simplicity, let's assume that $N$ is a power of $2$, let's say $K$. So, after $K$ successive image divisions, any pixel can be identified by a unique sequence consisting of the digits 1, 2, 3, and 4, of length $K$.
@@ -91,5 +90,4 @@ Finally, pixel `e` is reset too, and the last query, for `c`, will determine the
 4
 16
 16
-```
 ```
