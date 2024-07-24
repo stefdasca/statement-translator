@@ -26,7 +26,7 @@ The output file `stiva.out` will contain a single line which contains the minimu
 
 # Constraints and clarifications
 
-* The length of the string is $ \leq 500$.
+* The length of the string is $\leq 500$.
 
 # Example 1
 
