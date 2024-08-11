@@ -1,6 +1,4 @@
-Below is the translated text in English, preserving the required format and details:
 
-```
 It is known that in a connected undirected graph, between any two vertices there is at least one path and the length of a path is equal to the number of edges that compose it. We define the notion of an *optimal path between two vertices $X$ and $Y$* as a path of minimal length that has the vertices $X$ and $Y$ as endpoints. It is evident that between any two vertices of a connected graph, we will have one or more optimal paths, depending on the configuration of the graph.
 
 # Task:
@@ -53,6 +51,3 @@ The file `graf.out` will contain
 2
 1 3
 ```
-```
-
-Please review the translated text to ensure accuracy and adherence to the provided instructions.
