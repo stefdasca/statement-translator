@@ -1,5 +1,5 @@
 
-It is known that in a connected undirected graph, between any two vertices there is at least one path and the length of a path is equal to the number of edges that compose it. We define the notion of an *optimal path between two vertices $X$ and $Y$* as a path of minimal length that has the vertices $X$ and $Y$ as endpoints. It is evident that between any two vertices of a connected graph, we will have one or more optimal paths, depending on the configuration of the graph.
+It is known that in a connected undirected graph, between any two vertices there is at least one path and the length of a path is equal to the number of edges that compose it. We define the notion of an optimal path between two vertices $X$ and $Y$ as a path of minimal length that has the vertices $X$ and $Y$ as endpoints. It is evident that between any two vertices of a connected graph, we will have one or more optimal paths, depending on the configuration of the graph.
 
 # Task:
 Given a connected undirected graph with $N$ vertices labeled with the ordinal numbers $1, 2, ..., N$ and two of its vertices denoted $X$ and $Y$ ($1 \leq X, Y \leq N, X \neq Y$), write a program that determines the vertices that belong to all optimal paths between $X$ and $Y$.
