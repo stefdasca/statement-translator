@@ -70,8 +70,8 @@ def translate():
         print(f"Processed {input_file_path} and saved response to {output_file_path}")
         # break
 
-# convert_format()
-translate()
+convert_format()
+# translate()
 
 
 
