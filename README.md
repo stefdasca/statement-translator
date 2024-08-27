@@ -8,7 +8,7 @@ This script, together with the GPT Prompt, can be used to read the Romanian stat
 
 For [kilonova](https://kilonova.ro), if you are solving the problem numbered $x$, you can check in the corresponding folder (each group of $100$ tasks is separated for simplicity) the statement named Processed_x.md 
 
-For [infoarena](https://infoarena.ro), if you are solving the problem named $x$, you can check in the corresponding folder the statement named x.md 
+For [infoarena](https://infoarena.ro), if you are solving the problem named $x$, you can check in the folder corresponding to its first letter the statement named x.md (if the link is https://infoarena.ro/problema/flip, you should find flip in the folder corresponding to letter F)
 
 ## Disclaimers
 
