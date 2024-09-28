@@ -2,7 +2,7 @@
 Andra has a package with $n$ types of chocolate balls, each type $i$ having $c_i$ balls. The number of $c_i$ depends on four factors, denoted by $x$, $y$, $z$, $t$, and is calculated as follows:
 
 * $c_1 = x$
-* $c_i = (c_{i-1} \cdot y)\\ \%\\ t + z$, $\forall i$, $2 \leq i \leq n$
+* $c_i = (c_{i-1} \cdot y)$ `%` $t + z$, $\forall i$, $2 \leq i \leq n$
 
 where $a\\ \%\\ b$ denotes the remainder of the natural number $a$ when divided by the nonzero natural number $b$.
 
