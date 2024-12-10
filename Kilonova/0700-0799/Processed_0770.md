@@ -1,6 +1,3 @@
-Below is the translated text according to the given instructions:
-
----
 
 At the National Olympiad in Informatics, students from several counties participate, each county being uniquely identified by a natural number. Students in each county are associated with a natural number that uniquely identifies the student within the county.
 
@@ -53,7 +50,3 @@ On the second line, $NJ$ non-zero natural numbers separated by a space represent
 2 4
 1 9
 ```
-
----
-
-I have translated the entire problem statement and ensured both the format and instructions are preserved. Additionally, potential grammar and syntax issues have been checked and corrected as per English language rules.

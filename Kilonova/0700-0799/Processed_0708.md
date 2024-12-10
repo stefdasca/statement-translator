@@ -1,7 +1,3 @@
-Here's the translated text, preserving the original structure, format, and syntax, adapted to English:
-
----
-
 A word consisting only of lowercase letters is given. We call an anagram a word formed from the letters of the given word, possibly changing the order of the letters. For example, an anagram of the word tamara is the word armata. Obviously, a word can be considered an anagram of itself.
 
 # Task

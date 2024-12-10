@@ -1,7 +1,3 @@
-Sure, here is the translated text:
-
----
-
 A matrix is called a shell of order $N$, or simply a shell, if it is constructed based on a non-zero natural number $N$ according to the following rule:
 - The shell is initially formed from a $1 \times 1$ square with the value $1$.
 - For each step $I$ with the values $2$, $3$, ..., $N$ to the already existing shell, a square will be added to the RIGHT, BOTTOM, LEFT, TOP, repeatedly in this order, where all elements have the value $I$, and the side length of the new square corresponds to the side length of the shell to which it is attached.
@@ -64,4 +60,5 @@ The shell of order $5$ has $8$ rows and $5$ columns.
 ```
 
 ## Explanation
+
 The $6$-th row of the shell of order $5$ consists of the numbers $4\ 4\ 4\ 1\ 2$.

@@ -1,6 +1,3 @@
-After translating and adjusting according to the specified instructions, here is the processed text:
-
----
 
 As you probably know, accountants keep their data in the form of tables and calculate all sorts of sums on rows and columns. Our accountant Atoc has organized his values in the form of a table with $n$ rows (numbered from $1$ to $n$) and $m$ columns (numbered from $1$ to $m$). The elements of the last column are the sums of the elements on the rows (more precisely, the element on row $i$ and column $m$ is equal to the sum of the elements on row $i$ located on columns $1, 2, \ldots, m-1$), and the elements of the last row are the sums of the elements on the columns (more precisely, the element on row $n$ and column $i$ is equal to the sum of the elements on column $i$ located on rows $1, 2, \ldots, n-1$). An example of such a table is given in the following figure.
 
@@ -50,5 +47,3 @@ The output text file `tabel.out` will contain the reconstructed table, on $n$ li
 11 6 6 23
 13 11 13 37
 ```
-
----

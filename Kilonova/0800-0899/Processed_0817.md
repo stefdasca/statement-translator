@@ -1,6 +1,3 @@
-Sure, here is the translated text in English with all required specifications:
-
----
 
 A football field is used for helicopter landings. The grass on the stadium is divided into squares of the same size, with sides parallel to the edges of the field. The rows with squares of grass are numbered from top to bottom with numbers $1, 2, \dots, m$, and the columns with squares of grass are numbered from left to right with numbers $1, 2, \dots, n$. Due to the different type of grass, it is known which of the grass squares are affected by shadow. This is specified by a two-dimensional array $a$ with $m$ rows and $n$ columns, with elements $0$ and $1$ ($a_{ij} = 0$ means that the square located in row $i$ and column $j$ is affected by shadow, and $a_{ij} = 1$ means that the square located in row $i$ and column $j$ is not affected by shadow). Each helicopter has $3$ wheels on which it rests. The wheels of each helicopter determine an isosceles right triangle. Helicopters land in such a way that the triangles formed have their legs parallel to the edges of the field. In the following example, we have four helicopters.
 

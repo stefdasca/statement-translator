@@ -1,6 +1,3 @@
-Sure, here is the translation of the competitive programming problem statement from Romanian into English:
-
----
 
 You want to level the land you have bought, which has a width of $1$ meter and a length of $N$ meters, consisting of $N$ successive zones, each zone having a length of $1$ meter. The land is represented as a sequence of $N$ natural numbers $h_1, h_2, h_3, \ldots, h_N$ representing the heights in meters of the zones from the initial land, seen from left to right.
 

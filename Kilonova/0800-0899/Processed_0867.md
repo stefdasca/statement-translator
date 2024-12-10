@@ -1,6 +1,3 @@
-Here is the translated statement:
-
----
 
 A number is called a **palindrome** if its first digit is equal to its last digit, its second digit is equal to its second last digit, and so on. For example, the numbers $1221$, $505$, and $7$ are palindromes, while $500$, $1410$, and $2424$ are not palindromes.
 
@@ -89,7 +86,3 @@ Explanation: The $3$ almost palindromes are $5442$, $2445$ and $39995$ ($C$ bein
 ## Explanation
 
 Explanation: The associated palindrome of $6$ is $7$, $1411$ is $1441$, $2444$ is $2552$, etc. ($C$ being $3$, only the third task is solved).
-
----
-
-Please review the English translation for accuracy and error correction.

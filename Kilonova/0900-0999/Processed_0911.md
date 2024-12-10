@@ -1,8 +1,3 @@
-Sure! Here's the translated document:
-
----
-
-## Valutar
 
 Valutar is a game that can be played by any number of players. At the beginning of the game, each player receives $L$ lei and $E$ euros, as well as a token numbered with the player's number. More specifically, if there are $M$ players, there will be $M$ tokens, numbered from $1$ to $M$.
 
@@ -102,6 +97,3 @@ The numbers obtained when rolling the dice are generated as follows: $nr_j = (3 
 |7|2|3|5|3|G|2|3|Must buy $3$ euros which cost $6 \cdot 3 = 18$ lei, does not have enough money but has a pass card which is used, so is not eliminated from the game|
 |8|2|2|3|5|R|2|3|Receives a pass card|
 
-## End of Example
-
----

@@ -32,6 +32,3 @@ The output file `ucif.out` must contain only the last digit of $s$.
 ## Explanation
 
 The sum is $32$ and the last digit is $2$.
-```
-
-I have translated the competitive programming problem statement from Romanian to English, preserving the format, mathematical expressions, and custom image format according to the specified instructions.

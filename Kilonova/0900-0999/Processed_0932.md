@@ -1,6 +1,3 @@
-The following is the translated text, preserving the specified format:
-
----
 
 At a Formula 1 race, each participating team builds its own car to compete. The numbering of the cars in the race is done by the organizers using square flags that alternately contain, in each row (both horizontally and vertically), identical-sized white and black squares. In the following figure, the flags of the first 4 cars in the race are presented in order. We observe that each flag has two more rows (both horizontally and vertically) than the previous flag, and in all four corners of any flag there is a black square.
 
@@ -61,7 +58,3 @@ The first task is solved, and only the value $K$ is used. The flag of the third 
 ## Explanation
 
 The second task is solved, and only the value $N$ is used. On the flags of the first $4$ cars, there are a total of $0 + 4 + 12 + 24 = 40$ white squares. The largest flag that contains at most $40$ white squares belongs to the car with number $5$ which has a total of $81$ squares.
-
----
-
-The text has been translated and formatted according to the instructions.

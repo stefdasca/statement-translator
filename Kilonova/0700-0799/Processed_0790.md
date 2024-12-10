@@ -1,6 +1,3 @@
-Here is the entire text translated to English:
-
------
 
 We define a power of $3$ as a number of the form $3^k$, ($k$ is a strictly positive natural number), a power of $5$ as a number of the form $5^k$ ($k$ is a strictly positive natural number), and a power of $2$ as a number of the form $2^k$ ($k$ is a strictly positive natural number).
 We are given a sequence of $n$ natural numbers. Starting from this sequence, we form a new sequence by eliminating all numbers that are not powers of $3$ and not powers of $5$. The relative order among the numbers that are not eliminated is preserved.
@@ -53,7 +50,3 @@ The remaining sequence after eliminating numbers that are not powers of $5$ or $
 In this sequence there are:
 - two subarrays of two values containing an equal number of powers of $3$ and powers of $5$: $5, 9$ and $81, 125$;
 - two subarrays of four numbers containing an equal number of powers of $3$ and powers of $5$: $125, 5, 9, 81$ and $5, 9, 81, 125$
-
------
-
-I have double-checked the translation and grammar to ensure correctness according to the rules of the English language.

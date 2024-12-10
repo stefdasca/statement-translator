@@ -1,7 +1,3 @@
-Certainly! I'll translate and format the provided competitive programming problem statement.
-
----
-
 Vasile is working hard on a text editor. A text consists of one or more paragraphs. Any paragraph ends with `Enter`, and any two consecutive words in the same paragraph are separated by spaces (one or more). Depending on the page's setting, the maximum number of characters that can fit on a line in a page is determined uniquely (denoted by $MAX$).
 
 The function that Vasile needs to implement now is the alignment of each paragraph in the text both to the left and right. For this, he will need to split each paragraph into separate lines of length $MAX$ (each line ending with `Enter`). The splitting is done by placing the maximum possible number of words on each line, without splitting words into syllables. For left-right alignment, he must distribute spaces **uniformly** between the words on each line, so that the last character on the line is different from space, and the total number of characters on the line is equal to $MAX$. The only exception is the last line of a paragraph, which remains left-aligned (the words being separated by a single space, even if the line is not full).
@@ -56,7 +52,3 @@ galbene?
 Between `Ion` and `are` there are $2$ spaces, between `are` and `multe` there are $2$ spaces, and between `multe` and `pere` there is one space.
 
 Notice that the paragraph `Ana are mere.` (which has a length less than $20$) remains left-aligned, and the last line of each paragraph remains left-aligned with consecutive words separated by a single space.
-
----
-
-I have translated and formatted the text according to the instructions, ensuring the preferred structure and syntax are preserved.

@@ -1,6 +1,4 @@
-Sure, here is the translated text:
 
----
 
 A cuckoo clock manufacturing workshop needs plates with the hours' numbers to place on the clock disks. These numbers are printed by a printer.
 
@@ -60,7 +58,3 @@ On the plates, the digit $0$ appears four times.
 ## Explanation
 
 In the order of the cuts we get: {$0,12$}; {$0,4$}; {$1,0,2$}; {$3,12,5$}; {$1,3$}; {$6$}. The number of cuts is $7$.
-
----
-
-After review, the translation appears correct and preserves the structure and format of the original problem statement. No grammatical or syntax errors were found.

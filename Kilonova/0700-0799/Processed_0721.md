@@ -1,7 +1,3 @@
-Sure thing! Here's the translated text:
-
---- 
-
 It is considered an encryption machine consisting of an array with $n$ rows and $n$ columns, an array that contains all numbers from $1$ to $n^2$ placed "serpentine" along the rows, from the first row to the last row, on the odd rows from left to right, and on the even rows from right to left (as in the adjacent figure).
 
 ~[cff5d8861bae938b2eed0dd1708a990c.png]
@@ -56,7 +52,3 @@ The output file `spirala.out` contains a single line which must contain the dete
 ```
 330
 ```
-
---- 
-
-I hope this translation helps! Let me know if there's anything else you need.

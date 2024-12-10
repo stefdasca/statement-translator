@@ -1,7 +1,3 @@
-The text provided in Romanian is translated into English below while preserving the specified formatting, mathematical values, variable names, and custom image format:
-
----
-
 Consider a one-dimensional array $x$ with $n$ components of distinct natural numbers, each at most $32\ 000$.
 
 # Task
@@ -36,6 +32,3 @@ The output file `siruri.out` will contain the first line with the components of 
 ```
 5 2 3 6 4 1
 ```
----
-
-Please double check for grammar and syntax issues according to the rules of English language.

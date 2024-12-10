@@ -1,6 +1,3 @@
-Here is the translated text according to the specified instructions:
-
----
 
 A sequence $x_1, x_2, \dots, x_n$ of $n$ distinct natural numbers, considered two by two. For a sequence of $k$ numbers ($x_p, x_{p+1}, \dots, x_{p+k-1}$), which starts with the number at position $p$ in the given sequence, we define its degree as the number of numbers in the sequence that remain in the same positions after sorting the sequence in ascending order. For example, for $n=7$ and the sequence formed by the numbers: $1, 5, 7, 4, 6, 2, 9$, the sequence formed by the numbers $7, 4, 6, 2$ (corresponding to $p=3$ and $k=4$) has a degree equal to $2$ because, after sorting the numbers in the sequence in ascending order, it becomes $2, 4, 6, 7$, with the numbers $4$ and $6$ remaining in the same positions.
 
@@ -42,7 +39,3 @@ The output file `grad.out` will contain on the first line a natural number repre
 3
 3 2
 ```
-
----
-
-Please review and ensure that any potential grammar or syntax errors are corrected according to the rules of the English language.

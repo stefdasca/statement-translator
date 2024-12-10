@@ -1,6 +1,3 @@
-Here is the translated competitive programming problem statement:
-
----
 
 In a summer camp, courses are to be held in $K$ classrooms. There are $N$ teachers who have expressed their desire to participate, each specifying the time interval [$a_i, b_i$] during which they can hold their course. The scheduling of the teachers in the classrooms must take into account the fact that at any given time, only one teacher can teach in a classroom.
 

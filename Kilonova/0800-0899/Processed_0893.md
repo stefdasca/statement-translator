@@ -1,6 +1,4 @@
-Certainly! Here is the competitive programming problem statement translated into English while maintaining the specified format and syntax:
 
----
 
 A student drew a set consisting of several squares that contain distinct consecutive natural numbers, arranged equally on the sides. On each side of the square, an odd number of values is written. In each square, the numbers are written in increasing order, starting from the bottom-left corner and proceeding counterclockwise. The student numbered the squares with $1$, $2$, $3$, etc., in strict ascending order of the number of values contained in each. The difference between the smallest number in square $P$ ($1$ < $P$) and the largest number in square $P - 1$ is equal to $1$. The first **four** squares are:
 
@@ -64,5 +62,3 @@ The task is $1$. The square numbered $M = 3$ contains $K = 24$ natural numbers (
 ## Explanation
 
 The task is $2$. The number $N = 73$ is contained in the square numbered $T = 4$ (see the figure in the statement).
-
----

@@ -1,6 +1,3 @@
-Here is the translated text of the competitive programming problem statement:
-
----
 
 Rareș received a book as a gift in which the pages are shuffled. He decided to read it, **turning the pages in a single direction, from the first page to the last**, in the order they are placed in the book, following the algorithm below:
 

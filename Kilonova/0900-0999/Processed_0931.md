@@ -1,6 +1,4 @@
-Here is the translation of the given competitive programming problem statement from Romanian to English:
 
----
 
 Given a sequence of $N$ positive integers. The sequence elements are numbered from left to right starting from position $1$.
 
@@ -100,7 +98,3 @@ The maximum being $5$, according to the explanation for question of type $3$, tw
 ## Explanation
 
 The maximum is $7$ and appears only once, so no value is increased.
-
----
-
-Please review to ensure it meets all requirements.

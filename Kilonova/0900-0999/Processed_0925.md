@@ -1,6 +1,3 @@
-Certainly! Here is the translated document:
-
----
 
 In a distant land, the economy is in crisis. The biggest problem is the lack of capital which creates financial blockages. For example, a company $X$ may owe debts to a company $Y$ which it cannot pay because another company $Z$ owes debts to company $X$ which remain unpaid, and so on.
 
@@ -73,7 +70,3 @@ Vasile Inc 100 0
 Vasilescu Inc 0 5
 ana 15 50
 ```
-
----
-
-I have double-checked and fixed any grammatical or syntactical errors according to the rules of the English language.

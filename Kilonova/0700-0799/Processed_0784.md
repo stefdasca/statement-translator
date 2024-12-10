@@ -1,6 +1,4 @@
-Certainly! Here is the translated competitive programming problem statement:
 
----
 
 A natural number $N$ composed of $m$ digits and all the $m - 1$ numbers that can be successively formed starting from the initial number $N$ are considered by moving the most significant digit of the current combination to its end, as can be seen from the examples below.
 
@@ -51,7 +49,3 @@ The `divizor.out` file will contain:
 ## Explanation
 
 The obtained numbers: $212$ (initial), $122$, $221$. $212$ has $6$ divisors, $122$ and $221$ have $4$ divisors each. Thus, the number with the highest number of divisors is $212$. The largest proper divisor is $106$ (divisor of the number $212$).
-
----
-
-I have double-checked the statement for any potential grammar or syntax errors and corrected them according to the rules of the English language.

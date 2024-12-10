@@ -37,5 +37,3 @@ The output file `pluricex.out` will contain all the teams that can be formed res
 2 3 4
 3 4 5
 ```
-
-Please let me know if you need any further assistance.

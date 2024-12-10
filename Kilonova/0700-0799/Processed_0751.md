@@ -1,6 +1,3 @@
-Here is the translated text, formatted according to your specifications:
-
----
 
 Each of us would like to know our lucky number that will influence us throughout our life. This non-zero number consisting of a single digit can be determined based on each person's name.
 
@@ -53,5 +50,3 @@ $1+6=7$;
 $6+5=11=1+1=2$;
 $5+9=14=1+4=5$;
 $9+1=10=1+0=1$;
-
----

@@ -1,6 +1,3 @@
-Here's the translated text:
-
----
 
 Consider a set $S$ containing $N$ strings formed from lowercase letters of the English alphabet.  
 
