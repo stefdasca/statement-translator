@@ -1,7 +1,3 @@
-Sure, here is the translated text:
-
----
-
 Păcală received, as per the agreement, a piece of land from the lord's estate. The land is entirely enclosed with straight segments of fence that are supported at both ends by sturdy stakes. In a new contest, Păcală wins again and gains the right to move some stakes, one by one, as he wishes, in order to extend his land area. However, the agreement states that each stake can be moved in any direction, but not by a distance greater than a given value (written on each stake) and each segment of the fence, being quite fragile, can be rotated and extended from one end, with the other end remaining stationary.
 
 Given the initial positions of the stakes and the values written on each stake, the task is to find the maximum area by which Păcală can extend his property. It is known that the stakes are given in a random order, their initial positions are given by integers of at most $3$ digits, the distances by which each stake can be moved are strictly positive natural numbers, and the figure formed by the initial land is a non-convex polygon.

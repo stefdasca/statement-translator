@@ -1,6 +1,4 @@
-Here is the translated and formatted problem statement in English based on your specified instructions:
 
----
 
 Distinct circles are drawn in the plane, numbered from $1$ to $n$. For each circle $k$ ($k \in \{1, 2, ..., n\}$), the radius of the circle, $r_k$, and the coordinates ($x_k, y_k$) of the center of the circle are known, referring to the Cartesian plane $xOy$ with origin at point $O$ in the plane. From point $O$, $m$ distinct lines are drawn such that for each of the $m$ drawn lines there is at least one circle, among the $n$ circles, whose center is located on this line and for each drawn circle, there exists a single line, among the $m$ drawn lines, that passes through its center.
 
@@ -59,7 +57,3 @@ Explanation
 There are $m = 4$ distinct lines containing the centers of the $12$ circles. Line $d_1$ passes through a single circle center, $d_4$ passes through $2$ centers of disjoint circles. Lines $d_2$ and $d_3$ pass through $3$ centers each of disjoint circles. The maximum number of disjoint circles is $q = 3$ and their centers are located on $d_2$ or $d_3$ ($p = 2$).
 \
 ~[cerc.png]
-
----
-
-I've translated the statement maintaining the required format and checked for grammatical and syntactic accuracy.

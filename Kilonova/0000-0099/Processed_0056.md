@@ -1,4 +1,3 @@
-Here is the translated competitive programming problem statement in English, including corrections for grammar and syntax:
 
 # Task
 

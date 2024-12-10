@@ -1,6 +1,3 @@
-Here is the translated and processed problem statement:
-
----
 
 We have `n` buckets, numbered from left to right from `1` to `n`. Each bucket initially contains `1` liter of water. The capacity of each bucket is unlimited. We pour the buckets into one another according to a certain rule, until all the water reaches the first bucket from the left. Pouring a bucket requires a certain effort.
 
@@ -66,7 +63,3 @@ Notice that the following sequence of pourings is incorrect:
 2 1
 3 1
 Although the effort required is `4` and the `4` liters reach the first bucket, in the first step pouring one liter of water from bucket `4` into bucket `2` is not allowed because there is bucket `3` in between containing water.
-
----
-
-This should be the complete, correctly translated problem statement.

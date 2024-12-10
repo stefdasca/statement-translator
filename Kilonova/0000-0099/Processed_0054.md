@@ -1,5 +1,3 @@
-The text is indeed a competitive programming problem in Romanian. I've translated it following the instructions provided:
-
 ---
 
 An undercover agent has a map marking $N$ military objectives. He is initially located at the objective numbered $1$ (his own military base) and must reach the objective numbered $N$ (the enemy's military base). To achieve this, he will use the existing roads, each road connecting 2 distinct objectives. Since the mission is secret, the agent will move at night; therefore, he needs a flashlight. For this, he has to choose between $K$ types of flashlights – a flashlight of type $W$ ($1 \leq W \leq K$) has batteries that allow a consumption of $W$ watts; after consuming these watts, the flashlight no longer illuminates. Fortunately, some of the objectives are friendly military bases, so once he gets there, he can fully recharge his flashlight's batteries. The agent has to ensure that before moving on a road between two objectives, the amount of watts he can still consume is greater than or equal to the amount of watts required for that road.

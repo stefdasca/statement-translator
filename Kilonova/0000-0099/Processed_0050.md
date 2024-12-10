@@ -51,6 +51,3 @@ The file `cifru.out` will contain on the first line, the number of distinct ways
 ```
 13767
 ```
-```
-
-Please double-check the statement and correct potential grammar or syntax errors according to the rules of the English language.

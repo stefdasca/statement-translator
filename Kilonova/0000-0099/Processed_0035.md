@@ -1,6 +1,4 @@
-Here is the translated problem statement:
 
----
 
 For a nonzero natural number `n`, let's consider all nonzero natural numbers less than or equal to `n`, taking each number twice: `1, 1, 2, 2, 3, 3, ... , n, n`. These numbers are randomly shuffled and arranged into two rows of `n` elements each. This structure will be called a bipermutation. Figures `1, 2` and `3` show examples of bipermutations for `n=5`.
 
@@ -65,7 +63,3 @@ The other two solutions that are not obtained from the minimum number of moves a
 1 5 2 3 4     and     1 2 5 3 4
 ```
 For the third task, any of the `4` solutions is acceptable.
-
----
-
-Please double check for any potential grammar and syntax errors.

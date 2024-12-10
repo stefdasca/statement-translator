@@ -1,22 +1,22 @@
-Fermierul Ion deține un teren de formă pătrată, împărțit în $N \times N$ pătrate de latură unitate, pe care cultivă cartofi. Pentru recoltarea cartofilor fermierul folosește un robot special proiectat în acest scop. Robotul pornește din pătratul din stânga sus, de coordonate $(1,1)$ și trebuie să ajungă în pătratul din dreapta jos, de coordonate $(N,N)$. Traseul robotului este programat prin memorarea unor comenzi pe o cartelă magnetică. Fiecare comandă specifică direcția de deplasare (sud sau est) și numărul de pătrate pe care le parcurge în direcția respectivă. Robotul strânge recolta doar din pătratele în care se oprește între două comenzi.
+Farmer Ion owns a square-shaped field, divided into $N \times N$ unit squares, where he grows potatoes. To harvest the potatoes, the farmer uses a robot specially designed for this purpose. The robot starts from the top-left square, at coordinates $(1,1)$ and must reach the bottom-right square at coordinates $(N,N)$. The robot's route is programmed by storing a series of commands on a magnetic card. Each command specifies the direction of movement (south or east) and the number of squares to be traversed in that direction. The robot collects the harvest only from the squares where it stops between two commands.
 
-Din păcate, cartela pe care se află programul s-a deteriorat și unitatea de citire a robotului nu mai poate distinge direcția de deplasare, ci numai numărul de pași pe care trebuie să-i facă robotul la fiecare comandă. Fermierul Ion trebuie să introducă manual, pentru fiecare comandă, direcția de deplasare.
+Unfortunately, the card containing the program has deteriorated and the robot's reading unit can no longer distinguish the direction of movement, only the number of steps the robot must take for each command. Farmer Ion must manually input the direction of movement for each command.
 
 # Task
 
-Write a program that determines the maximum amount of potatoes that the robot can harvest, assuming that Ion manually specifies the direction for each command. The program should also determine the path that results in the maximum harvest.
+Write a program to determine the maximum amount of potatoes that the robot can collect, assuming Ion manually specifies the direction followed by the robot for each command. The path that yields the maximum harvest must also be determined.
 
 # Input data
 
-The input file `sudest.in` contains the following structure:
-* The first line contains the natural number $N$, representing the size of the land plot.
+The input file `sudest.in` has the following structure:
+* The first line contains the natural number $N$, representing the size of the field.
 * The next $N$ lines contain $N$ natural numbers, separated by spaces, representing the amount of potatoes in each unit square.
-* The line $N+2$ contains a natural number $K$ representing the number of commands on the magnetic card.
-* The line $N+3$ contains $K$ natural numbers $C_1, \dots, C_K$, separated by spaces, representing the number of steps the robot must take per command.
+* Line $N+2$ contains a natural number $K$ representing the number of commands on the magnetic card.
+* Line $N+3$ contains $K$ natural numbers $C_1,\dots,C_K$, separated by spaces, representing the number of steps the robot must take for each command.
 
 # Output data
 
-The output file `sudest.out` will contain the maximum amount of potatoes harvested by the robot on the first line. The following $K+1$ lines will contain, in order, the coordinates of the unit squares that make up the path for the maximum harvest, with one unit square per line. Coordinates on the same line will be separated by a space. The first square of the path will have the coordinates `1 1`, and the last will have the coordinates `N N`. If there are multiple paths obtaining the maximum harvested amount, one of them will be displayed.
+The output file `sudest.out` will contain on the first line the maximum amount of potatoes collected by the robot. The next $K+1$ lines will contain, in order, the coordinates of the unit squares that constitute the path yielding the maximum amount of potatoes, one unit square per line. Coordinates on the same line will be separated by a space. The first square in the path will have coordinates `1 1`, and the last will have coordinates `N N`. If there are multiple paths yielding the maximum amount of potatoes collected, one such path will be displayed.
 
 # Constraints and clarifications
 
@@ -24,9 +24,9 @@ The output file `sudest.out` will contain the maximum amount of potatoes harvest
 * $2 \leq K \leq 2 \cdot N - 2$;
 * $1 \leq C_1, \dots, C_K \leq 10$;
 * The amount of potatoes in a unit square is a natural number between $0$ and $100$;
-* For each set of input data, it is guaranteed that there is at least one path available;
-* It is considered that the robot collects potatoes from both the starting square $(1,1)$ and the ending square $(N,N)$;
-* $50\%$ of the score will be given for correctly determining the maximum harvested amount; $100\%$ will be given for both the correct maximum amount harvested and the correct path.
+* For each input data set, it is guaranteed that there is at least one path;
+* It is considered that the robot collects the harvest from both the starting square $(1,1)$ and the ending square $(N,N)$;
+* Correct determination of the maximum collected amount of potatoes is awarded $50\%$ of the test's allocated score; for both the maximum collected amount and the correct path, $100\%$ is awarded.
 
 # Example
 
@@ -65,4 +65,5 @@ Another possible path is:
 6 5
 6 6
 ```
+
 but its cost is $1+1+4+1+5+10=22$.

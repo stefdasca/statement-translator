@@ -1,29 +1,29 @@
-Fie $S$ un șir de caractere de lungime $N$ indexat de la 1. Pe un astfel de șir se definește  operația `swap`: se alege un indice $i$ ($1 \leq i < N$) și se interschimbă caracterele $S[i]$ și $S[i+1]$.
+Let $S$ be a string of length $N$ indexed from 1. On such a string, a `swap` operation is defined: an index $i$ ($1 \leq i < N$) is chosen, and the characters $S[i]$ and $S[i+1]$ are swapped.
 
-Numărul norocos corespunzător unui șir $S$ este egal cu numărul minim de operații `swap` ce trebuie efectuate succesiv pentru a obține cel puțin o subsecvență `bingo` în șirul $S$. Dacă subsecvența `bingo` apare în șirul inițial, numărul norocos este egal cu $0$.
+The lucky number corresponding to a string $S$ is equal to the minimum number of `swap` operations that need to be performed successively to obtain at least one `bingo` subarray in the string $S$. If the `bingo` subarray appears in the initial string, the lucky number is equal to $0$.
 
 # Task
 
-Se dă un număr natural $T$ și $T$ șiruri de caractere. Să se determine pentru fiecare șir dat $S_i$ ($1 \leq i \leq T$), numărul său norocos.
+Given a natural number $T$ and $T$ strings. Determine for each given string $S_i$ ($1 \leq i \leq T$) its lucky number.
 
 # Input data
 
-Fișierul de intrare `bingo.in` conține pe prima linie un număr natural nenul $T$. Următoarele $T$ linii conțin fiecare câte un șir de caractere format doar din litere mici ale alfabetului englez.
+The input file `bingo.in` contains on the first line a non-zero natural number $T$. The following $T$ lines each contain a string consisting only of lowercase letters of the English alphabet.
 
 # Output data
 
-Fișierul de ieșire `bingo.out` conține numerele norocoase determinate pentru fiecare dintre cele $T$ șiruri date. Acestea se vor afișa fiecare pe câte un rând, în ordinea în care șirurile sunt date în fișierul de intrare.
+The output file `bingo.out` contains the lucky numbers determined for each of the $T$ given strings. These should be printed each on a separate line, in the order the strings are given in the input file.
 
 # Constraints and clarifications
 
-* $1 \leq T \leq 10\ 000$;
-* $\sum_{i=1}^{T}|S_i| \leq 100\ 000$, unde se notează cu $|S|$ numărul de caractere din șirul $S$;
-* O subsecvență de lungime $L$ a unui șir de caractere $S$ reprezintă o succesiune de $L$ caractere aflate pe poziții consecutive în șirul $S$.
-* Se garantează că fiecare șir citit conține cel puțin o dată fiecare caracter din mulțimea $\{b,i,n,g,o\}$;
-* Pentru $17$ puncte, $|S_i|=5$ ($1 \leq i \leq T$);
-* Pentru $21$ puncte, în fiecare șir $S_i$ ($1 \leq i \leq T$) fiecare caracter din mulțimea $\{b,i,n,g,o\}$ apare exact o dată;
-* Pentru $11$ puncte, $1 \leq T \leq 10$ și în fiecare șir $S_i$ ($1 \leq i \leq T$) fiecare caracter din mulțimea $\{b,i,n,g,o\}$ apare de cel mult 10 ori;
-* Pentru $51$ puncte, nu există restricții suplimentare.
+* $1 \leq T \leq 10 \ 000$;
+* $\sum_{i=1}^{T}|S_i| \leq 100 \ 000$, where $|S|$ denotes the number of characters in the string $S$;
+* A subarray of length $L$ of a string $S$ represents a sequence of $L$ characters that are in consecutive positions in the string $S$.
+* It is guaranteed that each string read contains at least once each character from the set $\{b,i,n,g,o\}$;
+* For $17$ points, $|S_i|=5$ ($1 \leq i \leq T$);
+* For $21$ points, in each string $S_i$ ($1 \leq i \leq T$), each character from the set $\{b,i,n,g,o\}$ appears exactly once;
+* For $11$ points, $1 \leq T \leq 10$ and in each string $S_i$ ($1 \leq i \leq T$), each character from the set $\{b,i,n,g,o\}$ appears at most 10 times;
+* For $51$ points, there are no additional restrictions.
 
 # Example
 
@@ -55,4 +55,4 @@ btgpntoipipqiamytoghoi
 
 ## Explanation
 
-Numărul norocos al primului șir citit este $3$, iar o succesiune posibilă de operații este: $nbbigo \xrightarrow{} bnbigo \xrightarrow{} bbnigo \xrightarrow{} bbingo$.
+The lucky number of the first read string is $3$, and a possible sequence of operations is: $nbbigo \rightarrow bnbigo \rightarrow bbnigo \rightarrow bbingo$.
