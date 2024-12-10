@@ -4,7 +4,7 @@ An initial interval is considered covered if there exists at least one covering 
 
 # Task
 
-His friend, Ted, tells him that he needs more challenges in life to be happier, and asks him $Q$ questions of the form: "*If you are allowed to create at most $K$ covering intervals, what would be the minimum length of the longest covering interval so that all initial intervals are covered? And if you can, what is the lexicographically minimal solution? A solution is lexicographically minimal if it is minimal first by the number of covering intervals, and then by comparing the intervals by the left and right ends, ordering the intervals by the left ends.*"
+His friend, Ted, tells him that he needs more challenges in life to be happier, and asks him $Q$ questions of the form: "*If you are allowed to create at most* $K$  *covering intervals, what would be the minimum length of the longest covering interval so that all initial intervals are covered? And if you can, what is the lexicographically minimal solution? A solution is lexicographically minimal if it is minimal first by the number of covering intervals, and then by comparing the intervals by the left and right ends, ordering the intervals by the left ends.*"
 
 # Input data
 
@@ -80,4 +80,4 @@ The solution obtains $(100+75+100)/3 = 91.66\\%$ of the test points.
 
 # Epilogue
 
-“In the end, Floricel realized that material things are necessary but not sufficient for fulfillment in life. Now that he no longer follows what he sees from others, he does not chase fake lifestyles, cringe, and propaganda on social media, and the goals he aims for are chosen by himself, for his own fulfillment and that of those around him. Now he is truly happy.�
+“In the end, Floricel realized that material things are necessary but not sufficient for fulfillment in life. Now that he no longer follows what he sees from others, he does not chase fake lifestyles, cringe, and propaganda on social media, and the goals he aims for are chosen by himself, for his own fulfillment and that of those around him. Now he is truly happy. 
