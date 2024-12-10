@@ -1,22 +1,18 @@
-â€œArrowsâ€ is a game played on a rectangular board whose surface is divided into $N \\cdot M$ cells, arranged in $N$ rows and $M$ columns. Each cell contains an arrow (up, down, left, or right), as shown in the figure below:
+“Arrows” is a game played on a rectangular board whose surface is divided into $N \cdot M$ cells, arranged in $N$ rows and $M$ columns. In each cell, there is an arrow (up, down, left, or right), as shown in the figure below:
 
 ~[arrows.png]
 
-When itâ€™s a player's turn, they can choose a starting position where they place a token, then move the token to the adjacent cell indicated by the arrow's direction. The movement continues until the token leaves the game board, in which case the player gets a score equal to the number of cells traversed by their token. However, there are certain starting positions called favorable, where the token will **never** leave the game board. For example, all positions in the figure with a gray background are favorable. The player who chooses a favorable starting position gets a score equal to the number of distinct cells visited multiplied by $1000$.
+When it's their turn, a player can choose a starting position to place a token, then move the token to the adjacent cell in the direction indicated by the arrow. The movement continues until the token leaves the board, in which case the player earns a score equal to the number of cells the token has traversed. However, there are starting positions known as favorable, for which the token **will not** ever leave the board. For example, all positions in the figure with a gray background are favorable. A player who chooses a favorable starting position earns a score equal to the number of distinct cells visited multiplied by $1000$.
 
-Write a program that, given the game board configuration, solves one of the following tasks:
+Write a program that, given the board configuration, solves one of the following tasks:
 
-1. Determine the score a player gets when placing their token on a specified starting position.
-2. Determine the number of favorable cells on the game board.
-3. Determine the maximum score a player can get in one turn by conveniently choosing the starting position.
+1. Determines the score a player obtains when placing their token on a specified starting position;
+2. Determines the number of favorable cells on the board;
+3. Determines the maximum score that the player can obtain in one move by conveniently choosing the starting position.
 
 # Input data
 
-The input file `arrows.in` contains:
-- On the first line, the task that needs to be solved ($1, 2$ or $3$).
-- The second line contains the natural numbers $N \\ M$, representing the number of rows and columns of the game board respectively.
-- On the next $N$ lines, there are $M$ numbers from the set {$1,2,3,4$} representing the arrows in the cells of the game board ($1$ signifies right arrow, $2$ up arrow, $3$ left arrow, and $4$ down arrow).
-- The last line contains the natural numbers $lin \\ col$, representing the row and column of the specified starting position. Values on the same line in the input file are separated by spaces.
+The input file `arrows.in` contains on the first line the task that needs to be solved ($1, 2$ or $3$). The second line contains the natural numbers $N \ M$, which represent the number of rows and columns of the board, respectively. On the next $N$ lines, there are $M$ numbers from the set {$1,2,3,4$} representing the arrows in the cells on the board ($1$ indicates an arrow pointing right, $2$ an arrow pointing up, $3$ an arrow pointing left, and $4$ an arrow pointing down). The last line contains the natural numbers $lin \ col$, representing the row and column of the specified starting position. Values written on the same line in the input file are separated by spaces.
 
 # Output data
 
@@ -24,9 +20,9 @@ The output file `arrows.out` will contain a single line with a natural number re
 
 # Constraints and clarifications
 
-* $1 \\leq N, M \\leq 500$;
+* $1 \leq N, M \leq 500$;
 * Rows are numbered from $1$ to $N$, and columns from $1$ to $M$.
-* For tests worth $20$ points the task is $1$. For tests worth $40$ points the task is $2$. For the remaining tests, also worth $40$ points, the task is $3$.
+* For tests worth $20$ points, the task is $1$. For tests worth $40$ points, the task is $2$. For other tests, also worth $40$ points, the task is $3$.
 
 # Example 1
 
@@ -50,7 +46,7 @@ The output file `arrows.out` will contain a single line with a natural number re
 
 ## Explanation
 
-The example corresponds to the game board in the figure. The scores for each position are:
+The example corresponds to the board shown in the figure. The scores for each position are:
 ```
 1 14000 14000 14000 1
 15000 14000 14000 14000 1
@@ -59,7 +55,7 @@ The example corresponds to the game board in the figure. The scores for each pos
 1 4000 4000 2 2000
 2 4000 4000 1 2000
 ```
-The task is $1$: the score obtained starting from the position on row $5$ and column $5$ is $2000$.
+The task is $1$: the score obtained by starting from the position on row $5$ and column $5$ is $2000$.
 
 # Example 2
 
