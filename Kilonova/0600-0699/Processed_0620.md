@@ -1,5 +1,5 @@
 
-A two-dimensional array with $N$ rows and $N$ columns is given. There are $Q$ distinct positions, labeled with distinct natural numbers from 1 to $Q$, where in the array the value is 1, at all other positions in the array the value is 0. For any given position among the $Q$ provided, we call the "force" of that position the number of subarrays within the given array that contain only a single value 1, located at that position, with the rest of the elements in the subarrays being equal to 0.
+A two-dimensional array with $N$ rows and $N$ columns is given. There are $Q$ distinct positions, labeled with distinct natural numbers from 1 to $Q$, where in the array the value is 1, at all other positions in the array the value is 0. For any given position among the $Q$ provided, we call the "force" of that position the number of submatrices within the given matrix that contain only a single value 1, located at that position, with the rest of the elements in the subarrays being equal to 0.
 
 # Task
 For a sequence consisting of $P$ distinct labels, among those corresponding to the given $Q$ positions, it is required to calculate the sum of their "forces".
