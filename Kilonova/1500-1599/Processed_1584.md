@@ -1,6 +1,3 @@
-Sure, here is the translated and processed text:
-
-```
 The mayor of the city has just approved a project for constructing a swimming pool on the outskirts of the locality. The area where the swimming pool is to be placed can be identified with the 2D plan (infinite). It contains $N$ trees, located at integer coordinates, with a width of $1$ meter. **There are no two trees at the same $x$ or $y$ coordinate.** Specifically, $x_i \neq x_j$ and $y_i \neq y_j$ for any $i \neq j$.
 
 ~[primar.jpg]
@@ -88,4 +85,3 @@ The output file `primar.out` will contain a single natural number, representing 
 `primar.out`
 ```
 52
-```
