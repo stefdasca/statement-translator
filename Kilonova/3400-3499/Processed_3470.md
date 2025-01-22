@@ -6,7 +6,7 @@ As we all know, Bob is a very cautious person. He wants to determine the minimum
 
 ## Task
 
-For any position $(i, j)$ where $1 \leq i \leq N $ and $1 \leq j \leq M$, determine the minimum time to land, knowing that Bob is at altitude $H$, **above all altitudes in the matrix**.$^†$
+For any position $(i, j)$ where $1 \leq i \leq N$ and $1 \leq j \leq M$, determine the minimum time to land, knowing that Bob is at altitude $H$, **above all altitudes in the matrix**.$^†$
 
 ## Input data
 
