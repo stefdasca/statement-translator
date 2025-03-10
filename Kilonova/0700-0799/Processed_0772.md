@@ -52,5 +52,3 @@ The first $19$ terms of the sequence are: $1$, $2$, $3$, $5$, $8$, $3$, $1$, $4$
 On the second line of the file `nr.out` the number $3$ is written, because there are $3$ terms equal to $k$ among the first $n = 19$ terms of the sequence.
 
 On the last line of the file the number $8$ is written, because the $p$-th term of the sequence is $8$.
-
-```

@@ -1,4 +1,4 @@
-### Macarie received a new task in informatics, with the following statement:
+Macarie received a new task in informatics, with the following statement:
 
 Consider a sequence of non-zero natural numbers, $A$ with $N$ elements. Let the increasing sequence $D$ be formed from all natural divisors, not necessarily distinct, of the elements in $A$. For example, for $N=4$ and $A=(6, 2, 3, 2)$, we have the sequence $D=(1,1,1,1,2,2,2,3,3,6)$.
 

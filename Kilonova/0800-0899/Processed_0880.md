@@ -1,4 +1,4 @@
-# Paul wants to learn how to program a robot. Initially, he thought of building a robot consisting of a handle, $10$ buttons arranged in a circular fashion and a screen. The buttons are labeled in increasing order from $0$ to $9$, as shown in the figure.
+Paul wants to learn how to program a robot. Initially, he thought of building a robot consisting of a handle, $10$ buttons arranged in a circular fashion and a screen. The buttons are labeled in increasing order from $0$ to $9$, as shown in the figure.
 
 ~[robot.png]
 

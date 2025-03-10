@@ -1,8 +1,8 @@
-Într-o școală există un sistem de acces cu ajutorul cartelelor, conectat la un calculator și o imprimantă. Fiecare elev al școlii are câte o cartelă. Într-o zi, la utilizarea fiecărei cartele, sistemul imprimă următoarele informații pe hârtie, pe câte o linie, după regula următoare:
+In a school, there is an access system using cards, connected to a computer and a printer. Each student in the school has a card. On a given day, whenever a card is used, the system prints the following information on paper, on a single line, according to the following rules:
 
-* Caracterul `b` dacă elevul este băiat sau caracterul `f` dacă este fată. Caracterul va fi urmat de un spațiu;
-* Caracterul `i` dacă elevul a intrat în școală sau caracterul `e` dacă a ieșit din școală. De asemenea, acest caracter va fi urmat de un spațiu;
-* Momentul utilizării cartelei, exprimat prin oră, minute și secunde. Acestea vor fi reprezentate în cadrul liniei, exact în această ordine, prin trei numere naturale, separate între ele prin câte un spațiu.
+- The character `b` if the student is a boy or the character `f` if the student is a girl. This character is followed by a space;
+- The character `i` if the student entered the school or the character `e` if the student exited the school. This character is also followed by a space;
+- The moment the card was used, expressed in hours, minutes, and seconds. These are represented on the line, in this exact order, as three natural numbers, separated by spaces.
 
 # Task
 

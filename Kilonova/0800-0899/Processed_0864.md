@@ -1,5 +1,3 @@
-Sure, here is your translated text:
-
 A numeric indicator is an electronic display device intended for displaying a **digit**. It contains 7 segments labeled `a`, `b`, `c`, `d`, `e`, `f`, `g`, as in the adjacent figure.
 
 Displaying a digit is done by lighting up a combination of segments:

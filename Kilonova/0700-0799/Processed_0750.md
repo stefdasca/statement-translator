@@ -1,5 +1,3 @@
-# Task
-
 At the Hogwarts School of Wizardry, Harry Potter and his colleagues test their magic wand power. A spell consists of moving one or more objects from the school's rooms to the "wizard's room" where all the students gather.
 
 Each of the $n$ "wizard students" is endowed with a certain power: if a student has power $1$, with a spell he brings $1$ object, if the power is $2$ with a spell he brings $2$ objects, ..., for a student with power $p$, with a spell he will bring $p$ objects. On the other hand, each student has a certain speed in performing spells. Thus, during an hour, a student with speed $1$ will manage to make a single spell, a student with speed $2$ will manage two spells one after another, etc. Obviously, a student with power $3$ and speed $4$, will manage to bring up to $12$ objects by the end of the hour ($3$ at the first spell, another $3$ at the second spell, another $3$ at the third spell, and another $3$ at the last spell).

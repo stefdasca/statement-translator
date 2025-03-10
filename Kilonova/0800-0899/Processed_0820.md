@@ -69,4 +69,3 @@ The output file `porumb.out` will contain four lines:
 $7$ represents the number of corn plants harvested by the first agri.
 There are $4$ agri who harvest the row with $n = 14$ corn plants.
 The corn plant $x = 4$ is harvested on the 3rd pass, and the last harvested corn plant has the number $8$.
-```
